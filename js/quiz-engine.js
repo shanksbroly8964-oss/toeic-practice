@@ -78,12 +78,15 @@ TOEIC.QuizEngine = {
     session.answers[session.currentIndex] = { userAnswer: answerText, isCorrect: isCorrect };
     session.answeredCount++;
 
-    const track = this._getTrack(session);
+    var category = item.category || '';
+    var track = this._getTrack(session);
+    TOEIC.Analytics.recordAttempt(1, category, isCorrect);
     if (isCorrect) {
       TOEIC.Storage.removeWrongItem(item.id);
     } else {
       TOEIC.Storage.addWrongItem({
         part: 1, track: track, questionId: item.id,
+        category: category,
         question: item.imageDescription || '',
         options: item.options,
         userAnswer: answerText, correctAnswer: item.answer,
@@ -104,12 +107,15 @@ TOEIC.QuizEngine = {
     session.answers[session.currentIndex] = { userAnswer: answerText, isCorrect: isCorrect };
     session.answeredCount++;
 
-    const track = this._getTrack(session);
+    var category = item.category || '';
+    var track = this._getTrack(session);
+    TOEIC.Analytics.recordAttempt(2, category, isCorrect);
     if (isCorrect) {
       TOEIC.Storage.removeWrongItem(item.id);
     } else {
       TOEIC.Storage.addWrongItem({
         part: 2, track: track, questionId: item.id,
+        category: category,
         question: item.audioScript || '',
         options: item.options,
         userAnswer: answerText, correctAnswer: item.answer,
@@ -132,13 +138,16 @@ TOEIC.QuizEngine = {
     session.answers[session.currentIndex][qIndex] = { userAnswer: answerText, isCorrect: isCorrect };
     session.answeredCount++;
 
-    const track = this._getTrack(session);
+    var category = q.category || '';
+    var track = this._getTrack(session);
     const qId = q.id || (item.id + '-Q' + (qIndex + 1));
+    TOEIC.Analytics.recordAttempt(3, category, isCorrect);
     if (isCorrect) {
       TOEIC.Storage.removeWrongItem(qId);
     } else {
       TOEIC.Storage.addWrongItem({
         part: 3, track: track, questionId: qId,
+        category: category,
         question: q.question, options: q.options,
         userAnswer: answerText, correctAnswer: q.answer,
         explanation: q.explanation
@@ -172,13 +181,16 @@ TOEIC.QuizEngine = {
     session.answers[session.currentIndex][qIndex] = { userAnswer: answerText, isCorrect: isCorrect };
     session.answeredCount++;
 
-    const track = this._getTrack(session);
+    var category = q.category || '';
+    var track = this._getTrack(session);
     const qId = q.id || (item.id + '-Q' + (qIndex + 1));
+    TOEIC.Analytics.recordAttempt(4, category, isCorrect);
     if (isCorrect) {
       TOEIC.Storage.removeWrongItem(qId);
     } else {
       TOEIC.Storage.addWrongItem({
         part: 4, track: track, questionId: qId,
+        category: category,
         question: q.question, options: q.options,
         userAnswer: answerText, correctAnswer: q.answer,
         explanation: q.explanation
@@ -210,12 +222,15 @@ TOEIC.QuizEngine = {
     session.answers[session.currentIndex] = { userAnswer: answerText, isCorrect: isCorrect };
     session.answeredCount++;
 
-    const track = this._getTrack(session);
+    var category = item.category || '';
+    var track = this._getTrack(session);
+    TOEIC.Analytics.recordAttempt(5, category, isCorrect);
     if (isCorrect) {
       TOEIC.Storage.removeWrongItem(item.id);
     } else {
       TOEIC.Storage.addWrongItem({
         part: 5, track: track, questionId: item.id,
+        category: category,
         question: item.question, options: item.options,
         userAnswer: answerText, correctAnswer: item.answer,
         explanation: item.explanation
@@ -238,13 +253,16 @@ TOEIC.QuizEngine = {
     session.answers[session.currentIndex][blankIndex] = { userAnswer: answerText, isCorrect: isCorrect };
     session.answeredCount++;
 
-    const track = this._getTrack(session);
+    var category = blank.category || '';
+    var track = this._getTrack(session);
     const qId = item.id + '-B' + (blankIndex + 1);
+    TOEIC.Analytics.recordAttempt(6, category, isCorrect);
     if (isCorrect) {
       TOEIC.Storage.removeWrongItem(qId);
     } else {
       TOEIC.Storage.addWrongItem({
         part: 6, track: track, questionId: qId,
+        category: category,
         question: (item.passageTitle || 'Part 6') + ' (blank ' + (blankIndex + 1) + ')',
         options: blank.options,
         userAnswer: answerText, correctAnswer: blank.answer,
@@ -276,13 +294,16 @@ TOEIC.QuizEngine = {
     session.answers[session.currentIndex][qIndex] = { userAnswer: answerText, isCorrect: isCorrect };
     session.answeredCount++;
 
-    const track = this._getTrack(session);
+    var category = q.category || '';
+    var track = this._getTrack(session);
     const qId = q.id || (item.id + '-Q' + (qIndex + 1));
+    TOEIC.Analytics.recordAttempt(7, category, isCorrect);
     if (isCorrect) {
       TOEIC.Storage.removeWrongItem(qId);
     } else {
       TOEIC.Storage.addWrongItem({
         part: 7, track: track, questionId: qId,
+        category: category,
         question: q.question, options: q.options,
         userAnswer: answerText, correctAnswer: q.answer,
         explanation: q.explanation

@@ -1,0 +1,188 @@
+[
+  {
+    "id": "P7T-T600-001",
+    "part": 7,
+    "type": "triple",
+    "track": "T600",
+    "documents": [
+      {
+        "title": "Email: Project Status Meeting Request",
+        "body": "From: alan.parker@greenleafmedia.com\nTo: design-team@greenleafmedia.com\nSubject: Project Status Meeting - Waterford Campaign\n\nTeam,\n\nWe need to review the Waterford campaign progress before the client presentation next Friday. I have scheduled a meeting for Tuesday, March 4, from 10:00 AM to 11:30 AM. Please see the attached agenda and confirm your attendance.\n\nKey topics will include the design mockups, the revised budget, and the media buying schedule. Kendra, please bring the updated cost projections. Marcus, I need your analytics report on the test campaign.\n\nThe client has specifically requested to see at least three design concepts, so please make sure those are ready.\n\nRegards,\nAlan Parker\nCreative Director"
+      },
+      {
+        "title": "Meeting Agenda",
+        "body": "WATERFORD CAMPAIGN - STATUS MEETING AGENDA\nDate: Tuesday, March 4\nTime: 10:00 AM - 11:30 AM\nLocation: Conference Room 2B\n\nAgenda Items:\n1. Review of design mockups - Lisa Tran (15 min)\n2. Budget update and revised cost projections - Kendra Walsh (10 min)\n3. Analytics report on test campaign - Marcus Chen (15 min)\n4. Media buying schedule - David Park (10 min)\n5. Client presentation rehearsal - All (20 min)\n6. Q&A and next steps - Alan Parker (10 min)\n\nAttendees: Alan Parker, Lisa Tran, Kendra Walsh, Marcus Chen, David Park\n\nMaterials to bring:\n- Updated design files (Lisa)\n- Cost projection spreadsheet (Kendra)\n- Analytics dashboard printouts (Marcus)\n- Media plan calendar (David)"
+      },
+      {
+        "title": "Room Booking Confirmation",
+        "body": "ROOM BOOKING CONFIRMATION\n\nBooking Reference: RM-2025-0892\nBooked by: Alan Parker\nRoom: Conference Room 2B, 2nd Floor\nDate: Tuesday, March 4, 2025\nTime: 10:00 AM - 11:30 AM\nCapacity: 8 people\n\nEquipment available:\n- Projector with HDMI connection\n- Whiteboard (markers provided)\n- Conference phone\n\nCatering: Coffee and tea service has been ordered for 10:00 AM. Pastries for 6 people.\n\nPlease note: The room must be vacated by 11:30 AM as another meeting is scheduled at 12:00 PM.\n\nFor any changes, contact facilities@greenleafmedia.com at least 24 hours in advance."
+      }
+    ],
+    "questions": [
+      {
+        "id": "P7T-T600-001-Q1",
+        "question": "When is the client presentation scheduled?",
+        "options": ["Monday, March 3", "Tuesday, March 4", "Friday, March 7", "Friday, March 14"],
+        "answer": "Friday, March 7",
+        "explanation": "Alan的郵件寫道「before the client presentation next Friday」，會議在3月4日（週二），因此客戶簡報在下週五3月7日。",
+        "crossReference": false
+      },
+      {
+        "id": "P7T-T600-001-Q2",
+        "question": "Who is responsible for the analytics report?",
+        "options": ["Lisa Tran", "Kendra Walsh", "Marcus Chen", "David Park"],
+        "answer": "Marcus Chen",
+        "explanation": "會議議程第三項列出「Analytics report on test campaign - Marcus Chen」。",
+        "crossReference": false
+      },
+      {
+        "id": "P7T-T600-001-Q3",
+        "question": "What equipment is available in the meeting room?",
+        "options": ["A printer and scanner", "A projector, whiteboard, and conference phone", "A video conferencing system only", "A television and DVD player"],
+        "answer": "A projector, whiteboard, and conference phone",
+        "explanation": "會議室預訂確認中列出「Projector with HDMI connection, Whiteboard, Conference phone」。",
+        "crossReference": false
+      },
+      {
+        "id": "P7T-T600-001-Q4",
+        "question": "How many attendees are expected at the meeting?",
+        "options": ["4", "5", "6", "8"],
+        "answer": "5",
+        "explanation": "此題須同時參照兩篇以上文件：會議議程列出5位與會者（Alan, Lisa, Kendra, Marcus, David），而會議室容量為8人，備有6人份茶點，但議程中的出席名單確認為5人。",
+        "crossReference": true
+      },
+      {
+        "id": "P7T-T600-001-Q5",
+        "question": "What should attendees do after the meeting ends at 11:30 AM?",
+        "options": ["Order more coffee", "Extend the booking", "Vacate the room", "Set up for the next meeting"],
+        "answer": "Vacate the room",
+        "explanation": "會議室預訂確認中提醒「The room must be vacated by 11:30 AM as another meeting is scheduled at 12:00 PM」。",
+        "crossReference": false
+      }
+    ]
+  },
+  {
+    "id": "P7T-T600-002",
+    "part": 7,
+    "type": "triple",
+    "track": "T600",
+    "documents": [
+      {
+        "title": "Purchase Order",
+        "body": "PURCHASE ORDER #PO-8890\nDate: March 10, 2025\nBuyer: Oakwood Elementary School\nSupplier: SmartClass Equipment Co.\n\nItems:\n1. Interactive Whiteboards (Model IW-70) - Qty: 4 - $1,200 each\n2. Document Cameras (Model DC-300) - Qty: 4 - $350 each\n3. Student Response Systems (Model RS-100) - Qty: 30 - $45 each\n\nSubtotal: $7,550\nTax (8%): $604\nShipping: $250\nTotal: $8,404\n\nDelivery Address: Oakwood Elementary School, 450 Maple Avenue, Springfield, IL 62701\nRequested delivery date: April 15, 2025\n\nPayment Terms: Net 30 days from delivery"
+      },
+      {
+        "title": "Invoice",
+        "body": "INVOICE #SC-2025-431\nDate: March 12, 2025\nFrom: SmartClass Equipment Co.\nTo: Oakwood Elementary School\nReference: PO #PO-8890\n\nItems Billed:\n1. Interactive Whiteboards (Model IW-70) - Qty: 4 - $1,200 each - $4,800\n2. Document Cameras (Model DC-300) - Qty: 4 - $350 each - $1,400\n3. Student Response Systems (Model RS-100) - Qty: 30 - $45 each - $1,350\n\nSubtotal: $7,550\nTax (8%): $604\nShipping: $250\nInstallation Fee: $300\nTotal Due: $8,704\n\nPayment due by: April 11, 2025\nPlease remit payment to:\nSmartClass Equipment Co.\nAccount #8856-9921-0042\nRouting #021000021"
+      },
+      {
+        "title": "Delivery Schedule Notice",
+        "body": "DELIVERY SCHEDULE\nOrder Reference: PO #PO-8890\nCustomer: Oakwood Elementary School\n\nYour order has been processed and will be delivered as follows:\n\nDelivery 1 (April 8, 2025):\n- Document Cameras (DC-300) - Qty: 4\n- Student Response Systems (RS-100) - Qty: 30\n\nDelivery 2 (April 14, 2025):\n- Interactive Whiteboards (IW-70) - Qty: 4\n\nA certified technician will arrive on April 14 at 1:00 PM to install the interactive whiteboards. Please ensure someone is available to provide access to the classrooms where the whiteboards will be installed. The installation is expected to take approximately 4 hours.\n\nIf you have any questions about your delivery, please call our logistics team at 1-800-555-0312."
+      }
+    ],
+    "questions": [
+      {
+        "id": "P7T-T600-002-Q1",
+        "question": "What is the unit price of one document camera?",
+        "options": ["$45", "$350", "$1,200", "$1,400"],
+        "answer": "$350",
+        "explanation": "採購單中Document Cameras的單價為$350。",
+        "crossReference": false
+      },
+      {
+        "id": "P7T-T600-002-Q2",
+        "question": "What additional charge appears on the invoice that is not on the purchase order?",
+        "options": ["Shipping fee", "Tax", "Installation fee", "Late payment fee"],
+        "answer": "Installation fee",
+        "explanation": "發票中有一筆「Installation Fee: $300」，此項目在採購單中未出現。",
+        "crossReference": false
+      },
+      {
+        "id": "P7T-T600-002-Q3",
+        "question": "When will the interactive whiteboards be delivered?",
+        "options": ["April 8", "April 11", "April 14", "April 15"],
+        "answer": "April 14",
+        "explanation": "出貨排程中Delivery 2標示Interactive Whiteboards於April 14送達。",
+        "crossReference": false
+      },
+      {
+        "id": "P7T-T600-002-Q4",
+        "question": "How long is the installation expected to take?",
+        "options": ["2 hours", "3 hours", "4 hours", "5 hours"],
+        "answer": "4 hours",
+        "explanation": "出貨通知提到「installation is expected to take approximately 4 hours」。",
+        "crossReference": false
+      },
+      {
+        "id": "P7T-T600-002-Q5",
+        "question": "What is the difference between the total amount on the purchase order and the invoice?",
+        "options": ["$100", "$250", "$300", "$604"],
+        "answer": "$300",
+        "explanation": "此題須同時參照兩篇以上文件：採購單總額為$8,404，發票總額為$8,704，兩者差額$300即為發票多出的安裝費（Installation Fee）。",
+        "crossReference": true
+      }
+    ]
+  },
+  {
+    "id": "P7T-T600-003",
+    "part": 7,
+    "type": "triple",
+    "track": "T600",
+    "documents": [
+      {
+        "title": "Job Posting: Customer Service Manager",
+        "body": "Skyline Telecom is seeking a Customer Service Manager for our Dallas call center.\n\nKey Responsibilities:\n- Supervise a team of 15 customer service representatives\n- Monitor call quality and conduct weekly performance reviews\n- Handle escalated customer complaints\n- Develop training materials for new hires\n\nRequirements:\n- Bachelor's degree in Business or related field\n- Minimum 3 years of customer service experience\n- At least 1 year in a supervisory role\n- Bilingual in English and Spanish preferred\n\nWe offer:\n- Salary: $62,000 - $68,000 per year\n- Medical, dental, and vision insurance\n- 401(k) with company match\n\nTo apply, submit your resume to careers@skyline.com by March 31."
+      },
+      {
+        "title": "Resume: Angela Rodriguez",
+        "body": "ANGELA RODRIGUEZ\nar.rodriguez@email.com | (214) 555-0147 | Dallas, TX\n\nPROFESSIONAL SUMMARY\nCustomer service professional with 5 years of experience in call center environments. Fluent in English and Spanish.\n\nWORK EXPERIENCE\n\nTeam Lead, Customer Service - Horizon Communications, Dallas, TX\nMarch 2022 - Present (3 years)\n- Supervised a team of 10 representatives\n- Reduced average call handling time by 15%\n- Conducted monthly performance evaluations\n- Assisted in developing training programs for new employees\n\nCustomer Service Representative - Horizon Communications, Dallas, TX\nJune 2020 - February 2022 (1 year 8 months)\n- Handled 60+ customer calls daily\n- Achieved 98% customer satisfaction rating\n- Trained 5 new team members\n\nEDUCATION\nBachelor of Arts in Communications - University of Texas at Dallas, 2020\n\nSKILLS\n- Bilingual: English and Spanish\n- CRM Software: Salesforce, Zendesk\n- Microsoft Office Suite"
+      },
+      {
+        "title": "Interview Invitation Email",
+        "body": "From: hr@skyline.com\nTo: ar.rodriguez@email.com\nSubject: Interview Invitation - Customer Service Manager Position\n\nDear Ms. Rodriguez,\n\nThank you for your application for the Customer Service Manager position. We were impressed by your qualifications and would like to invite you for an interview.\n\nInterview Details:\nDate: Monday, April 7, 2025\nTime: 2:00 PM\nLocation: Skyline Telecom, 1200 Commerce Street, 8th Floor, Dallas, TX 75201\n\nYour interview will be with Maria Santos, Director of Customer Operations, and James Lee, HR Manager. The interview is expected to last approximately 45 minutes. Please bring a copy of your resume and any relevant work samples.\n\nPlease confirm your availability by replying to this email by April 3.\n\nWe look forward to meeting you.\n\nBest regards,\nSkyline Telecom HR Department"
+      }
+    ],
+    "questions": [
+      {
+        "id": "P7T-T600-003-Q1",
+        "question": "What is the salary range for the Customer Service Manager position?",
+        "options": ["$55,000 - $60,000", "$62,000 - $68,000", "$65,000 - $70,000", "$68,000 - $72,000"],
+        "answer": "$62,000 - $68,000",
+        "explanation": "招聘廣告明確列出「Salary: $62,000 - $68,000 per year」。",
+        "crossReference": false
+      },
+      {
+        "id": "P7T-T600-003-Q2",
+        "question": "How many years of supervisory experience does Angela Rodriguez have?",
+        "options": ["1 year", "2 years", "3 years", "5 years"],
+        "answer": "3 years",
+        "explanation": "履歷顯示Angela自2022年3月至今（2025年3月）擔任Team Lead一職，共3年管理經驗。",
+        "crossReference": false
+      },
+      {
+        "id": "P7T-T600-003-Q3",
+        "question": "Who will conduct Angela's interview?",
+        "options": ["The CEO and HR Manager", "Maria Santos and James Lee", "The Call Center Manager only", "A panel of three team members"],
+        "answer": "Maria Santos and James Lee",
+        "explanation": "面試邀請信指出面試官為「Maria Santos, Director of Customer Operations, and James Lee, HR Manager」。",
+        "crossReference": false
+      },
+      {
+        "id": "P7T-T600-003-Q4",
+        "question": "When is the deadline for Angela to confirm her interview attendance?",
+        "options": ["March 31", "April 3", "April 5", "April 7"],
+        "answer": "April 3",
+        "explanation": "面試邀請信要求「confirm your availability by replying to this email by April 3」。",
+        "crossReference": false
+      },
+      {
+        "id": "P7T-T600-003-Q5",
+        "question": "Based on all three documents, why is Angela a strong candidate for the position?",
+        "options": ["She has a master's degree in Business", "She meets the experience, supervisory, and bilingual requirements listed in the job posting", "She previously worked at Skyline Telecom", "She has 10 years of customer service experience"],
+        "answer": "She meets the experience, supervisory, and bilingual requirements listed in the job posting",
+        "explanation": "此題須同時參照三篇文件：徵才廣告要求3年以上客服經驗、1年以上管理職、雙語能力為加分項；Angela的履歷顯示她有5年客服經驗、3年Team Lead管理經驗且雙語流利；面試邀請信證實她的資格受到認可。比對三份文件可知她符合所有核心條件。",
+        "crossReference": true
+      }
+    ]
+  }
+]

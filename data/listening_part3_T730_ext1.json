@@ -1,0 +1,4100 @@
+[
+  {
+    "id": "L3-T730-016",
+    "part": 3,
+    "track": "T730",
+    "conversation": [
+      {
+        "speaker": "A",
+        "line": "The Henderson account is three months past due on their outstanding invoice. Have you followed up?"
+      },
+      {
+        "speaker": "B",
+        "line": "I sent them two reminders, but their finance director keeps saying the check is 'in process.'"
+      },
+      {
+        "speaker": "A",
+        "line": "That's what they said last quarter. I'm starting to question their liquidity."
+      },
+      {
+        "speaker": "B",
+        "line": "To be fair, they've been a reliable client for five years. But I share your concern."
+      },
+      {
+        "speaker": "A",
+        "line": "Reliability doesn't pay our vendors. What if we offer a payment plan with interest waived if they settle within sixty days?"
+      },
+      {
+        "speaker": "B",
+        "line": "That's generous on our part. I'll draft the proposal, but if they decline, we may need to involve legal."
+      },
+      {
+        "speaker": "A",
+        "line": "Agreed. Let's give them one last chance before we escalate."
+      }
+    ],
+    "chartData": null,
+    "questions": [
+      {
+        "id": "L3-T730-016-Q1",
+        "question": "What is the woman primarily concerned about?",
+        "options": [
+          "The client's product quality",
+          "The client's ability to pay",
+          "The client's contract terms",
+          "The client's staff turnover"
+        ],
+        "answer": "The client's ability to pay",
+        "explanation": "A說開始懷疑對方的流動性（liquidity），意即擔心對方現金不足無法付款。",
+        "requiresChart": false,
+        "category": "推論意圖"
+      },
+      {
+        "id": "L3-T730-016-Q2",
+        "question": "What compromise does the woman propose?",
+        "options": [
+          "Write off the debt entirely",
+          "Offer a payment plan with waived interest",
+          "Take immediate legal action",
+          "Reduce the invoice amount"
+        ],
+        "answer": "Offer a payment plan with waived interest",
+        "explanation": "A提議提供分期付款方案，若在60天內結清則免利息。",
+        "requiresChart": false,
+        "category": "細節"
+      },
+      {
+        "id": "L3-T730-016-Q3",
+        "question": "What will the speakers most likely do if the client declines the proposal?",
+        "options": [
+          "Cancel the contract",
+          "Involve the legal department",
+          "Extend more credit",
+          "Switch to a different client"
+        ],
+        "answer": "Involve the legal department",
+        "explanation": "B說若對方拒絕就得讓法務介入，A也表示同意這是最後通牒。",
+        "requiresChart": false,
+        "category": "推論意圖"
+      }
+    ]
+  },
+  {
+    "id": "L3-T730-017",
+    "part": 3,
+    "track": "T730",
+    "conversation": [
+      {
+        "speaker": "A",
+        "line": "I'd like to discuss a flexible work arrangement. My commute has become unmanageable since the bridge construction started."
+      },
+      {
+        "speaker": "B",
+        "line": "I understand the situation is frustrating. However, our client-facing roles require a physical presence at least three days a week."
+      },
+      {
+        "speaker": "A",
+        "line": "Could I work remotely on Mondays and Fridays, and come in the rest of the week?"
+      },
+      {
+        "speaker": "B",
+        "line": "That arrangement could work. But I'd need to see consistent productivity metrics to justify it to HR."
+      },
+      {
+        "speaker": "A",
+        "line": "I can commit to weekly progress reports and maintain the same output levels."
+      },
+      {
+        "speaker": "B",
+        "line": "Let's try it for a month on a probationary basis. If it works, we'll formalize it."
+      },
+      {
+        "speaker": "A",
+        "line": "Thank you. I'll prepare a trial schedule and share it by end of day."
+      }
+    ],
+    "chartData": null,
+    "questions": [
+      {
+        "id": "L3-T730-017-Q1",
+        "question": "Why does the man want a flexible schedule?",
+        "options": [
+          "His performance has declined",
+          "Bridge construction has lengthened his commute",
+          "He needs to care for a family member",
+          "He received another job offer"
+        ],
+        "answer": "Bridge construction has lengthened his commute",
+        "explanation": "A說因為橋梁施工導致通勤變得難以負荷。",
+        "requiresChart": false,
+        "category": "細節"
+      },
+      {
+        "id": "L3-T730-017-Q2",
+        "question": "What condition does the woman set for approving remote work?",
+        "options": [
+          "The man must relocate closer",
+          "The man must show consistent productivity",
+          "The man must work weekends",
+          "The man must train a replacement"
+        ],
+        "answer": "The man must show consistent productivity",
+        "explanation": "B說需要看到穩定的生產力數據才能向HR證明這個安排合理。",
+        "requiresChart": false,
+        "category": "細節"
+      },
+      {
+        "id": "L3-T730-017-Q3",
+        "question": "What does the woman most likely think about the man's request?",
+        "options": [
+          "She is firmly against it",
+          "She is cautiously open to trying it",
+          "She thinks it is unreasonable",
+          "She will approve it unconditionally"
+        ],
+        "answer": "She is cautiously open to trying it",
+        "explanation": "B說可以試一個月看看，若成功就正式化，語氣帶有保留但願意嘗試。",
+        "requiresChart": false,
+        "category": "推論意圖"
+      }
+    ]
+  },
+  {
+    "id": "L3-T730-018",
+    "part": 3,
+    "track": "T730",
+    "conversation": [
+      {
+        "speaker": "A",
+        "line": "I've narrowed down the logistics partners to three firms. Here's a comparison of their key metrics."
+      },
+      {
+        "speaker": "B",
+        "line": "SwiftLogistics has the lowest per-unit rate, but their on-time delivery percentage concerns me."
+      },
+      {
+        "speaker": "A",
+        "line": "Only eighty-two percent on-time is below industry standard. GlobalShip has ninety-five percent, but their rates are thirty percent higher."
+      },
+      {
+        "speaker": "B",
+        "line": "What about CargoPro? They seem to be the middle ground in pricing."
+      },
+      {
+        "speaker": "A",
+        "line": "Their on-time rate is ninety percent, but their average handling time is two days longer than the others."
+      },
+      {
+        "speaker": "B",
+        "line": "For our premium clients, speed matters more than cost. Let's go with GlobalShip for priority shipments and SwiftLogistics for standard deliveries."
+      },
+      {
+        "speaker": "A",
+        "line": "A dual-vendor approach. That actually addresses both concerns. I'll draft the agreements."
+      }
+    ],
+    "chartData": {
+      "type": "table",
+      "title": "Logistics Partner Comparison",
+      "rows": [
+        [
+          "Vendor",
+          "Per-Unit Rate",
+          "On-Time Delivery",
+          "Avg Handling Time",
+          "Coverage"
+        ],
+        [
+          "SwiftLogistics",
+          "$4.20",
+          "82%",
+          "1.2 days",
+          "Domestic only"
+        ],
+        [
+          "GlobalShip",
+          "$6.00",
+          "95%",
+          "1.0 days",
+          "Domestic + International"
+        ],
+        [
+          "CargoPro",
+          "$5.10",
+          "90%",
+          "3.0 days",
+          "Domestic + International"
+        ]
+      ]
+    },
+    "questions": [
+      {
+        "id": "L3-T730-018-Q1",
+        "question": "What is SwiftLogistics's main disadvantage compared to the others?",
+        "options": [
+          "High price",
+          "Low on-time delivery rate",
+          "Limited domestic coverage",
+          "Long handling time"
+        ],
+        "answer": "Low on-time delivery rate",
+        "explanation": "B對SwiftLogistics僅82%的準時率感到擔憂，對照chartData確實是最低的。",
+        "requiresChart": true,
+        "category": "圖表整合"
+      },
+      {
+        "id": "L3-T730-018-Q2",
+        "question": "Why does the woman hesitate to choose CargoPro?",
+        "options": [
+          "They are too expensive",
+          "Their handling time is too long",
+          "They only serve domestic routes",
+          "Their on-time rate is the lowest"
+        ],
+        "answer": "Their handling time is too long",
+        "explanation": "A指出CargoPro的處理時間比其他廠商多兩天，對照chartData確認為3.0天。",
+        "requiresChart": false,
+        "category": "細節"
+      },
+      {
+        "id": "L3-T730-018-Q3",
+        "question": "What final strategy do the speakers agree on?",
+        "options": [
+          "Choose only the cheapest vendor",
+          "Use two vendors for different shipment types",
+          "Negotiate exclusively with CargoPro",
+          "Delay the decision for another quarter"
+        ],
+        "answer": "Use two vendors for different shipment types",
+        "explanation": "B建議重要包裹用GlobalShip（快速可靠）、一般包裹用SwiftLogistics（便宜），A稱此為雙供應商策略。",
+        "requiresChart": false,
+        "category": "推論意圖"
+      }
+    ]
+  },
+  {
+    "id": "L3-T730-019",
+    "part": 3,
+    "track": "T730",
+    "conversation": [
+      {
+        "speaker": "A",
+        "line": "The marketing team's performance this quarter is below expectations. Their lead generation numbers are down twelve percent."
+      },
+      {
+        "speaker": "B",
+        "line": "I've noticed. The issue isn't effort — they're working long hours. I suspect the targeting criteria need adjustment."
+      },
+      {
+        "speaker": "A",
+        "line": "So you don't think it's a personnel problem?"
+      },
+      {
+        "speaker": "B",
+        "line": "Not primarily. Replacing people would be costly and wouldn't fix a strategic flaw. I'd rather invest in upskilling the current team."
+      },
+      {
+        "speaker": "A",
+        "line": "What kind of upskilling are you suggesting?"
+      },
+      {
+        "speaker": "B",
+        "line": "Data analytics training. Most of them are creative professionals, but they lack the quantitative skills to refine their campaigns."
+      },
+      {
+        "speaker": "A",
+        "line": "Makes sense. Let's allocate budget for a six-week training program and reassess the metrics afterward."
+      }
+    ],
+    "chartData": null,
+    "questions": [
+      {
+        "id": "L3-T730-019-Q1",
+        "question": "What is the main topic of the conversation?",
+        "options": [
+          "Firing underperforming staff",
+          "Improving marketing team performance",
+          "Increasing the marketing budget",
+          "Launching a new product campaign"
+        ],
+        "answer": "Improving marketing team performance",
+        "explanation": "整段對話圍繞行銷團隊績效下滑的診斷與解決方案。",
+        "requiresChart": false,
+        "category": "主旨"
+      },
+      {
+        "id": "L3-T730-019-Q2",
+        "question": "What does the man think is the root cause of the performance issue?",
+        "options": [
+          "The team is lazy",
+          "The targeting strategy is flawed",
+          "The budget is insufficient",
+          "The competitors are stronger"
+        ],
+        "answer": "The targeting strategy is flawed",
+        "explanation": "B說問題不在人力，而是目標設定標準需要調整（targeting criteria need adjustment），暗示策略層面有缺陷。",
+        "requiresChart": false,
+        "category": "推論意圖"
+      },
+      {
+        "id": "L3-T730-019-Q3",
+        "question": "What solution does the man propose instead of replacing staff?",
+        "options": [
+          "Offer bonuses for better results",
+          "Provide data analytics training",
+          "Hire an external consultant",
+          "Outsource the marketing function"
+        ],
+        "answer": "Provide data analytics training",
+        "explanation": "B說不如投資在現有團隊的提升（upskilling），建議數據分析訓練。",
+        "requiresChart": false,
+        "category": "細節"
+      }
+    ]
+  },
+  {
+    "id": "L3-T730-020",
+    "part": 3,
+    "track": "T730",
+    "conversation": [
+      {
+        "speaker": "A",
+        "line": "The compliance review flagged several issues with our data retention policy. We need to address them before the regulator's next inspection."
+      },
+      {
+        "speaker": "B",
+        "line": "Which areas are they most concerned about?"
+      },
+      {
+        "speaker": "A",
+        "line": "Customer consent documentation is incomplete for about fifteen percent of our database. And our deletion protocols don't meet the new standard."
+      },
+      {
+        "speaker": "B",
+        "line": "The consent gap is alarming. If we can't prove consent, we could face substantial fines."
+      },
+      {
+        "speaker": "A",
+        "line": "Exactly. I propose we launch a re-consent campaign for those affected customers immediately."
+      },
+      {
+        "speaker": "B",
+        "line": "That'll take months, and some customers may not respond. Should we also restrict access to those records in the interim?"
+      },
+      {
+        "speaker": "A",
+        "line": "Good thinking. Let's quarantine the records while the campaign runs, so we're not processing them without valid consent."
+      }
+    ],
+    "chartData": null,
+    "questions": [
+      {
+        "id": "L3-T730-020-Q1",
+        "question": "What triggered the discussion about data retention?",
+        "options": [
+          "A customer complaint",
+          "A compliance review",
+          "A new law passed",
+          "An IT system failure"
+        ],
+        "answer": "A compliance review",
+        "explanation": "A說合規審查（compliance review）標註了數據保留政策的多項問題。",
+        "requiresChart": false,
+        "category": "細節"
+      },
+      {
+        "id": "L3-T730-020-Q2",
+        "question": "What is the most serious issue according to the speakers?",
+        "options": [
+          "Outdated software",
+          "Incomplete customer consent documentation",
+          "Excessive data storage costs",
+          "Slow deletion processes"
+        ],
+        "answer": "Incomplete customer consent documentation",
+        "explanation": "B說無法證明取得同意是警訊（alarming），可能面臨巨額罰款。",
+        "requiresChart": false,
+        "category": "細節"
+      },
+      {
+        "id": "L3-T730-020-Q3",
+        "question": "What interim measure does the man suggest?",
+        "options": [
+          "Delete all customer records immediately",
+          "Restrict access to affected records",
+          "Notify all customers by mail",
+          "Halt all marketing activities"
+        ],
+        "answer": "Restrict access to affected records",
+        "explanation": "B建議在取得重新同意前先隔離（quarantine）這些記錄，不在沒有有效同意的情況下處理它們。",
+        "requiresChart": false,
+        "category": "推論意圖"
+      }
+    ]
+  },
+  {
+    "id": "L3-T730-021",
+    "part": 3,
+    "track": "T730",
+    "conversation": [
+      {
+        "speaker": "A",
+        "line": "I'm looking at the bids for the company retreat venue. We have four options within budget, but they vary quite a bit in amenities."
+      },
+      {
+        "speaker": "B",
+        "line": "The Lakeside Resort has the highest satisfaction rating, but I noticed it only has two breakout rooms. We need at least four for the workshops."
+      },
+      {
+        "speaker": "A",
+        "line": "MountainView Lodge has six rooms and the lowest cost per person, but it's a two-hour drive from the airport."
+      },
+      {
+        "speaker": "B",
+        "line": "That's inconvenient for out-of-town attendees. CityCenter Hotel is walking distance from the station, but their satisfaction score is mediocre."
+      },
+      {
+        "speaker": "A",
+        "line": "Riverside Inn seems balanced: four breakout rooms, decent satisfaction, and moderate cost. The catch is they can only accommodate us on weekdays."
+      },
+      {
+        "speaker": "B",
+        "line": "A weekday retreat might actually boost attendance — fewer people have weekend conflicts. Let's book Riverside for Tuesday through Thursday."
+      }
+    ],
+    "chartData": {
+      "type": "table",
+      "title": "Retreat Venue Comparison",
+      "rows": [
+        [
+          "Venue",
+          "Cost/Person",
+          "Breakout Rooms",
+          "Satisfaction",
+          "Distance from Airport"
+        ],
+        [
+          "Lakeside Resort",
+          "$380",
+          "2",
+          "4.8/5",
+          "40 min"
+        ],
+        [
+          "MountainView Lodge",
+          "$250",
+          "6",
+          "4.2/5",
+          "2 hours"
+        ],
+        [
+          "CityCenter Hotel",
+          "$320",
+          "5",
+          "3.5/5",
+          "15 min"
+        ],
+        [
+          "Riverside Inn",
+          "$310",
+          "4",
+          "4.5/5",
+          "30 min"
+        ]
+      ]
+    },
+    "questions": [
+      {
+        "id": "L3-T730-021-Q1",
+        "question": "Why is Lakeside Resort not suitable despite its high rating?",
+        "options": [
+          "It is too expensive",
+          "It has too few breakout rooms",
+          "It is too far from the airport",
+          "It has poor reviews"
+        ],
+        "answer": "It has too few breakout rooms",
+        "explanation": "B直接說Lakeside Resort只有兩間分組討論室，需要至少四間，無需圖表即可判斷。",
+        "requiresChart": false,
+        "category": "圖表整合"
+      },
+      {
+        "id": "L3-T730-021-Q2",
+        "question": "What disadvantage does MountainView Lodge have?",
+        "options": [
+          "Low satisfaction rating",
+          "Too few rooms",
+          "Too expensive",
+          "Remote location from airport"
+        ],
+        "answer": "Remote location from airport",
+        "explanation": "A說MountainView Lodge離機場兩小時車程，B回應說這對外地參加者不方便。",
+        "requiresChart": false,
+        "category": "細節"
+      },
+      {
+        "id": "L3-T730-021-Q3",
+        "question": "Which venue has the highest satisfaction rating according to the chart?",
+        "options": [
+          "Lakeside Resort",
+          "MountainView Lodge",
+          "CityCenter Hotel",
+          "Riverside Inn"
+        ],
+        "answer": "Lakeside Resort",
+        "explanation": "對照chartData，Lakeside Resort滿意度4.8/5為所有場地中最高。",
+        "requiresChart": true,
+        "category": "圖表整合"
+      }
+    ]
+  },
+  {
+    "id": "L3-T730-022",
+    "part": 3,
+    "track": "T730",
+    "conversation": [
+      {
+        "speaker": "A",
+        "line": "The UX research findings for our mobile app redesign are in. It's not flattering."
+      },
+      {
+        "speaker": "B",
+        "line": "How bad is it?"
+      },
+      {
+        "speaker": "A",
+        "line": "Sixty percent of test users abandoned the checkout flow before completing a purchase. The navigation is confusing them."
+      },
+      {
+        "speaker": "B",
+        "line": "That's significantly higher than the industry average of thirty percent. Did the researchers identify specific pain points?"
+      },
+      {
+        "speaker": "A",
+        "line": "The payment screen has too many fields, and the coupon code entry is buried under two menus."
+      },
+      {
+        "speaker": "B",
+        "line": "Those are fixable issues. Let's prioritize simplifying the payment flow and make the coupon field visible on the cart summary page."
+      },
+      {
+        "speaker": "A",
+        "line": "I'll brief the development team tomorrow. We should aim to have a revised prototype ready for retesting within three weeks."
+      }
+    ],
+    "chartData": null,
+    "questions": [
+      {
+        "id": "L3-T730-022-Q1",
+        "question": "What problem does the UX research reveal?",
+        "options": [
+          "The app crashes frequently",
+          "Users abandon the checkout process",
+          "The app is too slow",
+          "The color scheme is unattractive"
+        ],
+        "answer": "Users abandon the checkout process",
+        "explanation": "A說60%的測試用戶在完成購買前就放棄了結帳流程（abandoned the checkout flow）。",
+        "requiresChart": false,
+        "category": "細節"
+      },
+      {
+        "id": "L3-T730-022-Q2",
+        "question": "What does the woman say about the industry average abandonment rate?",
+        "options": [
+          "It is 15 percent",
+          "It is 30 percent",
+          "It is 60 percent",
+          "It is unknown"
+        ],
+        "answer": "It is 30 percent",
+        "explanation": "B說目前的60%遠高於業界平均的30%。",
+        "requiresChart": false,
+        "category": "細節"
+      },
+      {
+        "id": "L3-T730-022-Q3",
+        "question": "Which specific issue will the team address first?",
+        "options": [
+          "The app's loading speed",
+          "The color scheme redesign",
+          "The payment flow complexity",
+          "The product catalog organization"
+        ],
+        "answer": "The payment flow complexity",
+        "explanation": "B說要優先簡化付款流程，讓優惠碼欄位在購物車摘要頁面就看得見。",
+        "requiresChart": false,
+        "category": "推論意圖"
+      }
+    ]
+  },
+  {
+    "id": "L3-T730-023",
+    "part": 3,
+    "track": "T730",
+    "conversation": [
+      {
+        "speaker": "A",
+        "line": "Torres Manufacturing wants to extend their contract, but they're asking for a fifteen percent volume discount."
+      },
+      {
+        "speaker": "B",
+        "line": "On their current volume, that would cut our margin dangerously thin. Can they commit to higher quantities?"
+      },
+      {
+        "speaker": "A",
+        "line": "They're proposing a thirty percent increase in minimum order quantity over the next two years."
+      },
+      {
+        "speaker": "B",
+        "line": "If they actually follow through on that volume, the unit economics would work in our favor despite the lower margin."
+      },
+      {
+        "speaker": "A",
+        "line": "My concern is enforcement. What happens if they take the discount but don't meet the volume targets?"
+      },
+      {
+        "speaker": "B",
+        "line": "We should include a clawback clause. If their annual volume falls short, they reimburse the difference at the standard rate."
+      },
+      {
+        "speaker": "A",
+        "line": "That's fair. I'll incorporate that into the counter-proposal and send it to their procurement team."
+      }
+    ],
+    "chartData": null,
+    "questions": [
+      {
+        "id": "L3-T730-023-Q1",
+        "question": "What is Torres Manufacturing requesting?",
+        "options": [
+          "A shorter contract term",
+          "A volume discount",
+          "A product redesign",
+          "Faster delivery times"
+        ],
+        "answer": "A volume discount",
+        "explanation": "A說Torres Manufacturing要求延長合約並要求15%的大量折扣（volume discount）。",
+        "requiresChart": false,
+        "category": "細節"
+      },
+      {
+        "id": "L3-T730-023-Q2",
+        "question": "What condition does Torres offer in exchange for the discount?",
+        "options": [
+          "Faster payment terms",
+          "A 30 percent increase in minimum order quantity",
+          "Exclusive partnership rights",
+          "Longer warranty coverage"
+        ],
+        "answer": "A 30 percent increase in minimum order quantity",
+        "explanation": "A說對方提議將最低訂購量提高30%。",
+        "requiresChart": false,
+        "category": "細節"
+      },
+      {
+        "id": "L3-T730-023-Q3",
+        "question": "What protection does the man suggest adding to the contract?",
+        "options": [
+          "A non-compete clause",
+          "A performance bonus",
+          "A clawback clause",
+          "An automatic renewal term"
+        ],
+        "answer": "A clawback clause",
+        "explanation": "B建議加入回補條款（clawback clause），若對方年度採購量未達標，需按標準價格補回差額。",
+        "requiresChart": false,
+        "category": "推論意圖"
+      }
+    ]
+  },
+  {
+    "id": "L3-T730-024",
+    "part": 3,
+    "track": "T730",
+    "conversation": [
+      {
+        "speaker": "A",
+        "line": "You've been with the company for almost a decade. Have you given any thought to what comes next?"
+      },
+      {
+        "speaker": "B",
+        "line": "I've been meaning to bring that up. I'm considering retiring in about eighteen months."
+      },
+      {
+        "speaker": "A",
+        "line": "That gives us a reasonable window to plan. Is there someone on your team you'd recommend as a successor?"
+      },
+      {
+        "speaker": "B",
+        "line": "Michelle has strong domain knowledge, but she lacks experience managing external stakeholder relationships."
+      },
+      {
+        "speaker": "A",
+        "line": "What if we paired her with a senior mentor for the next year? Someone who could coach her on the stakeholder aspect."
+      },
+      {
+        "speaker": "B",
+        "line": "I'd be happy to mentor her myself while I'm still here. And I can gradually hand off my client relationships."
+      },
+      {
+        "speaker": "A",
+        "line": "That's ideal. Let's formalize a transition plan and present it to the board next month."
+      }
+    ],
+    "chartData": null,
+    "questions": [
+      {
+        "id": "L3-T730-024-Q1",
+        "question": "What is the man planning to do?",
+        "options": [
+          "Change departments",
+          "Retire in about 18 months",
+          "Take a sabbatical",
+          "Start a new business"
+        ],
+        "answer": "Retire in about 18 months",
+        "explanation": "B說大約18個月後考慮退休（retiring）。",
+        "requiresChart": false,
+        "category": "細節"
+      },
+      {
+        "id": "L3-T730-024-Q2",
+        "question": "What is Michelle's weakness according to the man?",
+        "options": [
+          "Lack of domain knowledge",
+          "Lack of experience with stakeholders",
+          "Poor technical skills",
+          "Inability to meet deadlines"
+        ],
+        "answer": "Lack of experience with stakeholders",
+        "explanation": "B說Michelle專業知識強，但缺乏管理外部利益關係人的經驗。",
+        "requiresChart": false,
+        "category": "細節"
+      },
+      {
+        "id": "L3-T730-024-Q3",
+        "question": "How do the speakers plan to address Michelle's weakness?",
+        "options": [
+          "Send her to graduate school",
+          "Have the current manager mentor her",
+          "Hire an external candidate instead",
+          "Split the role between two people"
+        ],
+        "answer": "Have the current manager mentor her",
+        "explanation": "B說願意在職期間親自指導Michelle，並逐步交接客戶關係。",
+        "requiresChart": false,
+        "category": "推論意圖"
+      }
+    ]
+  },
+  {
+    "id": "L3-T730-025",
+    "part": 3,
+    "track": "T730",
+    "conversation": [
+      {
+        "speaker": "A",
+        "line": "I need to fly to Singapore next month for the regional summit. Can you help me look at flight options?"
+      },
+      {
+        "speaker": "B",
+        "line": "Of course. What dates are you looking at?"
+      },
+      {
+        "speaker": "A",
+        "line": "I need to arrive by the morning of March fourteenth, and I'd prefer to fly back on the evening of the sixteenth."
+      },
+      {
+        "speaker": "B",
+        "line": "There are two direct flights on the thirteenth. One departs at 9 a.m. and arrives at 3 p.m., the other leaves at 11 p.m. and arrives the next morning."
+      },
+      {
+        "speaker": "A",
+        "line": "The late-night flight sounds efficient, but I have a department meeting at 4 p.m. on the thirteenth that I can't miss."
+      },
+      {
+        "speaker": "B",
+        "line": "Then the 9 a.m. flight won't work either — you'd have to skip the entire workday. What about the early morning flight on the fourteenth? It departs at 6 a.m. and arrives at 10:30 a.m."
+      },
+      {
+        "speaker": "A",
+        "line": "That's cutting it close, but the summit starts at noon. I can make it. Book that one."
+      }
+    ],
+    "chartData": {
+      "type": "table",
+      "title": "Flights to Singapore (March 13-14)",
+      "rows": [
+        [
+          "Flight",
+          "Departure",
+          "Arrival",
+          "Duration",
+          "Stops",
+          "Price"
+        ],
+        [
+          "SQ-631",
+          "Mar 13, 9:00 AM",
+          "Mar 13, 3:00 PM",
+          "6h",
+          "Direct",
+          "$1,850"
+        ],
+        [
+          "SQ-639",
+          "Mar 13, 11:00 PM",
+          "Mar 14, 5:00 AM",
+          "6h",
+          "Direct",
+          "$1,420"
+        ],
+        [
+          "CX-701",
+          "Mar 14, 6:00 AM",
+          "Mar 14, 10:30 AM",
+          "4.5h",
+          "Direct",
+          "$2,100"
+        ],
+        [
+          "BR-223",
+          "Mar 14, 8:00 AM",
+          "Mar 14, 2:00 PM",
+          "6h",
+          "1 stop",
+          "$980"
+        ]
+      ]
+    },
+    "questions": [
+      {
+        "id": "L3-T730-025-Q1",
+        "question": "Why can the man not take the 9 a.m. flight on March 13?",
+        "options": [
+          "It is too expensive",
+          "He has a meeting that afternoon",
+          "It arrives too late",
+          "It has a layover"
+        ],
+        "answer": "He has a meeting that afternoon",
+        "explanation": "A說他13日下午4點有部門會議無法缺席，搭9點航班等於整天不在辦公室。",
+        "requiresChart": false,
+        "category": "細節"
+      },
+      {
+        "id": "L3-T730-025-Q2",
+        "question": "Which flight does the man ultimately select?",
+        "options": [
+          "SQ-631",
+          "SQ-639",
+          "CX-701",
+          "BR-223"
+        ],
+        "answer": "CX-701",
+        "explanation": "B推薦14日早上6點起飛、10:30抵達的航班，A說峰會中午開始來得及，決定訂這個。對照chartData，CX-701符合此描述。",
+        "requiresChart": true,
+        "category": "圖表整合"
+      },
+      {
+        "id": "L3-T730-025-Q3",
+        "question": "What is the woman's concern about the late-night flight on March 13?",
+        "options": [
+          "It is too expensive",
+          "It arrives too early in the morning",
+          "The man would miss the afternoon meeting",
+          "It requires a layover"
+        ],
+        "answer": "The man would miss the afternoon meeting",
+        "explanation": "A說深夜航班雖然有效，但他有下午4點的會議不能錯過，意味著這個航班會與會議衝突。",
+        "requiresChart": false,
+        "category": "推論意圖"
+      }
+    ]
+  },
+  {
+    "id": "L3-T730-026",
+    "part": 3,
+    "track": "T730",
+    "conversation": [
+      {
+        "speaker": "A",
+        "line": "The trade show in Frankfurt is in six weeks. Have we confirmed the booth design and materials?"
+      },
+      {
+        "speaker": "B",
+        "line": "The design was approved last week, but our usual printing vendor is fully booked until next month."
+      },
+      {
+        "speaker": "A",
+        "line": "That's a problem. The banners and display panels need at least three weeks for production and shipping."
+      },
+      {
+        "speaker": "B",
+        "line": "I've reached out to two alternative vendors. PrintPro can deliver in two weeks but uses lower-grade materials."
+      },
+      {
+        "speaker": "A",
+        "line": "The booth represents our brand. I'm not comfortable compromising on quality."
+      },
+      {
+        "speaker": "B",
+        "line": "The other option, ExhibitMaster, uses premium materials and can expedite in ten days, but at a forty percent premium."
+      },
+      {
+        "speaker": "A",
+        "line": "Given the stakes, the premium is justified. Go with ExhibitMaster and make sure they commit to the delivery date in writing."
+      }
+    ],
+    "chartData": null,
+    "questions": [
+      {
+        "id": "L3-T730-026-Q1",
+        "question": "What problem do the speakers face?",
+        "options": [
+          "The booth design was rejected",
+          "The usual printing vendor is unavailable",
+          "The trade show was canceled",
+          "The budget was cut"
+        ],
+        "answer": "The usual printing vendor is unavailable",
+        "explanation": "B說原本合作的印刷廠下個月前都滿檔了（fully booked）。",
+        "requiresChart": false,
+        "category": "細節"
+      },
+      {
+        "id": "L3-T730-026-Q2",
+        "question": "What is wrong with the PrintPro option?",
+        "options": [
+          "They are too expensive",
+          "They cannot meet the deadline",
+          "They use lower-quality materials",
+          "They only ship domestically"
+        ],
+        "answer": "They use lower-quality materials",
+        "explanation": "B說PrintPro能在兩週內交貨但使用較低階材料，A則表示不願意在品質上妥協。",
+        "requiresChart": false,
+        "category": "細節"
+      },
+      {
+        "id": "L3-T730-026-Q3",
+        "question": "What does the woman ultimately decide?",
+        "options": [
+          "Postpone the trade show",
+          "Use the original vendor despite the delay",
+          "Pay extra for faster premium service",
+          "Design simpler materials to save time"
+        ],
+        "answer": "Pay extra for faster premium service",
+        "explanation": "A說考慮到展覽的重要性，溢價40%是合理的，決定選ExhibitMaster並要求書面承諾交期。",
+        "requiresChart": false,
+        "category": "推論意圖"
+      }
+    ]
+  },
+  {
+    "id": "L3-T730-027",
+    "part": 3,
+    "track": "T730",
+    "conversation": [
+      {
+        "speaker": "A",
+        "line": "I just got off the phone with our raw materials supplier. There's been a disruption at their main processing plant."
+      },
+      {
+        "speaker": "B",
+        "line": "How serious? We have orders from three major retailers due in four weeks."
+      },
+      {
+        "speaker": "A",
+        "line": "They're saying shipments will be delayed by at least two weeks. That pushes our production schedule dangerously close to the deadline."
+      },
+      {
+        "speaker": "B",
+        "line": "Do we have a backup supplier we can activate?"
+      },
+      {
+        "speaker": "A",
+        "line": "We have a secondary supplier on file, but their unit cost is eighteen percent higher and they've never handled our full volume."
+      },
+      {
+        "speaker": "B",
+        "line": "Can we split the order? Use the backup for the most time-sensitive production runs and wait for the primary supplier for the rest."
+      },
+      {
+        "speaker": "A",
+        "line": "That could work. I'll calculate the quantities we need from each and call the backup supplier right away."
+      }
+    ],
+    "chartData": null,
+    "questions": [
+      {
+        "id": "L3-T730-027-Q1",
+        "question": "What caused the delay in raw materials?",
+        "options": [
+          "A shipping strike",
+          "A disruption at the processing plant",
+          "A price dispute",
+          "New import regulations"
+        ],
+        "answer": "A disruption at the processing plant",
+        "explanation": "A說供應商的加工廠發生中斷（disruption）。",
+        "requiresChart": false,
+        "category": "細節"
+      },
+      {
+        "id": "L3-T730-027-Q2",
+        "question": "What is the disadvantage of using the backup supplier?",
+        "options": [
+          "Lower quality materials",
+          "Longer lead times",
+          "Higher cost and unproven capacity",
+          "They are overseas"
+        ],
+        "answer": "Higher cost and unproven capacity",
+        "explanation": "A說備援供應商單價高18%，且從未處理過公司全量訂單。",
+        "requiresChart": false,
+        "category": "細節"
+      },
+      {
+        "id": "L3-T730-027-Q3",
+        "question": "What strategy does the man suggest to manage the supply disruption?",
+        "options": [
+          "Cancel all pending orders",
+          "Split the order between two suppliers",
+          "Negotiate a price cut with the primary supplier",
+          "Extend the delivery deadline for retailers"
+        ],
+        "answer": "Split the order between two suppliers",
+        "explanation": "B建議將訂單拆分：最急的產線用備援供應商，其餘等主要供應商出貨。",
+        "requiresChart": false,
+        "category": "推論意圖"
+      }
+    ]
+  },
+  {
+    "id": "L3-T730-028",
+    "part": 3,
+    "track": "T730",
+    "conversation": [
+      {
+        "speaker": "A",
+        "line": "I'm torn between two health insurance plans the company is offering this year. Have you decided?"
+      },
+      {
+        "speaker": "B",
+        "line": "I spent the whole weekend comparing them. The basic plan has no monthly premium but high deductibles."
+      },
+      {
+        "speaker": "A",
+        "line": "Right, but I have regular prescriptions and two dependents. The premium plan covers more, but I'm not sure the extra cost is worth it."
+      },
+      {
+        "speaker": "B",
+        "line": "Let's look at the numbers. The premium plan costs $180 more per month, but it covers ninety percent of prescription costs versus fifty percent."
+      },
+      {
+        "speaker": "A",
+        "line": "My monthly prescription costs are around $600. That means the premium plan would save me about $240 a month on medication alone."
+      },
+      {
+        "speaker": "B",
+        "line": "Exactly. The premium plan more than pays for itself in your case, especially with the lower specialist visit copays for your family."
+      },
+      {
+        "speaker": "A",
+        "line": "You're right. I'll go with the premium plan. Thanks for walking through the math with me."
+      }
+    ],
+    "chartData": null,
+    "questions": [
+      {
+        "id": "L3-T730-028-Q1",
+        "question": "What is the main topic of the conversation?",
+        "options": [
+          "Choosing a retirement plan",
+          "Selecting a health insurance plan",
+          "Applying for life insurance",
+          "Negotiating a salary package"
+        ],
+        "answer": "Selecting a health insurance plan",
+        "explanation": "整段對話在比較兩種公司提供的健康保險方案。",
+        "requiresChart": false,
+        "category": "主旨"
+      },
+      {
+        "id": "L3-T730-028-Q2",
+        "question": "What is the disadvantage of the basic plan for the woman?",
+        "options": [
+          "It has no dental coverage",
+          "It covers a lower percentage of prescription costs",
+          "It does not cover dependents",
+          "It requires a longer commitment"
+        ],
+        "answer": "It covers a lower percentage of prescription costs",
+        "explanation": "B說加值方案負擔90%處方藥費，而基本方案只負擔50%，A有固定用藥需求，這個差距影響很大。",
+        "requiresChart": false,
+        "category": "推論意圖"
+      },
+      {
+        "id": "L3-T730-028-Q3",
+        "question": "How does the man help the woman make her decision?",
+        "options": [
+          "He recommends she ask HR for advice",
+          "He calculates the financial impact based on her costs",
+          "He suggests she choose the cheapest option",
+          "He offers to share his own plan"
+        ],
+        "answer": "He calculates the financial impact based on her costs",
+        "explanation": "B幫A計算：每月多付$180保費，但可在$600的藥費上省$240，淨省$60，證明加值方案更划算。",
+        "requiresChart": false,
+        "category": "細節"
+      }
+    ]
+  },
+  {
+    "id": "L3-T730-029",
+    "part": 3,
+    "track": "T730",
+    "conversation": [
+      {
+        "speaker": "A",
+        "line": "The quarterly expense report is out. I'd like you to look at the department breakdown before our meeting with the CFO."
+      },
+      {
+        "speaker": "B",
+        "line": "The travel expenses in Q2 jumped by almost forty percent compared to Q1. What's driving that?"
+      },
+      {
+        "speaker": "A",
+        "line": "The sales team attended two international trade shows that fell in this quarter. Those are one-off events."
+      },
+      {
+        "speaker": "B",
+        "line": "I see. But the software licensing line is also up by twenty-five percent, and that's recurring."
+      },
+      {
+        "speaker": "A",
+        "line": "That's concerning. We renewed three enterprise licenses that came with automatic price escalations. I wasn't consulted on those."
+      },
+      {
+        "speaker": "B",
+        "line": "So the licenses were renewed without competitive bidding? That's a policy violation."
+      },
+      {
+        "speaker": "A",
+        "line": "It appears so. I'll raise this with procurement before the CFO review. We may need to renegotiate or switch vendors."
+      }
+    ],
+    "chartData": {
+      "type": "table",
+      "title": "Q2 Departmental Expenses (in thousands)",
+      "rows": [
+        [
+          "Category",
+          "Q1 Actual",
+          "Q2 Actual",
+          "Q2 Budget",
+          "Variance vs Budget"
+        ],
+        [
+          "Travel",
+          "$42",
+          "$58",
+          "$45",
+          "+$13"
+        ],
+        [
+          "Software Licenses",
+          "$80",
+          "$100",
+          "$85",
+          "+$15"
+        ],
+        [
+          "Office Supplies",
+          "$12",
+          "$11",
+          "$14",
+          "-$3"
+        ],
+        [
+          "Consulting",
+          "$35",
+          "$36",
+          "$38",
+          "-$2"
+        ],
+        [
+          "Training",
+          "$18",
+          "$20",
+          "$20",
+          "$0"
+        ]
+      ]
+    },
+    "questions": [
+      {
+        "id": "L3-T730-029-Q1",
+        "question": "Which category shows the largest dollar increase from Q1 to Q2?",
+        "options": [
+          "Travel",
+          "Software Licenses",
+          "Consulting",
+          "Training"
+        ],
+        "answer": "Software Licenses",
+        "explanation": "對照chartData，軟體授權從$80K增至$100K（+$20K），增幅大於差旅的+$16K。",
+        "requiresChart": true,
+        "category": "圖表整合"
+      },
+      {
+        "id": "L3-T730-029-Q2",
+        "question": "What explains the spike in travel expenses?",
+        "options": [
+          "More employees were hired",
+          "Two international trade shows were attended",
+          "Airfare prices increased",
+          "A new travel policy was implemented"
+        ],
+        "answer": "Two international trade shows were attended",
+        "explanation": "A說銷售團隊參加了兩場國際商展，落在Q2期間，屬於一次性事件。",
+        "requiresChart": false,
+        "category": "細節"
+      },
+      {
+        "id": "L3-T730-029-Q3",
+        "question": "What policy violation might have occurred according to the speakers?",
+        "options": [
+          "Overspending on office supplies",
+          "Renewing licenses without competitive bidding",
+          "Exceeding the training budget",
+          "Booking travel without approval"
+        ],
+        "answer": "Renewing licenses without competitive bidding",
+        "explanation": "B說授權續約沒經過競標程序是政策違規（policy violation），A同意並表示會向採購部門提出。",
+        "requiresChart": false,
+        "category": "推論意圖"
+      }
+    ]
+  },
+  {
+    "id": "L3-T730-030",
+    "part": 3,
+    "track": "T730",
+    "conversation": [
+      {
+        "speaker": "A",
+        "line": "The client presentation didn't go as well as I'd hoped. Their VP of operations seemed skeptical throughout."
+      },
+      {
+        "speaker": "B",
+        "line": "I noticed that too. She kept frowning during the ROI section. Did she say anything specific afterward?"
+      },
+      {
+        "speaker": "A",
+        "line": "She said our projected timeline was 'optimistic at best' and wanted to see more concrete data on the cost savings."
+      },
+      {
+        "speaker": "B",
+        "line": "In other words, they don't trust our numbers. We should have included case studies from similar implementations."
+      },
+      {
+        "speaker": "A",
+        "line": "Lesson learned. Can we salvage this? Maybe offer a follow-up presentation with the detailed case studies and a revised, more conservative timeline?"
+      },
+      {
+        "speaker": "B",
+        "line": "That's the right move. I'll gather data from the last three projects we completed. And let's add a risk mitigation section this time."
+      },
+      {
+        "speaker": "A",
+        "line": "Agreed. I'll reach out to the VP's assistant today to schedule a follow-up while the door is still open."
+      }
+    ],
+    "chartData": null,
+    "questions": [
+      {
+        "id": "L3-T730-030-Q1",
+        "question": "How did the client's VP react to the presentation?",
+        "options": [
+          "She was enthusiastic about the proposal",
+          "She expressed skepticism about the timeline",
+          "She asked to sign immediately",
+          "She requested a completely different approach"
+        ],
+        "answer": "She expressed skepticism about the timeline",
+        "explanation": "A說VP在ROI環節皺眉，會後表示預估時程「樂觀到不切實際」。",
+        "requiresChart": false,
+        "category": "推論意圖"
+      },
+      {
+        "id": "L3-T730-030-Q2",
+        "question": "What do the speakers agree they should have included in the presentation?",
+        "options": [
+          "More colorful graphics",
+          "Case studies from similar projects",
+          "A shorter presentation length",
+          "Product samples"
+        ],
+        "answer": "Case studies from similar projects",
+        "explanation": "B說應該納入類似實施案例的個案研究，讓數據更有說服力。",
+        "requiresChart": false,
+        "category": "細節"
+      },
+      {
+        "id": "L3-T730-030-Q3",
+        "question": "What is the woman's plan to recover the situation?",
+        "options": [
+          "Offer a discount to the client",
+          "Assign a different presenter",
+          "Schedule a follow-up with revised materials",
+          "Drop the proposal entirely"
+        ],
+        "answer": "Schedule a follow-up with revised materials",
+        "explanation": "A說要聯絡VP安排後續簡報，加入詳細案例和更保守的時程，趁對方還沒關門前補救。",
+        "requiresChart": false,
+        "category": "推論意圖"
+      }
+    ]
+  },
+  {
+    "id": "L3-T730-031",
+    "part": 3,
+    "track": "T730",
+    "conversation": [
+      {
+        "speaker": "A",
+        "line": "Our customer retention rate has dropped four percent this year. The churn rate among premium subscribers is particularly worrying."
+      },
+      {
+        "speaker": "B",
+        "line": "I analyzed the exit surveys. The most common complaint isn't pricing — it's the lack of personalized support after the first three months."
+      },
+      {
+        "speaker": "A",
+        "line": "So we're losing customers after the onboarding phase because they feel neglected?"
+      },
+      {
+        "speaker": "B",
+        "line": "Essentially, yes. Our competitors have dedicated account managers, but we currently assign one manager to over two hundred accounts."
+      },
+      {
+        "speaker": "A",
+        "line": "That ratio is untenable. What if we tier our support — assign dedicated managers only to premium clients and create a self-service portal for the rest?"
+      },
+      {
+        "speaker": "B",
+        "line": "A tiered model would let us retain the high-value accounts without doubling our headcount. I'd suggest piloting it for one quarter."
+      },
+      {
+        "speaker": "A",
+        "line": "Fine. Draft a proposal with projected costs and expected retention impact. If the numbers work, we'll take it to the executive team."
+      }
+    ],
+    "chartData": null,
+    "questions": [
+      {
+        "id": "L3-T730-031-Q1",
+        "question": "What is the main problem discussed in the conversation?",
+        "options": [
+          "Rising operational costs",
+          "Declining customer retention rates",
+          "Product quality complaints",
+          "Low employee morale"
+        ],
+        "answer": "Declining customer retention rates",
+        "explanation": "A一開始就說客戶留存率今年下降了4%，高階訂閱戶流失尤其令人擔憂。",
+        "requiresChart": false,
+        "category": "主旨"
+      },
+      {
+        "id": "L3-T730-031-Q2",
+        "question": "What do exit surveys reveal as the primary reason for customer churn?",
+        "options": [
+          "Pricing is too high",
+          "Lack of personalized support after onboarding",
+          "Product features are outdated",
+          "The website is difficult to use"
+        ],
+        "answer": "Lack of personalized support after onboarding",
+        "explanation": "B說最常見的抱怨不是價格，而是三個月後缺乏個人化支援。",
+        "requiresChart": false,
+        "category": "細節"
+      },
+      {
+        "id": "L3-T730-031-Q3",
+        "question": "What solution does the woman propose?",
+        "options": [
+          "Reduce prices for all customers",
+          "Hire more account managers",
+          "Create a tiered support system",
+          "Outsource customer support"
+        ],
+        "answer": "Create a tiered support system",
+        "explanation": "A提議分級服務：高階客戶配專屬經理，其餘用戶用自助入口，B認為可行。",
+        "requiresChart": false,
+        "category": "推論意圖"
+      }
+    ]
+  },
+  {
+    "id": "L3-T730-032",
+    "part": 3,
+    "track": "T730",
+    "conversation": [
+      {
+        "speaker": "A",
+        "line": "Did you see the alert from IT security? Someone tried to access the payroll database with invalid credentials four times overnight."
+      },
+      {
+        "speaker": "B",
+        "line": "I saw it. The attempts came from an IP address in a country where we have no operations. That's a red flag."
+      },
+      {
+        "speaker": "A",
+        "line": "Should we shut down remote access until we investigate?"
+      },
+      {
+        "speaker": "B",
+        "line": "That would disrupt the entire Asia-Pacific team who are starting their workday right now. Let's start by forcing a password reset for everyone with payroll access."
+      },
+      {
+        "speaker": "A",
+        "line": "That's less disruptive but still protective. I'll notify the APAC team lead so they can manage expectations."
+      },
+      {
+        "speaker": "B",
+        "line": "Good. Meanwhile, I'll ask IT to trace the IP and check if any other systems were probed. If they were, we escalate to a full lockdown."
+      },
+      {
+        "speaker": "A",
+        "line": "Understood. Let's reconvene in two hours with whatever data IT has gathered."
+      }
+    ],
+    "chartData": null,
+    "questions": [
+      {
+        "id": "L3-T730-032-Q1",
+        "question": "What security incident occurred?",
+        "options": [
+          "A phishing email was sent to employees",
+          "Unauthorized access attempts to the payroll database",
+          "The company website was hacked",
+          "Customer data was leaked online"
+        ],
+        "answer": "Unauthorized access attempts to the payroll database",
+        "explanation": "A說有人在夜間用無效憑證嘗試登入薪資資料庫四次。",
+        "requiresChart": false,
+        "category": "細節"
+      },
+      {
+        "id": "L3-T730-032-Q2",
+        "question": "Why does the man oppose shutting down remote access immediately?",
+        "options": [
+          "He thinks the threat is minor",
+          "It would disrupt the Asia-Pacific team",
+          "The IT department is unavailable",
+          "The payroll system is already offline"
+        ],
+        "answer": "It would disrupt the Asia-Pacific team",
+        "explanation": "B說關閉遠端存取會打斷正在上班的亞太團隊運作。",
+        "requiresChart": false,
+        "category": "細節"
+      },
+      {
+        "id": "L3-T730-032-Q3",
+        "question": "What is the initial response plan the speakers agree on?",
+        "options": [
+          "Shut down all servers immediately",
+          "Force password resets for payroll users while investigating",
+          "Ignore the alerts and monitor for 24 hours",
+          "Call law enforcement immediately"
+        ],
+        "answer": "Force password resets for payroll users while investigating",
+        "explanation": "B建議先強制重置有薪資權限者的密碼，同時追蹤來源IP，不立即關閉系統。",
+        "requiresChart": false,
+        "category": "推論意圖"
+      }
+    ]
+  },
+  {
+    "id": "L3-T730-033",
+    "part": 3,
+    "track": "T730",
+    "conversation": [
+      {
+        "speaker": "A",
+        "line": "Marketing wants to price the new software suite at $49 per user per month. But I think we can command a higher price point."
+      },
+      {
+        "speaker": "B",
+        "line": "Our competitors range from $35 to $75. Where do you think we should position ourselves?"
+      },
+      {
+        "speaker": "A",
+        "line": "Given that we offer analytics features that the $75 competitor doesn't have, I'd argue for $69 as our standard tier."
+      },
+      {
+        "speaker": "B",
+        "line": "The challenge is market perception. We're a newer player and buyers may not immediately recognize our added value."
+      },
+      {
+        "speaker": "A",
+        "line": "Fair point. What about a three-tier pricing model? A basic version at $39 to attract new users, a professional tier at $69, and enterprise at $99 with premium support."
+      },
+      {
+        "speaker": "B",
+        "line": "That addresses both concerns — competitive entry-level pricing and premium positioning for feature-rich tiers. Let's model the revenue projections for each scenario."
+      },
+      {
+        "speaker": "A",
+        "line": "I'll run the numbers assuming a sixty-forty-thirty split across the three tiers and have projections ready for the pricing committee by Thursday."
+      }
+    ],
+    "chartData": {
+      "type": "table",
+      "title": "Proposed Three-Tier Pricing Model",
+      "rows": [
+        [
+          "Tier",
+          "Price/User/Month",
+          "Key Features",
+          "Support Level",
+          "Target Segment"
+        ],
+        [
+          "Basic",
+          "$39",
+          "Core tools, 10GB storage",
+          "Email support",
+          "Small teams, startups"
+        ],
+        [
+          "Professional",
+          "$69",
+          "Core + Analytics, 50GB",
+          "Priority chat + email",
+          "Mid-size businesses"
+        ],
+        [
+          "Enterprise",
+          "$99",
+          "All features, Unlimited storage",
+          "Dedicated account manager",
+          "Large organizations"
+        ]
+      ]
+    },
+    "questions": [
+      {
+        "id": "L3-T730-033-Q1",
+        "question": "What initial price did the marketing department suggest?",
+        "options": [
+          "$35 per user",
+          "$49 per user",
+          "$69 per user",
+          "$75 per user"
+        ],
+        "answer": "$49 per user",
+        "explanation": "A說行銷部門想把新軟體定價在每位使用者每月$49。",
+        "requiresChart": false,
+        "category": "細節"
+      },
+      {
+        "id": "L3-T730-033-Q2",
+        "question": "How does the Professional tier compare to the Basic tier in the proposed model?",
+        "options": [
+          "It costs twice as much but offers analytics features and more storage",
+          "It costs the same but includes phone support",
+          "It is cheaper but has fewer features",
+          "It is only available to large organizations"
+        ],
+        "answer": "It costs twice as much but offers analytics features and more storage",
+        "explanation": "對照chartData，Professional tier ($69) 比 Basic ($39) 貴約1.8倍，增加Analytics功能與50GB容量（Basic為10GB）。",
+        "requiresChart": true,
+        "category": "圖表整合"
+      },
+      {
+        "id": "L3-T730-033-Q3",
+        "question": "What concern does the man raise about pricing the product at $69?",
+        "options": [
+          "The product is not ready for launch",
+          "Buyers may not recognize the added value of a newer brand",
+          "Competitors will lower their prices",
+          "The company lacks analytics features"
+        ],
+        "answer": "Buyers may not recognize the added value of a newer brand",
+        "explanation": "B說公司是較新的入場者，市場可能不會立刻認同附加價值。",
+        "requiresChart": false,
+        "category": "推論意圖"
+      }
+    ]
+  },
+  {
+    "id": "L3-T730-034",
+    "part": 3,
+    "track": "T730",
+    "conversation": [
+      {
+        "speaker": "A",
+        "line": "Your performance review is scheduled for next Tuesday. Before then, I'd like you to complete a self-assessment."
+      },
+      {
+        "speaker": "B",
+        "line": "I've already started. Honestly, I think I hit most of my targets, but the Martinez project didn't meet the original deadline."
+      },
+      {
+        "speaker": "A",
+        "line": "The Martinez delay was due to factors outside your control — the client changed specifications twice mid-project."
+      },
+      {
+        "speaker": "B",
+        "line": "That's true, but I could have communicated the impact of those changes more proactively instead of trying to absorb the delays."
+      },
+      {
+        "speaker": "A",
+        "line": "Self-awareness like that is what separates senior contributors from managers. Have you thought about taking on more leadership responsibilities?"
+      },
+      {
+        "speaker": "B",
+        "line": "I have. I'd like to mentor two of the junior analysts and lead the Q4 planning initiative, if there's room for that in my role."
+      },
+      {
+        "speaker": "A",
+        "line": "I'll include that in my recommendation to the review panel. Let's discuss specifics on Tuesday."
+      }
+    ],
+    "chartData": null,
+    "questions": [
+      {
+        "id": "L3-T730-034-Q1",
+        "question": "What is the man asked to do before his performance review?",
+        "options": [
+          "Complete a self-assessment",
+          "Prepare a presentation",
+          "Submit expense reports",
+          "Schedule client meetings"
+        ],
+        "answer": "Complete a self-assessment",
+        "explanation": "A說在績效評估前要B完成自我評量（self-assessment）。",
+        "requiresChart": false,
+        "category": "細節"
+      },
+      {
+        "id": "L3-T730-034-Q2",
+        "question": "What does the man identify as his own weakness?",
+        "options": [
+          "He missed all his targets",
+          "He failed to communicate project changes proactively",
+          "He lacks technical skills",
+          "He does not work well with others"
+        ],
+        "answer": "He failed to communicate project changes proactively",
+        "explanation": "B說雖然延遲是客戶變更規格造成，但他應該更積極溝通變更的影響，而非試圖自己吸收延遲。",
+        "requiresChart": false,
+        "category": "推論意圖"
+      },
+      {
+        "id": "L3-T730-034-Q3",
+        "question": "What does the man express interest in doing going forward?",
+        "options": [
+          "Changing departments",
+          "Mentoring junior analysts and leading a planning initiative",
+          "Working remotely full-time",
+          "Taking a leave of absence"
+        ],
+        "answer": "Mentoring junior analysts and leading a planning initiative",
+        "explanation": "B說想指導兩位初級分析師並主導Q4規劃計畫。",
+        "requiresChart": false,
+        "category": "細節"
+      }
+    ]
+  },
+  {
+    "id": "L3-T730-035",
+    "part": 3,
+    "track": "T730",
+    "conversation": [
+      {
+        "speaker": "A",
+        "line": "Our shipment to Brazil is stuck in customs. They're claiming the certificate of origin is incomplete."
+      },
+      {
+        "speaker": "B",
+        "line": "That document should have been verified before we shipped. Who prepared it?"
+      },
+      {
+        "speaker": "A",
+        "line": "The new export coordinator. She used an outdated template that doesn't include the harmonized system codes."
+      },
+      {
+        "speaker": "B",
+        "line": "The HS codes are mandatory for Mercosur countries. Without them, the shipment could be held for weeks."
+      },
+      {
+        "speaker": "A",
+        "line": "Can we issue a corrected certificate retroactively and courier it to the customs broker?"
+      },
+      {
+        "speaker": "B",
+        "line": "Yes, but we'll need a notarized letter explaining the clerical error. And we should cover any storage fees the client incurs."
+      },
+      {
+        "speaker": "A",
+        "line": "Agreed. I'll contact the broker immediately and have the documents prepared within the hour."
+      }
+    ],
+    "chartData": null,
+    "questions": [
+      {
+        "id": "L3-T730-035-Q1",
+        "question": "Why is the shipment held at customs?",
+        "options": [
+          "The products are prohibited",
+          "The certificate of origin is incomplete",
+          "Duties were not paid",
+          "The packaging was damaged"
+        ],
+        "answer": "The certificate of origin is incomplete",
+        "explanation": "A說貨物卡在海關，因為產地證明不完整。",
+        "requiresChart": false,
+        "category": "細節"
+      },
+      {
+        "id": "L3-T730-035-Q2",
+        "question": "What specific information was missing from the document?",
+        "options": [
+          "The shipment date",
+          "The exporter's signature",
+          "Harmonized system codes",
+          "The importer's tax ID"
+        ],
+        "answer": "Harmonized system codes",
+        "explanation": "A說新出口協調員用了過時的模板，遺漏了HS codes（國際商品統一分類代碼）。",
+        "requiresChart": false,
+        "category": "細節"
+      },
+      {
+        "id": "L3-T730-035-Q3",
+        "question": "What will the company most likely do to resolve the issue?",
+        "options": [
+          "Abandon the shipment",
+          "Send a corrected certificate with a notarized explanation",
+          "Wait for customs to release it automatically",
+          "Return the goods to the factory"
+        ],
+        "answer": "Send a corrected certificate with a notarized explanation",
+        "explanation": "B說可以補發更正後的產地證明並附上公證的錯誤說明信。",
+        "requiresChart": false,
+        "category": "推論意圖"
+      }
+    ]
+  },
+  {
+    "id": "L3-T730-036",
+    "part": 3,
+    "track": "T730",
+    "conversation": [
+      {
+        "speaker": "A",
+        "line": "HR is proposing a revised remote work policy. They want employees in the office four days a week starting next quarter."
+      },
+      {
+        "speaker": "B",
+        "line": "Four days is going to be a tough sell. We surveyed the team last month and over seventy percent preferred the current hybrid model."
+      },
+      {
+        "speaker": "A",
+        "line": "The push is coming from the executive level. They believe in-person collaboration has suffered under the three-day model."
+      },
+      {
+        "speaker": "B",
+        "line": "Has anyone actually measured collaboration outcomes, or is this based on perception?"
+      },
+      {
+        "speaker": "A",
+        "line": "That's a fair question. The productivity metrics are actually up eight percent since we adopted the hybrid policy."
+      },
+      {
+        "speaker": "B",
+        "line": "Then we have data to counter the narrative. I'd suggest we present the productivity numbers to the executive team and propose keeping the current policy while adding one mandatory in-person collaboration day per month."
+      },
+      {
+        "speaker": "A",
+        "line": "A compromise backed by data is harder to dismiss. Let's prepare that presentation."
+      }
+    ],
+    "chartData": null,
+    "questions": [
+      {
+        "id": "L3-T730-036-Q1",
+        "question": "What change does HR propose to the remote work policy?",
+        "options": [
+          "Allow fully remote work",
+          "Increase in-office days to four per week",
+          "Reduce in-office days to two per week",
+          "Eliminate remote work entirely"
+        ],
+        "answer": "Increase in-office days to four per week",
+        "explanation": "A說HR提議從下一季開始每週進辦四天。",
+        "requiresChart": false,
+        "category": "細節"
+      },
+      {
+        "id": "L3-T730-036-Q2",
+        "question": "What does the woman suggest to counter the executive proposal?",
+        "options": [
+          "Accept the policy without objection",
+          "Present productivity data supporting the current model",
+          "Threaten mass resignations",
+          "Propose a complete switch to remote work"
+        ],
+        "answer": "Present productivity data supporting the current model",
+        "explanation": "B說既然生產力在混合模式下已提升8%，應以此數據反駁並提出折衷方案。",
+        "requiresChart": false,
+        "category": "推論意圖"
+      },
+      {
+        "id": "L3-T730-036-Q3",
+        "question": "What compromise does the woman propose?",
+        "options": [
+          "Keep the current policy plus one monthly in-person day",
+          "Accept four office days immediately",
+          "Let each department decide independently",
+          "Delay the decision for a year"
+        ],
+        "answer": "Keep the current policy plus one monthly in-person day",
+        "explanation": "B提議維持現行混合方案，但每月增加一天強制面對面協作日。",
+        "requiresChart": false,
+        "category": "細節"
+      }
+    ]
+  },
+  {
+    "id": "L3-T730-037",
+    "part": 3,
+    "track": "T730",
+    "conversation": [
+      {
+        "speaker": "A",
+        "line": "Our main warehouse is operating at ninety-two percent capacity. If holiday demand follows projections, we'll exceed capacity by November."
+      },
+      {
+        "speaker": "B",
+        "line": "The options are either leasing additional space or investing in vertical storage systems to maximize the existing footprint."
+      },
+      {
+        "speaker": "A",
+        "line": "A new lease ties us into a multi-year commitment. Vertical storage would be a one-time capital expenditure with no recurring rent."
+      },
+      {
+        "speaker": "B",
+        "line": "The initial outlay for vertical racks and automated retrieval systems is substantial — roughly $400,000 for our square footage."
+      },
+      {
+        "speaker": "A",
+        "line": "Compare that to three years of lease payments on additional space. If the breakeven point is under two years, the investment makes sense."
+      },
+      {
+        "speaker": "B",
+        "line": "I'll have the operations team run both scenarios with the finance department. We should have a recommendation by the end of the week."
+      },
+      {
+        "speaker": "A",
+        "line": "Good. But flag it as urgent — we can't afford to be caught without capacity in peak season."
+      }
+    ],
+    "chartData": null,
+    "questions": [
+      {
+        "id": "L3-T730-037-Q1",
+        "question": "What problem is the company facing?",
+        "options": [
+          "Inventory theft",
+          "Warehouse capacity shortage",
+          "High employee turnover",
+          "Equipment failure"
+        ],
+        "answer": "Warehouse capacity shortage",
+        "explanation": "A說主倉庫運轉率已達92%，旺季需求會使容量在11月超標。",
+        "requiresChart": false,
+        "category": "細節"
+      },
+      {
+        "id": "L3-T730-037-Q2",
+        "question": "What is the estimated cost of the vertical storage system?",
+        "options": [
+          "$92,000",
+          "$400,000",
+          "$2 million",
+          "It was not mentioned"
+        ],
+        "answer": "$400,000",
+        "explanation": "B說垂直貨架和自動化存取系統的初始支出大約是40萬美元。",
+        "requiresChart": false,
+        "category": "細節"
+      },
+      {
+        "id": "L3-T730-037-Q3",
+        "question": "Under what condition would the capital investment be justified?",
+        "options": [
+          "If the vendor offers a discount",
+          "If the breakeven point is under two years",
+          "If the warehouse can be expanded",
+          "If demand decreases"
+        ],
+        "answer": "If the breakeven point is under two years",
+        "explanation": "A說若損益平衡點低於兩年，投資就有意義。",
+        "requiresChart": false,
+        "category": "推論意圖"
+      }
+    ]
+  },
+  {
+    "id": "L3-T730-038",
+    "part": 3,
+    "track": "T730",
+    "conversation": [
+      {
+        "speaker": "A",
+        "line": "The industry conference organizers want us to recommend a keynote speaker. We have four candidates to evaluate."
+      },
+      {
+        "speaker": "B",
+        "line": "I reviewed the speaker proposals. Dr. Alvarez is a renowned researcher, but her speaking fee is almost double the others'."
+      },
+      {
+        "speaker": "A",
+        "line": "True, but she would draw a larger audience. The question is whether the ticket sales would offset the higher cost."
+      },
+      {
+        "speaker": "B",
+        "line": "James Park is more affordable and has strong audience ratings, but he's spoken at similar events three times this year — the topic might feel recycled."
+      },
+      {
+        "speaker": "A",
+        "line": "We need someone fresh. What about Nina Okonkwo? She specializes in emerging markets, which aligns with this year's theme, and her fee is within mid-range."
+      },
+      {
+        "speaker": "B",
+        "line": "Her topic is the most relevant. And her rating of 4.6 is only slightly below Dr. Alvarez's 4.8. I'd recommend her."
+      }
+    ],
+    "chartData": {
+      "type": "table",
+      "title": "Keynote Speaker Candidates",
+      "rows": [
+        [
+          "Speaker",
+          "Speaking Fee",
+          "Audience Rating",
+          "Topic Relevance",
+          "Availability"
+        ],
+        [
+          "Dr. Elena Alvarez",
+          "$25,000",
+          "4.8/5",
+          "AI & Automation",
+          "Confirmed"
+        ],
+        [
+          "James Park",
+          "$8,000",
+          "4.5/5",
+          "Leadership",
+          "3 prior talks this year"
+        ],
+        [
+          "Nina Okonkwo",
+          "$14,000",
+          "4.6/5",
+          "Emerging Markets",
+          "Confirmed"
+        ],
+        [
+          "Robert Chen",
+          "$10,000",
+          "4.2/5",
+          "Digital Transformation",
+          "Pending"
+        ]
+      ]
+    },
+    "questions": [
+      {
+        "id": "L3-T730-038-Q1",
+        "question": "Why do the speakers hesitate to choose Dr. Alvarez?",
+        "options": [
+          "She is not available",
+          "Her topic is irrelevant",
+          "Her speaking fee is very high",
+          "Her audience rating is low"
+        ],
+        "answer": "Her speaking fee is very high",
+        "explanation": "B說Alvarez演講費幾乎是其他人的兩倍，無需圖表即可判斷費用太高。",
+        "requiresChart": false,
+        "category": "圖表整合"
+      },
+      {
+        "id": "L3-T730-038-Q2",
+        "question": "What is the main concern about selecting James Park?",
+        "options": [
+          "He is too expensive",
+          "His topic may seem unoriginal due to frequent appearances",
+          "He is not available",
+          "His rating is too low"
+        ],
+        "answer": "His topic may seem unoriginal due to frequent appearances",
+        "explanation": "B說James Park今年已在類似活動演講三次，主題可能給人重複的感覺。",
+        "requiresChart": false,
+        "category": "推論意圖"
+      },
+      {
+        "id": "L3-T730-038-Q3",
+        "question": "Which speaker has the lowest speaking fee according to the chart?",
+        "options": [
+          "Dr. Elena Alvarez",
+          "James Park",
+          "Nina Okonkwo",
+          "Robert Chen"
+        ],
+        "answer": "James Park",
+        "explanation": "對照chartData，James Park演講費$8,000為所有候選人中最低。",
+        "requiresChart": true,
+        "category": "圖表整合"
+      }
+    ]
+  },
+  {
+    "id": "L3-T730-039",
+    "part": 3,
+    "track": "T730",
+    "conversation": [
+      {
+        "speaker": "A",
+        "line": "It's been six months since the merger closed. How do you feel the integration is progressing?"
+      },
+      {
+        "speaker": "B",
+        "line": "Honestly, slower than I anticipated. The IT systems still aren't fully integrated, and that's causing duplicate data entry in two departments."
+      },
+      {
+        "speaker": "A",
+        "line": "I've heard similar complaints from the finance team. They're reconciling reports manually, which is eating up about fifteen hours a week."
+      },
+      {
+        "speaker": "B",
+        "line": "The integration roadmap had the ERP consolidation scheduled for month three. We're now at month six with no completion date in sight."
+      },
+      {
+        "speaker": "A",
+        "line": "Who's accountable for the IT workstream? Have we escalated this to the steering committee?"
+      },
+      {
+        "speaker": "B",
+        "line": "The vendor we hired for the integration has been understaffed. I think we need to bring in additional resources or renegotiate the contract."
+      },
+      {
+        "speaker": "A",
+        "line": "Let's raise it at Thursday's steering committee. In the meantime, document the productivity losses so we have hard data to support our case."
+      }
+    ],
+    "chartData": null,
+    "questions": [
+      {
+        "id": "L3-T730-039-Q1",
+        "question": "What is the main challenge with the merger integration?",
+        "options": [
+          "Cultural differences between the companies",
+          "IT systems are not yet fully integrated",
+          "Employee resignations",
+          "Legal compliance issues"
+        ],
+        "answer": "IT systems are not yet fully integrated",
+        "explanation": "B說IT系統尚未完成整合，導致兩個部門重複輸入資料。",
+        "requiresChart": false,
+        "category": "細節"
+      },
+      {
+        "id": "L3-T730-039-Q2",
+        "question": "How is the finance team affected by the delayed integration?",
+        "options": [
+          "They are overstaffed",
+          "They spend 15 hours a week on manual reconciliation",
+          "They received a budget increase",
+          "They switched to new software"
+        ],
+        "answer": "They spend 15 hours a week on manual reconciliation",
+        "explanation": "A說財務團隊每週花約15小時手動對帳。",
+        "requiresChart": false,
+        "category": "細節"
+      },
+      {
+        "id": "L3-T730-039-Q3",
+        "question": "What action do the speakers plan to take?",
+        "options": [
+          "Cancel the IT vendor contract",
+          "Escalate to the steering committee with documented losses",
+          "Accept the delays as unavoidable",
+          "Replace the finance team"
+        ],
+        "answer": "Escalate to the steering committee with documented losses",
+        "explanation": "A說星期四在督導委員會提出，B則說要記錄生產力損失作為佐證。",
+        "requiresChart": false,
+        "category": "推論意圖"
+      }
+    ]
+  },
+  {
+    "id": "L3-T730-040",
+    "part": 3,
+    "track": "T730",
+    "conversation": [
+      {
+        "speaker": "A",
+        "line": "We need to cut departmental expenses by ten percent across the board. Your team's budget is one of the largest non-salary items."
+      },
+      {
+        "speaker": "B",
+        "line": "I expected this conversation. The marketing budget has been inflated by the brand awareness campaign, which is due to conclude next month."
+      },
+      {
+        "speaker": "A",
+        "line": "Once that campaign wraps, what's your projected run rate?"
+      },
+      {
+        "speaker": "B",
+        "line": "Our baseline operating costs would drop to $45,000 per month, down from the current $62,000. That's a twenty-seven percent reduction right there."
+      },
+      {
+        "speaker": "A",
+        "line": "That more than meets the target. But what about the remaining budget lines?"
+      },
+      {
+        "speaker": "B",
+        "line": "The digital advertising spend is contractual through year-end. I can't touch that without penalties. However, the events budget has some flexibility."
+      },
+      {
+        "speaker": "A",
+        "line": "Fine. Let's lock in the campaign wind-down savings and look for an additional five percent reduction from the events line. That puts us at compliance plus a buffer."
+      }
+    ],
+    "chartData": null,
+    "questions": [
+      {
+        "id": "L3-T730-040-Q1",
+        "question": "What is the main purpose of the conversation?",
+        "options": [
+          "Planning a new campaign",
+          "Discussing budget reduction targets",
+          "Approving a hiring request",
+          "Reviewing marketing performance"
+        ],
+        "answer": "Discussing budget reduction targets",
+        "explanation": "A說要全面削減部門開支10%，對話圍繞如何達成此目標。",
+        "requiresChart": false,
+        "category": "主旨"
+      },
+      {
+        "id": "L3-T730-040-Q2",
+        "question": "How much will the marketing budget decrease after the campaign ends?",
+        "options": [
+          "10 percent",
+          "20 percent",
+          "27 percent",
+          "It will stay the same"
+        ],
+        "answer": "27 percent",
+        "explanation": "B說基本營運成本將從$62,000降至$45,000，降幅為27%。",
+        "requiresChart": false,
+        "category": "細節"
+      },
+      {
+        "id": "L3-T730-040-Q3",
+        "question": "Why can the digital advertising budget not be cut?",
+        "options": [
+          "It has already been spent",
+          "It is under contractual obligation until year-end",
+          "The CEO personally approved it",
+          "It generates the most revenue"
+        ],
+        "answer": "It is under contractual obligation until year-end",
+        "explanation": "B說數位廣告支出有合約在身到年底，無法削減否則會有違約金。",
+        "requiresChart": false,
+        "category": "細節"
+      }
+    ]
+  },
+  {
+    "id": "L3-T730-041",
+    "part": 3,
+    "track": "T730",
+    "conversation": [
+      {
+        "speaker": "A",
+        "line": "The product launch date needs to be pushed back. The engineering team found a critical bug in the payment module."
+      },
+      {
+        "speaker": "B",
+        "line": "How critical? We've already sent press invitations and booked the venue for the launch event."
+      },
+      {
+        "speaker": "A",
+        "line": "Under certain conditions, it can double-charge customers. We can't ship with that."
+      },
+      {
+        "speaker": "B",
+        "line": "No, absolutely not. What's the engineering estimate for a fix?"
+      },
+      {
+        "speaker": "A",
+        "line": "Ten business days, including testing. That would push launch from the fifteenth to the twenty-ninth."
+      },
+      {
+        "speaker": "B",
+        "line": "We can reschedule the venue without penalty if we notify them by tomorrow. But the press — we'll need a credible explanation that doesn't undermine confidence."
+      },
+      {
+        "speaker": "A",
+        "line": "How about 'We're incorporating last-minute user feedback to enhance the checkout experience'? It's truthful without exposing the bug."
+      },
+      {
+        "speaker": "B",
+        "line": "That works. Draft the press statement and I'll review it before we send it out."
+      }
+    ],
+    "chartData": null,
+    "questions": [
+      {
+        "id": "L3-T730-041-Q1",
+        "question": "Why must the product launch be delayed?",
+        "options": [
+          "The marketing materials are not ready",
+          "A critical bug could double-charge customers",
+          "The venue canceled the booking",
+          "The CEO is unavailable"
+        ],
+        "answer": "A critical bug could double-charge customers",
+        "explanation": "A說工程團隊在付款模組發現嚴重錯誤，在某些情況下會對客戶重複扣款。",
+        "requiresChart": false,
+        "category": "細節"
+      },
+      {
+        "id": "L3-T730-041-Q2",
+        "question": "How long will the fix take according to engineering?",
+        "options": [
+          "Three business days",
+          "Five business days",
+          "Ten business days",
+          "Two weeks"
+        ],
+        "answer": "Ten business days",
+        "explanation": "A說修正包括測試需要十個工作日，推出日期從15日延到29日。",
+        "requiresChart": false,
+        "category": "細節"
+      },
+      {
+        "id": "L3-T730-041-Q3",
+        "question": "How do the speakers plan to communicate the delay to the press?",
+        "options": [
+          "Admit the bug publicly",
+          "Frame it as incorporating user feedback",
+          "Cancel all press communications",
+          "Blame the engineering team"
+        ],
+        "answer": "Frame it as incorporating user feedback",
+        "explanation": "A建議對媒體說法為「融入即時用戶回饋以改善結帳體驗」，既不說謊也不暴露錯誤。",
+        "requiresChart": false,
+        "category": "推論意圖"
+      }
+    ]
+  },
+  {
+    "id": "L3-T730-042",
+    "part": 3,
+    "track": "T730",
+    "conversation": [
+      {
+        "speaker": "A",
+        "line": "Our cloud hosting contract is up for renewal. I've compiled the proposals from three providers."
+      },
+      {
+        "speaker": "B",
+        "line": "CloudNet is our incumbent. Renewing with them would be the path of least resistance."
+      },
+      {
+        "speaker": "A",
+        "line": "True, but their renewal quote is fifteen percent higher than what DataVault is offering for equivalent specs."
+      },
+      {
+        "speaker": "B",
+        "line": "DataVault's price is attractive, but they only guarantee 99.5% uptime. Our current SLA guarantees 99.9%. That 0.4% difference translates to almost thirty hours of potential downtime per year."
+      },
+      {
+        "speaker": "A",
+        "line": "What about StratosHost? They match CloudNet's uptime guarantee and their price is in the middle."
+      },
+      {
+        "speaker": "B",
+        "line": "But StratosHost requires a three-year lock-in with no early termination clause. If our needs change, we're stuck."
+      },
+      {
+        "speaker": "A",
+        "line": "CloudNet may be more expensive, but the flexibility and reliability are worth the premium. Let's negotiate a modest discount and renew with them."
+      }
+    ],
+    "chartData": {
+      "type": "table",
+      "title": "Cloud Hosting Provider Comparison",
+      "rows": [
+        [
+          "Provider",
+          "Annual Cost",
+          "Uptime SLA",
+          "Contract Term",
+          "Migration Support"
+        ],
+        [
+          "CloudNet (Current)",
+          "$180,000",
+          "99.9%",
+          "1 year",
+          "N/A (incumbent)"
+        ],
+        [
+          "DataVault",
+          "$153,000",
+          "99.5%",
+          "1 year",
+          "Free migration included"
+        ],
+        [
+          "StratosHost",
+          "$170,000",
+          "99.9%",
+          "3 years (lock-in)",
+          "Not included"
+        ]
+      ]
+    },
+    "questions": [
+      {
+        "id": "L3-T730-042-Q1",
+        "question": "What is the main disadvantage of DataVault according to the speakers?",
+        "options": [
+          "It is too expensive",
+          "Its uptime guarantee is lower",
+          "It requires a three-year commitment",
+          "It lacks migration support"
+        ],
+        "answer": "Its uptime guarantee is lower",
+        "explanation": "B說DataVault只保證99.5%正常運行時間，對照chartData比CloudNet的99.9%低了0.4%，相當於一年近30小時可能停機。",
+        "requiresChart": true,
+        "category": "圖表整合"
+      },
+      {
+        "id": "L3-T730-042-Q2",
+        "question": "What concern does the man raise about StratosHost?",
+        "options": [
+          "High price",
+          "Poor uptime record",
+          "Three-year lock-in with no early exit",
+          "No free migration support"
+        ],
+        "answer": "Three-year lock-in with no early exit",
+        "explanation": "B說StratosHost要求三年綁約且無提前解約條款，若需求變化就會被困住。對照chartData，其合約期確為3年且標註lock-in。",
+        "requiresChart": true,
+        "category": "圖表整合"
+      },
+      {
+        "id": "L3-T730-042-Q3",
+        "question": "What is the speakers' final decision?",
+        "options": [
+          "Switch to DataVault for the savings",
+          "Sign a three-year deal with StratosHost",
+          "Renew with CloudNet after negotiating a discount",
+          "Pause all cloud services temporarily"
+        ],
+        "answer": "Renew with CloudNet after negotiating a discount",
+        "explanation": "A總結說雖然CloudNet較貴，但彈性和可靠性值得溢價，決定續約但會試著協商折扣。",
+        "requiresChart": false,
+        "category": "推論意圖"
+      }
+    ]
+  },
+  {
+    "id": "L3-T730-043",
+    "part": 3,
+    "track": "T730",
+    "conversation": [
+      {
+        "speaker": "A",
+        "line": "We have an invoice from our European supplier due in thirty days, denominated in euros. The exchange rate has been volatile."
+      },
+      {
+        "speaker": "B",
+        "line": "The euro has strengthened three percent against the dollar in the past two weeks. If the trend continues, we'll pay substantially more."
+      },
+      {
+        "speaker": "A",
+        "line": "Should we lock in the rate now with a forward contract?"
+      },
+      {
+        "speaker": "B",
+        "line": "A forward contract would guarantee today's rate, but we'd lose the upside if the euro weakens. The premium is about 1.2 percent for a thirty-day lock."
+      },
+      {
+        "speaker": "A",
+        "line": "A 1.2 percent premium is cheaper than a potential three to five percent adverse move. Let's hedge at least seventy percent of the exposure."
+      },
+      {
+        "speaker": "B",
+        "line": "Partial hedging makes sense. It limits our downside while leaving some room to benefit if rates move in our favor."
+      },
+      {
+        "speaker": "A",
+        "line": "Contact the bank and execute the forward contract for seventy percent of the invoice amount today."
+      }
+    ],
+    "chartData": null,
+    "questions": [
+      {
+        "id": "L3-T730-043-Q1",
+        "question": "What financial risk are the speakers discussing?",
+        "options": [
+          "Interest rate risk",
+          "Currency exchange rate risk",
+          "Credit default risk",
+          "Inflation risk"
+        ],
+        "answer": "Currency exchange rate risk",
+        "explanation": "對話討論歐元計價發票的匯率波動以及如何避險。",
+        "requiresChart": false,
+        "category": "主旨"
+      },
+      {
+        "id": "L3-T730-043-Q2",
+        "question": "How much has the euro changed against the dollar in the last two weeks?",
+        "options": [
+          "It declined 1.2 percent",
+          "It strengthened 3 percent",
+          "It remained flat",
+          "It fluctuated wildly"
+        ],
+        "answer": "It strengthened 3 percent",
+        "explanation": "B說歐元在過去兩週對美元升值了3%。",
+        "requiresChart": false,
+        "category": "細節"
+      },
+      {
+        "id": "L3-T730-043-Q3",
+        "question": "What hedging strategy do the speakers decide on?",
+        "options": [
+          "Hedge the full invoice amount",
+          "Hedge 70 percent with a forward contract",
+          "Do not hedge and accept the risk",
+          "Pay the invoice early"
+        ],
+        "answer": "Hedge 70 percent with a forward contract",
+        "explanation": "A提議用遠期合約鎖定70%曝險部位，B同意部分避險可限制下檔風險同時保留部分獲利空間。",
+        "requiresChart": false,
+        "category": "推論意圖"
+      }
+    ]
+  },
+  {
+    "id": "L3-T730-044",
+    "part": 3,
+    "track": "T730",
+    "conversation": [
+      {
+        "speaker": "A",
+        "line": "HR is rolling out a new employee recognition program. Each department can nominate up to three people per quarter for outstanding contributions."
+      },
+      {
+        "speaker": "B",
+        "line": "I like the idea, but I'm worried about fairness. How do we ensure the quiet but effective contributors don't get overlooked?"
+      },
+      {
+        "speaker": "A",
+        "line": "The nomination criteria require specific, measurable achievements, not just visibility. And the selection committee includes representatives from other departments."
+      },
+      {
+        "speaker": "B",
+        "line": "That cross-department review should reduce favoritism. What's the reward, by the way?"
+      },
+      {
+        "speaker": "A",
+        "line": "Recipients get a $500 bonus and an extra paid day off. Nothing extravagant, but it's meant to be symbolic."
+      },
+      {
+        "speaker": "B",
+        "line": "I'd argue the day off might be more valued than the bonus. Either way, I'll announce it at our team meeting and encourage everyone to submit nominations."
+      }
+    ],
+    "chartData": null,
+    "questions": [
+      {
+        "id": "L3-T730-044-Q1",
+        "question": "What is the new HR initiative?",
+        "options": [
+          "A wellness program",
+          "An employee recognition program",
+          "A tuition reimbursement plan",
+          "A mentorship program"
+        ],
+        "answer": "An employee recognition program",
+        "explanation": "A說HR推出新的員工表揚計畫（employee recognition program），每季每部門可提名最多三人。",
+        "requiresChart": false,
+        "category": "細節"
+      },
+      {
+        "id": "L3-T730-044-Q2",
+        "question": "What concern does the man raise about the program?",
+        "options": [
+          "It costs too much",
+          "Quiet contributors might be overlooked",
+          "The criteria are too strict",
+          "It creates unhealthy competition"
+        ],
+        "answer": "Quiet contributors might be overlooked",
+        "explanation": "B擔心不張揚但有效率的員工會被忽略。",
+        "requiresChart": false,
+        "category": "推論意圖"
+      },
+      {
+        "id": "L3-T730-044-Q3",
+        "question": "What is included in the reward for recognized employees?",
+        "options": [
+          "A promotion and a raise",
+          "A $500 bonus and an extra paid day off",
+          "A company car and reserved parking",
+          "A certificate and a plaque"
+        ],
+        "answer": "A $500 bonus and an extra paid day off",
+        "explanation": "A說獲獎者可獲得$500獎金和一天額外有薪休假。",
+        "requiresChart": false,
+        "category": "細節"
+      }
+    ]
+  },
+  {
+    "id": "L3-T730-045",
+    "part": 3,
+    "track": "T730",
+    "conversation": [
+      {
+        "speaker": "A",
+        "line": "The lab results on the defective batch came back. There was a contamination in the raw silica during the coating process."
+      },
+      {
+        "speaker": "B",
+        "line": "Which production line was affected? We have three lines running different product grades."
+      },
+      {
+        "speaker": "A",
+        "line": "Line Two, which produces the premium-grade panels. Lines One and Three tested clean."
+      },
+      {
+        "speaker": "B",
+        "line": "How many units from Line Two have already shipped?"
+      },
+      {
+        "speaker": "A",
+        "line": "Approximately 2,400 units went out to six distributors over the past ten days. We need to issue a recall immediately."
+      },
+      {
+        "speaker": "B",
+        "line": "A recall on premium-grade products will hit our reputation hard. But there's no choice. Get the legal team to draft the recall notice and prepare talking points for the sales team."
+      },
+      {
+        "speaker": "A",
+        "line": "I'll also trace the contamination source. If it's a supplier issue, we may have grounds for recovery of our losses."
+      }
+    ],
+    "chartData": null,
+    "questions": [
+      {
+        "id": "L3-T730-045-Q1",
+        "question": "What caused the product defect?",
+        "options": [
+          "A machinery malfunction",
+          "Contamination in raw silica during coating",
+          "A packaging error",
+          "Improper storage conditions"
+        ],
+        "answer": "Contamination in raw silica during coating",
+        "explanation": "A說實驗室結果顯示塗層過程中的原始矽原料受到汙染。",
+        "requiresChart": false,
+        "category": "細節"
+      },
+      {
+        "id": "L3-T730-045-Q2",
+        "question": "Which production line was affected?",
+        "options": [
+          "Line One",
+          "Line Two",
+          "Line Three",
+          "All three lines"
+        ],
+        "answer": "Line Two",
+        "explanation": "A明確說二號產線（premium-grade）受影響，一號和三號經測試沒有問題。",
+        "requiresChart": false,
+        "category": "細節"
+      },
+      {
+        "id": "L3-T730-045-Q3",
+        "question": "How many units have been shipped to distributors?",
+        "options": [
+          "1,200",
+          "2,400",
+          "6,000",
+          "10,000"
+        ],
+        "answer": "2,400",
+        "explanation": "A說過去十天約2,400件已出貨到六家經銷商。",
+        "requiresChart": false,
+        "category": "細節"
+      },
+      {
+        "id": "L3-T730-045-Q4",
+        "question": "What does the woman instruct the team to do immediately?",
+        "options": [
+          "Shut down all production lines",
+          "Issue a recall and prepare sales talking points",
+          "Deny the contamination reports",
+          "Switch to a new raw material supplier"
+        ],
+        "answer": "Issue a recall and prepare sales talking points",
+        "explanation": "B說讓法務起草召回通知並為銷售團隊準備應對話術（talking points）。",
+        "requiresChart": false,
+        "category": "推論意圖"
+      }
+    ]
+  },
+  {
+    "id": "L3-T730-046",
+    "part": 3,
+    "track": "T730",
+    "conversation": [
+      {
+        "speaker": "A",
+        "line": "Our sales team is struggling to hit quotas this quarter. I'm looking at the regional breakdown and the disparity is striking."
+      },
+      {
+        "speaker": "B",
+        "line": "Southeast Asia exceeded their target by twenty-two percent, but the European region is at only sixty-three percent of quota."
+      },
+      {
+        "speaker": "A",
+        "line": "Europe's underperformance can't all be market conditions. Two of their senior reps left in January and were replaced with new hires."
+      },
+      {
+        "speaker": "B",
+        "line": "New hires typically take six months to ramp up. We're only at month five, so it's too early to conclude they're underperforming."
+      },
+      {
+        "speaker": "A",
+        "line": "Fair, but we can't wait indefinitely. Could we temporarily reassign an experienced rep from the Asia team to mentor the European team?"
+      },
+      {
+        "speaker": "B",
+        "line": "That could destabilize the Asia team's momentum. Let's instead fast-track the training program — bring the European new hires to Singapore for a two-week intensive with the top-performing team."
+      },
+      {
+        "speaker": "A",
+        "line": "An immersion approach. That's creative. I'll coordinate with both regional managers to make it happen by next month."
+      }
+    ],
+    "chartData": {
+      "type": "table",
+      "title": "Q2 Sales Performance by Region",
+      "rows": [
+        [
+          "Region",
+          "Q2 Quota",
+          "Q2 Actual",
+          "% of Quota",
+          "Team Size"
+        ],
+        [
+          "Southeast Asia",
+          "$2.4M",
+          "$2.93M",
+          "122%",
+          "8 reps"
+        ],
+        [
+          "North America",
+          "$5.1M",
+          "$4.75M",
+          "93%",
+          "14 reps"
+        ],
+        [
+          "Europe",
+          "$3.2M",
+          "$2.02M",
+          "63%",
+          "10 reps"
+        ],
+        [
+          "Latin America",
+          "$1.1M",
+          "$0.99M",
+          "90%",
+          "5 reps"
+        ]
+      ]
+    },
+    "questions": [
+      {
+        "id": "L3-T730-046-Q1",
+        "question": "Which region performed the best relative to its quota?",
+        "options": [
+          "North America",
+          "Europe",
+          "Southeast Asia",
+          "Latin America"
+        ],
+        "answer": "Southeast Asia",
+        "explanation": "B說東南亞超出目標22%，對照chartData確認其實際達成$2.93M，佔配額$2.4M的122%。",
+        "requiresChart": true,
+        "category": "圖表整合"
+      },
+      {
+        "id": "L3-T730-046-Q2",
+        "question": "What is a contributing factor to Europe's poor performance?",
+        "options": [
+          "Market conditions in Europe",
+          "Two senior representatives left and were replaced",
+          "The quota was set too high",
+          "The products are not available in Europe"
+        ],
+        "answer": "Two senior representatives left and were replaced",
+        "explanation": "A說歐洲區一月有兩位資深業務離職，被新人取代，這是業績不佳的原因之一。",
+        "requiresChart": false,
+        "category": "細節"
+      },
+      {
+        "id": "L3-T730-046-Q3",
+        "question": "What solution does the man propose for the European team?",
+        "options": [
+          "Fire the new hires",
+          "Send the European new hires to Singapore for intensive training",
+          "Transfer the European manager",
+          "Reduce Europe's quota for next quarter"
+        ],
+        "answer": "Send the European new hires to Singapore for intensive training",
+        "explanation": "B反對從亞洲調人，提議讓歐洲新人去新加坡進行兩週密集培訓（immersion approach）。",
+        "requiresChart": false,
+        "category": "推論意圖"
+      }
+    ]
+  },
+  {
+    "id": "L3-T730-047",
+    "part": 3,
+    "track": "T730",
+    "conversation": [
+      {
+        "speaker": "A",
+        "line": "The board wants us to propose a corporate social responsibility initiative for the upcoming fiscal year. Any thoughts?"
+      },
+      {
+        "speaker": "B",
+        "line": "Last year's tree-planting campaign generated good PR, but it felt disconnected from our core business. We're a tech company — we should lean into digital inclusion."
+      },
+      {
+        "speaker": "A",
+        "line": "I like that direction. Something like providing refurbished devices and digital literacy training to underserved schools?"
+      },
+      {
+        "speaker": "B",
+        "line": "Exactly. It leverages our existing assets — decommissioned hardware and employee expertise. And it has measurable social impact."
+      },
+      {
+        "speaker": "A",
+        "line": "The challenge will be the logistics. Refurbishing, shipping, and training require coordination across multiple departments."
+      },
+      {
+        "speaker": "B",
+        "line": "We could pilot it in three schools first, document the impact, and then scale. That limits upfront complexity while proving the concept."
+      },
+      {
+        "speaker": "A",
+        "line": "Good. Draft a one-page executive summary with the pilot scope, projected costs, and success metrics. I'll present it to the board next week."
+      }
+    ],
+    "chartData": null,
+    "questions": [
+      {
+        "id": "L3-T730-047-Q1",
+        "question": "What did the company do for CSR last year?",
+        "options": [
+          "A beach cleanup event",
+          "A tree-planting campaign",
+          "A food donation drive",
+          "A scholarship program"
+        ],
+        "answer": "A tree-planting campaign",
+        "explanation": "B說去年的植樹活動雖然公關效果不錯，但與核心業務脫節。",
+        "requiresChart": false,
+        "category": "細節"
+      },
+      {
+        "id": "L3-T730-047-Q2",
+        "question": "What CSR initiative does the man propose for this year?",
+        "options": [
+          "Expanding the tree-planting program",
+          "Donating refurbished devices and digital literacy training",
+          "Sponsoring a sports event",
+          "Building a new company campus"
+        ],
+        "answer": "Donating refurbished devices and digital literacy training",
+        "explanation": "B提議利用退役硬體和員工專業，為資源不足的學校提供翻新設備與數位素養訓練。",
+        "requiresChart": false,
+        "category": "細節"
+      },
+      {
+        "id": "L3-T730-047-Q3",
+        "question": "How do the speakers plan to manage the implementation risk?",
+        "options": [
+          "Hire an external consultant",
+          "Pilot the program in three schools first",
+          "Launch it company-wide immediately",
+          "Cancel the initiative"
+        ],
+        "answer": "Pilot the program in three schools first",
+        "explanation": "B建議先在三個學校試辦、記錄影響再擴展，以限制前期複雜度。",
+        "requiresChart": false,
+        "category": "推論意圖"
+      }
+    ]
+  },
+  {
+    "id": "L3-T730-048",
+    "part": 3,
+    "track": "T730",
+    "conversation": [
+      {
+        "speaker": "A",
+        "line": "Paul, the report you submitted on the logistics optimization project — I have some concerns about the methodology."
+      },
+      {
+        "speaker": "B",
+        "line": "Oh? I followed the standard framework we've used for similar projects."
+      },
+      {
+        "speaker": "A",
+        "line": "The standard framework assumes stable fuel costs. But diesel prices have fluctuated thirty percent this year. Your model doesn't account for that volatility."
+      },
+      {
+        "speaker": "B",
+        "line": "You're right — I used the twelve-month average rather than incorporating a sensitivity analysis. That's an oversight on my part."
+      },
+      {
+        "speaker": "A",
+        "line": "I'm not criticizing the overall work. The route optimization part was excellent. But without factoring in fuel price scenarios, the cost savings projection could be misleading."
+      },
+      {
+        "speaker": "B",
+        "line": "Let me rebuild the model with three fuel price scenarios — best case, base case, and worst case. I can have the revised report ready by Friday."
+      },
+      {
+        "speaker": "A",
+        "line": "That's exactly what I was hoping for. And Paul — this is why we have peer reviews. The core analysis was solid."
+      }
+    ],
+    "chartData": null,
+    "questions": [
+      {
+        "id": "L3-T730-048-Q1",
+        "question": "What is the woman's main concern about the report?",
+        "options": [
+          "The report was submitted late",
+          "The methodology does not account for fuel price volatility",
+          "The writing quality is poor",
+          "The report is too short"
+        ],
+        "answer": "The methodology does not account for fuel price volatility",
+        "explanation": "A說標準框架預設燃料價格穩定，但今年柴油價格波動30%，模型未反映此變化。",
+        "requiresChart": false,
+        "category": "推論意圖"
+      },
+      {
+        "id": "L3-T730-048-Q2",
+        "question": "What did the man do well according to the woman?",
+        "options": [
+          "The financial projections",
+          "The route optimization analysis",
+          "The executive summary",
+          "The presentation format"
+        ],
+        "answer": "The route optimization analysis",
+        "explanation": "A說路線優化部分做得非常好。",
+        "requiresChart": false,
+        "category": "細節"
+      },
+      {
+        "id": "L3-T730-048-Q3",
+        "question": "How will the man revise the report?",
+        "options": [
+          "Start the entire analysis from scratch",
+          "Add three fuel price scenarios to the model",
+          "Remove the cost savings section",
+          "Hire a consultant to verify the data"
+        ],
+        "answer": "Add three fuel price scenarios to the model",
+        "explanation": "B說會用三種燃油價格情境（最佳、基本、最差）重建模型，週五前交出修訂版。",
+        "requiresChart": false,
+        "category": "細節"
+      }
+    ]
+  },
+  {
+    "id": "L3-T730-049",
+    "part": 3,
+    "track": "T730",
+    "conversation": [
+      {
+        "speaker": "A",
+        "line": "The insurance adjuster finally sent their assessment of the warehouse fire damage. They're offering $1.2 million."
+      },
+      {
+        "speaker": "B",
+        "line": "Our independent assessment came in at $1.7 million. That's a $500,000 gap we need to bridge."
+      },
+      {
+        "speaker": "A",
+        "line": "The adjuster is disputing the value of some specialized equipment, claiming depreciation. But that equipment was maintained meticulously."
+      },
+      {
+        "speaker": "B",
+        "line": "Do we have the maintenance logs and purchase receipts to back that up?"
+      },
+      {
+        "speaker": "A",
+        "line": "Yes, all documented. And we have photos from the quarterly inspection two weeks before the fire."
+      },
+      {
+        "speaker": "B",
+        "line": "That's strong evidence. Let's hire a public adjuster to represent us. They typically work on contingency, and they're skilled at negotiating with insurance companies."
+      },
+      {
+        "speaker": "A",
+        "line": "A contingency fee means we only pay if they get us more money. That aligns incentives. Let's proceed with that."
+      }
+    ],
+    "chartData": null,
+    "questions": [
+      {
+        "id": "L3-T730-049-Q1",
+        "question": "What is the gap between the insurance offer and the company's own assessment?",
+        "options": [
+          "$200,000",
+          "$500,000",
+          "$1.2 million",
+          "$1.7 million"
+        ],
+        "answer": "$500,000",
+        "explanation": "保險公司出價$1.2M，公司自評$1.7M，差距為$500,000。",
+        "requiresChart": false,
+        "category": "細節"
+      },
+      {
+        "id": "L3-T730-049-Q2",
+        "question": "Why does the insurance adjuster value the equipment lower?",
+        "options": [
+          "The equipment was not insured",
+          "They claim depreciation has reduced its value",
+          "The equipment was already damaged before the fire",
+          "The policy does not cover equipment"
+        ],
+        "answer": "They claim depreciation has reduced its value",
+        "explanation": "A說保險理算師以折舊為由質疑部分專業設備的價值。",
+        "requiresChart": false,
+        "category": "細節"
+      },
+      {
+        "id": "L3-T730-049-Q3",
+        "question": "What strategy do the speakers decide on to improve their negotiation position?",
+        "options": [
+          "Accept the insurance offer as-is",
+          "File a lawsuit against the insurer",
+          "Hire a public adjuster on contingency",
+          "Replace the equipment without claiming"
+        ],
+        "answer": "Hire a public adjuster on contingency",
+        "explanation": "B建議聘請公設理算師（public adjuster），以成功報酬制運作，精於與保險公司協商。",
+        "requiresChart": false,
+        "category": "推論意圖"
+      }
+    ]
+  },
+  {
+    "id": "L3-T730-050",
+    "part": 3,
+    "track": "T730",
+    "conversation": [
+      {
+        "speaker": "A",
+        "line": "I need to enroll in some professional development courses this year. The company reimburses up to $3,000 for approved programs."
+      },
+      {
+        "speaker": "B",
+        "line": "I took the Project Management certification last year. It was intensive but worthwhile. What areas are you looking at?"
+      },
+      {
+        "speaker": "A",
+        "line": "I'm torn between a data analytics certificate and the advanced negotiation workshop. Each would benefit my role differently."
+      },
+      {
+        "speaker": "B",
+        "line": "Let's look at the practical differences. Which one is more directly applicable to your current responsibilities?"
+      },
+      {
+        "speaker": "A",
+        "line": "The negotiation workshop costs $1,800 and runs for two weekends. The analytics certificate is $2,600 and spans eight weeks. Both fit the budget."
+      },
+      {
+        "speaker": "B",
+        "line": "Given that you're about to lead the vendor contract renewals, the negotiation workshop delivers more immediate value. You can always pursue the analytics certificate next year."
+      },
+      {
+        "speaker": "A",
+        "line": "That's logical. I'll submit the enrollment form for the negotiation workshop today."
+      }
+    ],
+    "chartData": {
+      "type": "table",
+      "title": "Professional Development Course Options",
+      "rows": [
+        [
+          "Course",
+          "Cost",
+          "Duration",
+          "Format",
+          "Certification"
+        ],
+        [
+          "Data Analytics Certificate",
+          "$2,600",
+          "8 weeks",
+          "Online, self-paced",
+          "Industry-recognized"
+        ],
+        [
+          "Advanced Negotiation Workshop",
+          "$1,800",
+          "2 weekends",
+          "In-person, intensive",
+          "Certificate of Completion"
+        ],
+        [
+          "Project Management Pro",
+          "$2,200",
+          "6 weeks",
+          "Hybrid",
+          "PMI-accredited"
+        ],
+        [
+          "Executive Leadership Program",
+          "$3,500",
+          "12 weeks",
+          "Online, cohort-based",
+          "Executive Certificate"
+        ]
+      ]
+    },
+    "questions": [
+      {
+        "id": "L3-T730-050-Q1",
+        "question": "What is the company's professional development reimbursement limit?",
+        "options": [
+          "$1,800",
+          "$2,600",
+          "$3,000",
+          "$3,500"
+        ],
+        "answer": "$3,000",
+        "explanation": "A說公司每年補助上限$3,000供核准的進修課程。",
+        "requiresChart": false,
+        "category": "細節"
+      },
+      {
+        "id": "L3-T730-050-Q2",
+        "question": "Why does the woman recommend the negotiation workshop over the analytics certificate?",
+        "options": [
+          "It is cheaper",
+          "It is more immediately applicable to upcoming work",
+          "The analytics certificate is not approved",
+          "The negotiation workshop offers a better certification"
+        ],
+        "answer": "It is more immediately applicable to upcoming work",
+        "explanation": "B說既然A即將主導供應商合約續約，談判工作坊能提供更即時的價值。對照chartData，workshop為$1,800可立即實戰應用。",
+        "requiresChart": true,
+        "category": "圖表整合"
+      },
+      {
+        "id": "L3-T730-050-Q3",
+        "question": "Which course in the chart exceeds the company's reimbursement limit?",
+        "options": [
+          "Data Analytics Certificate",
+          "Advanced Negotiation Workshop",
+          "Project Management Pro",
+          "Executive Leadership Program"
+        ],
+        "answer": "Executive Leadership Program",
+        "explanation": "對照chartData，Executive Leadership Program費用為$3,500，超出公司$3,000補助上限。",
+        "requiresChart": true,
+        "category": "圖表整合"
+      }
+    ]
+  },
+  {
+    "id": "L3-T730-051",
+    "part": 3,
+    "track": "T730",
+    "conversation": [
+      {
+        "speaker": "A",
+        "line": "The engineering and design teams are at an impasse on the new interface. Engineering wants functionality first, design wants aesthetics."
+      },
+      {
+        "speaker": "B",
+        "line": "This is a classic tension. How far apart are they?"
+      },
+      {
+        "speaker": "A",
+        "line": "Design is insisting on a completely custom UI framework. Engineering says that'll add eight weeks to the timeline and wants to use an open-source library."
+      },
+      {
+        "speaker": "B",
+        "line": "Neither side is completely wrong. Custom UI would differentiate us, but eight weeks could mean missing the holiday launch window."
+      },
+      {
+        "speaker": "A",
+        "line": "What if we propose a compromise — use the open-source framework for the initial launch, then roll out a custom redesign in the version two update in Q1?"
+      },
+      {
+        "speaker": "B",
+        "line": "A phased approach. That lets us hit the market window while giving design the custom experience they want, just on a delayed timeline. I'll run it by both team leads."
+      },
+      {
+        "speaker": "A",
+        "line": "Frame it as 'launch fast, then polish,' not as 'design lost.' Otherwise they'll dig in their heels."
+      }
+    ],
+    "chartData": null,
+    "questions": [
+      {
+        "id": "L3-T730-051-Q1",
+        "question": "What is the conflict between the two teams about?",
+        "options": [
+          "Budget allocation",
+          "Office space assignment",
+          "Whether to use a custom UI or an open-source library",
+          "Hiring priorities"
+        ],
+        "answer": "Whether to use a custom UI or an open-source library",
+        "explanation": "A說設計團隊堅持自訂UI框架，工程團隊想用開源函式庫，因會影響時程八週。",
+        "requiresChart": false,
+        "category": "細節"
+      },
+      {
+        "id": "L3-T730-051-Q2",
+        "question": "What is the main risk of using a custom UI framework?",
+        "options": [
+          "It would cost more money",
+          "It could delay the launch past the holiday window",
+          "It would reduce product quality",
+          "It violates the company brand guidelines"
+        ],
+        "answer": "It could delay the launch past the holiday window",
+        "explanation": "B說使用自訂UI增加八週，可能錯過假期上市窗口。",
+        "requiresChart": false,
+        "category": "細節"
+      },
+      {
+        "id": "L3-T730-051-Q3",
+        "question": "What compromise do the speakers propose?",
+        "options": [
+          "Let engineering make all the decisions",
+          "Let design make all the decisions",
+          "Use open-source for launch and custom design for version two",
+          "Cancel the project entirely"
+        ],
+        "answer": "Use open-source for launch and custom design for version two",
+        "explanation": "A提議階段性做法：首發用開源框架搶市場，Q1的v2再做客製化設計。",
+        "requiresChart": false,
+        "category": "推論意圖"
+      }
+    ]
+  },
+  {
+    "id": "L3-T730-052",
+    "part": 3,
+    "track": "T730",
+    "conversation": [
+      {
+        "speaker": "A",
+        "line": "We need to finalize the business continuity plan before the audit next month. I've identified three critical functions that need redundancy."
+      },
+      {
+        "speaker": "B",
+        "line": "Which functions are you prioritizing?"
+      },
+      {
+        "speaker": "A",
+        "line": "Customer data servers, payment processing, and the supply chain management platform. If any of these go down, we're losing revenue by the minute."
+      },
+      {
+        "speaker": "B",
+        "line": "For payment processing, we already have a backup processor on standby. But the customer data servers are hosted in a single data center — that's a single point of failure."
+      },
+      {
+        "speaker": "A",
+        "line": "I'd like to set up a mirrored server in a different geographic region. It doubles the hosting cost, but the downtime risk is substantially reduced."
+      },
+      {
+        "speaker": "B",
+        "line": "What's the estimated cost of one hour of downtime across all three systems?"
+      },
+      {
+        "speaker": "A",
+        "line": "Based on last year's transaction volumes, approximately $23,000 per hour in lost revenue alone, not counting reputational damage."
+      },
+      {
+        "speaker": "B",
+        "line": "Then the mirroring investment pays for itself after less than two days of prevented downtime. Approve it."
+      }
+    ],
+    "chartData": null,
+    "questions": [
+      {
+        "id": "L3-T730-052-Q1",
+        "question": "What is the main purpose of the conversation?",
+        "options": [
+          "Reviewing monthly financial reports",
+          "Developing a business continuity plan",
+          "Hiring new IT staff",
+          "Negotiating a vendor contract"
+        ],
+        "answer": "Developing a business continuity plan",
+        "explanation": "A說必須在下個月稽核前完成營運持續計畫（business continuity plan），整段對話環繞此主題。",
+        "requiresChart": false,
+        "category": "主旨"
+      },
+      {
+        "id": "L3-T730-052-Q2",
+        "question": "What is the vulnerability in the current customer data infrastructure?",
+        "options": [
+          "The servers are outdated",
+          "Data is hosted in a single data center",
+          "There is no backup server for payment processing",
+          "The supply chain platform is not secure"
+        ],
+        "answer": "Data is hosted in a single data center",
+        "explanation": "B說客戶資料伺服器集中在單一機房，構成單點故障風險。",
+        "requiresChart": false,
+        "category": "細節"
+      },
+      {
+        "id": "L3-T730-052-Q3",
+        "question": "How much does an hour of system downtime cost the company?",
+        "options": [
+          "$5,000",
+          "$12,000",
+          "$23,000",
+          "$50,000"
+        ],
+        "answer": "$23,000",
+        "explanation": "A說根據去年交易量，每小時停機約損失$23,000營收，還不含聲譽損害。",
+        "requiresChart": false,
+        "category": "細節"
+      },
+      {
+        "id": "L3-T730-052-Q4",
+        "question": "What does the man conclude about the server mirroring investment?",
+        "options": [
+          "It is too expensive to justify",
+          "It pays for itself in less than two days of prevented downtime",
+          "It should be postponed until next year",
+          "It is only necessary for payment processing"
+        ],
+        "answer": "It pays for itself in less than two days of prevented downtime",
+        "explanation": "B以每小時$23K損失計算，鏡像備援的投資只需避免不到兩天的停機就能回本。",
+        "requiresChart": false,
+        "category": "推論意圖"
+      }
+    ]
+  },
+  {
+    "id": "L3-T730-053",
+    "part": 3,
+    "track": "T730",
+    "conversation": [
+      {
+        "speaker": "A",
+        "line": "I've been thinking about our international payment processes. We're losing roughly two percent on every cross-border transaction due to bank fees and poor exchange rates."
+      },
+      {
+        "speaker": "B",
+        "line": "Two percent on our annual overseas payment volume of $8 million is $160,000 a year. That's significant leakage."
+      },
+      {
+        "speaker": "A",
+        "line": "Exactly. I've looked into fintech alternatives. Some of them offer rates within 0.5 percent of the interbank rate, with transparent fixed fees."
+      },
+      {
+        "speaker": "B",
+        "line": "Are these platforms regulated and secure? We can't compromise compliance for cost savings."
+      },
+      {
+        "speaker": "A",
+        "line": "The top three providers are all licensed by financial authorities in their respective jurisdictions and use bank-grade encryption."
+      },
+      {
+        "speaker": "B",
+        "line": "Let's pilot one of them for a quarter on our non-critical payments — say, vendor invoices under $50,000. If the savings materialize and there are no issues, we'll scale up."
+      },
+      {
+        "speaker": "A",
+        "line": "Conservative approach, but prudent. I'll shortlist two providers and prepare a comparison for your review."
+      }
+    ],
+    "chartData": null,
+    "questions": [
+      {
+        "id": "L3-T730-053-Q1",
+        "question": "How much is the company losing annually on cross-border transaction fees?",
+        "options": [
+          "$80,000",
+          "$160,000",
+          "$2 million",
+          "$8 million"
+        ],
+        "answer": "$160,000",
+        "explanation": "B計算：$8M的2%就是每年$160,000的費用流失。",
+        "requiresChart": false,
+        "category": "細節"
+      },
+      {
+        "id": "L3-T730-053-Q2",
+        "question": "What is the man's primary concern about switching to fintech providers?",
+        "options": [
+          "The cost is too high",
+          "The technology is too complex",
+          "Compliance and security standards",
+          "The providers are too small"
+        ],
+        "answer": "Compliance and security standards",
+        "explanation": "B說不能為了省錢而犧牲合規性，問這些平台是否受監管且安全。",
+        "requiresChart": false,
+        "category": "推論意圖"
+      },
+      {
+        "id": "L3-T730-053-Q3",
+        "question": "What testing strategy does the man propose?",
+        "options": [
+          "Switch all payments immediately",
+          "Pilot with vendor invoices under $50,000 for one quarter",
+          "Test with a single transaction first",
+          "Hire an external consultant to evaluate providers"
+        ],
+        "answer": "Pilot with vendor invoices under $50,000 for one quarter",
+        "explanation": "B建議先以一季為期，在$50,000以下非關鍵付款上試行，若省錢且無問題再擴大。",
+        "requiresChart": false,
+        "category": "推論意圖"
+      }
+    ]
+  },
+  {
+    "id": "L3-T730-054",
+    "part": 3,
+    "track": "T730",
+    "conversation": [
+      {
+        "speaker": "A",
+        "line": "We need to decide which digital marketing channels to invest in for the next quarter. Here's the performance data from Q2."
+      },
+      {
+        "speaker": "B",
+        "line": "The email campaign has the highest ROI at four hundred twenty percent, but its total reach is limited to our existing subscriber base."
+      },
+      {
+        "speaker": "A",
+        "line": "Social media ads reached over two hundred thousand people, but the conversion rate was only 1.8 percent. That's below our two percent benchmark."
+      },
+      {
+        "speaker": "B",
+        "line": "Search engine marketing is right at the benchmark with 2.1 percent conversion, and its cost per lead is significantly lower than social media."
+      },
+      {
+        "speaker": "A",
+        "line": "What if we reallocate twenty percent of the social media budget to search marketing and invest the email campaign savings into growing our subscriber list?"
+      },
+      {
+        "speaker": "B",
+        "line": "A rebalancing toward the higher-converting channels makes sense. Let's also pause the display ad campaign — a 0.4 percent conversion rate is simply not justifiable."
+      }
+    ],
+    "chartData": {
+      "type": "table",
+      "title": "Q2 Digital Marketing Channel Performance",
+      "rows": [
+        [
+          "Channel",
+          "Q2 Spend",
+          "Reach",
+          "Conversion Rate",
+          "Cost per Lead",
+          "ROI"
+        ],
+        [
+          "Email Marketing",
+          "$8,000",
+          "22,000",
+          "8.5%",
+          "$4.30",
+          "420%"
+        ],
+        [
+          "Social Media Ads",
+          "$35,000",
+          "210,000",
+          "1.8%",
+          "$18.50",
+          "95%"
+        ],
+        [
+          "Search Engine Mktg",
+          "$22,000",
+          "85,000",
+          "2.1%",
+          "$12.30",
+          "150%"
+        ],
+        [
+          "Display Ads",
+          "$15,000",
+          "180,000",
+          "0.4%",
+          "$42.00",
+          "20%"
+        ]
+      ]
+    },
+    "questions": [
+      {
+        "id": "L3-T730-054-Q1",
+        "question": "Which channel had the highest ROI but the smallest reach?",
+        "options": [
+          "Email marketing",
+          "Social media ads",
+          "Search engine marketing",
+          "Display ads"
+        ],
+        "answer": "Email marketing",
+        "explanation": "B說電子郵件ROI最高（420%）但僅限現有訂戶。對照chartData，其觸及人數22,000確實最低但轉換率8.5%最高。",
+        "requiresChart": true,
+        "category": "圖表整合"
+      },
+      {
+        "id": "L3-T730-054-Q2",
+        "question": "Why do the speakers want to reduce social media ad spending?",
+        "options": [
+          "It is the most expensive channel",
+          "Its conversion rate is below the two percent benchmark",
+          "It reaches too few people",
+          "It has the lowest ROI"
+        ],
+        "answer": "Its conversion rate is below the two percent benchmark",
+        "explanation": "A說社群媒體廣告轉換率僅1.8%，低於公司2%的基準線。對照chartData，Social Media Ads的Conversion Rate為1.8%，確實不合格。",
+        "requiresChart": false,
+        "category": "細節"
+      },
+      {
+        "id": "L3-T730-054-Q3",
+        "question": "Which channel do the speakers agree to cut entirely?",
+        "options": [
+          "Email marketing",
+          "Social media ads",
+          "Search engine marketing",
+          "Display ads"
+        ],
+        "answer": "Display ads",
+        "explanation": "B說展示廣告0.4%的轉換率完全不合理，應該暫停。對照chartData，Display Ads的Conversion Rate最低（0.4%）且Cost per Lead最高（$42.00）。",
+        "requiresChart": true,
+        "category": "圖表整合"
+      }
+    ]
+  },
+  {
+    "id": "L3-T730-055",
+    "part": 3,
+    "track": "T730",
+    "conversation": [
+      {
+        "speaker": "A",
+        "line": "One of our longest-standing clients, Meridian Group, has informed us they're considering terminating their contract."
+      },
+      {
+        "speaker": "B",
+        "line": "They've been with us for eight years. What's driving this?"
+      },
+      {
+        "speaker": "A",
+        "line": "Their new procurement director ran a competitive review and found a vendor offering similar services at twenty percent less."
+      },
+      {
+        "speaker": "B",
+        "line": "Can we match that price without eroding our margin?"
+      },
+      {
+        "speaker": "A",
+        "line": "Not entirely. We could come down about twelve percent, but beyond that we'd be operating at a loss on their account."
+      },
+      {
+        "speaker": "B",
+        "line": "Then we don't compete on price. We compete on value. Let's quantify the cost of switching — the downtime, the retraining, the integration risks they'd face with a new vendor."
+      },
+      {
+        "speaker": "A",
+        "line": "A switching cost analysis. That's a strong argument for an incumbent. I'll prepare a retention proposal that highlights our institutional knowledge and the hidden costs of changing providers."
+      }
+    ],
+    "chartData": null,
+    "questions": [
+      {
+        "id": "L3-T730-055-Q1",
+        "question": "Why is Meridian Group considering leaving?",
+        "options": [
+          "They are dissatisfied with the service",
+          "A competitor offered similar services at a lower price",
+          "They are going out of business",
+          "They had a dispute with the account manager"
+        ],
+        "answer": "A competitor offered similar services at a lower price",
+        "explanation": "A說Meridian的新採購總監找到便宜20%的競爭廠商。",
+        "requiresChart": false,
+        "category": "細節"
+      },
+      {
+        "id": "L3-T730-055-Q2",
+        "question": "Why can the company not match the competitor's price?",
+        "options": [
+          "The CEO refuses to negotiate",
+          "Matching the price would result in a loss on the account",
+          "The competitor is breaking the law",
+          "The company does not believe the competitor is real"
+        ],
+        "answer": "Matching the price would result in a loss on the account",
+        "explanation": "A說最多降12%，超過的話就會虧損經營。",
+        "requiresChart": false,
+        "category": "推論意圖"
+      },
+      {
+        "id": "L3-T730-055-Q3",
+        "question": "What retention strategy does the man propose?",
+        "options": [
+          "Offer a temporary discount",
+          "Highlight the hidden costs of switching vendors",
+          "Threaten legal action",
+          "Assign a new account manager"
+        ],
+        "answer": "Highlight the hidden costs of switching vendors",
+        "explanation": "B說不拼價格、拼價值，提議量化轉換成本（停機、重新訓練、整合風險），強調既有廠商的隱性優勢。",
+        "requiresChart": false,
+        "category": "推論意圖"
+      }
+    ]
+  },
+  {
+    "id": "L3-T730-056",
+    "part": 3,
+    "track": "T730",
+    "conversation": [
+      {
+        "speaker": "A",
+        "line": "We have a regulatory inspection at the assembly plant next Monday. Are we fully prepared?"
+      },
+      {
+        "speaker": "B",
+        "line": "I've reviewed the checklist. The safety documentation is complete, and the equipment maintenance logs are up to date."
+      },
+      {
+        "speaker": "A",
+        "line": "What about the new ventilation system the inspector flagged as 'pending compliance' on the last visit?"
+      },
+      {
+        "speaker": "B",
+        "line": "That's the one item I'm worried about. The installation is ninety percent done, but the final certification from the contractor won't arrive until Wednesday."
+      },
+      {
+        "speaker": "A",
+        "line": "That's after the inspection. Can we show the inspector the installation progress and the contractor's preliminary sign-off?"
+      },
+      {
+        "speaker": "B",
+        "line": "The preliminary documentation might be enough to demonstrate good faith, but we'll still get a conditional pass at best."
+      },
+      {
+        "speaker": "A",
+        "line": "A conditional pass is better than a violation. Make sure all the other areas are spotless so we minimize scrutiny on the ventilation issue."
+      }
+    ],
+    "chartData": null,
+    "questions": [
+      {
+        "id": "L3-T730-056-Q1",
+        "question": "When is the regulatory inspection scheduled?",
+        "options": [
+          "This Wednesday",
+          "Next Monday",
+          "Next Friday",
+          "In two weeks"
+        ],
+        "answer": "Next Monday",
+        "explanation": "A說下週一有監管稽核（regulatory inspection）。",
+        "requiresChart": false,
+        "category": "細節"
+      },
+      {
+        "id": "L3-T730-056-Q2",
+        "question": "What issue was flagged during the previous inspection?",
+        "options": [
+          "Missing safety documentation",
+          "The ventilation system was not compliant",
+          "Equipment maintenance logs were incomplete",
+          "Worker safety training was insufficient"
+        ],
+        "answer": "The ventilation system was not compliant",
+        "explanation": "A說上次稽核員標註通風系統為「待合規」，B證實最終認證尚未取得。",
+        "requiresChart": false,
+        "category": "細節"
+      },
+      {
+        "id": "L3-T730-056-Q3",
+        "question": "What outcome do the speakers expect from the upcoming inspection?",
+        "options": [
+          "Full compliance pass",
+          "Conditional pass at best",
+          "Immediate shutdown order",
+          "The inspection will be canceled"
+        ],
+        "answer": "Conditional pass at best",
+        "explanation": "B說最好就是拿到「有條件通過」，A認為這仍比違規好。",
+        "requiresChart": false,
+        "category": "推論意圖"
+      }
+    ]
+  },
+  {
+    "id": "L3-T730-057",
+    "part": 3,
+    "track": "T730",
+    "conversation": [
+      {
+        "speaker": "A",
+        "line": "The HR team proposed increasing our employee referral bonus from $1,000 to $2,500. They claim it would reduce our reliance on expensive recruitment agencies."
+      },
+      {
+        "speaker": "B",
+        "line": "We spent $340,000 on agency fees last year. If referrals can replace even half of that, the bonus increase would pay for itself."
+      },
+      {
+        "speaker": "A",
+        "line": "The concern is quality. Agency candidates go through multiple screening rounds. Employee referrals might not be as rigorously vetted."
+      },
+      {
+        "speaker": "B",
+        "line": "Actually, industry data shows referred employees have higher retention rates and faster time-to-productivity than agency hires."
+      },
+      {
+        "speaker": "A",
+        "line": "Do we have any internal data to support that?"
+      },
+      {
+        "speaker": "B",
+        "line": "The eight employees we hired through referrals last year all exceeded their first-year performance targets. The agency hires had a thirty percent below-target rate."
+      },
+      {
+        "speaker": "A",
+        "line": "That's compelling. Let's approve the increased bonus but add a requirement that referrals must stay at least one year for the referring employee to receive the full amount."
+      }
+    ],
+    "chartData": null,
+    "questions": [
+      {
+        "id": "L3-T730-057-Q1",
+        "question": "What change is HR proposing?",
+        "options": [
+          "Reducing the employee referral bonus",
+          "Increasing the referral bonus from $1,000 to $2,500",
+          "Eliminating the referral program entirely",
+          "Switching all hiring to recruitment agencies"
+        ],
+        "answer": "Increasing the referral bonus from $1,000 to $2,500",
+        "explanation": "A說HR提議將員工推薦獎金從$1,000提高到$2,500。",
+        "requiresChart": false,
+        "category": "細節"
+      },
+      {
+        "id": "L3-T730-057-Q2",
+        "question": "What is the woman's initial concern about employee referrals?",
+        "options": [
+          "They cost too much",
+          "They might not be as rigorously screened",
+          "Employees would not participate",
+          "It conflicts with HR policy"
+        ],
+        "answer": "They might not be as rigorously screened",
+        "explanation": "A擔心員工推薦缺乏像獵頭公司那樣的多輪篩選。",
+        "requiresChart": false,
+        "category": "細節"
+      },
+      {
+        "id": "L3-T730-057-Q3",
+        "question": "What evidence does the man present to support the referral program?",
+        "options": [
+          "A survey of employee opinions",
+          "Internal data showing referred hires outperformed agency hires",
+          "A competitor's experience",
+          "A cost-benefit analysis from finance"
+        ],
+        "answer": "Internal data showing referred hires outperformed agency hires",
+        "explanation": "B說去年推薦進來的8名員工全部超越第一年績效目標，而獵頭招募的有30%未達標。",
+        "requiresChart": false,
+        "category": "推論意圖"
+      },
+      {
+        "id": "L3-T730-057-Q4",
+        "question": "What condition does the woman add to the new referral bonus?",
+        "options": [
+          "The referral must be approved by HR",
+          "The referred employee must stay at least one year for full payout",
+          "Only managers can make referrals",
+          "The bonus is reduced to $1,500"
+        ],
+        "answer": "The referred employee must stay at least one year for full payout",
+        "explanation": "A同意提高獎金但增加條件：推薦進來的員工須待滿一年，推薦人才能領取全額獎金。",
+        "requiresChart": false,
+        "category": "細節"
+      }
+    ]
+  },
+  {
+    "id": "L3-T730-058",
+    "part": 3,
+    "track": "T730",
+    "conversation": [
+      {
+        "speaker": "A",
+        "line": "We're finalizing the itinerary for the client visit next week. They're sending their entire executive team — five people."
+      },
+      {
+        "speaker": "B",
+        "line": "That's a high-stakes visit. We need to make sure every minute is productive. Have you blocked out the factory tour?"
+      },
+      {
+        "speaker": "A",
+        "line": "Yes, the factory tour is scheduled for Tuesday morning. But I'm struggling with the afternoon — we have a choice between a product demo and a strategy workshop."
+      },
+      {
+        "speaker": "B",
+        "line": "The product demo showcases what we do now. The strategy workshop signals where we're going and invites their input. For a C-suite audience, the workshop has more impact."
+      },
+      {
+        "speaker": "A",
+        "line": "Agreed. I'll schedule the workshop and move the product demo to a shorter slot on Wednesday morning, just before the contract discussion."
+      },
+      {
+        "speaker": "B",
+        "line": "And make sure the dinner on Tuesday is at a restaurant that allows for private conversation — not one of those noisy trendy places."
+      }
+    ],
+    "chartData": {
+      "type": "table",
+      "title": "Client Visit Itinerary - August 15-16",
+      "rows": [
+        [
+          "Day",
+          "Time",
+          "Activity",
+          "Location",
+          "Duration"
+        ],
+        [
+          "Tue, Aug 15",
+          "9:00 - 11:30",
+          "Factory Tour",
+          "Main Plant, Building A",
+          "2.5 hrs"
+        ],
+        [
+          "Tue, Aug 15",
+          "12:00 - 1:00",
+          "Working Lunch",
+          "Executive Dining Room",
+          "1 hr"
+        ],
+        [
+          "Tue, Aug 15",
+          "1:30 - 4:00",
+          "TBD: Product Demo OR Strategy Workshop",
+          "Conference Room 3",
+          "2.5 hrs"
+        ],
+        [
+          "Tue, Aug 15",
+          "6:30 - 9:00",
+          "Executive Dinner",
+          "To be confirmed",
+          "2.5 hrs"
+        ],
+        [
+          "Wed, Aug 16",
+          "9:00 - 10:30",
+          "Product Demonstration",
+          "Demo Lab",
+          "1.5 hrs"
+        ],
+        [
+          "Wed, Aug 16",
+          "11:00 - 12:30",
+          "Contract Discussion",
+          "Boardroom",
+          "1.5 hrs"
+        ]
+      ]
+    },
+    "questions": [
+      {
+        "id": "L3-T730-058-Q1",
+        "question": "What activity do the speakers decide to schedule for Tuesday afternoon?",
+        "options": [
+          "Factory tour",
+          "Product demonstration",
+          "Strategy workshop",
+          "Contract discussion"
+        ],
+        "answer": "Strategy workshop",
+        "explanation": "B說對高階主管團隊而言，策略工作坊比產品展示更有影響力，A同意並決定將工作坊排入週二下午。對照chartData，週二下午時段原為TBD，現確定為Workshop。",
+        "requiresChart": true,
+        "category": "圖表整合"
+      },
+      {
+        "id": "L3-T730-058-Q2",
+        "question": "When will the product demonstration be held according to the final plan?",
+        "options": [
+          "Tuesday afternoon",
+          "Wednesday morning",
+          "Wednesday afternoon",
+          "It will be canceled"
+        ],
+        "answer": "Wednesday morning",
+        "explanation": "A說將產品展示移到週三早上較短的時段，在合約討論之前。對照chartData確認週三上午9:00-10:30 Product Demonstration。",
+        "requiresChart": true,
+        "category": "圖表整合"
+      },
+      {
+        "id": "L3-T730-058-Q3",
+        "question": "What specific request does the man make about the dinner venue?",
+        "options": [
+          "It should be a trendy, popular restaurant",
+          "It should allow for private conversation",
+          "It should be close to the hotel",
+          "It should serve international cuisine"
+        ],
+        "answer": "It should allow for private conversation",
+        "explanation": "B特別強調晚餐餐廳要能進行私密交談，不要選那種吵雜的潮流餐廳。",
+        "requiresChart": false,
+        "category": "細節"
+      }
+    ]
+  },
+  {
+    "id": "L3-T730-059",
+    "part": 3,
+    "track": "T730",
+    "conversation": [
+      {
+        "speaker": "A",
+        "line": "The board has asked each division to present its three-year strategic vision at the annual planning retreat next month."
+      },
+      {
+        "speaker": "B",
+        "line": "That's a substantial presentation. Our division has grown fourteen percent annually for the past two years, but the market is clearly maturing."
+      },
+      {
+        "speaker": "A",
+        "line": "I've been thinking about that. Sustaining double-digit growth in a maturing market means we either need to expand geographically or diversify our product line."
+      },
+      {
+        "speaker": "B",
+        "line": "Geographic expansion into Southeast Asia has been on our radar. The initial market research suggests a $40 million addressable market with only two established competitors."
+      },
+      {
+        "speaker": "A",
+        "line": "Two competitors is manageable. But what's the regulatory landscape like? We can't afford to get entangled in compliance issues."
+      },
+      {
+        "speaker": "B",
+        "line": "The trade agreements in the region are favorable, and we can enter through a joint venture with a local partner to mitigate regulatory risk."
+      },
+      {
+        "speaker": "A",
+        "line": "Let's build the presentation around the Southeast Asia expansion — market sizing, competitive analysis, regulatory overview, and a phased entry plan. Keep it data-driven."
+      }
+    ],
+    "chartData": null,
+    "questions": [
+      {
+        "id": "L3-T730-059-Q1",
+        "question": "What is the purpose of the upcoming planning retreat?",
+        "options": [
+          "Team building activities",
+          "Each division presents its three-year strategic vision",
+          "Training on new software",
+          "Budget approval for next quarter"
+        ],
+        "answer": "Each division presents its three-year strategic vision",
+        "explanation": "A說董事會要求各部門在年度策略規劃會議上發表三年策略願景。",
+        "requiresChart": false,
+        "category": "細節"
+      },
+      {
+        "id": "L3-T730-059-Q2",
+        "question": "What challenge does the man identify about the current growth trajectory?",
+        "options": [
+          "The team is too small",
+          "The market is maturing",
+          "The product quality is declining",
+          "Competitors are lowering prices"
+        ],
+        "answer": "The market is maturing",
+        "explanation": "B說雖然過去兩年均成長14%，但市場明顯已趨成熟，暗示維持高成長將變得困難。",
+        "requiresChart": false,
+        "category": "推論意圖"
+      },
+      {
+        "id": "L3-T730-059-Q3",
+        "question": "What strategy do the speakers plan to propose?",
+        "options": [
+          "Cost-cutting across the division",
+          "Diversifying into an unrelated industry",
+          "Expanding into Southeast Asia via a joint venture",
+          "Acquiring a domestic competitor"
+        ],
+        "answer": "Expanding into Southeast Asia via a joint venture",
+        "explanation": "B提議以合資方式進軍東南亞，該市場有$40M規模且僅兩個競爭者，A同意以此為核心打造簡報。",
+        "requiresChart": false,
+        "category": "推論意圖"
+      }
+    ]
+  },
+  {
+    "id": "L3-T730-060",
+    "part": 3,
+    "track": "T730",
+    "conversation": [
+      {
+        "speaker": "A",
+        "line": "Our current factory is running at ninety-six percent utilization. If the two new retail contracts come through, we won't have the capacity to fulfill them."
+      },
+      {
+        "speaker": "B",
+        "line": "Building a second facility would take eighteen months. We'd lose those contracts by then."
+      },
+      {
+        "speaker": "A",
+        "line": "There's an existing facility in the industrial park that went up for sale last week. It's smaller than what we'd build from scratch, but it's operational now."
+      },
+      {
+        "speaker": "B",
+        "line": "What's the asking price?"
+      },
+      {
+        "speaker": "A",
+        "line": "$4.8 million, with another $600,000 needed for retrofitting to our specifications. That puts the all-in cost at $5.4 million."
+      },
+      {
+        "speaker": "B",
+        "line": "A new build of comparable size would cost around $3.2 million. The premium for speed is roughly sixty-nine percent."
+      },
+      {
+        "speaker": "A",
+        "line": "But the new contracts are projected to bring in $2.1 million in annual profit. The premium pays for itself in about one year if the contracts materialize."
+      },
+      {
+        "speaker": "B",
+        "line": "Then the financials support the acquisition. Let's move forward with due diligence on the existing facility while we finalize the retail contracts."
+      }
+    ],
+    "chartData": null,
+    "questions": [
+      {
+        "id": "L3-T730-060-Q1",
+        "question": "What is the current capacity situation at the factory?",
+        "options": [
+          "It is operating at 96 percent utilization",
+          "It has plenty of spare capacity",
+          "It has been shut down for maintenance",
+          "It is producing below target"
+        ],
+        "answer": "It is operating at 96 percent utilization",
+        "explanation": "A說現有工廠運轉率已達96%，若新合約到手將無法滿足產能需求。",
+        "requiresChart": false,
+        "category": "細節"
+      },
+      {
+        "id": "L3-T730-060-Q2",
+        "question": "What is the total cost of acquiring and retrofitting the existing facility?",
+        "options": [
+          "$3.2 million",
+          "$4.8 million",
+          "$5.4 million",
+          "$6.0 million"
+        ],
+        "answer": "$5.4 million",
+        "explanation": "A說買價$4.8M加上改裝$600K，總成本為$5.4M。",
+        "requiresChart": false,
+        "category": "細節"
+      },
+      {
+        "id": "L3-T730-060-Q3",
+        "question": "How much more expensive is purchasing the existing facility compared to building new?",
+        "options": [
+          "About 20 percent",
+          "About 40 percent",
+          "About 69 percent",
+          "About 100 percent"
+        ],
+        "answer": "About 69 percent",
+        "explanation": "B計算：新建同等規模約$3.2M，現有設施總成本$5.4M，速度溢價約69%。",
+        "requiresChart": false,
+        "category": "推論意圖"
+      },
+      {
+        "id": "L3-T730-060-Q4",
+        "question": "What justifies paying the premium for the existing facility?",
+        "options": [
+          "It has more floor space",
+          "The new contracts' profit would offset the premium in about a year",
+          "The location is more convenient",
+          "Interest rates are at historic lows"
+        ],
+        "answer": "The new contracts' profit would offset the premium in about a year",
+        "explanation": "A說新合約預計年利潤$2.1M，溢價大約一年就能回本。",
+        "requiresChart": false,
+        "category": "推論意圖"
+      }
+    ]
+  }
+]

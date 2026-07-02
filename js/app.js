@@ -134,13 +134,20 @@ TOEIC.App = {
   },
 
   finishPractice() {
+    var results;
+    var mode;
+    var track = this._track;
     if (this._session.isComposite) {
-      var results = TOEIC.QuizEngine.getCompositeResults(this._session);
+      results = TOEIC.QuizEngine.getCompositeResults(this._session);
+      mode = 'composite';
       TOEIC.UIRenderer.renderCompositeResults(results, this._session);
     } else {
-      var results = TOEIC.QuizEngine.getResults(this._session);
+      results = TOEIC.QuizEngine.getResults(this._session);
+      mode = 'single';
       TOEIC.UIRenderer.renderResults(results, this._session.part, this._session.items.length);
     }
+    var today = new Date().toISOString().slice(0, 10);
+    TOEIC.Analytics.recordSession(today, mode, track, results.total, results.correct);
   },
 
   async startCompositePractice() {
@@ -153,7 +160,9 @@ TOEIC.App = {
         return;
       }
       self._session = session;
-      self._renderCurrentQuestion();
+      TOEIC.UIRenderer.renderCompositeSetup(session, function () {
+        self._renderCurrentQuestion();
+      });
     } catch (e) {
       console.warn('Composite practice failed:', e);
       TOEIC.UIRenderer.renderError('\u7D44\u5377\u5931\u6557\uFF0C\u8ACB\u7A0D\u5F8C\u518D\u8A66\u3002');
@@ -162,6 +171,14 @@ TOEIC.App = {
 
   openWrongBook() {
     TOEIC.UIRenderer.renderWrongBookHome();
+  },
+
+  openAnalytics() {
+    TOEIC.UIRenderer.renderAnalyticsPage();
+  },
+
+  openSettings() {
+    TOEIC.UIRenderer.renderSettingsPage();
   }
 };
 

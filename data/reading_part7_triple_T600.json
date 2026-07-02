@@ -22,42 +22,72 @@
       {
         "id": "P7T-T600-001-Q1",
         "question": "When is the client presentation scheduled?",
-        "options": ["Monday, March 3", "Tuesday, March 4", "Friday, March 7", "Friday, March 14"],
+        "options": [
+          "Monday, March 3",
+          "Tuesday, March 4",
+          "Friday, March 7",
+          "Friday, March 14"
+        ],
         "answer": "Friday, March 7",
         "explanation": "Alan的郵件寫道「before the client presentation next Friday」，會議在3月4日（週二），因此客戶簡報在下週五3月7日。",
-        "crossReference": false
+        "crossReference": false,
+        "category": "細節"
       },
       {
         "id": "P7T-T600-001-Q2",
         "question": "Who is responsible for the analytics report?",
-        "options": ["Lisa Tran", "Kendra Walsh", "Marcus Chen", "David Park"],
+        "options": [
+          "Lisa Tran",
+          "Kendra Walsh",
+          "Marcus Chen",
+          "David Park"
+        ],
         "answer": "Marcus Chen",
         "explanation": "會議議程第三項列出「Analytics report on test campaign - Marcus Chen」。",
-        "crossReference": false
+        "crossReference": false,
+        "category": "細節"
       },
       {
         "id": "P7T-T600-001-Q3",
         "question": "What equipment is available in the meeting room?",
-        "options": ["A printer and scanner", "A projector, whiteboard, and conference phone", "A video conferencing system only", "A television and DVD player"],
+        "options": [
+          "A printer and scanner",
+          "A projector, whiteboard, and conference phone",
+          "A video conferencing system only",
+          "A television and DVD player"
+        ],
         "answer": "A projector, whiteboard, and conference phone",
         "explanation": "會議室預訂確認中列出「Projector with HDMI connection, Whiteboard, Conference phone」。",
-        "crossReference": false
+        "crossReference": false,
+        "category": "細節"
       },
       {
         "id": "P7T-T600-001-Q4",
         "question": "How many attendees are expected at the meeting?",
-        "options": ["4", "5", "6", "8"],
+        "options": [
+          "4",
+          "5",
+          "6",
+          "8"
+        ],
         "answer": "5",
         "explanation": "此題須同時參照兩篇以上文件：會議議程列出5位與會者（Alan, Lisa, Kendra, Marcus, David），而會議室容量為8人，備有6人份茶點，但議程中的出席名單確認為5人。",
-        "crossReference": true
+        "crossReference": true,
+        "category": "跨篇比對"
       },
       {
         "id": "P7T-T600-001-Q5",
         "question": "What should attendees do after the meeting ends at 11:30 AM?",
-        "options": ["Order more coffee", "Extend the booking", "Vacate the room", "Set up for the next meeting"],
+        "options": [
+          "Order more coffee",
+          "Extend the booking",
+          "Vacate the room",
+          "Set up for the next meeting"
+        ],
         "answer": "Vacate the room",
         "explanation": "會議室預訂確認中提醒「The room must be vacated by 11:30 AM as another meeting is scheduled at 12:00 PM」。",
-        "crossReference": false
+        "crossReference": false,
+        "category": "細節"
       }
     ]
   },
@@ -84,42 +114,72 @@
       {
         "id": "P7T-T600-002-Q1",
         "question": "What is the unit price of one document camera?",
-        "options": ["$45", "$350", "$1,200", "$1,400"],
+        "options": [
+          "$45",
+          "$350",
+          "$1,200",
+          "$1,400"
+        ],
         "answer": "$350",
         "explanation": "採購單中Document Cameras的單價為$350。",
-        "crossReference": false
+        "crossReference": false,
+        "category": "細節"
       },
       {
         "id": "P7T-T600-002-Q2",
         "question": "What additional charge appears on the invoice that is not on the purchase order?",
-        "options": ["Shipping fee", "Tax", "Installation fee", "Late payment fee"],
+        "options": [
+          "Shipping fee",
+          "Tax",
+          "Installation fee",
+          "Late payment fee"
+        ],
         "answer": "Installation fee",
         "explanation": "發票中有一筆「Installation Fee: $300」，此項目在採購單中未出現。",
-        "crossReference": false
+        "crossReference": false,
+        "category": "細節"
       },
       {
         "id": "P7T-T600-002-Q3",
         "question": "When will the interactive whiteboards be delivered?",
-        "options": ["April 8", "April 11", "April 14", "April 15"],
+        "options": [
+          "April 8",
+          "April 11",
+          "April 14",
+          "April 15"
+        ],
         "answer": "April 14",
         "explanation": "出貨排程中Delivery 2標示Interactive Whiteboards於April 14送達。",
-        "crossReference": false
+        "crossReference": false,
+        "category": "細節"
       },
       {
         "id": "P7T-T600-002-Q4",
         "question": "How long is the installation expected to take?",
-        "options": ["2 hours", "3 hours", "4 hours", "5 hours"],
+        "options": [
+          "2 hours",
+          "3 hours",
+          "4 hours",
+          "5 hours"
+        ],
         "answer": "4 hours",
         "explanation": "出貨通知提到「installation is expected to take approximately 4 hours」。",
-        "crossReference": false
+        "crossReference": false,
+        "category": "細節"
       },
       {
         "id": "P7T-T600-002-Q5",
         "question": "What is the difference between the total amount on the purchase order and the invoice?",
-        "options": ["$100", "$250", "$300", "$604"],
+        "options": [
+          "$100",
+          "$250",
+          "$300",
+          "$604"
+        ],
         "answer": "$300",
         "explanation": "此題須同時參照兩篇以上文件：採購單總額為$8,404，發票總額為$8,704，兩者差額$300即為發票多出的安裝費（Installation Fee）。",
-        "crossReference": true
+        "crossReference": true,
+        "category": "跨篇比對"
       }
     ]
   },
@@ -146,42 +206,72 @@
       {
         "id": "P7T-T600-003-Q1",
         "question": "What is the salary range for the Customer Service Manager position?",
-        "options": ["$55,000 - $60,000", "$62,000 - $68,000", "$65,000 - $70,000", "$68,000 - $72,000"],
+        "options": [
+          "$55,000 - $60,000",
+          "$62,000 - $68,000",
+          "$65,000 - $70,000",
+          "$68,000 - $72,000"
+        ],
         "answer": "$62,000 - $68,000",
         "explanation": "招聘廣告明確列出「Salary: $62,000 - $68,000 per year」。",
-        "crossReference": false
+        "crossReference": false,
+        "category": "細節"
       },
       {
         "id": "P7T-T600-003-Q2",
         "question": "How many years of supervisory experience does Angela Rodriguez have?",
-        "options": ["1 year", "2 years", "3 years", "5 years"],
+        "options": [
+          "1 year",
+          "2 years",
+          "3 years",
+          "5 years"
+        ],
         "answer": "3 years",
         "explanation": "履歷顯示Angela自2022年3月至今（2025年3月）擔任Team Lead一職，共3年管理經驗。",
-        "crossReference": false
+        "crossReference": false,
+        "category": "細節"
       },
       {
         "id": "P7T-T600-003-Q3",
         "question": "Who will conduct Angela's interview?",
-        "options": ["The CEO and HR Manager", "Maria Santos and James Lee", "The Call Center Manager only", "A panel of three team members"],
+        "options": [
+          "The CEO and HR Manager",
+          "Maria Santos and James Lee",
+          "The Call Center Manager only",
+          "A panel of three team members"
+        ],
         "answer": "Maria Santos and James Lee",
         "explanation": "面試邀請信指出面試官為「Maria Santos, Director of Customer Operations, and James Lee, HR Manager」。",
-        "crossReference": false
+        "crossReference": false,
+        "category": "細節"
       },
       {
         "id": "P7T-T600-003-Q4",
         "question": "When is the deadline for Angela to confirm her interview attendance?",
-        "options": ["March 31", "April 3", "April 5", "April 7"],
+        "options": [
+          "March 31",
+          "April 3",
+          "April 5",
+          "April 7"
+        ],
         "answer": "April 3",
         "explanation": "面試邀請信要求「confirm your availability by replying to this email by April 3」。",
-        "crossReference": false
+        "crossReference": false,
+        "category": "細節"
       },
       {
         "id": "P7T-T600-003-Q5",
         "question": "Based on all three documents, why is Angela a strong candidate for the position?",
-        "options": ["She has a master's degree in Business", "She meets the experience, supervisory, and bilingual requirements listed in the job posting", "She previously worked at Skyline Telecom", "She has 10 years of customer service experience"],
+        "options": [
+          "She has a master's degree in Business",
+          "She meets the experience, supervisory, and bilingual requirements listed in the job posting",
+          "She previously worked at Skyline Telecom",
+          "She has 10 years of customer service experience"
+        ],
         "answer": "She meets the experience, supervisory, and bilingual requirements listed in the job posting",
         "explanation": "此題須同時參照三篇文件：徵才廣告要求3年以上客服經驗、1年以上管理職、雙語能力為加分項；Angela的履歷顯示她有5年客服經驗、3年Team Lead管理經驗且雙語流利；面試邀請信證實她的資格受到認可。比對三份文件可知她符合所有核心條件。",
-        "crossReference": true
+        "crossReference": true,
+        "category": "跨篇比對"
       }
     ]
   }

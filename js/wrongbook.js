@@ -1,7 +1,8 @@
 window.TOEIC = window.TOEIC || {};
 
 TOEIC.WrongBook = {
-  _currentFilter: 'all',
+  _currentPartFilter: 'all',
+  _currentCategoryFilter: 'all',
 
   render: function () {
     var app = document.getElementById('app');
@@ -27,15 +28,24 @@ TOEIC.WrongBook = {
       return;
     }
 
-    /* Filter */
+    /* Collect unique categories for filter */
+    var allCategories = [];
+    wrongItems.forEach(function (w) {
+      var cat = w.category || '';
+      if (cat && allCategories.indexOf(cat) === -1) allCategories.push(cat);
+    });
+    allCategories.sort();
+
+    /* Filter Row */
     var filterRow = document.createElement('div');
     filterRow.className = 'wrongbook-filter';
-    var filterLabel = document.createElement('label');
-    filterLabel.textContent = '\u7BE9\u9078 Part: ';
-    filterRow.appendChild(filterLabel);
-    var select = document.createElement('select');
-    select.className = 'filter-select';
-    select.innerHTML = '<option value="all">\u5168\u90E8</option>'
+
+    var filterLabel1 = document.createElement('label');
+    filterLabel1.textContent = '\u7BE9\u9078 Part: ';
+    filterRow.appendChild(filterLabel1);
+    var selectPart = document.createElement('select');
+    selectPart.className = 'filter-select';
+    selectPart.innerHTML = '<option value="all">\u5168\u90E8</option>'
       + '<option value="1">Part 1</option>'
       + '<option value="2">Part 2</option>'
       + '<option value="3">Part 3</option>'
@@ -43,27 +53,55 @@ TOEIC.WrongBook = {
       + '<option value="5">Part 5</option>'
       + '<option value="6">Part 6</option>'
       + '<option value="7">Part 7</option>';
-    select.addEventListener('change', function () {
-      self._currentFilter = select.value;
+    selectPart.addEventListener('change', function () {
+      self._currentPartFilter = selectPart.value;
       self.render();
     });
-    if (self._currentFilter !== 'all') {
-      select.value = self._currentFilter;
+    if (self._currentPartFilter !== 'all') {
+      selectPart.value = self._currentPartFilter;
     }
-    filterRow.appendChild(select);
+    filterRow.appendChild(selectPart);
+
+    if (allCategories.length > 0) {
+      var filterLabel2 = document.createElement('label');
+      filterLabel2.textContent = ' \u7BE9\u9078\u5206\u985E: ';
+      filterRow.appendChild(filterLabel2);
+      var selectCat = document.createElement('select');
+      selectCat.className = 'filter-select';
+      var catOpts = '<option value="all">\u5168\u90E8</option>';
+      allCategories.forEach(function (cat) {
+        catOpts += '<option value="' + cat + '">' + cat + '</option>';
+      });
+      selectCat.innerHTML = catOpts;
+      selectCat.addEventListener('change', function () {
+        self._currentCategoryFilter = selectCat.value;
+        self.render();
+      });
+      if (self._currentCategoryFilter !== 'all') {
+        selectCat.value = self._currentCategoryFilter;
+      }
+      filterRow.appendChild(selectCat);
+    }
+
     app.appendChild(filterRow);
 
     /* Filter items */
     var filtered = wrongItems;
-    if (self._currentFilter !== 'all') {
-      var filterPart = parseInt(self._currentFilter, 10);
-      filtered = wrongItems.filter(function (w) { return w.part === filterPart; });
+    if (self._currentPartFilter !== 'all') {
+      var filterPart = parseInt(self._currentPartFilter, 10);
+      filtered = filtered.filter(function (w) { return w.part === filterPart; });
+    }
+    if (self._currentCategoryFilter !== 'all') {
+      var filterCat = self._currentCategoryFilter;
+      filtered = filtered.filter(function (w) {
+        return (w.category || '') === filterCat || (!w.category && filterCat === '\u672A\u5206\u985E');
+      });
     }
 
     if (filtered.length === 0) {
       var emptyF = document.createElement('div');
       emptyF.className = 'empty-wrongbook';
-      emptyF.innerHTML = '<p>\u8A72\u7C21\u4E0B\u6C92\u6709\u932F\u984C\u3002</p>';
+      emptyF.innerHTML = '<p>\u8A72\u7BE9\u9078\u689D\u4EF6\u4E0B\u6C92\u6709\u932F\u984C\u3002</p>';
       app.appendChild(emptyF);
       return;
     }
@@ -82,6 +120,13 @@ TOEIC.WrongBook = {
       partSpan.className = 'wrong-part';
       partSpan.textContent = 'Part ' + item.part;
       header.appendChild(partSpan);
+
+      var catDisplay = item.category || '\u672A\u5206\u985E';
+      var catSpan = document.createElement('span');
+      catSpan.className = 'wrong-category';
+      catSpan.textContent = catDisplay;
+      header.appendChild(catSpan);
+
       var dateSpan = document.createElement('span');
       dateSpan.className = 'wrong-date';
       dateSpan.textContent = new Date(item.timestamp).toLocaleDateString();

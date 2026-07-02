@@ -1,0 +1,677 @@
+[
+  {
+    "id": "L1-T730-016",
+    "part": 1,
+    "track": "T730",
+    "imageDescription": "A chef in a white uniform is plating gourmet dishes while line cooks prepare ingredients in a busy restaurant kitchen.",
+    "options": [
+      "The chef is taking a break from cooking.",
+      "A chef is plating gourmet dishes in the kitchen.",
+      "The kitchen is being cleaned after service.",
+      "Line cooks are tasting the prepared dishes."
+    ],
+    "answer": "A chef is plating gourmet dishes in the kitchen.",
+    "explanation": "主廚正在擺盤裝飾料理，與描述相符；休息、清潔和試菜均非畫面內容。",
+    "category": "人物動作"
+  },
+  {
+    "id": "L1-T730-017",
+    "part": 1,
+    "track": "T730",
+    "imageDescription": "A mechanic in overalls is diagnosing an engine problem using a handheld diagnostic tablet in an auto repair garage.",
+    "options": [
+      "The mechanic is repairing a flat tire.",
+      "A mechanic is diagnosing an engine with a tablet.",
+      "The garage is closed for the holiday.",
+      "A customer is negotiating the repair price."
+    ],
+    "answer": "A mechanic is diagnosing an engine with a tablet.",
+    "explanation": "黑手技師正使用平板電腦診斷引擎問題，與描述一致；修輪胎、歇業和議價均未發生。",
+    "category": "人物動作"
+  },
+  {
+    "id": "L1-T730-018",
+    "part": 1,
+    "track": "T730",
+    "imageDescription": "An architect is reviewing a set of blueprints spread across a large drafting table in a sunlit design studio.",
+    "options": [
+      "The blueprints are being rolled up for storage.",
+      "A client is approving the final design.",
+      "An architect is reviewing blueprints on a drafting table.",
+      "The drafting table is being moved to another office."
+    ],
+    "answer": "An architect is reviewing blueprints on a drafting table.",
+    "explanation": "建築師正在審閱製圖桌上的藍圖，與描述相符；藍圖未收存，客戶未出現，桌子未移動。",
+    "category": "人物動作"
+  },
+  {
+    "id": "L1-T730-019",
+    "part": 1,
+    "track": "T730",
+    "imageDescription": "A florist is trimming stems and arranging a bouquet at a wooden counter surrounded by buckets of fresh flowers.",
+    "options": [
+      "The florist is watering the potted plants.",
+      "A florist is arranging a bouquet at the counter.",
+      "Customers are selecting flowers from the buckets.",
+      "The flower shop is preparing for a delivery."
+    ],
+    "answer": "A florist is arranging a bouquet at the counter.",
+    "explanation": "花店店員正在櫃檯插花，與描述一致；澆水、顧客選花和準備送貨均非畫面內容。",
+    "category": "人物動作"
+  },
+  {
+    "id": "L1-T730-020",
+    "part": 1,
+    "track": "T730",
+    "imageDescription": "A laboratory researcher in a white coat is carefully pipetting a colored liquid into a row of test tubes on a sterile workbench.",
+    "options": [
+      "A researcher is pipetting samples into test tubes.",
+      "The laboratory equipment is being sterilized.",
+      "A colleague is reviewing the experiment notes.",
+      "The test tubes are being disposed of after use."
+    ],
+    "answer": "A researcher is pipetting samples into test tubes.",
+    "explanation": "研究員正以微量吸管將樣本注入試管，與描述相符；設備滅菌、同事看筆記和丟棄試管均未發生。",
+    "category": "人物動作"
+  },
+  {
+    "id": "L1-T730-021",
+    "part": 1,
+    "track": "T730",
+    "imageDescription": "A librarian is placing returned books onto a metal cart in a quiet aisle lined with tall bookshelves.",
+    "options": [
+      "A librarian is shelving books from a cart.",
+      "Patrons are browsing the magazine section.",
+      "The library is hosting a reading event.",
+      "Books are being checked out at the front desk."
+    ],
+    "answer": "A librarian is shelving books from a cart.",
+    "explanation": "圖書館員正將書從推車上架，與描述一致；讀者瀏覽、活動和借書均未發生。",
+    "category": "物品狀態"
+  },
+  {
+    "id": "L1-T730-022",
+    "part": 1,
+    "track": "T730",
+    "imageDescription": "A barista in an apron is operating a steam-powered espresso machine while a line of customers waits at the counter of a modern cafe.",
+    "options": [
+      "Baristas are cleaning the coffee machines.",
+      "A barista is operating an espresso machine.",
+      "Customers are seated at outdoor tables.",
+      "The cafe counter is being rearranged."
+    ],
+    "answer": "A barista is operating an espresso machine.",
+    "explanation": "咖啡師正在操作義式咖啡機，與描述相符；機器清潔、戶外座位和櫃檯重整均非畫面內容。",
+    "category": "人物動作"
+  },
+  {
+    "id": "L1-T730-023",
+    "part": 1,
+    "track": "T730",
+    "imageDescription": "A pilot in uniform is walking around an aircraft on the tarmac, inspecting the fuselage and wing surfaces before departure.",
+    "options": [
+      "The pilot is inspecting the aircraft exterior.",
+      "Passengers are boarding through the jet bridge.",
+      "Ground crew are refueling the airplane.",
+      "The cockpit instruments are being calibrated."
+    ],
+    "answer": "The pilot is inspecting the aircraft exterior.",
+    "explanation": "機長正在停機坪檢查機身外部，與描述一致；乘客登機、加油和儀器校正均未發生。",
+    "category": "場景位置"
+  },
+  {
+    "id": "L1-T730-024",
+    "part": 1,
+    "track": "T730",
+    "imageDescription": "A tailor is measuring a client's shoulder width with a measuring tape in a fitting room lined with fabric rolls.",
+    "options": [
+      "The client is trying on a finished suit.",
+      "A tailor is measuring a client for a custom garment.",
+      "Fabric rolls are being stacked in the storage area.",
+      "The sewing machine is being repaired."
+    ],
+    "answer": "A tailor is measuring a client for a custom garment.",
+    "explanation": "裁縫師正在為客戶量身，與描述相符；試穿成衣、布料存放和縫紉機修理均非畫面內容。",
+    "category": "人物動作"
+  },
+  {
+    "id": "L1-T730-025",
+    "part": 1,
+    "track": "T730",
+    "imageDescription": "A museum curator is carefully positioning an ancient pottery piece inside a glass display case with gloved hands.",
+    "options": [
+      "Visitors are admiring the exhibition.",
+      "A curator is installing an artifact in a display case.",
+      "The museum gallery is being painted.",
+      "Artworks are being packed for shipping."
+    ],
+    "answer": "A curator is installing an artifact in a display case.",
+    "explanation": "策展人正戴手套將陶器放入展示櫃，與描述一致；訪客參觀、空間油漆和裝運均未發生。",
+    "category": "人物動作"
+  },
+  {
+    "id": "L1-T730-026",
+    "part": 1,
+    "track": "T730",
+    "imageDescription": "A dental hygienist is using a scaler to clean a patient's teeth in a brightly lit dental examination room.",
+    "options": [
+      "The patient is having a tooth extracted.",
+      "A dental hygienist is cleaning a patient's teeth.",
+      "Dental instruments are being sterilized.",
+      "A dentist is reviewing an X-ray on the monitor."
+    ],
+    "answer": "A dental hygienist is cleaning a patient's teeth.",
+    "explanation": "牙科衛生師正在為病人洗牙，與描述相符；拔牙、器械消毒和牙醫看X光片均非畫面內容。",
+    "category": "人物動作"
+  },
+  {
+    "id": "L1-T730-027",
+    "part": 1,
+    "track": "T730",
+    "imageDescription": "A farmer in a straw hat is examining the leaves of tomato plants in a spacious greenhouse filled with vegetation.",
+    "options": [
+      "The greenhouse is being dismantled.",
+      "A farmer is inspecting crops in a greenhouse.",
+      "Workers are harvesting ripe vegetables.",
+      "Irrigation systems are being installed."
+    ],
+    "answer": "A farmer is inspecting crops in a greenhouse.",
+    "explanation": "農夫正在溫室中檢查作物生長狀況，與描述一致；拆除、採收和灌溉系統安裝均非畫面內容。",
+    "category": "人物動作"
+  },
+  {
+    "id": "L1-T730-028",
+    "part": 1,
+    "track": "T730",
+    "imageDescription": "A jeweler is holding a loose diamond up to a magnifying loupe under a bright desk lamp in a workshop filled with tools.",
+    "options": [
+      "The jeweler is polishing a silver bracelet.",
+      "A customer is selecting a ring from the display.",
+      "A jeweler is examining a diamond with a loupe.",
+      "Precious stones are being sorted by size."
+    ],
+    "answer": "A jeweler is examining a diamond with a loupe.",
+    "explanation": "珠寶匠正用放大鏡檢查鑽石，與描述相符；拋光銀飾、顧客選戒和分揀寶石均非畫面內容。",
+    "category": "物品狀態"
+  },
+  {
+    "id": "L1-T730-029",
+    "part": 1,
+    "track": "T730",
+    "imageDescription": "A chef in a white hat is tasting soup from a ladle in a large pot at a stainless steel commercial kitchen stove.",
+    "options": [
+      "A chef is tasting soup from a cooking pot.",
+      "A chef is adding seasoning to a pot of soup.",
+      "A chef is stirring a ladle in a cooking pot.",
+      "A chef is serving soup into a bowl."
+    ],
+    "answer": "A chef is tasting soup from a cooking pot.",
+    "explanation": "描述中主廚正從鍋中試湯的味道（tasting），需區別於加調味料（adding seasoning）、攪拌（stirring）及盛湯（serving into bowl）等同場景混淆動作。",
+    "category": "人物動作"
+  },
+  {
+    "id": "L1-T730-030",
+    "part": 1,
+    "track": "T730",
+    "imageDescription": "A hotel receptionist is answering a phone call while checking a reservation on a computer monitor at the front desk.",
+    "options": [
+      "The receptionist is handing a key card to a guest.",
+      "Luggage is being brought in by a bellhop.",
+      "A hotel receptionist is answering a phone call.",
+      "Guests are filling out registration forms."
+    ],
+    "answer": "A hotel receptionist is answering a phone call.",
+    "explanation": "飯店櫃檯人員正在接聽電話並查詢訂房紀錄，與描述相符；遞交鑰匙、行李搬運和填寫表單均非畫面內容。",
+    "category": "人物動作"
+  },
+  {
+    "id": "L1-T730-031",
+    "part": 1,
+    "track": "T730",
+    "imageDescription": "A photographer is adjusting the angle of a studio light stand while a model poses against a plain backdrop.",
+    "options": [
+      "A photographer is adjusting lighting equipment.",
+      "The model is changing outfits in the dressing room.",
+      "Photographs are being printed from a computer.",
+      "The studio backdrop is being painted."
+    ],
+    "answer": "A photographer is adjusting lighting equipment.",
+    "explanation": "攝影師正在調整棚燈設備，與描述一致；模特兒換裝、照片列印和背板粉刷均非畫面內容。",
+    "category": "人物動作"
+  },
+  {
+    "id": "L1-T730-032",
+    "part": 1,
+    "track": "T730",
+    "imageDescription": "An electrician is using a screwdriver to connect wires inside an open circuit breaker panel on a construction site wall.",
+    "options": [
+      "The electrician is installing a ceiling fan.",
+      "An electrician is wiring a circuit breaker panel.",
+      "The construction site is being inspected.",
+      "Power cables are being buried underground."
+    ],
+    "answer": "An electrician is wiring a circuit breaker panel.",
+    "explanation": "電工正在配電盤中接線，與描述一致；安裝吊扇、工地檢查和埋設電纜均非畫面內容。",
+    "category": "人物動作"
+  },
+  {
+    "id": "L1-T730-033",
+    "part": 1,
+    "track": "T730",
+    "imageDescription": "A gardener is trimming a row of hedges with electric trimmers in the landscaped courtyard of a corporate office complex.",
+    "options": [
+      "A gardener is trimming hedges with electric trimmers.",
+      "Office workers are having lunch in the courtyard.",
+      "Flower beds are being planted with new seedlings.",
+      "The courtyard fountain is being repaired."
+    ],
+    "answer": "A gardener is trimming hedges with electric trimmers.",
+    "explanation": "園丁正使用電動修剪器整理樹籬，與描述相符；員工午餐、花圃種植和噴泉修理均非畫面內容。",
+    "category": "物品狀態"
+  },
+  {
+    "id": "L1-T730-034",
+    "part": 1,
+    "track": "T730",
+    "imageDescription": "A makeup artist is applying foundation to a model's face with a brush in a brightly lit dressing room backstage.",
+    "options": [
+      "The model is reviewing her portfolio.",
+      "A makeup artist is applying cosmetics to a model.",
+      "Costume racks are being organized by stylists.",
+      "The dressing room mirror is being replaced."
+    ],
+    "answer": "A makeup artist is applying cosmetics to a model.",
+    "explanation": "化妝師正在後台為模特兒上妝，與描述一致；瀏覽作品集、整理服裝和更換鏡子均非畫面內容。",
+    "category": "人物動作"
+  },
+  {
+    "id": "L1-T730-035",
+    "part": 1,
+    "track": "T730",
+    "imageDescription": "A ferry captain is steering the wheel in the bridge cabin while monitoring navigation screens at a busy harbor.",
+    "options": [
+      "A captain is steering a ferry at the harbor.",
+      "Passengers are boarding the ferry at the dock.",
+      "Lifeboats are being lowered for a drill.",
+      "The harbor is closed due to bad weather."
+    ],
+    "answer": "A captain is steering a ferry at the harbor.",
+    "explanation": "船長正在駕駛艙操作渡輪的方向盤，與描述相符；乘客登船、救生艇演練和港口關閉均非畫面內容。",
+    "category": "場景位置"
+  },
+  {
+    "id": "L1-T730-036",
+    "part": 1,
+    "track": "T730",
+    "imageDescription": "A baker is piping cream onto a multi-tiered cake displayed in the front window of a neighborhood bakery.",
+    "options": [
+      "A baker is decorating a cake in the bakery window.",
+      "Customers are lining up to buy pastries.",
+      "Bread loaves are being taken out of the oven.",
+      "The bakery display case is being refilled."
+    ],
+    "answer": "A baker is decorating a cake in the bakery window.",
+    "explanation": "烘焙師正在裝飾櫥窗中的蛋糕，與描述一致；顧客排隊、麵包出爐和陳列補貨均非畫面內容。",
+    "category": "人物動作"
+  },
+  {
+    "id": "L1-T730-037",
+    "part": 1,
+    "track": "T730",
+    "imageDescription": "A fitness trainer is demonstrating a squat movement while a client mirrors the posture in a gym with mirrored walls.",
+    "options": [
+      "A fitness trainer is demonstrating an exercise.",
+      "The client is leading the exercise session.",
+      "A trainer is adjusting the wall mirrors.",
+      "Both the trainer and client are stretching."
+    ],
+    "answer": "A fitness trainer is demonstrating an exercise.",
+    "explanation": "描述中教練正在示範深蹲動作，客戶模仿跟做。需區別於客戶帶領（client leading）、調整鏡子（adjusting mirrors）及兩人拉伸（both stretching）等同場境混淆描述。",
+    "category": "人物動作"
+  },
+  {
+    "id": "L1-T730-038",
+    "part": 1,
+    "track": "T730",
+    "imageDescription": "A calligrapher is writing elegant script on wedding invitations at a wooden desk with ink bottles and fine nib pens.",
+    "options": [
+      "The calligrapher is addressing wedding invitations.",
+      "Envelopes are being stamped at the post office.",
+      "A printer is producing批量 invitations.",
+      "The desk is being cleared for a new project."
+    ],
+    "answer": "The calligrapher is addressing wedding invitations.",
+    "explanation": "書法家正在書寫喜帖，與描述相符；郵局蓋戳、大量印刷和桌面清理均非畫面內容。",
+    "category": "人物動作"
+  },
+  {
+    "id": "L1-T730-039",
+    "part": 1,
+    "track": "T730",
+    "imageDescription": "A veterinarian in a white coat is examining a golden retriever's ears with an otoscope in a clean animal clinic examination room.",
+    "options": [
+      "The dog is being groomed by an assistant.",
+      "A veterinarian is examining a dog's ears.",
+      "Pet owners are waiting in the reception area.",
+      "Surgical instruments are being prepared."
+    ],
+    "answer": "A veterinarian is examining a dog's ears.",
+    "explanation": "獸醫師正用檢耳鏡檢查黃金獵犬的耳朵，與描述一致；寵物美容、主人等候和手術準備均非畫面內容。",
+    "category": "人物動作"
+  },
+  {
+    "id": "L1-T730-040",
+    "part": 1,
+    "track": "T730",
+    "imageDescription": "A sommelier in a professional attire is holding a wine glass up to the light, examining the clarity of a red wine during a tasting event.",
+    "options": [
+      "Guests are sampling cheese at the event.",
+      "A sommelier is examining wine for a tasting.",
+      "Wine bottles are being stacked in the cellar.",
+      "The event table is being set up."
+    ],
+    "answer": "A sommelier is examining wine for a tasting.",
+    "explanation": "侍酒師正舉杯觀察酒色與澄清度，與描述相符；賓客試吃乳酪、藏酒整理和會場布置均非畫面內容。",
+    "category": "物品狀態"
+  },
+  {
+    "id": "L1-T730-041",
+    "part": 1,
+    "track": "T730",
+    "imageDescription": "A librarian at the circulation desk is scanning a stack of books with a barcode reader while a patron waits nearby.",
+    "options": [
+      "A librarian is checking books in and out.",
+      "Patrons are reading at study tables.",
+      "Bookshelves are being reorganized.",
+      "The library computer system is being updated."
+    ],
+    "answer": "A librarian is checking books in and out.",
+    "explanation": "圖書館員正在櫃檯掃描書籍條碼辦理借還，與描述一致；讀者閱讀、書架重整和系統更新均非畫面內容。",
+    "category": "場景位置"
+  },
+  {
+    "id": "L1-T730-042",
+    "part": 1,
+    "track": "T730",
+    "imageDescription": "A welder in protective gear is fusing two metal beams with a welding torch in a fabrication workshop filled with sparks.",
+    "options": [
+      "The welder is cutting steel sheets with a saw.",
+      "A welder is joining metal pieces in a workshop.",
+      "Factory workers are painting the finished products.",
+      "Inventory is being loaded onto a delivery truck."
+    ],
+    "answer": "A welder is joining metal pieces in a workshop.",
+    "explanation": "焊接工正在車間中將金屬件焊接在一起，火花四濺，與描述一致；切割鋼板、產品塗裝和庫存裝車均非畫面內容。",
+    "category": "人物動作"
+  },
+  {
+    "id": "L1-T730-043",
+    "part": 1,
+    "track": "T730",
+    "imageDescription": "An optician is adjusting the frame of a pair of eyeglasses with a small screwdriver while a customer waits at the optical counter.",
+    "options": [
+      "A customer is selecting lens frames.",
+      "An optician is adjusting eyeglasses for a customer.",
+      "Eyeglass lenses are being polished by a machine.",
+      "The optical shop display is being redesigned."
+    ],
+    "answer": "An optician is adjusting eyeglasses for a customer.",
+    "explanation": "眼鏡技師正用小螺絲起子調整眼鏡框，與描述相符；顧客選框、鏡片拋光和陳列設計均非畫面內容。",
+    "category": "人物動作"
+  },
+  {
+    "id": "L1-T730-044",
+    "part": 1,
+    "track": "T730",
+    "imageDescription": "A flight attendant is demonstrating the use of an oxygen mask and life jacket to passengers in the cabin before takeoff.",
+    "options": [
+      "The flight attendant is demonstrating safety procedures.",
+      "Passengers are storing luggage in overhead bins.",
+      "The cabin crew is serving beverages.",
+      "An announcement is being made over the intercom."
+    ],
+    "answer": "The flight attendant is demonstrating safety procedures.",
+    "explanation": "空服員正在示範氧氣面罩使用方式，與描述一致；乘客放行李、餐飲服務和機上廣播均非畫面內容。",
+    "category": "人物動作"
+  },
+  {
+    "id": "L1-T730-045",
+    "part": 1,
+    "track": "T730",
+    "imageDescription": "A piano tuner is adjusting the tension of strings inside a grand piano using a tuning hammer in a concert hall.",
+    "options": [
+      "A pianist is rehearsing for a concert.",
+      "A piano tuner is tuning the strings of a grand piano.",
+      "The concert hall stage is being set up.",
+      "Music sheets are being arranged on the stand."
+    ],
+    "answer": "A piano tuner is tuning the strings of a grand piano.",
+    "explanation": "調音師正在使用調音扳手調整平台鋼琴的琴弦張力，與描述一致；鋼琴家排練、舞台布置和樂譜整理均非畫面內容。",
+    "category": "物品狀態"
+  },
+  {
+    "id": "L1-T730-046",
+    "part": 1,
+    "track": "T730",
+    "imageDescription": "A cargo ship crew member is fastening steel cables around stacked shipping containers on the deck of a large vessel.",
+    "options": [
+      "Cargo is being unloaded at the port.",
+      "A crew member is securing containers on the deck.",
+      "The ship's engine room is being inspected.",
+      "Navigation equipment is being calibrated."
+    ],
+    "answer": "A crew member is securing containers on the deck.",
+    "explanation": "船員正在甲板上用鋼纜固定貨櫃，與描述相符；卸貨、引擎檢查和導航校正均非畫面內容。",
+    "category": "場景位置"
+  },
+  {
+    "id": "L1-T730-047",
+    "part": 1,
+    "track": "T730",
+    "imageDescription": "A massage therapist is folding fresh towels and arranging aromatherapy bottles on a shelf in a tranquil treatment room.",
+    "options": [
+      "The massage therapist is preparing the treatment room.",
+      "A client is receiving a massage on the table.",
+      "Essential oils are being mixed for a session.",
+      "The spa reception desk is being organized."
+    ],
+    "answer": "The massage therapist is preparing the treatment room.",
+    "explanation": "按摩治療師正在準備療程室，折疊毛巾排列精油，與描述一致；客戶正在按摩、精油調配和櫃檯整理均非畫面內容。",
+    "category": "物品狀態"
+  },
+  {
+    "id": "L1-T730-048",
+    "part": 1,
+    "track": "T730",
+    "imageDescription": "A zookeeper is tossing pieces of fruit into a enclosure while a giraffe bends its neck down to eat from the keeper's hand.",
+    "options": [
+      "A zookeeper is feeding animals in an enclosure.",
+      "Visitors are watching from the viewing platform.",
+      "The animal enclosure is being cleaned.",
+      "Veterinary staff are checking the animals' health."
+    ],
+    "answer": "A zookeeper is feeding animals in an enclosure.",
+    "explanation": "動物園管理員正在餵食長頸鹿，與描述一致；遊客觀賞、清理圍欄和健康檢查均非畫面內容。",
+    "category": "場景位置"
+  },
+  {
+    "id": "L1-T730-049",
+    "part": 1,
+    "track": "T730",
+    "imageDescription": "A sea captain is studying a nautical chart spread across a table in the ship's cabin while a first mate looks on.",
+    "options": [
+      "The captain is checking navigation charts in the cabin.",
+      "Crew members are swabbing the deck.",
+      "The ship's radio equipment is being tested.",
+      "Supplies are being loaded onto the vessel."
+    ],
+    "answer": "The captain is checking navigation charts in the cabin.",
+    "explanation": "船長正在船艙中查看航海圖，大副在旁觀看，與描述一致；甲板清掃、無線電測試和補給裝載均非畫面內容。",
+    "category": "人物動作"
+  },
+  {
+    "id": "L1-T730-050",
+    "part": 1,
+    "track": "T730",
+    "imageDescription": "An artist in a smock is mixing oil paints on a wooden palette in a sunlit studio with canvases leaning against the wall.",
+    "options": [
+      "The artist is mixing paint colors on a palette.",
+      "A painting is being framed by an assistant.",
+      "Art supplies are being organized in drawers.",
+      "The studio floor is being swept."
+    ],
+    "answer": "The artist is mixing paint colors on a palette.",
+    "explanation": "藝術家正在調色盤上混合油畫顏料，與描述一致；裱框、整理材料和清掃地板均非畫面內容。",
+    "category": "人物動作"
+  },
+  {
+    "id": "L1-T730-051",
+    "part": 1,
+    "track": "T730",
+    "imageDescription": "A delivery driver is organizing parcels by address in the back of a parked cargo van on a residential street.",
+    "options": [
+      "A delivery driver is sorting packages in a van.",
+      "Residents are collecting mail from their mailboxes.",
+      "The cargo van is being refueled at a station.",
+      "Packages are being loaded at the warehouse."
+    ],
+    "answer": "A delivery driver is sorting packages in a van.",
+    "explanation": "送貨司機正在貨車後廂按地址分類包裹，與描述一致；居民收信、加油和倉庫裝貨均非畫面內容。",
+    "category": "場景位置"
+  },
+  {
+    "id": "L1-T730-052",
+    "part": 1,
+    "track": "T730",
+    "imageDescription": "A sculptor is carving a figure out of a large block of marble using a chisel and mallet in a sculpture studio.",
+    "options": [
+      "The sculptor is carving a marble sculpture.",
+      "Clay models are being fired in a kiln.",
+      "A gallery visitor is photographing the artwork.",
+      "Sculpture tools are being sharpened."
+    ],
+    "answer": "The sculptor is carving a marble sculpture.",
+    "explanation": "雕塑家正在用鑿子與槌子雕刻大理石，與描述一致；陶土窯燒、訪客拍照和工具磨利均非畫面內容。",
+    "category": "人物動作"
+  },
+  {
+    "id": "L1-T730-053",
+    "part": 1,
+    "track": "T730",
+    "imageDescription": "A watchmaker is repairing the intricate mechanism of a mechanical watch under a magnifying lamp at a workbench covered with tiny tools.",
+    "options": [
+      "The watchmaker is repairing a mechanical watch.",
+      "A customer is browsing watch displays.",
+      "Watch straps are being replaced by an assistant.",
+      "The shop window is being cleaned."
+    ],
+    "answer": "The watchmaker is repairing a mechanical watch.",
+    "explanation": "鐘錶匠正在放大燈下修理機械錶的精密機芯，與描述一致；顧客瀏覽、更換錶帶和清潔櫥窗均非畫面內容。",
+    "category": "物品狀態"
+  },
+  {
+    "id": "L1-T730-054",
+    "part": 1,
+    "track": "T730",
+    "imageDescription": "A hotel cleaner is pushing a floor polishing machine across the marble lobby floor of a luxury hotel in the early morning.",
+    "options": [
+      "A cleaner is polishing the hotel lobby floor.",
+      "Guests are checking in at the front desk.",
+      "The hotel concierge is arranging tours.",
+      "Lobby furniture is being rearranged."
+    ],
+    "answer": "A cleaner is polishing the hotel lobby floor.",
+    "explanation": "清潔人員正在拋光飯店大廳的大理石地板，與描述一致；客人入住、禮賓服務和家具調整均非畫面內容。",
+    "category": "場景位置"
+  },
+  {
+    "id": "L1-T730-055",
+    "part": 1,
+    "track": "T730",
+    "imageDescription": "A beekeeper in a protective veil is holding up a wooden frame covered with honeycomb and bees in an apiary.",
+    "options": [
+      "The beekeeper is inspecting a honeycomb frame.",
+      "Honey jars are being labeled for sale.",
+      "Bees are swarming around the hive entrance.",
+      "Beehive boxes are being painted."
+    ],
+    "answer": "The beekeeper is inspecting a honeycomb frame.",
+    "explanation": "養蜂人正戴著防護面罩檢查蜂巢板，與描述一致；蜂蜜裝瓶、蜂群聚集和蜂箱油漆均非畫面內容。",
+    "category": "物品狀態"
+  },
+  {
+    "id": "L1-T730-056",
+    "part": 1,
+    "track": "T730",
+    "imageDescription": "A glassblower is shaping a glowing orb of molten glass at the end of a blowpipe in a hot glass workshop.",
+    "options": [
+      "A glassblower is shaping molten glass.",
+      "Glass vases are being cooled in an annealing oven.",
+      "An apprentice is sweeping the workshop floor.",
+      "Finished glassware is being packed for shipping."
+    ],
+    "answer": "A glassblower is shaping molten glass.",
+    "explanation": "玻璃工匠正在用吹管塑造高溫熔融的玻璃球體，與描述一致；冷卻退火、清掃和包裝均非畫面內容。",
+    "category": "人物動作"
+  },
+  {
+    "id": "L1-T730-057",
+    "part": 1,
+    "track": "T730",
+    "imageDescription": "A scuba diver is examining the hull of a cargo ship underwater, holding onto a guide line near the propeller.",
+    "options": [
+      "A diver is inspecting a ship's hull underwater.",
+      "Marine biologists are studying coral reefs.",
+      "Fishing nets are being repaired on the dock.",
+      "Diving equipment is being checked on the boat."
+    ],
+    "answer": "A diver is inspecting a ship's hull underwater.",
+    "explanation": "潛水員正在水中檢查貨輪船體，與描述一致；海洋生物研究、漁網修補和裝備檢查均非畫面內容。",
+    "category": "場景位置"
+  },
+  {
+    "id": "L1-T730-058",
+    "part": 1,
+    "track": "T730",
+    "imageDescription": "A carpenter is sanding a wooden tabletop with an electric sander in a woodworking workshop filled with sawdust.",
+    "options": [
+      "The carpenter is sanding a wooden table in a workshop.",
+      "Wood planks are being cut with a circular saw.",
+      "A furniture designer is sketching new pieces.",
+      "Paint is being applied to a cabinet."
+    ],
+    "answer": "The carpenter is sanding a wooden table in a workshop.",
+    "explanation": "木匠正在車間中用電動砂紙機打磨木桌桌面，與描述一致；裁切木板、草圖設計和上漆均非畫面內容。",
+    "category": "物品狀態"
+  },
+  {
+    "id": "L1-T730-059",
+    "part": 1,
+    "track": "T730",
+    "imageDescription": "A yoga instructor is guiding students through a standing pose in a studio with wooden floors and large windows.",
+    "options": [
+      "The yoga instructor is guiding a class in a studio.",
+      "Participants are resting in a relaxation pose.",
+      "Yoga mats are being rolled up after class.",
+      "A meditation session is being led in silence."
+    ],
+    "answer": "The yoga instructor is guiding a class in a studio.",
+    "explanation": "瑜伽老師正在教室中引導學員進行站姿體位，與描述一致；學員休息、收起瑜伽墊和冥想環節均非畫面內容。",
+    "category": "人物動作"
+  },
+  {
+    "id": "L1-T730-060",
+    "part": 1,
+    "track": "T730",
+    "imageDescription": "A chocolatier is pouring tempered dark chocolate into a mold on a marble countertop in a confectionery kitchen.",
+    "options": [
+      "The chocolatier is tempering chocolate in a kitchen.",
+      "Customers are tasting samples at the shop.",
+      "Chocolate bars are being wrapped in foil.",
+      "Pastry chefs are baking croissants nearby."
+    ],
+    "answer": "The chocolatier is tempering chocolate in a kitchen.",
+    "explanation": "巧克力師正在廚房的大理石檯面上調溫黑巧克力，與描述一致；顧客試吃、包裝和可頌烘焙均非畫面內容。",
+    "category": "人物動作"
+  }
+]

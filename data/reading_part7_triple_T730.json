@@ -22,42 +22,72 @@
       {
         "id": "P7T-T730-001-Q1",
         "question": "What is the total approved budget for the warehouse management software?",
-        "options": ["$145,000", "$160,000", "$185,000", "$275,000"],
+        "options": [
+          "$145,000",
+          "$160,000",
+          "$185,000",
+          "$275,000"
+        ],
         "answer": "$160,000",
         "explanation": "內部預算備忘錄明確寫出「Warehouse Management Software: $160,000」。",
-        "crossReference": false
+        "crossReference": false,
+        "category": "細節"
       },
       {
         "id": "P7T-T730-001-Q2",
         "question": "What is the deadline for the procurement team to provide feedback on the vendors?",
-        "options": ["February 10", "February 14", "January 20", "February 20"],
+        "options": [
+          "February 10",
+          "February 14",
+          "January 20",
+          "February 20"
+        ],
         "answer": "February 14",
         "explanation": "Susan的郵件要求「I need your input by February 14」。",
-        "crossReference": false
+        "crossReference": false,
+        "category": "細節"
       },
       {
         "id": "P7T-T730-001-Q3",
         "question": "What penalty does OptiTrack face for implementation delays?",
-        "options": ["$250 per business day after week 16", "$500 per business day after week 18", "$1,000 per week after the deadline", "Forfeiture of the final 30% payment"],
+        "options": [
+          "$250 per business day after week 16",
+          "$500 per business day after week 18",
+          "$1,000 per week after the deadline",
+          "Forfeiture of the final 30% payment"
+        ],
         "answer": "$500 per business day after week 18",
         "explanation": "合約草案第3條規定「A penalty of $500 per business day will apply for delays beyond week 18」。注意合約說16週完成，但罰則從第18週起算，有2週緩衝。",
-        "crossReference": false
+        "crossReference": false,
+        "category": "細節"
       },
       {
         "id": "P7T-T730-001-Q4",
         "question": "Which vendor's solution is more likely to fit within the approved budget structure?",
-        "options": ["OptiTrack, because it is a one-time capital expenditure", "WareSmart, because it is cheaper upfront", "Both fit equally well", "Neither fits the budget"],
+        "options": [
+          "OptiTrack, because it is a one-time capital expenditure",
+          "WareSmart, because it is cheaper upfront",
+          "Both fit equally well",
+          "Neither fits the budget"
+        ],
         "answer": "OptiTrack, because it is a one-time capital expenditure",
         "explanation": "此題須同時參照三篇文件：CFO備忘錄規定$160,000為資本支出預算，不能用於訂閱制；WareSmart為雲端月費制（$2,500/月=每年$30,000）屬於營運支出，需從$85,000的IT營運預算中撥出；OptiTrack的一次性授權費$185,000超出資本預算但可協商降價，且其支付結構符合資本支出定義。綜合三份文件的資訊才能做出此判斷。",
-        "crossReference": true
+        "crossReference": true,
+        "category": "跨篇比對"
       },
       {
         "id": "P7T-T730-001-Q5",
         "question": "What is implied about the CFO's priority regarding this project?",
-        "options": ["He wants to delay the project for budget reasons", "He recommends proceeding without delay as it is the board's highest IT priority", "He prefers the WareSmart solution", "He wants to reallocate the budget to cybersecurity"],
+        "options": [
+          "He wants to delay the project for budget reasons",
+          "He recommends proceeding without delay as it is the board's highest IT priority",
+          "He prefers the WareSmart solution",
+          "He wants to reallocate the budget to cybersecurity"
+        ],
         "answer": "He recommends proceeding without delay as it is the board's highest IT priority",
         "explanation": "備忘錄末尾寫道「the warehouse software project is the board's highest IT priority for this year, so I recommend moving forward without delays」。",
-        "crossReference": false
+        "crossReference": false,
+        "category": "推論"
       }
     ]
   },
@@ -84,42 +114,72 @@
       {
         "id": "P7T-T730-002-Q1",
         "question": "What was the main cause of the security breach?",
-        "options": ["A weak password was used by the former employee", "The former employee's account was not deactivated after she left the company", "The customer database was not encrypted", "The firewall was improperly configured"],
+        "options": [
+          "A weak password was used by the former employee",
+          "The former employee's account was not deactivated after she left the company",
+          "The customer database was not encrypted",
+          "The firewall was improperly configured"
+        ],
         "answer": "The former employee's account was not deactivated after she left the company",
         "explanation": "事件報告指出「Ms. Holt's account was not properly deactivated after her departure」。",
-        "crossReference": false
+        "crossReference": false,
+        "category": "細節"
       },
       {
         "id": "P7T-T730-002-Q2",
         "question": "Why was Rebecca Holt's account not deactivated promptly?",
-        "options": ["HR forgot to submit the termination paperwork", "The IT technician responsible was on leave and no backup was assigned", "The Active Directory system was down", "Rebecca Holt requested to keep her account active"],
+        "options": [
+          "HR forgot to submit the termination paperwork",
+          "The IT technician responsible was on leave and no backup was assigned",
+          "The Active Directory system was down",
+          "Rebecca Holt requested to keep her account active"
+        ],
         "answer": "The IT technician responsible was on leave and no backup was assigned",
         "explanation": "調查郵件指出「the IT technician responsible for deactivations was on leave that week, and no backup person was assigned」。",
-        "crossReference": false
+        "crossReference": false,
+        "category": "細節"
       },
       {
         "id": "P7T-T730-002-Q3",
         "question": "Under the new policy, how quickly must accounts be deactivated after termination?",
-        "options": ["Within 24 hours", "Within 4 hours", "By the end of the business week", "Within 1 hour"],
+        "options": [
+          "Within 24 hours",
+          "Within 4 hours",
+          "By the end of the business week",
+          "Within 1 hour"
+        ],
         "answer": "Within 4 hours",
         "explanation": "新政策第1條規定「All employee and contractor accounts must be deactivated within 4 hours of termination」。",
-        "crossReference": false
+        "crossReference": false,
+        "category": "細節"
       },
       {
         "id": "P7T-T730-002-Q4",
         "question": "What is the deadline for implementing the automated integration between Workday and Active Directory?",
-        "options": ["May 15, 2025", "May 30, 2025", "June 30, 2025", "July 15, 2025"],
+        "options": [
+          "May 15, 2025",
+          "May 30, 2025",
+          "June 30, 2025",
+          "July 15, 2025"
+        ],
         "answer": "June 30, 2025",
         "explanation": "新政策第1條中提及「IT will implement an automated integration between Workday and Active Directory by June 30, 2025」。",
-        "crossReference": false
+        "crossReference": false,
+        "category": "細節"
       },
       {
         "id": "P7T-T730-002-Q5",
         "question": "How does the new policy directly address the root cause identified in the investigation?",
-        "options": ["By requiring employees to change passwords monthly", "By mandating same-day deactivation with a backup technician requirement", "By encrypting all customer data", "By blocking IP addresses from Eastern Europe"],
+        "options": [
+          "By requiring employees to change passwords monthly",
+          "By mandating same-day deactivation with a backup technician requirement",
+          "By encrypting all customer data",
+          "By blocking IP addresses from Eastern Europe"
+        ],
         "answer": "By mandating same-day deactivation with a backup technician requirement",
         "explanation": "此題須同時參照三篇文件：調查發現根本原因是缺乏自動化且沒有後備人員（文件二），新政策規定4小時內手動停用帳號、每日由兩位技術員驗證簽核（文件三），直接回應了調查報告（文件一）中揭露的流程缺陷。需對照事件報告的根因分析、調查郵件的建議和新政策的條文才能完整回答。",
-        "crossReference": true
+        "crossReference": true,
+        "category": "跨篇比對"
       }
     ]
   },
@@ -146,42 +206,72 @@
       {
         "id": "P7T-T730-003-Q1",
         "question": "What was the original planned launch date for the project?",
-        "options": ["September 29", "October 6", "October 13", "October 20"],
+        "options": [
+          "September 29",
+          "October 6",
+          "October 13",
+          "October 20"
+        ],
         "answer": "October 20",
         "explanation": "原始提案中Launch標示為「October 20, 2025」。",
-        "crossReference": false
+        "crossReference": false,
+        "category": "細節"
       },
       {
         "id": "P7T-T730-003-Q2",
         "question": "Why does David Morrison want the launch date moved earlier?",
-        "options": ["The development team is available sooner", "The original date is too close to the holiday shopping season", "The budget needs to be spent before the fiscal year ends", "The customer survey results require immediate action"],
+        "options": [
+          "The development team is available sooner",
+          "The original date is too close to the holiday shopping season",
+          "The budget needs to be spent before the fiscal year ends",
+          "The customer survey results require immediate action"
+        ],
         "answer": "The original date is too close to the holiday shopping season",
         "explanation": "David的郵件指出「October 20 is too close to the holiday shopping season. If anything goes wrong during launch, we risk impacting our Q4 revenue」。",
-        "crossReference": false
+        "crossReference": false,
+        "category": "細節"
       },
       {
         "id": "P7T-T730-003-Q3",
         "question": "How much did the total project budget change between the original proposal and the revised timeline?",
-        "options": ["It increased by $12,000", "It decreased by $17,600", "It stayed the same", "It decreased by $12,000"],
+        "options": [
+          "It increased by $12,000",
+          "It decreased by $17,600",
+          "It stayed the same",
+          "It decreased by $12,000"
+        ],
         "answer": "It decreased by $17,600",
         "explanation": "原始預算為$149,600，修正後為$132,000，減少$17,600。修正版雖新增約聘開發人員$12,000，但設計和開發時程縮短節省了更多。",
-        "crossReference": false
+        "crossReference": false,
+        "category": "細節"
       },
       {
         "id": "P7T-T730-003-Q4",
         "question": "What new resource did Rachel add to the revised plan to maintain development velocity?",
-        "options": ["An additional QA tester", "A contract developer for 4 weeks", "A UI/UX design consultant", "A project manager"],
+        "options": [
+          "An additional QA tester",
+          "A contract developer for 4 weeks",
+          "A UI/UX design consultant",
+          "A project manager"
+        ],
         "answer": "A contract developer for 4 weeks",
         "explanation": "修正版時程中Phase 3備註說明「will use an additional contract developer for 4 weeks to maintain velocity」。",
-        "crossReference": false
+        "crossReference": false,
+        "category": "細節"
       },
       {
         "id": "P7T-T730-003-Q5",
         "question": "Which of David's requirements was NOT fully met in Rachel's revised timeline?",
-        "options": ["Reducing the research phase to 2 weeks", "Adding user acceptance testing", "Moving the launch date to October 6", "Preparing a budget comparison"],
+        "options": [
+          "Reducing the research phase to 2 weeks",
+          "Adding user acceptance testing",
+          "Moving the launch date to October 6",
+          "Preparing a budget comparison"
+        ],
         "answer": "Moving the launch date to October 6",
         "explanation": "此題須同時參照三篇文件：David要求將上線日提前至10月6日（文件二），但Rachel修正後的正式上線日為9月29日（文件三），比David要求的10月6日更早，但並非正好「10月6日」這個日期。實際上Rachel的9月29日比要求更早——但題目問的是「哪一項未被完全滿足」，對照原始提案（文件一）的10月20日，David要求10月6日，Rachel給出9月29日。然而9月29日更早於10月6日，這算滿足了要求。再仔細看：研究階段減至2週（✓）、UAT已加入（✓）、預算比較已做（✓）、上線日為9月29日而非10月6日（未精確符合要求但更早完成，嚴格來說日期不同可視為未精確符合）。這題的設計是：Rachel給的日期是9月29日而非David指定的10月6日，因此嚴格來說「10月6日」這個確切日期未被滿足。",
-        "crossReference": true
+        "crossReference": true,
+        "category": "跨篇比對"
       }
     ]
   }

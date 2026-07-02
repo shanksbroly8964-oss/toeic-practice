@@ -1,0 +1,2054 @@
+[
+  {
+    "id": "P6-T730-013",
+    "part": 6,
+    "track": "T730",
+    "passageTitle": "Email: Project Deadline Extension Request",
+    "passageTemplate": "Dear Mr. Henderson,\n\nI am writing to formally request a two-week extension for the Sentinel Platform integration project, which is currently scheduled for delivery on May 15. As you are aware, the third-party API documentation we (1)___ on for the payment gateway module was updated without prior notice last week, rendering a significant portion of our existing codebase incompatible.\n\nOur development team has been working overtime to refactor the affected modules, and I am confident that the additional time will allow us not only to resolve the compatibility issues but also to (2)___ more rigorous testing protocols that were originally planned for the post-launch phase. The revised timeline would push the go-live date to May 29.\n\nI understand that any delay impacts the broader product roadmap, and I do not make this request (3)___. We have already notified the stakeholders of the downstream teams and have prepared a mitigation plan to minimize disruption.\n\n(4)___ at your earliest convenience so that we can adjust the resource allocation accordingly.\n\nBest regards,\nProject Lead",
+    "blanks": [
+      {
+        "index": 1,
+        "options": [
+          "had relied",
+          "have been relying",
+          "rely",
+          "will rely"
+        ],
+        "answer": "have been relying",
+        "explanation": "現在完成進行式表示從過去持續到現在仍倚賴該文件，強調連續性與近期影響。",
+        "category": "時態"
+      },
+      {
+        "index": 2,
+        "options": [
+          "incorporate",
+          "incorporating",
+          "incorporated",
+          "incorporates"
+        ],
+        "answer": "incorporate",
+        "explanation": "to resolve...and (to) incorporate，省略to的不定詞並列結構。",
+        "category": "詞性"
+      },
+      {
+        "index": 3,
+        "options": [
+          "lightly",
+          "light",
+          "lighten",
+          "lightness"
+        ],
+        "answer": "lightly",
+        "explanation": "副詞lightly修飾make，do not make...lightly表示非輕率決定。",
+        "category": "搭配詞"
+      },
+      {
+        "index": 4,
+        "options": [
+          "I would appreciate your approval",
+          "Your approval is appreciated",
+          "Approving at your convenience",
+          "Approval to be given"
+        ],
+        "answer": "I would appreciate your approval",
+        "explanation": "I would appreciate...為商務email請求授權的禮貌句型，語氣恰當且正式。",
+        "category": "句子插入"
+      }
+    ]
+  },
+  {
+    "id": "P6-T730-014",
+    "part": 6,
+    "track": "T730",
+    "passageTitle": "Memo: Customer Satisfaction Survey Results",
+    "passageTemplate": "To: All Department Directors\nFrom: Customer Experience Division\n\nI am pleased to share the key findings from our annual customer satisfaction survey, which achieved a response rate of 38% — the highest in the company's history. The overall satisfaction score rose to 84.2 out of 100, representing a 6.8-point improvement (1)___ last year's figure of 77.4. This upward trend is particularly encouraging given the operational disruptions we experienced during the first quarter.\n\nHowever, the survey also identified several areas (2)___ immediate attention. Response times for technical support inquiries averaged 4.7 hours, well above the industry benchmark of 2.5 hours. Additionally, 23% of respondents indicated that the self-service portal was difficult to navigate, a figure that has remained largely (3)___ over the past three survey cycles.\n\nI have scheduled a cross-functional workshop for next Tuesday to develop targeted action plans addressing each of these concerns. (4)___ as your insights will be instrumental in shaping the remedial measures we propose.\n\nThank you for your commitment to continuous improvement.",
+    "blanks": [
+      {
+        "index": 1,
+        "options": [
+          "over",
+          "than",
+          "from",
+          "against"
+        ],
+        "answer": "over",
+        "explanation": "an X improvement over Y為固定搭配，表示相較於Y的進步幅度。",
+        "category": "介系詞"
+      },
+      {
+        "index": 2,
+        "options": [
+          "requiring",
+          "required",
+          "require",
+          "requires"
+        ],
+        "answer": "requiring",
+        "explanation": "現在分詞requiring修飾areas，areas requiring attention = 需要注意的領域。",
+        "category": "詞性"
+      },
+      {
+        "index": 3,
+        "options": [
+          "unchanged",
+          "unchanging",
+          "unchange",
+          "unchangedly"
+        ],
+        "answer": "unchanged",
+        "explanation": "remain + 形容詞unchanged表示保持不變的狀態。",
+        "category": "搭配詞"
+      },
+      {
+        "index": 4,
+        "options": [
+          "I strongly encourage your participation",
+          "Your participation encouraging",
+          "To participate strongly",
+          "Participation is encouraged"
+        ],
+        "answer": "I strongly encourage your participation",
+        "explanation": "直接呼籲式句型語氣有力且具個人感，後接as說明理由。",
+        "category": "句子插入"
+      }
+    ]
+  },
+  {
+    "id": "P6-T730-015",
+    "part": 6,
+    "track": "T730",
+    "passageTitle": "Announcement: New Regional Branch Opening",
+    "passageTemplate": "Dear Valued Clients and Partners,\n\nWe are delighted to announce the opening of our newest regional office in Brisbane, Australia, marking our first direct presence in the Oceania market. This expansion is a direct response to the growing demand for our services in the region, (1)___ has seen a 67% increase in client inquiries over the past 18 months.\n\nThe Brisbane office will be headed by Ms. Sarah Chen, who brings over 20 years of industry experience and was previously the managing director of our Singapore operations. She will be supported by a team of 15 locally recruited professionals, all of whom have undergone our (2)___ six-month onboarding and training program.\n\nTo celebrate this milestone, we will be hosting an inaugural networking reception at the Brisbane Convention Centre on July 18. The event will feature a keynote address by our CEO and a panel discussion on emerging market opportunities in the Asia-Pacific region.\n\n(3)___ the reception, please RSVP through the online registration portal by July 4. Due to venue capacity constraints, we regret that attendance will be limited to 200 guests.\n\n(4)___ to this exciting new chapter in our company's growth story.\n\nWarm regards,\nGlobal Operations Director",
+    "blanks": [
+      {
+        "index": 1,
+        "options": [
+          "which",
+          "where",
+          "that",
+          "what"
+        ],
+        "answer": "which",
+        "explanation": "which引導非限定關係子句指代demand（或前句整體），提供補充資訊。",
+        "category": "關係代名詞"
+      },
+      {
+        "index": 2,
+        "options": [
+          "rigorous",
+          "rigorously",
+          "rigor",
+          "rigorousness"
+        ],
+        "answer": "rigorous",
+        "explanation": "形容詞rigorous（嚴格的）修飾training program，表示訓練的嚴謹程度。",
+        "category": "詞性"
+      },
+      {
+        "index": 3,
+        "options": [
+          "If you wish to attend",
+          "Attending the reception",
+          "To wish attendance",
+          "Reception attendance wishing"
+        ],
+        "answer": "If you wish to attend",
+        "explanation": "If you wish to attend為條件子句，引導後續報名指示，語氣正式且清楚。",
+        "category": "上下文邏輯"
+      },
+      {
+        "index": 4,
+        "options": [
+          "We look forward to welcoming you",
+          "Looking forward to welcome you",
+          "To look forward welcoming you",
+          "We look forward welcome you"
+        ],
+        "answer": "We look forward to welcoming you",
+        "explanation": "look forward to + 動名詞為固定搭配，商務書信結尾標準用語。",
+        "category": "句子插入"
+      }
+    ]
+  },
+  {
+    "id": "P6-T730-016",
+    "part": 6,
+    "track": "T730",
+    "passageTitle": "Email: Vendor Payment Terms Renegotiation",
+    "passageTemplate": "Dear Mr. Kowalski,\n\nFurther to our telephone conversation on Tuesday, I am writing to confirm the revised payment terms for our supply agreement effective August 1. As agreed, the standard payment window will be extended from 30 to 45 days net, (1)___ that all invoices are submitted electronically through our procurement portal within five business days of delivery.\n\nIn exchange for the extended terms, we have agreed to a 2.5% price adjustment on all component orders placed during the first year of the renewed contract. This adjustment is intended to (2)___ your company for the additional working capital costs associated with the longer payment cycle. Subsequent years will be subject to annual review based on prevailing market conditions.\n\nI have attached the amended contract for your review. (3)___ particular attention to Clause 7.3, which outlines the dispute resolution mechanism in the event of invoicing discrepancies. This clause was revised at the request of our legal department.\n\n(4)___ and return a signed copy by August 15 to finalize the agreement.\n\nSincerely,\nProcurement Manager",
+    "blanks": [
+      {
+        "index": 1,
+        "options": [
+          "provided",
+          "providing",
+          "provision",
+          "provides"
+        ],
+        "answer": "provided",
+        "explanation": "provided that（倘若）為條件連接詞，等同於on the condition that，正式合約用語。",
+        "category": "連接詞"
+      },
+      {
+        "index": 2,
+        "options": [
+          "compensate",
+          "compensating",
+          "compensation",
+          "compensates"
+        ],
+        "answer": "compensate",
+        "explanation": "intended to + 原形動詞compensate，表示「旨在補償」。",
+        "category": "詞性"
+      },
+      {
+        "index": 3,
+        "options": [
+          "Please pay",
+          "Paying",
+          "To pay",
+          "Pay"
+        ],
+        "answer": "Please pay",
+        "explanation": "Please pay attention to為禮貌祈使句，催促對方注意特定條款。",
+        "category": "搭配詞"
+      },
+      {
+        "index": 4,
+        "options": [
+          "Kindly sign the document",
+          "Signing the document kindly",
+          "The document kindly signed",
+          "To kindly sign"
+        ],
+        "answer": "Kindly sign the document",
+        "explanation": "Kindly sign...為商務書信中溫和而專業的請求語氣，符合合約簽署場景。",
+        "category": "句子插入"
+      }
+    ]
+  },
+  {
+    "id": "P6-T730-017",
+    "part": 6,
+    "track": "T730",
+    "passageTitle": "Notice: Office Relocation Schedule",
+    "passageTemplate": "IMPORTANT: Office Relocation — Phase 1 Timeline\n\nAs part of our previously announced consolidation initiative, the Finance, Human Resources, and Legal departments will be relocating to the newly renovated North Tower on the 12th through 15th floors. The relocation will (1)___ in three phases to minimize disruption to daily operations.\n\nPhase 1, which covers the Finance department, will commence on Monday, September 11, and is expected to be completed by Wednesday, September 13. During this period, all Finance staff members are required to work from home, (2)___ a skeleton crew of three senior accountants who will remain on-site at the current location to handle urgent payment processing.\n\nTo facilitate a smooth transition, each employee is responsible for packing their personal belongings and labeling all equipment with the (3)___ floor and workstation numbers by 5:00 p.m. on Friday, September 8. IT will handle the disconnection and reconnection of all desktop computers and telephones.\n\n(4)___ regarding the relocation should be directed to the Facilities Management help desk at extension 4500. Detailed floor plans and workstation assignments have been distributed via email and are also available on the company intranet.",
+    "blanks": [
+      {
+        "index": 1,
+        "options": [
+          "be carried out",
+          "carry out",
+          "carrying out",
+          "carried out"
+        ],
+        "answer": "be carried out",
+        "explanation": "will be carried out為被動語態，搬遷「被執行」，符合will後接原形的規則。",
+        "category": "時態"
+      },
+      {
+        "index": 2,
+        "options": [
+          "except for",
+          "except that",
+          "excepting",
+          "with the exception"
+        ],
+        "answer": "except for",
+        "explanation": "except for + 名詞片語（a skeleton crew）為排除用法，表示除少數人外全體遠距。",
+        "category": "介系詞"
+      },
+      {
+        "index": 3,
+        "options": [
+          "assigned",
+          "assigning",
+          "assign",
+          "assigns"
+        ],
+        "answer": "assigned",
+        "explanation": "過去分詞assigned修飾floor and workstation numbers，表示「已被分配的」。",
+        "category": "詞性"
+      },
+      {
+        "index": 4,
+        "options": [
+          "Any questions or concerns",
+          "If you question or concern",
+          "Questioning or concerning",
+          "Questions to concern"
+        ],
+        "answer": "Any questions or concerns",
+        "explanation": "Any questions作主詞為公告常見開頭，直接正式且符合公司內部通訊風格。",
+        "category": "句子插入"
+      }
+    ]
+  },
+  {
+    "id": "P6-T730-018",
+    "part": 6,
+    "track": "T730",
+    "passageTitle": "Advertisement: Professional Development Workshop",
+    "passageTemplate": "Elevate Your Career with Negotiation Mastery — Registration Now Open\n\nIn an era where cross-functional collaboration and stakeholder management define professional success, the ability to negotiate effectively is no longer (1)___ to senior executives. Professionals at every level must be equipped to advocate for resources, align divergent interests, and reach mutually beneficial agreements.\n\nOur two-day intensive workshop, led by Harvard-trained negotiation expert Dr. Amanda Reese, combines cutting-edge behavioral research with hands-on simulation exercises. Participants will engage in realistic multi-party negotiation scenarios and receive personalized feedback on their communication style, strategic thinking, and emotional intelligence under pressure. Unlike conventional seminars that (2)___ generic frameworks, our program is tailored to each participant's industry and functional role.\n\nThe workshop will be held at the Grand Hyatt Conference Center from October 20 to 21. Early-bird registration, which offers a 20% discount, closes on September 15. (3)___ organizations sending three or more participants are eligible for an additional 10% group discount.\n\n(4)___ as spaces are strictly limited to 30 participants per session to ensure an optimal learning environment.\n\nVisit our website or call (800) 555-0192 to register.",
+    "blanks": [
+      {
+        "index": 1,
+        "options": [
+          "confined",
+          "confining",
+          "confines",
+          "confinement"
+        ],
+        "answer": "confined",
+        "explanation": "is confined to（侷限於）為被動語態固定搭配，表示不再僅限於高階主管。",
+        "category": "搭配詞"
+      },
+      {
+        "index": 2,
+        "options": [
+          "rely on",
+          "relying on",
+          "relied on",
+          "relies on"
+        ],
+        "answer": "rely on",
+        "explanation": "that rely on，關係子句主詞seminars為複數，搭配原形動詞rely on。",
+        "category": "片語動詞"
+      },
+      {
+        "index": 3,
+        "options": [
+          "In addition",
+          "Added to that",
+          "Moreover that",
+          "With adding"
+        ],
+        "answer": "In addition",
+        "explanation": "In addition為連接副詞引導額外資訊，獨立逗號後接完整句。",
+        "category": "連接詞"
+      },
+      {
+        "index": 4,
+        "options": [
+          "We encourage you to secure your spot early",
+          "Securing your spot early encouraged",
+          "Your spot securing early",
+          "To secure your early spot"
+        ],
+        "answer": "We encourage you to secure your spot early",
+        "explanation": "We encourage you to...為廣告中溫暖而有力的呼籲，as說明理由。",
+        "category": "句子插入"
+      }
+    ]
+  },
+  {
+    "id": "P6-T730-019",
+    "part": 6,
+    "track": "T730",
+    "passageTitle": "Email: Product Recall Management",
+    "passageTemplate": "Dear Retail Partners,\n\nThis message constitutes formal notification of a voluntary product recall affecting the HeatChef Pro T-2000 portable induction cooktop, model numbers HC-2000 through HC-2099, manufactured between January and March of this year. An internal quality audit has revealed that, under rare circumstances, the temperature control module may malfunction, (1)___ the unit to overheat beyond safe operating limits.\n\nWe have already commenced the recall process and are coordinating with consumer safety authorities across all jurisdictions where the product was distributed. All affected units must be (2)___ from store shelves and online listings immediately. Customers who have purchased the product should be directed to our dedicated recall hotline at (800) 555-0347 for a full refund or replacement.\n\nWe fully recognize the (3)___ this recall places on your operations, particularly during the peak holiday shopping season. A compensation package for retail partners, including reimbursement for logistical costs and a goodwill credit toward future orders, will be detailed in a separate communication early next week.\n\n(4)___ by replying to this email with your current inventory count of the affected model numbers by 5:00 p.m. this Friday.\n\nSincerely,\nQuality Assurance Director",
+    "blanks": [
+      {
+        "index": 1,
+        "options": [
+          "causing",
+          "caused",
+          "cause",
+          "causes"
+        ],
+        "answer": "causing",
+        "explanation": "現在分詞causing表示前句情況所導致的結果，為分詞構句。",
+        "category": "詞性"
+      },
+      {
+        "index": 2,
+        "options": [
+          "withdrawn",
+          "withdrawing",
+          "withdraw",
+          "withdraws"
+        ],
+        "answer": "withdrawn",
+        "explanation": "must be + 過去分詞withdrawn構成被動語態，商品必須被下架。",
+        "category": "時態"
+      },
+      {
+        "index": 3,
+        "options": [
+          "burden",
+          "burdened",
+          "burdening",
+          "burdensome"
+        ],
+        "answer": "burden",
+        "explanation": "名詞burden作為recognize的受詞，the burden this recall places為N + 關代子句結構。",
+        "category": "近義字彙"
+      },
+      {
+        "index": 4,
+        "options": [
+          "Please confirm receipt of this notice",
+          "Confirming receipt of notice",
+          "To receipt confirmation",
+          "Receipt to confirm"
+        ],
+        "answer": "Please confirm receipt of this notice",
+        "explanation": "祈使句Please confirm...為正式召回通知的行動呼籲，清楚直接。",
+        "category": "句子插入"
+      }
+    ]
+  },
+  {
+    "id": "P6-T730-020",
+    "part": 6,
+    "track": "T730",
+    "passageTitle": "Memo: Annual Budget Planning Guidelines",
+    "passageTemplate": "To: All Department Directors and Budget Coordinators\nFrom: Chief Financial Officer\n\nAs we approach the fiscal year-end on December 31, it is time to begin preparing departmental budget proposals for the upcoming year. The deadline for submission is October 20, which (1)___ for review and consolidation before the final budget must be presented to the board on November 15.\n\nThis year's budget planning will be governed by two overarching principles. First, all departments are expected to identify cost-saving opportunities of at least 5% relative to their current-year allocations, without (2)___ operational effectiveness or employee headcount. Second, any request for additional funding above a 3% increase over the current baseline must be accompanied by a detailed business case demonstrating a projected return on investment within 18 months.\n\nThe finance department will host two training sessions on the new budget preparation software on September 8 and September 12. (3)___ is mandatory for all first-time budget coordinators and strongly recommended for those who have not used the platform in the past 12 months.\n\n(4)___ your proposals are submitted by the deadline, the finance team will provide preliminary feedback within five business days and schedule one-on-one review meetings where adjustments are necessary.\n\nThank you for your cooperation.",
+    "blanks": [
+      {
+        "index": 1,
+        "options": [
+          "allows",
+          "allowing",
+          "allowed",
+          "allow"
+        ],
+        "answer": "allows",
+        "explanation": "which allows，關係子句指代deadline（單數），動詞需用第三人稱單數。",
+        "category": "時態"
+      },
+      {
+        "index": 2,
+        "options": [
+          "compromising",
+          "compromise",
+          "compromised",
+          "compromises"
+        ],
+        "answer": "compromising",
+        "explanation": "without + 動名詞compromising（損害），介係詞後接動名詞為固定用法。",
+        "category": "詞性"
+      },
+      {
+        "index": 3,
+        "options": [
+          "Attendance",
+          "Attending",
+          "Attend",
+          "Attendant"
+        ],
+        "answer": "Attendance",
+        "explanation": "名詞Attendance作主詞最直接，表示參加這件事本身為強制性的。",
+        "category": "近義字彙"
+      },
+      {
+        "index": 4,
+        "options": [
+          "Provided that",
+          "Even if",
+          "In spite of",
+          "As though"
+        ],
+        "answer": "Provided that",
+        "explanation": "Provided that（倘若）為條件連接詞，提出預算準時提交後的回饋承諾，符合商務規劃語境。",
+        "category": "上下文邏輯"
+      }
+    ]
+  },
+  {
+    "id": "P6-T730-021",
+    "part": 6,
+    "track": "T730",
+    "passageTitle": "Announcement: Employee Wellness Program Launch",
+    "passageTemplate": "Dear Colleagues,\n\nWe are excited to introduce Thrive360, a comprehensive employee wellness program designed to support your physical, mental, and financial well-being. This initiative, (1)___ development involved input from over 300 employees through focus groups and surveys conducted last fall, will officially launch on April 1.\n\nThrive360 encompasses four core components: subsidized gym memberships at over 2,000 participating fitness centers nationwide, confidential mental health counseling services available 24/7 via a dedicated hotline, quarterly financial literacy workshops led by certified planners, and an enhanced Employee Assistance Program that extends coverage to immediate family members. Each component has been carefully curated to address the most frequently cited challenges identified in our annual engagement survey.\n\nEnrollment in the program is voluntary and (2)___ no cost to full-time employees. Part-time staff members are eligible for a prorated subsidy covering 60% of the program costs. We strongly encourage everyone to (3)___ of these resources, as research consistently shows that employees who engage with wellness initiatives report higher job satisfaction and lower stress levels.\n\n(4)___ a series of orientation webinars will be held during the last week of March. Registration details will be circulated separately.\n\nWe look forward to supporting your well-being journey.\n\nWarm regards,\nChief Human Resources Officer",
+    "blanks": [
+      {
+        "index": 1,
+        "options": [
+          "whose",
+          "which",
+          "that",
+          "what"
+        ],
+        "answer": "whose",
+        "explanation": "whose development = the development of which，表示該計畫的開發過程，所有格關係代名詞。",
+        "category": "關係代名詞"
+      },
+      {
+        "index": 2,
+        "options": [
+          "comes at",
+          "comes to",
+          "comes with",
+          "comes by"
+        ],
+        "answer": "comes at",
+        "explanation": "come at no cost（以零成本提供）為固定搭配，at表代價。",
+        "category": "片語動詞"
+      },
+      {
+        "index": 3,
+        "options": [
+          "take advantage",
+          "make advantage",
+          "get advantage",
+          "have advantage"
+        ],
+        "answer": "take advantage",
+        "explanation": "take advantage of為固定片語（善加利用），正式書面鼓勵用語。",
+        "category": "搭配詞"
+      },
+      {
+        "index": 4,
+        "options": [
+          "To help you familiarize yourself with the program",
+          "Familiarizing yourself with program",
+          "You familiarize with program",
+          "Program to familiarize"
+        ],
+        "answer": "To help you familiarize yourself with the program",
+        "explanation": "To + 原形不定詞表示目的，帶出後續行動安排，語氣溫暖且引導性強。",
+        "category": "句子插入"
+      }
+    ]
+  },
+  {
+    "id": "P6-T730-022",
+    "part": 6,
+    "track": "T730",
+    "passageTitle": "Email: International Customs Clearance Delay",
+    "passageTemplate": "Dear Ms. Lindström,\n\nI am writing to inform you that our shipment of medical diagnostic equipment (Order #SW-88492) has been detained at customs in Rotterdam due to a discrepancy in the certificate of origin documentation. Specifically, the harmonized system codes listed on the commercial invoice do not fully align with those on the packing list, (1)___ has triggered an automatic review by the Netherlands customs authority.\n\nWe have already engaged our local customs broker, Van Dijk Logistics, to liaise with the authorities and expedite the resolution. They estimate that (2)___ the necessary corrections to the documentation will take three to five business days. Once cleared, the shipment will be transported to your facility within 48 hours via priority ground service.\n\nWe sincerely apologize for this delay and any disruption it may cause to your operations. Our shipping department has initiated an internal review to determine how this discrepancy (3)___ and to implement additional verification checks to prevent similar incidents in the future.\n\n(4)___ with daily updates as the situation progresses. Please do not hesitate to contact me directly if you require further information.\n\nSincerely,\nExport Logistics Manager",
+    "blanks": [
+      {
+        "index": 1,
+        "options": [
+          "which",
+          "that",
+          "it",
+          "this"
+        ],
+        "answer": "which",
+        "explanation": "which引導非限定關係子句指代前句整體所述情況，只能用which。",
+        "category": "關係代名詞"
+      },
+      {
+        "index": 2,
+        "options": [
+          "making",
+          "to make",
+          "made",
+          "make"
+        ],
+        "answer": "making",
+        "explanation": "that making...為that + 動名詞片語作主詞子句的主詞，動名詞片語為名詞性質。",
+        "category": "詞性"
+      },
+      {
+        "index": 3,
+        "options": [
+          "occurred",
+          "occurring",
+          "occurs",
+          "occur"
+        ],
+        "answer": "occurred",
+        "explanation": "how this discrepancy occurred，過去式表示已經發生的差異事件，與事實時間相符。",
+        "category": "時態"
+      },
+      {
+        "index": 4,
+        "options": [
+          "I will provide you",
+          "You will be provided",
+          "Providing you",
+          "To be provided"
+        ],
+        "answer": "I will provide you",
+        "explanation": "I will provide you with...為主動承諾語氣，表達個人責任感，優於被動結構。",
+        "category": "句子插入"
+      }
+    ]
+  },
+  {
+    "id": "P6-T730-023",
+    "part": 6,
+    "track": "T730",
+    "passageTitle": "Memo: Quarterly Market Share Analysis",
+    "passageTemplate": "To: Executive Leadership Team\nFrom: Market Intelligence Unit\n\nPlease find below the highlights from our third-quarter market share analysis across the three primary product categories. The data, (1)___ has been compiled from independent industry reports and our internal sales databases, reveals a mixed but generally encouraging picture.\n\nIn the enterprise software segment, our market share increased from 14.2% to 16.8%, the (2)___ gain recorded since the second quarter of 2022. This jump is largely attributable to the successful launch of our cloud-native platform and the withdrawal of a key competitor from the Asia-Pacific market. Conversely, the consumer electronics division experienced a marginal decline of 0.7 percentage points, which we attribute to aggressive pricing strategies employed by several emerging brands in the budget segment.\n\nThe most significant concern, however, lies in the professional services category, where our share has (3)___ eroded over four consecutive quarters, falling from 22.1% to 18.9%. I recommend that we commission an independent review of our service delivery model to identify the root causes before this trend becomes irreversible.\n\n(4)___ a comprehensive discussion of these findings at the executive retreat scheduled for November 10.\n\nRegards,\nDirector of Market Intelligence",
+    "blanks": [
+      {
+        "index": 1,
+        "options": [
+          "which",
+          "that",
+          "what",
+          "where"
+        ],
+        "answer": "which",
+        "explanation": "which引導非限定關係子句，前後逗號隔開，指代data。",
+        "category": "關係代名詞"
+      },
+      {
+        "index": 2,
+        "options": [
+          "steepest",
+          "steep",
+          "steeper",
+          "steeply"
+        ],
+        "answer": "steepest",
+        "explanation": "the + 最高級steepest（最大的）修飾gain，指自2022年Q2以來的最大增幅。",
+        "category": "詞性"
+      },
+      {
+        "index": 3,
+        "options": [
+          "steadily",
+          "steady",
+          "steadiness",
+          "steadied"
+        ],
+        "answer": "steadily",
+        "explanation": "副詞steadily修飾動詞eroded，表示市佔率穩定地被侵蝕。",
+        "category": "近義字彙"
+      },
+      {
+        "index": 4,
+        "options": [
+          "I look forward to",
+          "Looking forward for",
+          "To look forward at",
+          "I look forward for"
+        ],
+        "answer": "I look forward to",
+        "explanation": "look forward to + 名詞/動名詞為固定搭配，商務備忘錄結尾標準表達。",
+        "category": "句子插入"
+      }
+    ]
+  },
+  {
+    "id": "P6-T730-024",
+    "part": 6,
+    "track": "T730",
+    "passageTitle": "Notice: Cybersecurity Awareness Campaign",
+    "passageTemplate": "MANDATORY CYBERSECURITY TRAINING — Completion Required by April 15\n\nIn response to a sharp rise in phishing attacks targeting organizations within our industry, the Information Security Office is launching a company-wide cybersecurity awareness campaign. All employees, (1)___ of their role or tenure, are required to complete the newly updated digital security training module by April 15.\n\nThe module, which takes approximately 45 minutes to complete, covers four critical areas: identifying sophisticated phishing attempts, creating and managing strong passwords, recognizing social engineering tactics, and responding appropriately to suspected security (2)___. A short assessment at the end of each section must be passed with a score of at least 80% to receive course credit.\n\nPlease note that failure to complete the training by the deadline will result in the temporary suspension of access to the company network, a measure that (3)___ regrettable but necessary in light of the escalating threat landscape. Compliance rates will be monitored by department and reported to the executive leadership team on a weekly basis.\n\n(4)___ to answer any questions you may have about the training content or the compliance requirements.\n\nThank you for your cooperation in maintaining our collective digital safety.",
+    "blanks": [
+      {
+        "index": 1,
+        "options": [
+          "regardless",
+          "regarding",
+          "regardlessly",
+          "regard"
+        ],
+        "answer": "regardless",
+        "explanation": "regardless of（無論）為固定片語，表示不考慮職位或年資。",
+        "category": "介系詞"
+      },
+      {
+        "index": 2,
+        "options": [
+          "breaches",
+          "breaching",
+          "breach",
+          "breached"
+        ],
+        "answer": "breaches",
+        "explanation": "名詞breaches（違規事件）為複數形，與前文security搭配為資安事件。",
+        "category": "近義字彙"
+      },
+      {
+        "index": 3,
+        "options": [
+          "admittedly",
+          "admitted",
+          "admitting",
+          "admission"
+        ],
+        "answer": "admittedly",
+        "explanation": "副詞admittedly（誠然/不可否認地）修飾形容詞regrettable，插入語語氣。",
+        "category": "詞性"
+      },
+      {
+        "index": 4,
+        "options": [
+          "The Information Security team is available",
+          "Information Security team available",
+          "Available the Information Security team",
+          "To be available security team"
+        ],
+        "answer": "The Information Security team is available",
+        "explanation": "完整主詞+動詞句子為常見公告結尾，提供後續支援管道。",
+        "category": "句子插入"
+      }
+    ]
+  },
+  {
+    "id": "P6-T730-025",
+    "part": 6,
+    "track": "T730",
+    "passageTitle": "Advertisement: Business English Intensive Course",
+    "passageTemplate": "Master Business English in 12 Weeks — Enroll Now for the Fall Cohort\n\nIn today's globalized economy, English proficiency is not merely an advantage (1)___ a prerequisite for career advancement. Professionals who can communicate with clarity and precision in international settings consistently outperform their peers in cross-border negotiations, client presentations, and executive meetings.\n\nOur 12-week intensive program, developed in partnership with the London School of Business Communication, goes far beyond textbook grammar. Participants engage in simulated boardroom discussions, deliver presentations to native-speaker panels, and draft real-world business documents — from executive summaries and financial reports to persuasive proposals. Every session is led by instructors who (2)___ extensive experience coaching senior executives from Fortune 500 companies.\n\nThe program also includes a one-on-one accent and pronunciation assessment, which many of our alumni cite as the single most transformative component of the course. (3)___ graduates have reported a measurable improvement in their confidence when presenting in English, with 89% rating the program as \"excellent\" or \"very good.\"\n\n(4)___ as the fall cohort is limited to 28 participants and always fills months in advance. A limited number of partial scholarships are available for applicants from nonprofit organizations.\n\nVisit www.bizenglishpro.com to submit your application.",
+    "blanks": [
+      {
+        "index": 1,
+        "options": [
+          "but",
+          "and",
+          "or",
+          "nor"
+        ],
+        "answer": "but",
+        "explanation": "not merely...but（不僅是...而是）為對等連接詞搭配，加強語氣。",
+        "category": "連接詞"
+      },
+      {
+        "index": 2,
+        "options": [
+          "have",
+          "has",
+          "having",
+          "had"
+        ],
+        "answer": "have",
+        "explanation": "who have extensive experience，關係子句主詞who指instructors（複數），動詞用have。",
+        "category": "時態"
+      },
+      {
+        "index": 3,
+        "options": [
+          "Overwhelmingly",
+          "Overwhelming",
+          "Overwhelm",
+          "Overwhelmed"
+        ],
+        "answer": "Overwhelmingly",
+        "explanation": "副詞Overwhelmingly（一面倒地/壓倒性地）修飾動詞have reported，表示極高比例。",
+        "category": "詞性"
+      },
+      {
+        "index": 4,
+        "options": [
+          "We strongly recommend submitting your application early",
+          "Submitting your early application recommended",
+          "Your application early to submit",
+          "To recommend early application submitted"
+        ],
+        "answer": "We strongly recommend submitting your application early",
+        "explanation": "We strongly recommend + 動名詞為廣告中緊迫但專業的呼籲，as說明限額原因。",
+        "category": "句子插入"
+      }
+    ]
+  },
+  {
+    "id": "P6-T730-026",
+    "part": 6,
+    "track": "T730",
+    "passageTitle": "Email: Joint Venture Term Sheet Discussion",
+    "passageTemplate": "Dear Mr. Al-Rashid,\n\nThank you for the productive discussions we had during your visit to our headquarters last week. I believe we have reached a broad consensus on the principal terms of the proposed joint venture, and I am now in a position to share a preliminary term sheet for your review.\n\nAs discussed, the joint venture will be structured as a 51:49 equity split, with your company holding the majority stake and (1)___ primary responsibility for operational management. Our side will contribute the intellectual property portfolio, which has been independently valued at $3.8 million, and will (2)___ technical oversight of the research and development function.\n\nOne outstanding item that requires further negotiation is the governance structure. Specifically, we need to agree on the composition of the board of directors and the mechanism (3)___ which deadlock decisions will be resolved. I propose that we each nominate two directors and jointly appoint a fifth independent director with a casting vote.\n\n(4)___ a conference call during the week of September 18 to work through the remaining details. Please let me know which days and times would be convenient for your team.\n\nWarm regards,\nChief Strategy Officer",
+    "blanks": [
+      {
+        "index": 1,
+        "options": [
+          "assuming",
+          "assumed",
+          "assume",
+          "assumes"
+        ],
+        "answer": "assuming",
+        "explanation": "and (your company) assuming，現在分詞與holding並列，表示同時承擔。",
+        "category": "詞性"
+      },
+      {
+        "index": 2,
+        "options": [
+          "retain",
+          "retaining",
+          "retained",
+          "retains"
+        ],
+        "answer": "retain",
+        "explanation": "and will retain，與前面will contribute並列，共用助動詞will。",
+        "category": "時態"
+      },
+      {
+        "index": 3,
+        "options": [
+          "by",
+          "through",
+          "with",
+          "for"
+        ],
+        "answer": "through",
+        "explanation": "the mechanism through which（透過該機制的途徑）為關係子句中介係詞的正確搭配。",
+        "category": "關係代名詞"
+      },
+      {
+        "index": 4,
+        "options": [
+          "I would like to propose",
+          "Proposing I would like",
+          "To propose like",
+          "I would to propose"
+        ],
+        "answer": "I would like to propose",
+        "explanation": "I would like to propose...為商務email提議會議的標準禮貌表達。",
+        "category": "句子插入"
+      }
+    ]
+  },
+  {
+    "id": "P6-T730-027",
+    "part": 6,
+    "track": "T730",
+    "passageTitle": "Announcement: Leadership Succession Plan",
+    "passageTemplate": "Dear Employees and Stakeholders,\n\nAfter 27 years of distinguished service, our founder and CEO, Mr. William Thornton, has informed the board of directors of his intention to retire effective December 31. In accordance with the succession plan that (1)___ in place since 2019, Ms. Elena Vasquez, currently Chief Operating Officer, will assume the role of Chief Executive Officer on January 1 of the coming year.\n\nMs. Vasquez joined the company 14 years ago as Director of Operations and has (2)___ held positions of increasing responsibility, including Vice President of Global Supply Chain and, most recently, COO. During her tenure as COO, she led the digital transformation initiative that reduced operating costs by 18% while simultaneously improving customer retention rates by 9 percentage points. The board's decision was unanimous and reflects our utmost confidence in her leadership capabilities.\n\nTo ensure a seamless transition, Mr. Thornton will serve as a strategic advisor to the board for a period of 12 months following his retirement. (3)___ he will remain available to provide counsel on key strategic decisions during this interim period.\n\n(4)___ a town hall meeting on November 5, during which Mr. Thornton and Ms. Vasquez will jointly address the organization and answer questions.\n\nSincerely,\nChairman of the Board",
+    "blanks": [
+      {
+        "index": 1,
+        "options": [
+          "has been",
+          "had been",
+          "was",
+          "is"
+        ],
+        "answer": "has been",
+        "explanation": "has been in place since 2019表示從2019年開始至今持續存在的狀態，現在完成式。",
+        "category": "時態"
+      },
+      {
+        "index": 2,
+        "options": [
+          "subsequently",
+          "subsequent",
+          "subsequence",
+          "subsequented"
+        ],
+        "answer": "subsequently",
+        "explanation": "副詞subsequently（隨後）修飾動詞held，表示之後逐步擔任各項職位。",
+        "category": "近義字彙"
+      },
+      {
+        "index": 3,
+        "options": [
+          "In this capacity",
+          "On this capacity",
+          "By this capacity",
+          "With this capacity"
+        ],
+        "answer": "In this capacity",
+        "explanation": "In this capacity（以這個身份/職位）為固定介係詞搭配，表示以顧問身份提供建議。",
+        "category": "介系詞"
+      },
+      {
+        "index": 4,
+        "options": [
+          "We invite you to attend",
+          "Inviting you to attend",
+          "You are inviting to attend",
+          "To invite attendance"
+        ],
+        "answer": "We invite you to attend",
+        "explanation": "We invite you to attend...為正式公告的邀請句型，溫暖且直接。",
+        "category": "句子插入"
+      }
+    ]
+  },
+  {
+    "id": "P6-T730-028",
+    "part": 6,
+    "track": "T730",
+    "passageTitle": "Memo: Equipment Upgrade Authorization",
+    "passageTemplate": "To: IT Infrastructure Team\nFrom: Vice President of Operations\n\nI have reviewed and approved the proposal to upgrade the server infrastructure at our Atlanta data center. The current hardware, which was deployed in the summer of 2018, has exceeded its recommended operational lifespan and is no longer (1)___ of supporting the increased data processing demands generated by our recent enterprise resource planning system implementation.\n\nThe approved budget of $240,000 covers the acquisition and installation of six next-generation blade servers, a redundant cooling system, and the necessary software licensing for the virtualization layer. I expect the procurement process to commence no later than October 5, with installation (2)___ for the first two weeks of November during the scheduled maintenance window.\n\nPlease coordinate closely with the Facilities department to ensure that the power and cooling infrastructure can accommodate the new equipment's specifications, (3)___ exceed those of the current setup by approximately 40%. Any additional facility upgrades required should be flagged immediately so that supplementary funding can be requested.\n\n(4)___ on the project timeline and any obstacles encountered. I would rather be informed of potential delays early than be surprised later.\n\nRegards,\nVP Operations",
+    "blanks": [
+      {
+        "index": 1,
+        "options": [
+          "capable",
+          "capably",
+          "capability",
+          "capacitated"
+        ],
+        "answer": "capable",
+        "explanation": "is capable of + 動名詞為固定搭配，表示有能力做某事。",
+        "category": "搭配詞"
+      },
+      {
+        "index": 2,
+        "options": [
+          "scheduled",
+          "scheduling",
+          "schedule",
+          "schedules"
+        ],
+        "answer": "scheduled",
+        "explanation": "with installation scheduled for...為with + 名詞 + 過去分詞的附帶狀況結構。",
+        "category": "詞性"
+      },
+      {
+        "index": 3,
+        "options": [
+          "which",
+          "that",
+          "what",
+          "those"
+        ],
+        "answer": "which",
+        "explanation": "which exceed...為非限定關係子句補充說明specifications，只能用which。",
+        "category": "關係代名詞"
+      },
+      {
+        "index": 4,
+        "options": [
+          "Please keep me apprised",
+          "Keeping me apprised",
+          "To keep apprised me",
+          "Apprised me please"
+        ],
+        "answer": "Please keep me apprised",
+        "explanation": "keep me apprised（隨時通知我）為商務正式用語，keep + 受詞 + 過去分詞。",
+        "category": "句子插入"
+      }
+    ]
+  },
+  {
+    "id": "P6-T730-029",
+    "part": 6,
+    "track": "T730",
+    "passageTitle": "Email: Insurance Claim Processing Update",
+    "passageTemplate": "Dear Ms. Gallagher,\n\nI am writing with regard to Claim #CL-77821, which you submitted on August 12 in connection with the water damage sustained at your warehouse facility following the severe storm on August 5. After completing our on-site assessment and reviewing the supporting documentation you provided, I am pleased to confirm that your claim has been approved in the amount of $127,500.\n\nThe approved sum covers structural repairs to the affected section of the warehouse, replacement of damaged inventory, and compensation for business interruption losses (1)___ during the 11-day period when the facility was partially inoperable. The payment will be processed within five to seven business days and transferred directly to the bank account on file.\n\nPlease note that any additional expenses (2)___ during the repair process that were not included in the original estimate must be supported by itemized receipts and submitted as a supplementary claim. Our adjuster, Mr. David Park, remains your point of contact and can be (3)___ at extension 2407 should you have any questions.\n\n(4)___ to confirm receipt of this notification once the funds have been deposited. It has been our privilege to assist you through this difficult period.\n\nSincerely,\nSenior Claims Adjuster",
+    "blanks": [
+      {
+        "index": 1,
+        "options": [
+          "incurred",
+          "incurring",
+          "incur",
+          "incurs"
+        ],
+        "answer": "incurred",
+        "explanation": "過去分詞incurred（已發生的）修飾losses，表示在停運期間已發生的損失。",
+        "category": "詞性"
+      },
+      {
+        "index": 2,
+        "options": [
+          "arising",
+          "arisen",
+          "arose",
+          "arise"
+        ],
+        "answer": "arising",
+        "explanation": "現在分詞arising（產生的）修飾expenses，expenses arising during...為常見保險文件用語。",
+        "category": "詞性"
+      },
+      {
+        "index": 3,
+        "options": [
+          "reached",
+          "reaching",
+          "reach",
+          "reaches"
+        ],
+        "answer": "reached",
+        "explanation": "can be reached（可以被聯繫到）為被動語態固定表達。",
+        "category": "時態"
+      },
+      {
+        "index": 4,
+        "options": [
+          "We would appreciate it if you could",
+          "Appreciating it if you could",
+          "To appreciate if you could",
+          "If appreciated you could"
+        ],
+        "answer": "We would appreciate it if you could",
+        "explanation": "We would appreciate it if you could...為商務書信中極禮貌的請求模式，正式且不強硬。",
+        "category": "句子插入"
+      }
+    ]
+  },
+  {
+    "id": "P6-T730-030",
+    "part": 6,
+    "track": "T730",
+    "passageTitle": "Memo: Cross-Training Initiative",
+    "passageTemplate": "To: All Department Heads\nFrom: Director of Talent Development\n\nFollowing the organizational resilience review conducted last quarter, the executive committee has mandated the implementation of a company-wide cross-training program designed to reduce the operational risk (1)___ with single points of failure in critical functions. Effective October 1, every employee in a mission-critical role will be required to identify and train at least one colleague who can perform their essential duties in the event of an unplanned absence.\n\nThe Talent Development team has prepared a structured framework to guide this process, (2)___ competency matrices for each department, standardized training templates, and assessment rubrics to verify proficiency. We will be conducting orientation sessions for all managers during the first week of October to walk through the implementation guidelines.\n\nIt should be emphasized that this initiative is not intended to create redundancy or (3)___ any employee's position. Rather, it is a strategic measure to enhance our collective resilience and provide staff with valuable professional development opportunities. Cross-training hours may be counted toward annual professional development requirements.\n\n(4)___ each department's cross-training plan no later than October 31. The Talent Development team will review the submissions and provide customized feedback within two weeks.\n\nThank you for your support in building a more resilient organization.",
+    "blanks": [
+      {
+        "index": 1,
+        "options": [
+          "associated",
+          "associating",
+          "associate",
+          "associates"
+        ],
+        "answer": "associated",
+        "explanation": "risk associated with...為過去分詞片語修飾risk，等同於risk that is associated with...。",
+        "category": "搭配詞"
+      },
+      {
+        "index": 2,
+        "options": [
+          "including",
+          "included",
+          "includes",
+          "include"
+        ],
+        "answer": "including",
+        "explanation": "現在分詞including（包含）為固定用法，列舉框架內含的項目。",
+        "category": "詞性"
+      },
+      {
+        "index": 3,
+        "options": [
+          "undermine",
+          "undermining",
+          "undermined",
+          "undermines"
+        ],
+        "answer": "undermine",
+        "explanation": "to create...or (to) undermine，省略to的不定詞並列，undermine意為削弱。",
+        "category": "近義字彙"
+      },
+      {
+        "index": 4,
+        "options": [
+          "We ask that you submit",
+          "Submitting that you ask",
+          "To ask for submitting",
+          "You are asked submitting"
+        ],
+        "answer": "We ask that you submit",
+        "explanation": "We ask that + 主詞 + 原形動詞（假設語氣省略should）為正式請求結構。",
+        "category": "句子插入"
+      }
+    ]
+  },
+  {
+    "id": "P6-T730-031",
+    "part": 6,
+    "track": "T730",
+    "passageTitle": "Announcement: Industry Award Nomination",
+    "passageTemplate": "Dear Team,\n\nI am extraordinarily proud to share that our company has been shortlisted as a finalist for the prestigious Global Innovation in Logistics Award, which recognizes organizations that have demonstrated (1)___ excellence in supply chain management. We were nominated specifically for our predictive inventory management system, which has reduced stockouts by 37% across our distribution network while cutting warehousing costs by $2.4 million annually.\n\nThe award ceremony will take place at the International Logistics Forum in Singapore on November 16. (2)___ we are selected as the winner, this would mark the third consecutive year that our logistics division has received industry recognition, a record that no competitor in our sector has yet matched.\n\nThe nomination itself is a testament to the collective expertise and dedication of everyone involved in the project, from the data science team that developed the forecasting algorithms (3)___ the warehouse staff who implemented the new picking and packing protocols on the ground. I encourage all of you to take a moment to reflect on this achievement with pride.\n\n(4)___ that the final award decision rests with an independent panel of judges, the nomination alone carries significant weight in our industry and will undoubtedly enhance our reputation in upcoming client negotiations.\n\nWith appreciation,\nCEO",
+    "blanks": [
+      {
+        "index": 1,
+        "options": [
+          "outstanding",
+          "outstandingly",
+          "outstand",
+          "outstood"
+        ],
+        "answer": "outstanding",
+        "explanation": "形容詞outstanding（卓越的）修飾名詞excellence，為常見搭配。",
+        "category": "詞性"
+      },
+      {
+        "index": 2,
+        "options": [
+          "Should",
+          "Would",
+          "Could",
+          "Might"
+        ],
+        "answer": "Should",
+        "explanation": "Should we be selected...為倒裝型態的假設語氣，等同於If we should be selected。",
+        "category": "假設語氣"
+      },
+      {
+        "index": 3,
+        "options": [
+          "to",
+          "with",
+          "and",
+          "through"
+        ],
+        "answer": "to",
+        "explanation": "from the data science team...to the warehouse staff（從...到...）為範圍表達的正確介係詞。",
+        "category": "介系詞"
+      },
+      {
+        "index": 4,
+        "options": [
+          "While it should be noted",
+          "To note while",
+          "Noted while it is",
+          "It while noted"
+        ],
+        "answer": "While it should be noted",
+        "explanation": "While it should be noted（雖然需要注意到）為讓步語氣引導句，平衡期待與現實。",
+        "category": "上下文邏輯"
+      }
+    ]
+  },
+  {
+    "id": "P6-T730-032",
+    "part": 6,
+    "track": "T730",
+    "passageTitle": "Notice: Building Access Policy Changes",
+    "passageTemplate": "UPDATED BUILDING ACCESS PROTOCOLS — Effective September 5\n\nThe Security Department, in conjunction with the Facilities Management team, has completed a comprehensive security audit of all company premises. (1)___ of this audit, several enhancements to our building access protocols will be implemented effective September 5.\n\nThe most significant change is the introduction of biometric verification at all main entrances. All employees will be required to register their fingerprints at the Security Office between August 22 and September 2, (2)___ a temporary grace period will be in effect during which the previous key-card system will continue to operate. Beginning September 5, key cards alone will no longer grant access, and any employee who has not registered their biometric data will be denied entry.\n\nVisitors must now be pre-registered by their host employee at least two hours in advance through the online visitor management portal. Upon arrival, all visitors will be issued a time-limited access badge that (3)___ at 7:00 p.m. on the day of issue. After 7:00 p.m., all outstanding visitor badges will be electronically deactivated.\n\n(4)___ obtained from the Security Office on the ground floor should you have any difficulty registering or require an accommodation due to a medical condition.\n\nThank you for your cooperation.",
+    "blanks": [
+      {
+        "index": 1,
+        "options": [
+          "As a result",
+          "In spite",
+          "Regardless",
+          "On behalf"
+        ],
+        "answer": "As a result",
+        "explanation": "As a result of（由於...的結果）為因果連接片語，引出審計結果導致的改變。",
+        "category": "連接詞"
+      },
+      {
+        "index": 2,
+        "options": [
+          "during which",
+          "that",
+          "when",
+          "which"
+        ],
+        "answer": "during which",
+        "explanation": "during which引導關係子句修飾時間（August 22 to September 2），表在該期間內。",
+        "category": "關係代名詞"
+      },
+      {
+        "index": 3,
+        "options": [
+          "expires",
+          "expiring",
+          "expired",
+          "expire"
+        ],
+        "answer": "expires",
+        "explanation": "that expires，關係子句主詞that指badge（單數），現在簡單式表示制度性規定。",
+        "category": "時態"
+      },
+      {
+        "index": 4,
+        "options": [
+          "Assistance can be",
+          "Assisting can be",
+          "To assist can be",
+          "Can be assisting"
+        ],
+        "answer": "Assistance can be",
+        "explanation": "Assistance can be obtained為直接完整的陳述句，正式公告語氣清晰。",
+        "category": "句子插入"
+      }
+    ]
+  },
+  {
+    "id": "P6-T730-033",
+    "part": 6,
+    "track": "T730",
+    "passageTitle": "Email: Intellectual Property Licensing",
+    "passageTemplate": "Dear Ms. Okonkwo,\n\nThank you for expressing interest in licensing our patented microfiltration technology for application in your water purification systems. We have reviewed your preliminary proposal and are generally (1)___ to entering into a licensing agreement, subject to the satisfactory negotiation of the terms outlined below.\n\nWe propose a non-exclusive licensing arrangement with an initial term of five years, renewable by mutual consent. The royalty structure would consist of a 4.5% running royalty on net sales of products incorporating the licensed technology, with a minimum annual guaranteed payment of $80,000, (2)___ against earned royalties on a quarterly basis. This structure is consistent with the terms we have extended to other licensees in comparable markets.\n\nBefore we can proceed to drafting the definitive agreement, we require a detailed commercialization plan that specifies your projected production volumes, target markets, and anticipated timeline for bringing the licensed products to market. (3)___ this information, we cannot accurately assess the revenue potential of the partnership.\n\n(4)___ to discuss any aspect of this proposal in greater detail at your convenience.\n\nBest regards,\nTechnology Transfer Director",
+    "blanks": [
+      {
+        "index": 1,
+        "options": [
+          "amenable",
+          "amenably",
+          "amenability",
+          "amened"
+        ],
+        "answer": "amenable",
+        "explanation": "amenable to + 動名詞（樂於/願意接受）為固定搭配，正式商務用語。",
+        "category": "搭配詞"
+      },
+      {
+        "index": 2,
+        "options": [
+          "creditable",
+          "crediting",
+          "credited",
+          "credit"
+        ],
+        "answer": "creditable",
+        "explanation": "creditable against (可抵免的)為形容詞修飾payment，表示最低保證金可抵權利金。",
+        "category": "近義字彙"
+      },
+      {
+        "index": 3,
+        "options": [
+          "Without",
+          "With",
+          "Besides",
+          "Despite"
+        ],
+        "answer": "Without",
+        "explanation": "Without引出條件句，表示若無此資訊則無法評估，邏輯上為必要條件。",
+        "category": "上下文邏輯"
+      },
+      {
+        "index": 4,
+        "options": [
+          "I remain at your disposal",
+          "Remaining at your disposal",
+          "To remain your disposal",
+          "Your disposal remaining"
+        ],
+        "answer": "I remain at your disposal",
+        "explanation": "I remain at your disposal為正式書信結尾用語，表示隨時可提供協助。",
+        "category": "句子插入"
+      }
+    ]
+  },
+  {
+    "id": "P6-T730-034",
+    "part": 6,
+    "track": "T730",
+    "passageTitle": "Advertisement: Virtual Assistant Service",
+    "passageTemplate": "Reclaim Your Time — Delegate to a Dedicated Virtual Assistant\n\nEntrepreneurs and senior executives routinely spend upwards of 15 hours per week on administrative tasks that, while necessary, contribute little to strategic growth. Our virtual assistant service connects you with a highly vetted, university-educated professional who (1)___ exclusively to your account and manages scheduling, travel coordination, inbox filtering, expense reporting, and light research.\n\nWhat sets our service apart is our matching process. Rather than assigning the next available assistant, we conduct a detailed assessment of your work style, communication preferences, and industry context to pair you with a professional whose background and temperament align with your needs. Clients (2)___ with their assistant for fewer than three months are entitled to a complimentary rematch at no additional cost.\n\nAll assistants are full-time employees of our firm, not independent contractors, which means they receive continuous training, performance coaching, and access to proprietary productivity tools. (3)___ they are subject to the same confidentiality and data protection protocols that govern our internal operations.\n\n(4)___ to schedule a no-obligation consultation and receive a personalized efficiency assessment.\n\nVisit www.vaproconnect.com or call (888) 555-0167.",
+    "blanks": [
+      {
+        "index": 1,
+        "options": [
+          "is assigned",
+          "assigns",
+          "assigning",
+          "assigned"
+        ],
+        "answer": "is assigned",
+        "explanation": "who is assigned to your account為被動語態現在式，表示助理被指派給你的帳戶。",
+        "category": "時態"
+      },
+      {
+        "index": 2,
+        "options": [
+          "who remain",
+          "remaining",
+          "remained",
+          "who remaining"
+        ],
+        "answer": "who remain",
+        "explanation": "Clients who remain...為關係子句修飾Clients，表示持續不滿三個月的客戶。",
+        "category": "關係代名詞"
+      },
+      {
+        "index": 3,
+        "options": [
+          "Consequently",
+          "Nevertheless",
+          "Meanwhile",
+          "Otherwise"
+        ],
+        "answer": "Consequently",
+        "explanation": "Consequently（因此/從而）為因果連接副詞，表示因為是正式員工故受相同規範約束。",
+        "category": "連接詞"
+      },
+      {
+        "index": 4,
+        "options": [
+          "We invite you to get in touch",
+          "To get invited in touch",
+          "Getting in touch invited",
+          "Invite to get touch"
+        ],
+        "answer": "We invite you to get in touch",
+        "explanation": "We invite you to...為廣告中溫馨而專業的CTA（行動呼籲）。",
+        "category": "句子插入"
+      }
+    ]
+  },
+  {
+    "id": "P6-T730-035",
+    "part": 6,
+    "track": "T730",
+    "passageTitle": "Email: Performance Improvement Plan",
+    "passageTemplate": "Dear Mr. Carrington,\n\nThis letter serves to formalize the Performance Improvement Plan discussed during our meeting on Monday, July 17. As we agreed, the plan will span a 90-day period from July 24 to October 22, during which specific, measurable objectives must be met in order to (1)___ your continued employment with the company.\n\nThe plan outlines three primary performance areas requiring improvement: client communication responsiveness, project deliverable accuracy, and cross-team collaboration. For each area, we have jointly established quantifiable benchmarks and a schedule of biweekly check-in meetings where we will review your progress (2)___ the agreed metrics. Detailed documentation of these benchmarks is attached for your reference.\n\nI want to reiterate that the purpose of this plan is to support your success, not to create an administrative obstacle. Human Resources has assigned a dedicated advisor, Ms. Rivera, to provide you with additional coaching and (3)___ throughout the improvement period. I strongly encourage you to take full advantage of this resource.\n\n(4)___ by signing and returning the attached acknowledgment form by July 21 to confirm your understanding of and commitment to the plan.\n\nSincerely,\nDepartment Director",
+    "blanks": [
+      {
+        "index": 1,
+        "options": [
+          "safeguard",
+          "safeguarding",
+          "safeguarded",
+          "safeguards"
+        ],
+        "answer": "safeguard",
+        "explanation": "in order to + 原形動詞safeguard（保障），表目的。",
+        "category": "詞性"
+      },
+      {
+        "index": 2,
+        "options": [
+          "against",
+          "over",
+          "on",
+          "into"
+        ],
+        "answer": "against",
+        "explanation": "review your progress against the metrics（對照指標審查進度）為固定搭配。",
+        "category": "介系詞"
+      },
+      {
+        "index": 3,
+        "options": [
+          "guidance",
+          "guiding",
+          "guided",
+          "guide"
+        ],
+        "answer": "guidance",
+        "explanation": "名詞guidance與coaching並列為provide的直接受詞，提供指導與輔導。",
+        "category": "近義字彙"
+      },
+      {
+        "index": 4,
+        "options": [
+          "Please acknowledge receipt of this letter",
+          "Acknowledging receipt this letter",
+          "To acknowledge receipt letter",
+          "Receipt acknowledged please"
+        ],
+        "answer": "Please acknowledge receipt of this letter",
+        "explanation": "祈使句請確認收悉，為正式人事文件的標準末尾用語。",
+        "category": "句子插入"
+      }
+    ]
+  },
+  {
+    "id": "P6-T730-036",
+    "part": 6,
+    "track": "T730",
+    "passageTitle": "Memo: Crisis Communication Protocol",
+    "passageTemplate": "To: All Senior Managers and Department Heads\nFrom: Corporate Communications\n\nRecent events in our sector have underscored the critical importance of having a robust crisis communication framework in place. In response, the Corporate Communications division, in collaboration with our external public relations agency, has developed a comprehensive Crisis Communication Protocol that will serve (1)___ the definitive reference for all internal and external communications during any event that could materially affect the company's reputation, operations, or financial standing.\n\nThe protocol designates a Crisis Response Team comprising the CEO, the Chief Legal Officer, the Head of Corporate Communications, and the relevant department head. All media inquiries, social media posts, and stakeholder communications must be channeled exclusively through this team. Under no (2)___ should any employee outside the Crisis Response Team issue public statements or respond to press inquiries without prior authorization.\n\nA key component of the protocol is the \"holding statement\" template, which can be deployed within 15 minutes of a crisis being declared. This template acknowledges awareness of the situation, expresses appropriate concern, and commits to providing further information as it becomes available, (3)___ allowing the Crisis Response Team the time needed to gather verified facts before issuing a detailed statement.\n\n(4)___ the protocol in its entirety and to participate in the mandatory crisis simulation exercise scheduled for September 22.\n\nThank you for your vigilance.",
+    "blanks": [
+      {
+        "index": 1,
+        "options": [
+          "as",
+          "for",
+          "like",
+          "to"
+        ],
+        "answer": "as",
+        "explanation": "serve as（作為/充當）為正確動詞介係詞搭配，表示此協議為權威參考。",
+        "category": "片語動詞"
+      },
+      {
+        "index": 2,
+        "options": [
+          "circumstances",
+          "circumstance",
+          "circumstantial",
+          "circumstantially"
+        ],
+        "answer": "circumstances",
+        "explanation": "Under no circumstances（在任何情況下都不）為固定否定倒裝片語，名詞用複數形。",
+        "category": "搭配詞"
+      },
+      {
+        "index": 3,
+        "options": [
+          "thereby",
+          "therefore",
+          "thereof",
+          "therein"
+        ],
+        "answer": "thereby",
+        "explanation": "thereby（藉此/從而）為正式書面連接詞，表示透過前述動作達成後續結果。",
+        "category": "連接詞"
+      },
+      {
+        "index": 4,
+        "options": [
+          "I strongly urge you to review",
+          "Reviewing strongly urged",
+          "To strongly urging you review",
+          "You strongly urge reviewing"
+        ],
+        "answer": "I strongly urge you to review",
+        "explanation": "I strongly urge you to...為備忘錄中表達強烈建議的有力句型。",
+        "category": "句子插入"
+      }
+    ]
+  },
+  {
+    "id": "P6-T730-037",
+    "part": 6,
+    "track": "T730",
+    "passageTitle": "Advertisement: Financial Forecasting Software",
+    "passageTemplate": "ForecastPro Enterprise — Transform Uncertainty into Strategic Clarity\n\nFinancial forecasting in volatile markets has traditionally been a reactive exercise, reliant on static spreadsheets that become obsolete within days. ForecastPro Enterprise changes this paradigm by delivering real-time, AI-powered forecasting that continuously (1)___ to incoming market data, supply chain signals, and macroeconomic indicators.\n\nThe platform's proprietary algorithm, developed over five years by a team of quantitative analysts and machine learning engineers, processes over 200 data streams simultaneously to generate rolling 12-month forecasts with a mean absolute percentage error of just 3.2% — a level of precision that (2)___ any comparable solution on the market. Crucially, the system provides not merely a single forecast but a probability distribution of potential outcomes, enabling executives to make decisions based on risk-weighted scenarios rather than single-point estimates.\n\nImplementation requires no coding expertise and integrates seamlessly with major enterprise resource planning systems. (3)___ clients report that their finance teams are producing monthly forecasts in less than half the time previously required, freeing up valuable hours for strategic analysis.\n\n(4)___ a personalized demonstration and a complimentary 30-day pilot program for qualified enterprises. Our deployment specialists will work alongside your team to ensure a smooth transition.\n\nVisit www.forecastpro.com or call (800) 555-0241.",
+    "blanks": [
+      {
+        "index": 1,
+        "options": [
+          "adapts",
+          "adapting",
+          "adapted",
+          "adapt"
+        ],
+        "answer": "adapts",
+        "explanation": "that adapts，關係子句主詞that指forecasting（單數），第三人稱單數adapts。",
+        "category": "時態"
+      },
+      {
+        "index": 2,
+        "options": [
+          "surpasses",
+          "surpassing",
+          "surpassed",
+          "surpass"
+        ],
+        "answer": "surpasses",
+        "explanation": "that surpasses，關係子句主詞that指precision（單數），動詞第三人稱單數。",
+        "category": "時態"
+      },
+      {
+        "index": 3,
+        "options": [
+          "On average",
+          "In average",
+          "By average",
+          "With average"
+        ],
+        "answer": "On average",
+        "explanation": "On average（平均而言）為固定介係詞搭配片語。",
+        "category": "介系詞"
+      },
+      {
+        "index": 4,
+        "options": [
+          "We encourage you to request",
+          "Encouraging you requesting",
+          "To encourage request you",
+          "You encourage requesting"
+        ],
+        "answer": "We encourage you to request",
+        "explanation": "We encourage you to...為廣告結尾標準CTA句型，語氣溫暖且專業。",
+        "category": "句子插入"
+      }
+    ]
+  },
+  {
+    "id": "P6-T730-038",
+    "part": 6,
+    "track": "T730",
+    "passageTitle": "Memo: Supplier Diversity Program",
+    "passageTemplate": "To: Procurement Team and Category Managers\nFrom: Vice President of Supply Chain\n\nAs part of our commitment to fostering an inclusive and resilient supply base, I am announcing the formal launch of our Supplier Diversity Program, effective immediately. This initiative, which has been in development for over a year, aims to increase the proportion of our procurement spend directed toward businesses that are at least 51% owned, operated, and controlled by individuals from historically underrepresented groups, (1)___ women, ethnic minorities, veterans, and persons with disabilities.\n\nThe program establishes a target of 15% of our annual procurement expenditure allocated to certified diverse suppliers by the end of the third year. To support this goal, a dedicated Supplier Diversity Officer, Ms. Anita Sharma, has been appointed and will (2)___ directly to the Chief Procurement Officer. Ms. Sharma's responsibilities include identifying and pre-qualifying diverse suppliers, facilitating mentorship partnerships, and tracking progress against the established targets.\n\nAll requests for proposals valued at $50,000 or above must now include (3)___ one certified diverse supplier among the invited bidders, provided that a qualified diverse supplier exists in the relevant category. Waivers may be granted by Ms. Sharma in cases where no such supplier is available.\n\n(4)___ a series of information sessions during the first two weeks of October. Attendance is mandatory for all category managers and strongly encouraged for all procurement staff.\n\nWe appreciate your support in making this initiative a success.",
+    "blanks": [
+      {
+        "index": 1,
+        "options": [
+          "including",
+          "included",
+          "includes",
+          "include"
+        ],
+        "answer": "including",
+        "explanation": "including（包含/包括）為列舉用現在分詞，補充說明代表性不足群體的範圍。",
+        "category": "詞性"
+      },
+      {
+        "index": 2,
+        "options": [
+          "report",
+          "reporting",
+          "reported",
+          "reports"
+        ],
+        "answer": "report",
+        "explanation": "will report directly to...（直接向某人報告），原形動詞report與will搭配。",
+        "category": "時態"
+      },
+      {
+        "index": 3,
+        "options": [
+          "at least",
+          "at most",
+          "at last",
+          "at best"
+        ],
+        "answer": "at least",
+        "explanation": "at least（至少）表最低數量要求，為採購規範中常見的數量限制用語。",
+        "category": "上下文邏輯"
+      },
+      {
+        "index": 4,
+        "options": [
+          "Ms. Sharma will be conducting",
+          "Conducting Ms. Sharma will",
+          "Will Ms. Sharma conducting",
+          "Ms. Sharma conducting"
+        ],
+        "answer": "Ms. Sharma will be conducting",
+        "explanation": "Ms. Sharma will be conducting...為完整句子，未來進行式表示已安排的活動。",
+        "category": "句子插入"
+      }
+    ]
+  },
+  {
+    "id": "P6-T730-039",
+    "part": 6,
+    "track": "T730",
+    "passageTitle": "Email: Trade Show Exhibition Follow-up",
+    "passageTemplate": "Dear Mr. Lundqvist,\n\nIt was a pleasure meeting you at the International Manufacturing Expo in Chicago last week, and I greatly appreciated the opportunity to demonstrate our automated quality inspection system at Booth 342. I hope you found the live demonstration as compelling as the conversation that (1)___ it.\n\nDuring our discussion, you mentioned that your company is actively seeking to reduce defect rates in your injection molding line, which currently run at approximately 2.8% — well above the industry standard of 1.5%. Based on the specifications you shared, I am confident that our AQ-9000 system can bring your defect rate below 1.0% within the first six months of deployment, (2)___ on the results we have achieved with clients in comparable manufacturing environments.\n\nI have enclosed a customized proposal that outlines the implementation timeline, pricing structure, and projected return on investment. The proposal also includes contact information for three of our existing clients who have (3)___ to serve as references and who operate facilities similar in scale to yours.\n\n(4)___ a follow-up call during the week of October 2 to walk through the proposal and address any questions you or your engineering team may have.\n\nWarm regards,\nRegional Sales Director",
+    "blanks": [
+      {
+        "index": 1,
+        "options": [
+          "followed",
+          "follows",
+          "following",
+          "follow"
+        ],
+        "answer": "followed",
+        "explanation": "that followed it（隨後的對話），過去式followed與展會時間一致。",
+        "category": "時態"
+      },
+      {
+        "index": 2,
+        "options": [
+          "based",
+          "basing",
+          "base",
+          "bases"
+        ],
+        "answer": "based",
+        "explanation": "based on（基於）為過去分詞片語修飾前面整個判斷，固定搭配。",
+        "category": "搭配詞"
+      },
+      {
+        "index": 3,
+        "options": [
+          "agreed",
+          "agreeing",
+          "agree",
+          "agrees"
+        ],
+        "answer": "agreed",
+        "explanation": "have agreed to serve（已同意擔任），現在完成式have + 過去分詞。",
+        "category": "時態"
+      },
+      {
+        "index": 4,
+        "options": [
+          "I would welcome the opportunity to schedule",
+          "Welcoming the opportunity scheduling",
+          "To welcome opportunity schedule",
+          "Opportunity welcomed to schedule"
+        ],
+        "answer": "I would welcome the opportunity to schedule",
+        "explanation": "I would welcome the opportunity to...為商務郵件展開後續行動的禮貌句法。",
+        "category": "句子插入"
+      }
+    ]
+  },
+  {
+    "id": "P6-T730-040",
+    "part": 6,
+    "track": "T730",
+    "passageTitle": "Announcement: Employee Stock Purchase Plan",
+    "passageTemplate": "Dear Employees,\n\nWe are pleased to announce the launch of the company's first Employee Stock Purchase Plan, which will provide eligible employees with the opportunity to acquire company shares at a 15% discount to the market price. This initiative reflects the board's belief that employees who hold an ownership stake in the company are more deeply (1)___ in its long-term success.\n\nThe plan operates on a six-month offering cycle, with enrollment periods in January and July. During each cycle, participants may elect to contribute between 1% and 10% of their base salary, (2)___ will be accumulated in a dedicated account and used to purchase shares at the lower of the price on the offering date or the purchase date, less the 15% discount. This feature ensures that participants always purchase shares at a price below the prevailing market rate.\n\nEligibility extends to all full-time employees who have completed at least one year of continuous service. The first enrollment period will open on July 1, and shares will be purchased on December 31. (3)___ enrolled in the initial cycle, please complete the online enrollment form available on the HR portal no later than June 25.\n\n(4)___ on the plan's mechanics, tax implications, or enrollment procedures. Detailed plan documents and frequently asked questions have been posted to the HR portal.\n\nWe are excited to welcome you as fellow shareholders.",
+    "blanks": [
+      {
+        "index": 1,
+        "options": [
+          "invested",
+          "investing",
+          "invest",
+          "invests"
+        ],
+        "answer": "invested",
+        "explanation": "are more deeply invested in...（更深入地投入於），過去分詞invested修飾employees。",
+        "category": "搭配詞"
+      },
+      {
+        "index": 2,
+        "options": [
+          "which",
+          "that",
+          "what",
+          "it"
+        ],
+        "answer": "which",
+        "explanation": "which指代薪資扣除額，累積於專用帳戶，非限定關係子句。",
+        "category": "關係代名詞"
+      },
+      {
+        "index": 3,
+        "options": [
+          "If you wish to be",
+          "Wishing to be",
+          "To wish being",
+          "Being wished"
+        ],
+        "answer": "If you wish to be",
+        "explanation": "If you wish to be enrolled...為條件句引導報名步驟，號召明確。",
+        "category": "上下文邏輯"
+      },
+      {
+        "index": 4,
+        "options": [
+          "The HR team is available to answer any questions",
+          "HR team available answer questions",
+          "To answer questions HR team available",
+          "Questions answered by HR team"
+        ],
+        "answer": "The HR team is available to answer any questions",
+        "explanation": "The HR team is available to...為正式公告結尾的標準支援管道陳述。",
+        "category": "句子插入"
+      }
+    ]
+  },
+  {
+    "id": "P6-T730-041",
+    "part": 6,
+    "track": "T730",
+    "passageTitle": "Notice: Environmental Compliance Update",
+    "passageTemplate": "NOTICE OF REGULATORY UPDATE — Environmental Compliance\n\nEffective January 1 of the coming year, the Environmental Protection Agency's revised emissions standards for manufacturing facilities will come into force. These revisions, (1)___ were announced in the Federal Register on August 15, impose stricter limits on volatile organic compound emissions and require facilities exceeding certain thresholds to install continuous emissions monitoring systems.\n\nOur legal and environmental compliance teams have completed a preliminary assessment of the impact on our operations. While our domestic facilities are largely (2)___ with the new requirements, three of our overseas plants will require significant upgrades to their emissions control equipment. The estimated capital expenditure for these upgrades is $4.2 million, which has been incorporated into the capital budget currently under review by the finance committee.\n\nAll facility managers are required to submit a compliance readiness report to the Environmental Compliance Office by November 1. The report must detail current emissions levels, (3)___ gaps against the new standards, and a timeline and cost estimate for any necessary remediation measures.\n\n(4)___ or require assistance in preparing your compliance readiness report, please contact the Environmental Compliance Office at extension 3620.\n\nThank you for your diligence in maintaining our environmental stewardship commitments.",
+    "blanks": [
+      {
+        "index": 1,
+        "options": [
+          "which",
+          "that",
+          "what",
+          "where"
+        ],
+        "answer": "which",
+        "explanation": "which引導非限定關係子句補充修訂條例的資訊來源。",
+        "category": "關係代名詞"
+      },
+      {
+        "index": 2,
+        "options": [
+          "compliant",
+          "complying",
+          "complied",
+          "compliance"
+        ],
+        "answer": "compliant",
+        "explanation": "are compliant with（符合/遵守）為固定搭配，compliant為形容詞。",
+        "category": "搭配詞"
+      },
+      {
+        "index": 3,
+        "options": [
+          "identified",
+          "identifying",
+          "identify",
+          "identifies"
+        ],
+        "answer": "identified",
+        "explanation": "過去分詞identified修飾gaps，identified gaps = 已找出的差距。",
+        "category": "詞性"
+      },
+      {
+        "index": 4,
+        "options": [
+          "If you have any questions",
+          "Having any questions",
+          "Questions to have",
+          "To have questions"
+        ],
+        "answer": "If you have any questions",
+        "explanation": "If you have any questions...為正式公告中常見的條件句引導協助管道。",
+        "category": "上下文邏輯"
+      }
+    ]
+  },
+  {
+    "id": "P6-T730-042",
+    "part": 6,
+    "track": "T730",
+    "passageTitle": "Email: Contractual Dispute Resolution",
+    "passageTemplate": "Dear Mr. Reinhardt,\n\nFollowing our exchange of correspondence over the past several weeks regarding the delivery delays on Purchase Order #PO-4532, I believe it is in both parties' interest to propose a structured path toward resolution rather than allowing the matter to escalate further. The relationship between our companies has (1)___ for over 15 years, and I am confident that we can find a mutually acceptable solution.\n\nTo that end, I propose that we engage an independent mediator with expertise in international commercial contracts to review the circumstances and facilitate a settlement discussion. Our legal department has identified three qualified mediators, all of whom are available to commence proceedings within 30 days. (2)___ of whom we select, the cost of mediation will be shared equally between our firms, and any agreement reached will be documented in a binding memorandum of understanding.\n\nI must also draw your attention to the fact that, under Clause 12.4 of our master supply agreement, (3)___ party may initiate formal arbitration until good-faith mediation has been attempted. This provision exists precisely to avoid the cost and disruption that formal legal proceedings inevitably entail.\n\n(4)___ to this proposal by August 30 so that we can move forward constructively.\n\nRespectfully,\nGeneral Counsel",
+    "blanks": [
+      {
+        "index": 1,
+        "options": [
+          "endured",
+          "enduring",
+          "endures",
+          "endure"
+        ],
+        "answer": "endured",
+        "explanation": "has endured for over 15 years（已持續15年以上），現在完成式搭配過去分詞endured。",
+        "category": "時態"
+      },
+      {
+        "index": 2,
+        "options": [
+          "Regardless",
+          "Regarding",
+          "Regardlessly",
+          "Regard"
+        ],
+        "answer": "Regardless",
+        "explanation": "Regardless of whom we select（無論我們選誰）為固定片語Regardless of + 名詞子句。",
+        "category": "連接詞"
+      },
+      {
+        "index": 3,
+        "options": [
+          "neither",
+          "either",
+          "any",
+          "none"
+        ],
+        "answer": "neither",
+        "explanation": "neither party（任何一方都不）引導正式法律否定句，符合仲裁條款的雙向禁止語意。",
+        "category": "近義字彙"
+      },
+      {
+        "index": 4,
+        "options": [
+          "I would appreciate your response",
+          "Your response appreciated",
+          "Responding appreciated",
+          "To appreciate your response"
+        ],
+        "answer": "I would appreciate your response",
+        "explanation": "I would appreciate your response為商務法律書信中禮貌催促回覆的標準句型。",
+        "category": "句子插入"
+      }
+    ]
+  },
+  {
+    "id": "P6-T730-043",
+    "part": 6,
+    "track": "T730",
+    "passageTitle": "Memo: Knowledge Management System Launch",
+    "passageTemplate": "To: All Employees\nFrom: Chief Knowledge Officer\n\nI am excited to announce that our new enterprise knowledge management system, InsightHub, will go live on November 1. This platform represents a significant investment in our collective ability to capture, organize, and share institutional knowledge across departments and geographic regions.\n\nInsightHub replaces the fragmented collection of shared drives, wikis, and departmental databases that (1)___ made it difficult to locate information and led to the duplication of work across teams. The new system features an AI-powered search engine, topic-based knowledge clusters, and a peer review mechanism that ensures content remains accurate and up to date. All employees will have both read and contribute access to the platform.\n\nTo facilitate the transition, a dedicated migration team will transfer all existing content from the legacy systems over the next 60 days. During this period, employees are asked to refrain from (2)___ new content to the old platforms and to begin familiarizing themselves with the InsightHub interface through the self-paced training modules available on the onboarding portal.\n\n(3)___ the platform becomes intuitive with regular use, a series of live webinars and drop-in help sessions have been scheduled throughout November. We encourage you to attend at least one session to accelerate your proficiency.\n\n(4)___ of knowledge is one of the most valuable contributions you can make to the company's long-term competitiveness. I look forward to seeing InsightHub become an integral part of our daily work.\n\nThank you for your engagement.",
+    "blanks": [
+      {
+        "index": 1,
+        "options": [
+          "historically",
+          "historic",
+          "history",
+          "historical"
+        ],
+        "answer": "historically",
+        "explanation": "副詞historically修飾動詞made，表示長期以來導致資訊難以查找。",
+        "category": "詞性"
+      },
+      {
+        "index": 2,
+        "options": [
+          "adding",
+          "add",
+          "added",
+          "adds"
+        ],
+        "answer": "adding",
+        "explanation": "refrain from + 動名詞adding為固定搭配，from後接動名詞。",
+        "category": "搭配詞"
+      },
+      {
+        "index": 3,
+        "options": [
+          "While we anticipate that",
+          "Anticipating while",
+          "To anticipate that while",
+          "While anticipation"
+        ],
+        "answer": "While we anticipate that",
+        "explanation": "While（雖然）引導讓步子句，承認平台需要時間熟悉但已安排支援。",
+        "category": "上下文邏輯"
+      },
+      {
+        "index": 4,
+        "options": [
+          "Sharing your wealth",
+          "To share your wealth",
+          "Your wealth sharing",
+          "Share wealth to you"
+        ],
+        "answer": "Sharing your wealth",
+        "explanation": "Sharing your wealth of knowledge為動名詞片語作主詞，直接點出行動價值。",
+        "category": "句子插入"
+      }
+    ]
+  },
+  {
+    "id": "P6-T730-044",
+    "part": 6,
+    "track": "T730",
+    "passageTitle": "Advertisement: Executive Coaching Service",
+    "passageTemplate": "The Difference Between a Good Leader and a Great One Is Often a Single Conversation.\n\nAxiom Executive Coaching pairs seasoned CEOs and board-level executives with high-potential leaders who are ready to (1)___ the gap between their current performance and their aspirational capabilities. Our coaches are not career consultants or motivational speakers; they are individuals who have themselves led organizations through turnarounds, mergers, and periods of hyper-growth.\n\nOur engagements are rigorously structured around measurable outcomes. Every coaching relationship begins with a 360-degree assessment, followed by the co-creation of a development plan with specific, time-bound objectives. Progress is reviewed quarterly against both qualitative feedback from colleagues and (2)___ metrics such as team retention rates, revenue growth, and leadership effectiveness scores.\n\nWhat distinguishes our approach is the depth of the partnership. Coaches commit to a minimum of 18 months per engagement — a timeframe that research consistently shows is necessary for behavioral change to become (3)___ . Unlike short-term interventions that produce temporary improvements, our model is designed to rewire leadership habits at a fundamental level.\n\n(4)___ for a confidential exploratory conversation. We will help you determine whether executive coaching is the right investment at this stage of your leadership journey.\n\nContact us at www.axiomcoaching.com.",
+    "blanks": [
+      {
+        "index": 1,
+        "options": [
+          "bridge",
+          "bridging",
+          "bridged",
+          "bridges"
+        ],
+        "answer": "bridge",
+        "explanation": "are ready to + 原形動詞bridge，bridge the gap（彌合差距）為常見搭配。",
+        "category": "搭配詞"
+      },
+      {
+        "index": 2,
+        "options": [
+          "quantitative",
+          "quantitatively",
+          "quantity",
+          "quantify"
+        ],
+        "answer": "quantitative",
+        "explanation": "形容詞quantitative修飾metrics（量化指標），與qualitative feedback並列對比。",
+        "category": "近義字彙"
+      },
+      {
+        "index": 3,
+        "options": [
+          "ingrained",
+          "ingraining",
+          "ingrains",
+          "ingrain"
+        ],
+        "answer": "ingrained",
+        "explanation": "become ingrained（變得根深蒂固）為固定搭配，過去分詞ingrained表狀態。",
+        "category": "搭配詞"
+      },
+      {
+        "index": 4,
+        "options": [
+          "We invite you to reach out",
+          "Reaching out invited",
+          "To invite reaching out",
+          "Inviting to reach out"
+        ],
+        "answer": "We invite you to reach out",
+        "explanation": "We invite you to...為高階服務廣告中低調而自信的CTA，反映品牌定位。",
+        "category": "句子插入"
+      }
+    ]
+  },
+  {
+    "id": "P6-T730-045",
+    "part": 6,
+    "track": "T730",
+    "passageTitle": "Email: Corporate Sponsorship Proposal",
+    "passageTemplate": "Dear Ms. Okada,\n\nOn behalf of the organizing committee for the Asia-Pacific Green Technology Summit, I am writing to invite your company to serve as a Platinum Sponsor for this year's conference, which will be held at the Marina Bay Sands Convention Centre in Singapore from March 10 to 12. The summit is widely (1)___ as the premier forum for advancing sustainable technology solutions in the region and is expected to draw over 2,500 delegates from more than 40 countries.\n\nPlatinum Sponsorship, priced at $75,000, offers a comprehensive package of benefits designed to maximize your organization's visibility among a highly targeted audience. These include a 30-minute keynote speaking slot, a premium exhibition booth in the main conference hall, full-page advertisements in both the printed and digital conference programs, and complimentary registration for up to eight delegates. (2)___ , your company's logo will be prominently featured on all pre-conference marketing materials distributed to an estimated 120,000 professionals across our mailing lists and social media channels.\n\nThe deadline for Platinum Sponsor commitments is November 30, after (3)___ the available slots will be offered to organizations on the waiting list. I have attached a detailed sponsorship prospectus that outlines the full range of opportunities and the projected audience demographics.\n\n(4)___ to discuss how we can tailor the sponsorship package to better align with your organization's marketing objectives.\n\nWith warm regards,\nSponsorship Director",
+    "blanks": [
+      {
+        "index": 1,
+        "options": [
+          "regarded",
+          "regarding",
+          "regards",
+          "regard"
+        ],
+        "answer": "regarded",
+        "explanation": "is widely regarded as（被廣泛認為）為被動語態固定片語。",
+        "category": "搭配詞"
+      },
+      {
+        "index": 2,
+        "options": [
+          "In addition",
+          "In additional",
+          "With addition",
+          "On addition"
+        ],
+        "answer": "In addition",
+        "explanation": "In addition（此外）為連接副詞引導附加資訊，獨立逗號後接完整句。",
+        "category": "連接詞"
+      },
+      {
+        "index": 3,
+        "options": [
+          "which",
+          "that",
+          "when",
+          "what"
+        ],
+        "answer": "which",
+        "explanation": "after which（在此之後），which指代November 30這個截止日期，關係代名詞。",
+        "category": "關係代名詞"
+      },
+      {
+        "index": 4,
+        "options": [
+          "I would be delighted to arrange a call",
+          "Delighted arranging a call",
+          "To be delighted arrange call",
+          "Delight to call arrange"
+        ],
+        "answer": "I would be delighted to arrange a call",
+        "explanation": "I would be delighted to...為商務邀請中最熱誠的禮貌表達。",
+        "category": "句子插入"
+      }
+    ]
+  },
+  {
+    "id": "P6-T730-046",
+    "part": 6,
+    "track": "T730",
+    "passageTemplate": "To: Quality Assurance Managers and Production Supervisors\nFrom: Chief Operating Officer\n\nAs many of you are aware, one of our largest clients, MedEquip International, has recently revised its supplier qualification criteria to require that all component manufacturers hold ISO 13485 certification for medical device quality management systems. (1)___ we are to retain this account, which currently represents 18% of our annual revenue, we must achieve full certification within the next nine months.\n\nI have engaged a consulting firm, Qualitas Advisors, to guide us through the certification process. Their scope of work includes a comprehensive gap analysis, documentation review, staff training, and mock audits. The consulting engagement will commence on October 10, and a detailed project plan (2)___ to all relevant department heads by October 5.\n\nThe management team (3)___ the resources necessary to support this initiative, including overtime authorization for staff involved in documentation and process redesign. However, I must stress that meeting the certification deadline will require the full cooperation of every individual in the affected departments.\n\n(4)___ to the success of this endeavor, I expect to receive your full support and commitment.\n\nThank you in advance for your dedication.\n\nCOO",
+    "passageTitle": "Memo: Quality Management Certification",
+    "blanks": [
+      {
+        "index": 1,
+        "options": [
+          "If",
+          "Unless",
+          "Whether",
+          "Because"
+        ],
+        "answer": "If",
+        "explanation": "If we are to retain...為條件句型（=If we want to retain），表示要留住客戶就必須達標。",
+        "category": "上下文邏輯"
+      },
+      {
+        "index": 2,
+        "options": [
+          "will be circulated",
+          "circulates",
+          "circulating",
+          "circulated"
+        ],
+        "answer": "will be circulated",
+        "explanation": "被動語態未來式will be circulated表示詳細計畫將被分發給各主管。",
+        "category": "時態"
+      },
+      {
+        "index": 3,
+        "options": [
+          "is committed to providing",
+          "commits to provide",
+          "is committing providing",
+          "committed providing"
+        ],
+        "answer": "is committed to providing",
+        "explanation": "be committed to + 動名詞為固定搭配，表示承諾提供資源。",
+        "category": "搭配詞"
+      },
+      {
+        "index": 4,
+        "options": [
+          "Given the critical importance",
+          "Giving the critical importance",
+          "To give critical importance",
+          "Critical importance given"
+        ],
+        "answer": "Given the critical importance",
+        "explanation": "Given + 名詞片語（鑑於...的重要性）引導原因，正式且簡潔。",
+        "category": "句子插入"
+      }
+    ]
+  },
+  {
+    "id": "P6-T730-047",
+    "part": 6,
+    "track": "T730",
+    "passageTitle": "Announcement: Strategic Divestiture Decision",
+    "passageTemplate": "Dear Shareholders and Employees,\n\nThe board of directors has unanimously approved the divestiture of our consumer packaging division to Atlas Industrial Group in a transaction valued at $340 million. This decision, which was reached after an exhaustive 12-month strategic review, reflects our commitment to focusing the company's resources on its core industrial and healthcare segments, where we (1)___ a clear and sustainable competitive advantage.\n\nThe consumer packaging division, while profitable, operates in a market characterized by high capital intensity, low barriers to entry, and increasing margin pressure from commodity-based competitors. Its divestiture will allow us to reduce our debt-to-equity ratio by an estimated 28% and redeploy capital toward higher-growth opportunities in our healthcare diagnostics and precision engineering businesses.\n\nAll 1,100 employees of the consumer packaging division will transition to Atlas Industrial Group as part of the agreement, with their existing compensation, benefits, and seniority fully (2)___. We have worked closely with Atlas to ensure a smooth transition, and their leadership has expressed a strong commitment to maintaining the division's operational footprint and investing in its long-term growth.\n\nThe transaction is expected to close by the end of the third quarter, (3)___ to regulatory approval and customary closing conditions. A special committee of independent directors has been established to oversee the separation process.\n\n(4)___ that this announcement may raise questions. We have scheduled a company-wide town hall on August 8 to address these in detail.\n\nSincerely,\nChairman and CEO",
+    "blanks": [
+      {
+        "index": 1,
+        "options": [
+          "possess",
+          "possessing",
+          "possessed",
+          "possesses"
+        ],
+        "answer": "possess",
+        "explanation": "where we possess，關係副詞where子句中主詞we搭配原形動詞possess。",
+        "category": "時態"
+      },
+      {
+        "index": 2,
+        "options": [
+          "preserved",
+          "preserving",
+          "preserve",
+          "preserves"
+        ],
+        "answer": "preserved",
+        "explanation": "with...fully preserved為with + 名詞 + 過去分詞結構，表示薪資福利被完整保留。",
+        "category": "詞性"
+      },
+      {
+        "index": 3,
+        "options": [
+          "subject",
+          "subjected",
+          "subjecting",
+          "subjection"
+        ],
+        "answer": "subject",
+        "explanation": "subject to（取決於/受限於）為正式法律合約用語，形容詞片語修飾交易完成。",
+        "category": "搭配詞"
+      },
+      {
+        "index": 4,
+        "options": [
+          "We recognize",
+          "Recognizing",
+          "To recognize",
+          "Recognition"
+        ],
+        "answer": "We recognize",
+        "explanation": "We recognize that...為正式公告中表達同理心的標準開頭，引出後續說明。",
+        "category": "句子插入"
+      }
+    ]
+  },
+  {
+    "id": "P6-T730-048",
+    "part": 6,
+    "track": "T730",
+    "passageTitle": "Notice: Travel and Expense Policy Revision",
+    "passageTemplate": "REVISED TRAVEL AND EXPENSE POLICY — Effective August 1\n\nFollowing a comprehensive benchmarking review of travel expenditure across comparable organizations in our industry, the Finance department has revised the company's travel and expense policy. The revisions, which (1)___ to all domestic and international business travel, are designed to reduce annual travel expenditure by approximately 12% without compromising employee safety or comfort.\n\nThe most notable changes include a reduction in the maximum nightly hotel rate from $280 to $240 in primary metropolitan areas, a requirement that all flights exceeding four hours in duration be booked at least 14 days in advance to secure optimal pricing, and the introduction of a pre-trip approval process for any travel expected to cost $2,000 or more. Employees (2)___ these policies will be required to cover any non-reimbursable expenses personally.\n\nWe acknowledge that the pre-trip approval requirement represents an additional administrative step. (3)___ it is expected to yield the single largest reduction in travel expenditure by eliminating non-essential trips that have historically been approved without adequate scrutiny.\n\n(4)___ is available on the Finance department intranet page. Employees with specific questions about how the revisions affect their upcoming travel plans should contact the Travel Desk at extension 2700.\n\nThank you for your understanding and cooperation.",
+    "blanks": [
+      {
+        "index": 1,
+        "options": [
+          "apply",
+          "applied",
+          "applying",
+          "applies"
+        ],
+        "answer": "apply",
+        "explanation": "which apply to，關係代名詞which指revisions（複數），動詞用原形apply。",
+        "category": "時態"
+      },
+      {
+        "index": 2,
+        "options": [
+          "who fail to comply with",
+          "failing to comply",
+          "failed complying",
+          "who fails comply"
+        ],
+        "answer": "who fail to comply with",
+        "explanation": "關係子句who fail to comply with修飾employees，fail to comply為正式政策用語。",
+        "category": "上下文邏輯"
+      },
+      {
+        "index": 3,
+        "options": [
+          "Nevertheless",
+          "Furthermore",
+          "Likewise",
+          "Accordingly"
+        ],
+        "answer": "Nevertheless",
+        "explanation": "Nevertheless（儘管如此）表達讓步轉折，先承認行政負擔再強調節省效果。",
+        "category": "連接詞"
+      },
+      {
+        "index": 4,
+        "options": [
+          "A complete copy of the revised policy",
+          "Completing copy of revised policy",
+          "To complete revised policy copy",
+          "Revised policy completing"
+        ],
+        "answer": "A complete copy of the revised policy",
+        "explanation": "A complete copy作主詞最直接清晰，為公告告知查閱方式的標準句式。",
+        "category": "句子插入"
+      }
+    ]
+  }
+]

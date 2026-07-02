@@ -1,0 +1,491 @@
+
+========== listening_part1_T600_ext1.json (45 items, sampling 5) ==========
+
+--- L1-T600-016 (idx 0) ---
+  imageDescription: A waiter is carrying a tray of drinks to a table in a restaurant.
+
+--- L1-T600-026 (idx 10) ---
+  imageDescription: A lecturer is writing on a whiteboard in a university classroom.
+
+--- L1-T600-036 (idx 20) ---
+  imageDescription: A whiteboard is covered with notes and diagrams from a meeting.
+
+--- L1-T600-046 (idx 30) ---
+  imageDescription: A row of cars is parked along the street in front of a row of shops.
+
+--- L1-T600-056 (idx 40) ---
+  imageDescription: A food court has several different cuisine stalls and seating areas.
+
+========== listening_part1_T730_ext1.json (45 items, sampling 5) ==========
+
+--- L1-T730-016 (idx 0) ---
+  imageDescription: A chef in a white uniform is plating gourmet dishes while line cooks prepare ingredients in a busy restaurant kitchen.
+
+--- L1-T730-026 (idx 10) ---
+  imageDescription: A dental hygienist is using a scaler to clean a patient's teeth in a brightly lit dental examination room.
+
+--- L1-T730-036 (idx 20) ---
+  imageDescription: A baker is piping cream onto a multi-tiered cake displayed in the front window of a neighborhood bakery.
+
+--- L1-T730-046 (idx 30) ---
+  imageDescription: A cargo ship crew member is fastening steel cables around stacked shipping containers on the deck of a large vessel.
+
+--- L1-T730-056 (idx 40) ---
+  imageDescription: A glassblower is shaping a glowing orb of molten glass at the end of a blowpipe in a hot glass workshop.
+
+========== listening_part2_T600_ext1.json (120 items, sampling 12) ==========
+
+--- L2-T600-041 (idx 0) ---
+  audioScript: When does the next bus arrive?
+
+--- L2-T600-051 (idx 10) ---
+  audioScript: When is the next staff meeting scheduled?
+
+--- L2-T600-061 (idx 20) ---
+  audioScript: Who is in charge of the training program?
+
+--- L2-T600-071 (idx 30) ---
+  audioScript: When did you start learning English?
+
+--- L2-T600-081 (idx 40) ---
+  audioScript: Do you need any help with that box?
+
+--- L2-T600-091 (idx 50) ---
+  audioScript: Is Ms. Lee available for a quick chat?
+
+--- L2-T600-101 (idx 60) ---
+  audioScript: Have you visited the new office yet?
+
+--- L2-T600-111 (idx 70) ---
+  audioScript: The company won't move to a new location, will it?
+
+--- L2-T600-121 (idx 80) ---
+  audioScript: I'm afraid I can't make it to the party.
+
+--- L2-T600-131 (idx 90) ---
+  audioScript: Where is the bank?
+
+--- L2-T600-141 (idx 100) ---
+  audioScript: Did you attend the staff meeting?
+
+--- L2-T600-151 (idx 110) ---
+  audioScript: Did you check the inventory levels?
+
+========== listening_part2_T730_ext1.json (120 items, sampling 12) ==========
+
+--- L2-T730-041 (idx 0) ---
+  audioScript: Has the board approved the annual budget yet?
+
+--- L2-T730-051 (idx 10) ---
+  audioScript: If you were in my position, how would you handle the complaint?
+
+--- L2-T730-061 (idx 20) ---
+  audioScript: What was the main point of the department meeting this morning?
+
+--- L2-T730-071 (idx 30) ---
+  audioScript: Which department is handling the merger due diligence?
+
+--- L2-T730-081 (idx 40) ---
+  audioScript: Shouldn't we have notified the clients about the price increase in advance?
+
+--- L2-T730-091 (idx 50) ---
+  audioScript: I don't suppose there's any way to expedite the shipping, is there?
+
+--- L2-T730-101 (idx 60) ---
+  audioScript: Nobody remembered to order the catering for the luncheon, did they?
+
+--- L2-T730-111 (idx 70) ---
+  audioScript: Has the engineering team resolved the compatibility issue yet?
+
+--- L2-T730-121 (idx 80) ---
+  audioScript: When exactly is the soft launch scheduled for the new platform?
+
+--- L2-T730-131 (idx 90) ---
+  audioScript: I can't help noticing that the attendance rate has dropped significantly.
+
+--- L2-T730-141 (idx 100) ---
+  audioScript: How do we reconcile the discrepancy between the inventory count and the system record?
+
+--- L2-T730-151 (idx 110) ---
+  audioScript: Is the deadline flexible, or is it set in stone?
+
+========== listening_part3_T600_ext1.json (45 items, sampling 5) ==========
+
+--- L3-T600-016 (idx 0) ---
+  conversation:
+    A: We need to finalize the department budgets for the third quarter.
+    B: I have the proposed numbers here. Marketing is asking for a ten percent increase.
+    A: That seems high. What's the justification?
+    B: They want to launch a new social media campaign in August.
+    A: And what about the IT department's request?
+    B: IT needs additional funds for the server upgrade. They've requested forty-five thousand.
+    A: Let's review each department one by one. Start with Operations.
+  questions:
+    L3-T600-016-Q1: What are the speakers mainly discussing?
+    L3-T600-016-Q2: Which department has the largest proposed increase in percentage?
+    L3-T600-016-Q3: Why does the marketing department want more money?
+
+--- L3-T600-026 (idx 10) ---
+  conversation:
+    A: We just hired three new designers. They'll need graphic design software licenses.
+    B: Are you looking at the annual subscription or the monthly plan?
+    A: The annual plan is cheaper per month. What's the total cost for three licenses?
+    B: The annual subscription is two hundred forty dollars per user. For three, it's seven hundred twenty.
+    A: Can we get a volume discount for purchasing multiple licenses?
+    B: Let me check with the vendor. Orders of five or more licenses usually get ten percent off.
+  questions:
+    L3-T600-026-Q1: What does the company need to purchase?
+    L3-T600-026-Q2: How much would three annual licenses cost?
+    L3-T600-026-Q3: What discount does the vendor offer for bulk orders?
+
+--- L3-T600-036 (idx 20) ---
+  conversation:
+    A: I need to book a flight to Hong Kong for the trade show next month.
+    B: There are direct flights and ones with a layover in Taipei. The direct flight is faster but costs more.
+    A: What's the price difference?
+    B: The direct flight is eight hundred fifty dollars. The one with a layover is five hundred eighty.
+    A: What's the total travel time for each option?
+    B: Direct takes about four hours. With the layover, it's nearly seven hours including the waiting time.
+  questions:
+    L3-T600-036-Q1: What is the main topic of the conversation?
+    L3-T600-036-Q2: How much cheaper is the layover flight compared to the direct flight mentioned in the conversation?
+    L3-T600-036-Q3: What is the travel time for the flight with a layover?
+    L3-T600-036-Q4: Which airline offers the cheapest option according to the chart?
+
+--- L3-T600-046 (idx 30) ---
+  conversation:
+    A: I donated to the company's charity drive last month. Can I get a tax receipt?
+    B: Of course. Do you remember how much you donated?
+    A: I contributed two hundred dollars through the payroll deduction program.
+    B: I can pull up your record. Tax receipts are usually issued within the first week of the following month.
+    A: So I should receive it soon then. Will it be emailed or printed?
+    B: We email digital receipts to your company email address by default.
+  questions:
+    L3-T600-046-Q1: What document does the woman want?
+    L3-T600-046-Q2: How much did the woman donate?
+    L3-T600-046-Q3: How will the woman receive the receipt?
+
+--- L3-T600-056 (idx 40) ---
+  conversation:
+    A: We need to ship a sample product to our client in London by Friday.
+    B: There are several shipping options. The package weighs about two kilograms.
+    A: What's the fastest option that's not too expensive?
+    B: Express International takes two days and costs forty-five dollars. Economy takes five days but is only eighteen.
+    A: We need it there by Friday, so Express is the only option that works. Let's go with that.
+    B: I'll prepare the shipping label and customs form right away.
+  questions:
+    L3-T600-056-Q1: Where is the package being sent?
+    L3-T600-056-Q2: How much does the Express International service cost?
+    L3-T600-056-Q3: What is the insurance coverage for the Standard International service?
+
+========== listening_part3_T730_ext1.json (45 items, sampling 5) ==========
+
+--- L3-T730-016 (idx 0) ---
+  conversation:
+    A: The Henderson account is three months past due on their outstanding invoice. Have you followed up?
+    B: I sent them two reminders, but their finance director keeps saying the check is 'in process.'
+    A: That's what they said last quarter. I'm starting to question their liquidity.
+    B: To be fair, they've been a reliable client for five years. But I share your concern.
+    A: Reliability doesn't pay our vendors. What if we offer a payment plan with interest waived if they settle within sixty days?
+    B: That's generous on our part. I'll draft the proposal, but if they decline, we may need to involve legal.
+    A: Agreed. Let's give them one last chance before we escalate.
+  questions:
+    L3-T730-016-Q1: What is the woman primarily concerned about?
+    L3-T730-016-Q2: What compromise does the woman propose?
+    L3-T730-016-Q3: What will the speakers most likely do if the client declines the proposal?
+
+--- L3-T730-026 (idx 10) ---
+  conversation:
+    A: The trade show in Frankfurt is in six weeks. Have we confirmed the booth design and materials?
+    B: The design was approved last week, but our usual printing vendor is fully booked until next month.
+    A: That's a problem. The banners and display panels need at least three weeks for production and shipping.
+    B: I've reached out to two alternative vendors. PrintPro can deliver in two weeks but uses lower-grade materials.
+    A: The booth represents our brand. I'm not comfortable compromising on quality.
+    B: The other option, ExhibitMaster, uses premium materials and can expedite in ten days, but at a forty percent premium.
+    A: Given the stakes, the premium is justified. Go with ExhibitMaster and make sure they commit to the delivery date in writing.
+  questions:
+    L3-T730-026-Q1: What problem do the speakers face?
+    L3-T730-026-Q2: What is wrong with the PrintPro option?
+    L3-T730-026-Q3: What does the woman ultimately decide?
+
+--- L3-T730-036 (idx 20) ---
+  conversation:
+    A: HR is proposing a revised remote work policy. They want employees in the office four days a week starting next quarter.
+    B: Four days is going to be a tough sell. We surveyed the team last month and over seventy percent preferred the current hybrid model.
+    A: The push is coming from the executive level. They believe in-person collaboration has suffered under the three-day model.
+    B: Has anyone actually measured collaboration outcomes, or is this based on perception?
+    A: That's a fair question. The productivity metrics are actually up eight percent since we adopted the hybrid policy.
+    B: Then we have data to counter the narrative. I'd suggest we present the productivity numbers to the executive team and propose keeping the current policy while adding one mandatory in-person collaboration day per month.
+    A: A compromise backed by data is harder to dismiss. Let's prepare that presentation.
+  questions:
+    L3-T730-036-Q1: What change does HR propose to the remote work policy?
+    L3-T730-036-Q2: What does the woman suggest to counter the executive proposal?
+    L3-T730-036-Q3: What compromise does the woman propose?
+
+--- L3-T730-046 (idx 30) ---
+  conversation:
+    A: Our sales team is struggling to hit quotas this quarter. I'm looking at the regional breakdown and the disparity is striking.
+    B: Southeast Asia exceeded their target by twenty-two percent, but the European region is at only sixty-three percent of quota.
+    A: Europe's underperformance can't all be market conditions. Two of their senior reps left in January and were replaced with new hires.
+    B: New hires typically take six months to ramp up. We're only at month five, so it's too early to conclude they're underperforming.
+    A: Fair, but we can't wait indefinitely. Could we temporarily reassign an experienced rep from the Asia team to mentor the European team?
+    B: That could destabilize the Asia team's momentum. Let's instead fast-track the training program — bring the European new hires to Singapore for a two-week intensive with the top-performing team.
+    A: An immersion approach. That's creative. I'll coordinate with both regional managers to make it happen by next month.
+  questions:
+    L3-T730-046-Q1: Which region performed the best relative to its quota?
+    L3-T730-046-Q2: What is a contributing factor to Europe's poor performance?
+    L3-T730-046-Q3: What solution does the man propose for the European team?
+
+--- L3-T730-056 (idx 40) ---
+  conversation:
+    A: We have a regulatory inspection at the assembly plant next Monday. Are we fully prepared?
+    B: I've reviewed the checklist. The safety documentation is complete, and the equipment maintenance logs are up to date.
+    A: What about the new ventilation system the inspector flagged as 'pending compliance' on the last visit?
+    B: That's the one item I'm worried about. The installation is ninety percent done, but the final certification from the contractor won't arrive until Wednesday.
+    A: That's after the inspection. Can we show the inspector the installation progress and the contractor's preliminary sign-off?
+    B: The preliminary documentation might be enough to demonstrate good faith, but we'll still get a conditional pass at best.
+    A: A conditional pass is better than a violation. Make sure all the other areas are spotless so we minimize scrutiny on the ventilation issue.
+  questions:
+    L3-T730-056-Q1: When is the regulatory inspection scheduled?
+    L3-T730-056-Q2: What issue was flagged during the previous inspection?
+    L3-T730-056-Q3: What outcome do the speakers expect from the upcoming inspection?
+
+========== listening_part4_T600_ext1.json (36 items, sampling 4) ==========
+
+--- L4-T600-013 (idx 0) ---
+  talk: Hello everyone, this is a reminder from the administrative office. Our monthly department meeting has been rescheduled from this Thursday to this Friday at 2 PM. The meeting will be held in the second-floor conference room instead of the usual meeting room on the fourth floor. We will be discussing the quarterly sales results and the upcoming product launch. Please bring your sales reports and any feedback from your clients. If you cannot attend, please notify your team leader in advance. Thank you for your cooperation.
+  questions:
+    L4-T600-013-Q1: What is the purpose of this announcement?
+    L4-T600-013-Q2: Where will the meeting take place?
+    L4-T600-013-Q3: What are staff members asked to bring?
+
+--- L4-T600-023 (idx 10) ---
+  talk: Welcome to the Oceanview Hotel. We are delighted to have you with us. Your room is on the eighth floor and can be accessed with the key card provided at check-in. Complimentary breakfast is served daily from 6:30 to 10 AM in the Harbor Restaurant on the ground floor. The gym and indoor pool are located on the third floor and are open from 6 AM to 10 PM. If you need additional towels or toiletries, please dial 0 to reach the front desk. We hope you enjoy your stay.
+  questions:
+    L4-T600-023-Q1: Where is the breakfast served?
+    L4-T600-023-Q2: What are the gym and pool hours?
+    L4-T600-023-Q3: How can guests request additional towels?
+
+--- L4-T600-033 (idx 20) ---
+  talk: Hello, members and guests. This is an announcement from the Downtown Fitness Center. We would like to inform you that our Zumba class scheduled for this Wednesday evening has been canceled due to the instructor being ill. A replacement class will be offered on Saturday morning at 10 AM instead. All current class passes will be honored for the replacement class. Additionally, the sauna area will be closed for cleaning this Thursday from 2 PM to 5 PM. We apologize for any inconvenience.
+  questions:
+    L4-T600-033-Q1: Why was the Zumba class canceled?
+    L4-T600-033-Q2: When will the replacement class be held?
+    L4-T600-033-Q3: What other facility will be temporarily unavailable?
+
+--- L4-T600-043 (idx 30) ---
+  talk: Good evening, ladies and gentlemen. Welcome to the 2026 Excellence in Business Awards ceremony. I am honored to be here tonight to celebrate the achievements of outstanding companies in our community. We have received over two hundred nominations this year, which is a record number. The winners in each category will be announced after dinner. Before we begin, I would like to thank our sponsors for making this event possible. Please enjoy the reception and congratulations to all the nominees.
+  questions:
+    L4-T600-043-Q1: What event is taking place?
+    L4-T600-043-Q2: How many nominations were received this year?
+    L4-T600-043-Q3: When will the winners be announced?
+
+========== listening_part4_T730_ext1.json (36 items, sampling 4) ==========
+
+--- L4-T730-013 (idx 0) ---
+  talk: Attention all warehouse staff. This is a message from the logistics manager regarding the upcoming inventory management system upgrade. Starting next Monday, we will be transitioning from the current barcode scanning system to an RFID-based tracking platform. All team members are required to attend a mandatory training session on Friday afternoon at 2 PM in the main conference room. Please bring your employee ID badges, as you will need them to log into the new system for the first time. While the new system is expected to reduce manual counting errors by approximately forty percent, there will be a temporary slowdown during the first week of implementation as everyone gets accustomed to the new workflow. The IT department has set up a help desk in the break room for any technical issues. Also, please note that all handheld scanners must be returned to the equipment office by Thursday, as they will be replaced with RFID readers next week.
+  questions:
+    L4-T730-013-Q1: What is the main reason for upgrading the inventory system?
+    L4-T730-013-Q2: What must employees bring to the training session?
+    L4-T730-013-Q3: What can be inferred about the current barcode system?
+
+--- L4-T730-023 (idx 10) ---
+  talk: Dear colleagues, this is a notification from the IT infrastructure team regarding scheduled maintenance for our company's enterprise resource planning system. The maintenance window has been scheduled for this Saturday from 10 PM until 6 AM Sunday. During this period, the ERP system will be completely inaccessible, and all related services, including the payroll module and inventory management portal, will be offline. We strongly advise that you save any pending work and log out of the system before the maintenance begins. Any unsaved data may be lost during the server restart. One important change: the customer relationship management system, which was originally scheduled for the same maintenance window, will now be updated separately next week due to vendor scheduling conflicts. This means the CRM will remain available this weekend as usual. If you encounter any post-maintenance issues on Monday morning, please report them to the IT help desk immediately. A maintenance completion notice will be sent via email once all systems are verified.
+  questions:
+    L4-T730-023-Q1: What is the primary purpose of this message?
+    L4-T730-023-Q2: When will the CRM system be updated?
+    L4-T730-023-Q3: What does the speaker imply about the ERP and CRM updates?
+
+--- L4-T730-033 (idx 20) ---
+  talk: Hello, everyone. This is Chef Marco from the corporate kitchen with an update on the menu redesign project for our chain of casual dining restaurants. After three months of recipe testing and customer focus groups, we have finalized the new menu, which will launch in all locations on June first. The new menu features thirty percent more plant-based options, responding to the growing demand for healthier dining choices. We will also be introducing a new seasonal specials section that will rotate every two months. However, there are a few operational changes that need to be communicated. First, several signature dishes, including the classic beef stew and the seafood pasta, have been removed from the regular menu due to declining sales. These items will be available only as limited-time specials during certain months. Second, the new menu introduces a simplified pricing structure: all appetizers will be priced between six and ten dollars, and all main courses between fourteen and twenty-two dollars. This change is intended to make the pricing easier for customers to understand. Training materials for kitchen and waitstaff will be distributed by May twentieth. Please ensure all team members complete the training before the launch date.
+  questions:
+    L4-T730-033-Q1: What is the main topic of this message?
+    L4-T730-033-Q2: When will the new menu launch?
+    L4-T730-033-Q3: What can be inferred about the classic beef stew and seafood pasta?
+
+--- L4-T730-043 (idx 30) ---
+  talk: Dear valued customer, this is an important announcement from CloudSync Solutions regarding updates to our service pricing and plans. After listening to customer feedback, we are restructuring our pricing tiers to better align with the needs of businesses of different sizes. Starting July first, our current three-tier structure will be replaced with four new plans: Starter, Professional, Enterprise, and Custom. The Starter plan is designed for small teams of up to ten users and will be priced at twenty-nine dollars per user per month, which is significantly lower than our current entry-level price. Existing customers on our current Basic plan will be automatically migrated to the Professional plan at no additional cost for the first six months. However, please note that the Unlimited Storage feature, which is currently included in all plans, will be available only in the Enterprise and Custom plans going forward. Customers on Starter or Professional plans will have a storage limit of one terabyte per user. We will send personalized migration guides to all account administrators within the next week. If you have any questions, our customer success team is available for live chat during business hours.
+  questions:
+    L4-T730-043-Q1: What is the purpose of this announcement?
+    L4-T730-043-Q2: How many pricing plans will be available after the change?
+    L4-T730-043-Q3: What can be inferred about the Unlimited Storage feature?
+
+========== reading_part5_T600_ext1.json (150 items, sampling 15) ==========
+
+--- P5-T600-051 (idx 0) ---
+
+--- P5-T600-061 (idx 10) ---
+
+--- P5-T600-071 (idx 20) ---
+
+--- P5-T600-081 (idx 30) ---
+
+--- P5-T600-091 (idx 40) ---
+
+--- P5-T600-101 (idx 50) ---
+
+--- P5-T600-111 (idx 60) ---
+
+--- P5-T600-121 (idx 70) ---
+
+--- P5-T600-131 (idx 80) ---
+
+--- P5-T600-141 (idx 90) ---
+
+--- P5-T600-151 (idx 100) ---
+
+--- P5-T600-161 (idx 110) ---
+
+--- P5-T600-171 (idx 120) ---
+
+--- P5-T600-181 (idx 130) ---
+
+--- P5-T600-191 (idx 140) ---
+
+========== reading_part5_T730_ext1.json (165 items, sampling 17) ==========
+
+--- P5-T730-056 (idx 0) ---
+
+--- P5-T730-066 (idx 10) ---
+
+--- P5-T730-076 (idx 20) ---
+
+--- P5-T730-086 (idx 30) ---
+
+--- P5-T730-096 (idx 40) ---
+
+--- P5-T730-106 (idx 50) ---
+
+--- P5-T730-116 (idx 60) ---
+
+--- P5-T730-126 (idx 70) ---
+
+--- P5-T730-136 (idx 80) ---
+
+--- P5-T730-146 (idx 90) ---
+
+--- P5-T730-156 (idx 100) ---
+
+--- P5-T730-166 (idx 110) ---
+
+--- P5-T730-176 (idx 120) ---
+
+--- P5-T730-186 (idx 130) ---
+
+--- P5-T730-196 (idx 140) ---
+
+--- P5-T730-206 (idx 150) ---
+
+--- P5-T730-216 (idx 160) ---
+
+========== reading_part6_T600_ext1.json (36 items, sampling 4) ==========
+
+--- P6-T600-013 (idx 0) ---
+
+--- P6-T600-023 (idx 10) ---
+
+--- P6-T600-033 (idx 20) ---
+
+--- P6-T600-043 (idx 30) ---
+
+========== reading_part6_T730_ext1.json (36 items, sampling 4) ==========
+
+--- P6-T730-013 (idx 0) ---
+
+--- P6-T730-023 (idx 10) ---
+
+--- P6-T730-033 (idx 20) ---
+
+--- P6-T730-043 (idx 30) ---
+
+========== reading_part7_single_T600_ext1.json (21 items, sampling 3) ==========
+
+--- P7S-T600-008 (idx 0) ---
+  questions:
+    P7S-T600-008-Q1: What is the main topic of this notice?
+    P7S-T600-008-Q2: What new station will be added to the cafeteria?
+    P7S-T600-008-Q3: What will the new closing time be?
+    P7S-T600-008-Q4: Why will some salad options become more expensive?
+
+--- P7S-T600-018 (idx 10) ---
+  questions:
+    P7S-T600-018-Q1: When will the new coffee machines be installed?
+    P7S-T600-018-Q2: What new beverage options will be available?
+    P7S-T600-018-Q3: What is the deadline for submitting coffee preferences?
+
+--- P7S-T600-028 (idx 20) ---
+  questions:
+    P7S-T600-028-Q1: What is the main purpose of the event?
+    P7S-T600-028-Q2: What time does the bus leave the office?
+    P7S-T600-028-Q3: What is the deadline to RSVP?
+    P7S-T600-028-Q4: What equipment do participants need to bring?
+
+========== reading_part7_single_T730_ext1.json (18 items, sampling 2) ==========
+
+--- P7S-T730-007 (idx 0) ---
+  questions:
+    P7S-T730-007-Q1: What is the primary purpose of this email?
+    P7S-T730-007-Q2: What can be inferred about managers who do not enroll by April 1?
+    P7S-T730-007-Q3: Why does HR mention the Wharton School of Executive Education?
+
+--- P7S-T730-017 (idx 10) ---
+  questions:
+    P7S-T730-017-Q1: What is the main purpose of this press release?
+    P7S-T730-017-Q2: According to the press release, what will Dr. Priya Suresh's role be after the acquisition?
+    P7S-T730-017-Q3: What can be inferred about Apex's motivation for acquiring NanoTech Dynamics despite its operating loss?
+
+========== reading_part7_double_T600_ext1.json (15 items, sampling 2) ==========
+
+--- P7D-T600-006 (idx 0) ---
+  questions:
+    P7D-T600-006-Q1: What problem is the 4th floor printer experiencing?
+    P7D-T600-006-Q2: What part does the IT technician believe needs to be replaced?
+    P7D-T600-006-Q3: When will the technician arrive?
+    P7D-T600-006-Q4: What alternative does IT suggest while the 4th floor printer is being repaired?
+    P7D-T600-006-Q5: What deadline does Diana mention, and what temporary solution does IT offer if the repair takes too long?
+
+--- P7D-T600-016 (idx 10) ---
+  questions:
+    P7D-T600-016-Q1: By what percentage is the office supply budget being reduced?
+    P7D-T600-016-Q2: What is the new monthly supply budget for the Marketing Department?
+    P7D-T600-016-Q3: What is the deadline to submit an exception request?
+    P7D-T600-016-Q4: For which months is Jessica requesting a temporary budget increase?
+    P7D-T600-016-Q5: What is Jessica's justification for requesting a higher budget, and what amount does she ask for?
+
+========== reading_part7_double_T730_ext1.json (12 items, sampling 2) ==========
+
+--- P7D-T730-005 (idx 0) ---
+  questions:
+    P7D-T730-005-Q1: What is the main purpose of the email from Ms. Kapoor?
+    P7D-T730-005-Q2: According to the job advertisement, which technical competency is explicitly listed as a requirement?
+    P7D-T730-005-Q3: What is implied about the hiring panel's decision-making process?
+    P7D-T730-005-Q4: In the job advertisement, the word "cognate" is closest in meaning to:
+    P7D-T730-005-Q5: How does the portfolio deadline mentioned in the email relate to the application deadline stated in the job posting?
+
+--- P7D-T730-015 (idx 10) ---
+  questions:
+    P7D-T730-015-Q1: According to the pricing notice, what change will affect customers with 100 or more seats?
+    P7D-T730-015-Q2: What is the primary financial justification Mr. Cross provides for requesting the unbudgeted $29,820?
+    P7D-T730-015-Q3: In the pricing notice, the term "grandfathered" most likely means:
+    P7D-T730-015-Q4: What can be inferred about Mr. Cross's budgeting process for his division?
+    P7D-T730-015-Q5: How does Mr. Cross's cost calculation of early renewal ($374,294) derive from the pricing details in the vendor's notice?
+
+========== reading_part7_triple_T600_ext1.json (9 items, sampling 1) ==========
+
+--- P7T-T600-004 (idx 0) ---
+  questions:
+    P7T-T600-004-Q1: What is the salary range for the HR Specialist position?
+    P7T-T600-004-Q2: What certification does Emily Sanders hold?
+    P7T-T600-004-Q3: How long will the interview last?
+    P7T-T600-004-Q4: What is the deadline to confirm interview attendance?
+    P7T-T600-004-Q5: Based on all three documents, which of Emily's qualifications most directly matches the preferred requirement in the job posting?
+
+========== reading_part7_triple_T730_ext1.json (9 items, sampling 1) ==========
+
+--- P7T-T730-004 (idx 0) ---
+  questions:
+    P7T-T730-004-Q1: What is the primary purpose of Catherine Walsh's executive memo?
+    P7T-T730-004-Q2: According to the market research report, what percentage of enterprise accounts indicated they would consider switching vendors if AI functionality remained uncompetitive?
+    P7T-T730-004-Q3: What can be inferred about ConvergeSuite's market strategy based on the competitor analysis?
+    P7T-T730-004-Q4: How do the three documents collectively demonstrate the company's response to external market pressures?
+    P7T-T730-004-Q5: In the context of the executive memo, what does the phrase "strategic realignment" most nearly mean?

@@ -6,10 +6,54 @@
     "passageTitle": "Email: Quarterly Performance Review Summary",
     "passageTemplate": "Dear Department Heads,\n\nPlease find attached the consolidated performance metrics for the second quarter. While overall revenue grew by 4.2% compared to the previous quarter, the operating margin (1)___ declined by 1.5 percentage points, primarily due to increased logistics costs and unfavorable currency exchange fluctuations in our Southeast Asian markets.\n\nI strongly recommend that all department heads (2)___ their respective budget allocations for the upcoming quarter in light of these figures. The finance team has already begun revising the forecast model to (3)___ for these external variables.\n\nRegarding our underperforming product lines, a comprehensive review has been scheduled for next Wednesday. (4)___ with actionable recommendations by Friday so that we can finalize the strategic adjustments before the board meeting.\n\nRegards,\nFinancial Controller",
     "blanks": [
-      {"index": 1, "options": ["has", "is", "was", "had"], "answer": "has", "explanation": "現在完成式has declined表示從過往延續到現在的狀況，與前句grew形成對比。"},
-      {"index": 2, "options": ["review", "reviews", "reviewed", "reviewing"], "answer": "review", "explanation": "recommend that + 主詞 + 原形動詞為假設語氣（should省略），故用review。"},
-      {"index": 3, "options": ["account", "explain", "adjust", "provide"], "answer": "account", "explanation": "account for為固定片語，表示「解釋/考慮到」外部變數。"},
-      {"index": 4, "options": ["Please come prepared", "Coming prepared", "You come prepared", "To be prepared"], "answer": "Please come prepared", "explanation": "祈使句開頭最能表達要求，come prepared為「準備好前來」的慣用表達。"}
+      {
+        "index": 1,
+        "options": [
+          "has",
+          "is",
+          "was",
+          "had"
+        ],
+        "answer": "has",
+        "explanation": "現在完成式has declined表示從過往延續到現在的狀況，與前句grew形成對比。",
+        "category": "時態"
+      },
+      {
+        "index": 2,
+        "options": [
+          "review",
+          "reviews",
+          "reviewed",
+          "reviewing"
+        ],
+        "answer": "review",
+        "explanation": "recommend that + 主詞 + 原形動詞為假設語氣（should省略），故用review。",
+        "category": "假設語氣"
+      },
+      {
+        "index": 3,
+        "options": [
+          "account",
+          "explain",
+          "adjust",
+          "provide"
+        ],
+        "answer": "account",
+        "explanation": "account for為固定片語，表示「解釋/考慮到」外部變數。",
+        "category": "搭配詞"
+      },
+      {
+        "index": 4,
+        "options": [
+          "Please come prepared",
+          "Coming prepared",
+          "You come prepared",
+          "To be prepared"
+        ],
+        "answer": "Please come prepared",
+        "explanation": "祈使句開頭最能表達要求，come prepared為「準備好前來」的慣用表達。",
+        "category": "搭配詞"
+      }
     ]
   },
   {
@@ -19,10 +63,54 @@
     "passageTitle": "Memo: Strategic Partnership Announcement",
     "passageTemplate": "To: All Senior Managers\nFrom: Office of the CEO\nDate: March 3\n\nI am pleased to announce that we have entered into a strategic alliance with Delta Technologies, a leading provider of cloud-based enterprise solutions. This partnership, (1)___ has been under negotiation for the past six months, will enable us to integrate advanced AI-driven analytics into our existing product suite.\n\nContrary to widespread speculation, this is not a merger. Both companies will retain their (2)___ operational independence while jointly developing the new platform. The collaboration is projected to generate an additional $12 million in combined annual revenue by the third year of operation.\n\nA dedicated cross-functional task force has been established to oversee the integration process. (3)___ this initiative will report directly to the executive committee and must submit a preliminary roadmap within 30 days.\n\n(4)___ regarding the partnership should be directed to the corporate communications office. We appreciate your continued commitment as we embark on this significant undertaking.",
     "blanks": [
-      {"index": 1, "options": ["which", "that", "what", "it"], "answer": "which", "explanation": "which引導非限定關係子句補充說明partnership，前後有逗號隔開，不能用that。"},
-      {"index": 2, "options": ["respective", "respectful", "respected", "respectable"], "answer": "respective", "explanation": "respective（各自的）修飾operational independence，表示雙方各自保有；respectful為尊重的。"},
-      {"index": 3, "options": ["Those leading", "Whoever leads", "The leaders of", "Whichever leads"], "answer": "Those leading", "explanation": "Those leading = Those who lead，作為主詞並以現在分詞修飾，是簡潔的書面表達。"},
-      {"index": 4, "options": ["Any inquiries", "If you inquire", "Should anyone inquire", "Inquiring minds"], "answer": "Any inquiries", "explanation": "Any inquiries作主詞最直接正式，為商務公告慣用開頭。"}
+      {
+        "index": 1,
+        "options": [
+          "which",
+          "that",
+          "what",
+          "it"
+        ],
+        "answer": "which",
+        "explanation": "which引導非限定關係子句補充說明partnership，前後有逗號隔開，不能用that。",
+        "category": "關係代名詞"
+      },
+      {
+        "index": 2,
+        "options": [
+          "respective",
+          "respectful",
+          "respected",
+          "respectable"
+        ],
+        "answer": "respective",
+        "explanation": "respective（各自的）修飾operational independence，表示雙方各自保有；respectful為尊重的。",
+        "category": "時態"
+      },
+      {
+        "index": 3,
+        "options": [
+          "Those leading",
+          "Whoever leads",
+          "The leaders of",
+          "Whichever leads"
+        ],
+        "answer": "Those leading",
+        "explanation": "Those leading = Those who lead，作為主詞並以現在分詞修飾，是簡潔的書面表達。",
+        "category": "近義字彙"
+      },
+      {
+        "index": 4,
+        "options": [
+          "Any inquiries",
+          "If you inquire",
+          "Should anyone inquire",
+          "Inquiring minds"
+        ],
+        "answer": "Any inquiries",
+        "explanation": "Any inquiries作主詞最直接正式，為商務公告慣用開頭。",
+        "category": "搭配詞"
+      }
     ]
   },
   {
@@ -32,10 +120,54 @@
     "passageTitle": "Announcement: Corporate Restructuring Update",
     "passageTemplate": "Dear Valued Employees,\n\nIn response to the evolving market landscape, the board of directors has approved a comprehensive restructuring plan that will take effect on January 1. The sales and marketing divisions will be consolidated (1)___ a single Commercial Operations unit under the leadership of Ms. Patricia Wong, currently Vice President of Sales.\n\nThis decision was not made (2)___; rather, it is the result of a six-month strategic review conducted by an external consulting firm. The restructuring is expected to streamline our decision-making processes and eliminate redundant functions that (3)___ from the 2019 acquisition of Nova Corp.\n\nWe understand that organizational changes can create uncertainty. (4)___ there will be a town hall meeting next Monday morning where Ms. Wong will outline the transition timeline and answer your questions in person.",
     "blanks": [
-      {"index": 1, "options": ["into", "onto", "within", "among"], "answer": "into", "explanation": "consolidate into（合併為）為正確動詞介係詞搭配。"},
-      {"index": 2, "options": ["lightly", "light", "lighten", "lightness"], "answer": "lightly", "explanation": "副詞lightly修飾被動動詞was made，表示「未輕率決定」。"},
-      {"index": 3, "options": ["resulted", "resulting", "result", "results"], "answer": "resulted", "explanation": "that resulted from表示「源於」，過去式與2019的時間點一致。"},
-      {"index": 4, "options": ["To address these concerns", "Addressing these concerns", "These concerns addressed", "When these concerns addressed"], "answer": "To address these concerns", "explanation": "To + 原形動詞的不定詞片語表示目的，引出後續行動，語氣正式且連貫。"}
+      {
+        "index": 1,
+        "options": [
+          "into",
+          "onto",
+          "within",
+          "among"
+        ],
+        "answer": "into",
+        "explanation": "consolidate into（合併為）為正確動詞介係詞搭配。",
+        "category": "介系詞"
+      },
+      {
+        "index": 2,
+        "options": [
+          "lightly",
+          "light",
+          "lighten",
+          "lightness"
+        ],
+        "answer": "lightly",
+        "explanation": "副詞lightly修飾被動動詞was made，表示「未輕率決定」。",
+        "category": "時態"
+      },
+      {
+        "index": 3,
+        "options": [
+          "resulted",
+          "resulting",
+          "result",
+          "results"
+        ],
+        "answer": "resulted",
+        "explanation": "that resulted from表示「源於」，過去式與2019的時間點一致。",
+        "category": "時態"
+      },
+      {
+        "index": 4,
+        "options": [
+          "To address these concerns",
+          "Addressing these concerns",
+          "These concerns addressed",
+          "When these concerns addressed"
+        ],
+        "answer": "To address these concerns",
+        "explanation": "To + 原形動詞的不定詞片語表示目的，引出後續行動，語氣正式且連貫。",
+        "category": "時態"
+      }
     ]
   },
   {
@@ -45,10 +177,54 @@
     "passageTitle": "Email: International Client Negotiation Summary",
     "passageTemplate": "Dear Mr. Tanaka,\n\nFollowing our conference call earlier this week, I am writing to summarize the key points we discussed regarding the proposed distribution agreement. As you know, our primary concern (1)___ the exclusivity clause, which, if implemented as currently drafted, would restrict our ability to serve existing clients in the Osaka and Nagoya regions.\n\nWe propose an amendment whereby the exclusivity (2)___ only to new client acquisitions, while allowing us to maintain our current service obligations. This compromise should address your company's interest in market expansion while (3)___ our pre-existing business relationships.\n\nI have taken the liberty of attaching a revised draft with the proposed changes highlighted in yellow. (4)___ at your earliest convenience so that we can move forward with the signing ceremony planned for late July.\n\nWarm regards,\nLegal Counsel",
     "blanks": [
-      {"index": 1, "options": ["concerns", "concerned", "concerning", "is concerned"], "answer": "concerns", "explanation": "concerns在此為動詞第三人稱單數，意為「涉及/關係到」，主詞concern為單數。"},
-      {"index": 2, "options": ["applies", "applied", "applying", "apply"], "answer": "applies", "explanation": "主詞exclusivity為第三人稱單數，現在簡單式applies，表示條款的適用範圍。"},
-      {"index": 3, "options": ["preserving", "preserve", "preserved", "preserves"], "answer": "preserving", "explanation": "while + 現在分詞preserving，省略主詞，為連接詞引導的省略副詞子句。"},
-      {"index": 4, "options": ["I would appreciate your feedback", "Your feedback is appreciated", "Appreciating your feedback", "Feedback to be appreciated"], "answer": "I would appreciate your feedback", "explanation": "I would appreciate...為商務email最禮貌委婉的請求句型。"}
+      {
+        "index": 1,
+        "options": [
+          "concerns",
+          "concerned",
+          "concerning",
+          "is concerned"
+        ],
+        "answer": "concerns",
+        "explanation": "concerns在此為動詞第三人稱單數，意為「涉及/關係到」，主詞concern為單數。",
+        "category": "時態"
+      },
+      {
+        "index": 2,
+        "options": [
+          "applies",
+          "applied",
+          "applying",
+          "apply"
+        ],
+        "answer": "applies",
+        "explanation": "主詞exclusivity為第三人稱單數，現在簡單式applies，表示條款的適用範圍。",
+        "category": "時態"
+      },
+      {
+        "index": 3,
+        "options": [
+          "preserving",
+          "preserve",
+          "preserved",
+          "preserves"
+        ],
+        "answer": "preserving",
+        "explanation": "while + 現在分詞preserving，省略主詞，為連接詞引導的省略副詞子句。",
+        "category": "時態"
+      },
+      {
+        "index": 4,
+        "options": [
+          "I would appreciate your feedback",
+          "Your feedback is appreciated",
+          "Appreciating your feedback",
+          "Feedback to be appreciated"
+        ],
+        "answer": "I would appreciate your feedback",
+        "explanation": "I would appreciate...為商務email最禮貌委婉的請求句型。",
+        "category": "近義字彙"
+      }
     ]
   },
   {
@@ -58,10 +234,54 @@
     "passageTitle": "Advertisement: Executive Leadership Program",
     "passageTemplate": "LEADERSHIP EXCELLENCE PROGRAM — Now Accepting Applications\n\nIn today's rapidly shifting business environment, the ability to lead with agility and foresight has never been more critical. Our intensive six-month program is tailored (1)___ senior executives who aspire to drive transformational change within their organizations.\n\nThe curriculum, developed in collaboration with faculty from three leading business schools, integrates case-study analysis, one-on-one executive coaching, and a capstone project that participants (2)___ to a panel of industry veterans. Unlike traditional leadership courses that focus primarily on theoretical frameworks, our program emphasizes practical, (3)___ strategies that can be implemented immediately upon return to the workplace.\n\nAdmission is highly competitive and limited to 25 participants per cohort. (4)___ by the September 15 deadline to be considered for the upcoming session starting in November.",
     "blanks": [
-      {"index": 1, "options": ["to", "for", "with", "toward"], "answer": "to", "explanation": "tailored to（為...量身打造）為正確搭配；tailored for雖也可用，但此處高階語境to更正式。"},
-      {"index": 2, "options": ["will present", "presenting", "presented", "present"], "answer": "will present", "explanation": "關係子句中participants為複數主詞，需搭配未來式will present表示課程中將進行發表。"},
-      {"index": 3, "options": ["actionable", "acting", "acted", "action"], "answer": "actionable", "explanation": "形容詞actionable（可執行的）修飾strategies，為商業策略常見用語。"},
-      {"index": 4, "options": ["Please ensure your application is submitted", "Ensuring your application submitted", "Your application to be submitted", "Submit your application"], "answer": "Please ensure your application is submitted", "explanation": "被動式請確保已提交，語氣正式且呼應前文competitive的篩選感。"}
+      {
+        "index": 1,
+        "options": [
+          "to",
+          "for",
+          "with",
+          "toward"
+        ],
+        "answer": "to",
+        "explanation": "tailored to（為...量身打造）為正確搭配；tailored for雖也可用，但此處高階語境to更正式。",
+        "category": "介系詞"
+      },
+      {
+        "index": 2,
+        "options": [
+          "will present",
+          "presenting",
+          "presented",
+          "present"
+        ],
+        "answer": "will present",
+        "explanation": "關係子句中participants為複數主詞，需搭配未來式will present表示課程中將進行發表。",
+        "category": "時態"
+      },
+      {
+        "index": 3,
+        "options": [
+          "actionable",
+          "acting",
+          "acted",
+          "action"
+        ],
+        "answer": "actionable",
+        "explanation": "形容詞actionable（可執行的）修飾strategies，為商業策略常見用語。",
+        "category": "詞性"
+      },
+      {
+        "index": 4,
+        "options": [
+          "Please ensure your application is submitted",
+          "Ensuring your application submitted",
+          "Your application to be submitted",
+          "Submit your application"
+        ],
+        "answer": "Please ensure your application is submitted",
+        "explanation": "被動式請確保已提交，語氣正式且呼應前文competitive的篩選感。",
+        "category": "時態"
+      }
     ]
   },
   {
@@ -71,10 +291,54 @@
     "passageTitle": "Notice: Data Security Protocol Update",
     "passageTemplate": "URGENT: Updated Data Handling Protocols\n\nIn light of the recent cybersecurity incidents affecting several firms in our industry, the IT Security division has implemented enhanced data protection measures effective immediately. All employees are now required to use multi-factor authentication when (1)___ company systems remotely. Furthermore, any file containing sensitive client information must be encrypted before (2)___ via email or shared drives.\n\nNon-compliance with these protocols will result in disciplinary action, (3)___ suspension of network access privileges. A mandatory online training module has been assigned to all staff members and must be completed no later than April 30.\n\nWe recognize that these measures may cause minor inconvenience. (4)___ they are essential to safeguarding both our clients' confidential data and the company's reputation.\n\nThank you for your immediate attention to this matter.",
     "blanks": [
-      {"index": 1, "options": ["accessing", "accessed", "access", "to access"], "answer": "accessing", "explanation": "when + 現在分詞accessing構成時間省略子句，相當於when they are accessing。"},
-      {"index": 2, "options": ["being transmitted", "transmitting", "transmitted", "transmit"], "answer": "being transmitted", "explanation": "before + being + 過去分詞，強調被動語態，表示「在被傳送之前」需先加密。"},
-      {"index": 3, "options": ["including", "included", "includes", "inclusive"], "answer": "including", "explanation": "現在分詞including用於舉例補充，為固定用法。"},
-      {"index": 4, "options": ["Nevertheless", "Consequently", "Similarly", "Moreover"], "answer": "Nevertheless", "explanation": "Nevertheless表轉折讓步，先承認不便再強調必要性，為正式公告常見寫法。"}
+      {
+        "index": 1,
+        "options": [
+          "accessing",
+          "accessed",
+          "access",
+          "to access"
+        ],
+        "answer": "accessing",
+        "explanation": "when + 現在分詞accessing構成時間省略子句，相當於when they are accessing。",
+        "category": "近義字彙"
+      },
+      {
+        "index": 2,
+        "options": [
+          "being transmitted",
+          "transmitting",
+          "transmitted",
+          "transmit"
+        ],
+        "answer": "being transmitted",
+        "explanation": "before + being + 過去分詞，強調被動語態，表示「在被傳送之前」需先加密。",
+        "category": "時態"
+      },
+      {
+        "index": 3,
+        "options": [
+          "including",
+          "included",
+          "includes",
+          "inclusive"
+        ],
+        "answer": "including",
+        "explanation": "現在分詞including用於舉例補充，為固定用法。",
+        "category": "搭配詞"
+      },
+      {
+        "index": 4,
+        "options": [
+          "Nevertheless",
+          "Consequently",
+          "Similarly",
+          "Moreover"
+        ],
+        "answer": "Nevertheless",
+        "explanation": "Nevertheless表轉折讓步，先承認不便再強調必要性，為正式公告常見寫法。",
+        "category": "上下文邏輯"
+      }
     ]
   },
   {
@@ -84,10 +348,54 @@
     "passageTitle": "Email: Supply Chain Disruption Response",
     "passageTemplate": "Dear Valued Customers,\n\nWe regret to inform you that due to an unforeseen disruption at our primary manufacturing facility in Taichung, certain product lines will experience shipment delays of approximately two to three weeks. The disruption, (1)___ was caused by a fire at a key component supplier's plant, has affected our production capacity for the DT-400 and DT-500 series.\n\nOur operations team is working around the clock to source alternative components and (2)___ production timelines. We have also activated our contingency agreement with a secondary supplier in Vietnam, though quality verification procedures are expected to take an additional ten business days (3)___ shipments can resume at full capacity.\n\nWe fully understand the impact this may have on your operations. (4)___ a dedicated account representative will be reaching out to each affected client within 48 hours to discuss specific delivery schedules and, where applicable, temporary substitute solutions.\n\nSincerely,\nSupply Chain Director",
     "blanks": [
-      {"index": 1, "options": ["which", "that", "it", "what"], "answer": "which", "explanation": "which引導非限定關係子句補充disruption，逗號後只能用which不能用that。"},
-      {"index": 2, "options": ["expedite", "expediting", "expedited", "expedites"], "answer": "expedite", "explanation": "to source...and (to) expedite，省略to的不定詞並列結構，expedite意為加速。"},
-      {"index": 3, "options": ["before", "after", "since", "while"], "answer": "before", "explanation": "before表示在恢復全面出貨之前，品質驗證還需十個工作日，邏輯上為先後關係。"},
-      {"index": 4, "options": ["To minimize any further inconvenience", "Minimizing further inconvenience", "Inconvenience being minimized", "Any further inconvenience to minimize"], "answer": "To minimize any further inconvenience", "explanation": "To + 原形動詞不定詞表示目的，引出後續具體行動，為正式客戶通知標準語氣。"}
+      {
+        "index": 1,
+        "options": [
+          "which",
+          "that",
+          "it",
+          "what"
+        ],
+        "answer": "which",
+        "explanation": "which引導非限定關係子句補充disruption，逗號後只能用which不能用that。",
+        "category": "關係代名詞"
+      },
+      {
+        "index": 2,
+        "options": [
+          "expedite",
+          "expediting",
+          "expedited",
+          "expedites"
+        ],
+        "answer": "expedite",
+        "explanation": "to source...and (to) expedite，省略to的不定詞並列結構，expedite意為加速。",
+        "category": "時態"
+      },
+      {
+        "index": 3,
+        "options": [
+          "before",
+          "after",
+          "since",
+          "while"
+        ],
+        "answer": "before",
+        "explanation": "before表示在恢復全面出貨之前，品質驗證還需十個工作日，邏輯上為先後關係。",
+        "category": "上下文邏輯"
+      },
+      {
+        "index": 4,
+        "options": [
+          "To minimize any further inconvenience",
+          "Minimizing further inconvenience",
+          "Inconvenience being minimized",
+          "Any further inconvenience to minimize"
+        ],
+        "answer": "To minimize any further inconvenience",
+        "explanation": "To + 原形動詞不定詞表示目的，引出後續具體行動，為正式客戶通知標準語氣。",
+        "category": "時態"
+      }
     ]
   },
   {
@@ -97,10 +405,54 @@
     "passageTitle": "Memo: Merger Integration Progress",
     "passageTemplate": "To: Integration Steering Committee\nFrom: Chief Integration Officer\n\nIt has been exactly 90 days since the merger with Orion Industries was finalized, and I am writing to provide a status update on the integration milestones. While the IT systems migration remains on schedule and should be (1)___ by the end of next month, the harmonization of HR policies across both legacy organizations has proven more complex than initially anticipated.\n\nSpecifically, differences in compensation structures and retirement benefit schemes have required extensive consultation with legal counsel in three jurisdictions. We now estimate that full policy alignment will not be (2)___ until the second quarter of next year. The delay, though regrettable, is necessary to ensure compliance with local labor regulations and to avoid (3)___ any existing employee entitlements.\n\nDespite these challenges, cultural integration efforts have exceeded expectations. Employee satisfaction surveys conducted last week indicate that 78% of staff members from both legacy companies view the merger (4)___, citing enhanced career development opportunities as the primary driver of their optimism.",
     "blanks": [
-      {"index": 1, "options": ["completed", "completing", "complete", "completes"], "answer": "completed", "explanation": "should be + 過去分詞構成被動語態，表示「應被完成」。"},
-      {"index": 2, "options": ["achieved", "achieving", "achieve", "achieves"], "answer": "achieved", "explanation": "will not be + 過去分詞，被動語態表示「不會被達成」。"},
-      {"index": 3, "options": ["jeopardizing", "jeopardize", "jeopardized", "jeopardizes"], "answer": "jeopardizing", "explanation": "avoid + 動名詞jeopardizing為固定用法，表示避免危及。"},
-      {"index": 4, "options": ["favorably", "favorable", "favor", "favored"], "answer": "favorably", "explanation": "副詞favorably修飾動詞view，view...favorably為「正面看待」的固定搭配。"}
+      {
+        "index": 1,
+        "options": [
+          "completed",
+          "completing",
+          "complete",
+          "completes"
+        ],
+        "answer": "completed",
+        "explanation": "should be + 過去分詞構成被動語態，表示「應被完成」。",
+        "category": "時態"
+      },
+      {
+        "index": 2,
+        "options": [
+          "achieved",
+          "achieving",
+          "achieve",
+          "achieves"
+        ],
+        "answer": "achieved",
+        "explanation": "will not be + 過去分詞，被動語態表示「不會被達成」。",
+        "category": "時態"
+      },
+      {
+        "index": 3,
+        "options": [
+          "jeopardizing",
+          "jeopardize",
+          "jeopardized",
+          "jeopardizes"
+        ],
+        "answer": "jeopardizing",
+        "explanation": "avoid + 動名詞jeopardizing為固定用法，表示避免危及。",
+        "category": "搭配詞"
+      },
+      {
+        "index": 4,
+        "options": [
+          "favorably",
+          "favorable",
+          "favor",
+          "favored"
+        ],
+        "answer": "favorably",
+        "explanation": "副詞favorably修飾動詞view，view...favorably為「正面看待」的固定搭配。",
+        "category": "搭配詞"
+      }
     ]
   },
   {
@@ -110,10 +462,54 @@
     "passageTitle": "Announcement: Sustainability Initiative Launch",
     "passageTemplate": "Dear Stakeholders,\n\nIt is with great enthusiasm that we announce the launch of GreenStep 2028, our most ambitious sustainability initiative to date. Under this framework, the company has committed to reducing its carbon footprint by 45% (1)___ to 2020 levels by the year 2028, a target that surpasses the industry benchmark by a significant margin.\n\nThe initiative encompasses three core pillars: renewable energy adoption across all manufacturing sites, a comprehensive waste reduction program, and the gradual phase-out of single-use plastics from our supply chain. Each pillar is (2)___ by specific, measurable key performance indicators that will be reported publicly on a quarterly basis.\n\nCrucially, we have allocated $50 million in dedicated funding over the next five years to ensure that these commitments are not merely (3)___ but actionable. An independent sustainability advisory board, comprising external experts and community representatives, has been established to oversee progress and provide (4)___ oversight.\n\nWe look forward to sharing detailed progress reports with you in the months ahead.",
     "blanks": [
-      {"index": 1, "options": ["relative", "relatively", "relate", "relation"], "answer": "relative", "explanation": "relative to（相對於）為固定片語，此處當形容詞片語修飾reducing的基準。"},
-      {"index": 2, "options": ["accompanied", "accompanying", "accompanies", "accompany"], "answer": "accompanied", "explanation": "is accompanied by（伴隨著）為被動語態固定搭配，表示各支柱附帶KPI。"},
-      {"index": 3, "options": ["aspirational", "aspiration", "aspire", "aspiring"], "answer": "aspirational", "explanation": "形容詞aspirational（僅止於抱負的）與actionable對比，表示不只是空談。"},
-      {"index": 4, "options": ["unbiased", "unbiasing", "unbiasedly", "unbias"], "answer": "unbiased", "explanation": "形容詞unbiased修飾oversight，表示公正無偏的監督。"}
+      {
+        "index": 1,
+        "options": [
+          "relative",
+          "relatively",
+          "relate",
+          "relation"
+        ],
+        "answer": "relative",
+        "explanation": "relative to（相對於）為固定片語，此處當形容詞片語修飾reducing的基準。",
+        "category": "搭配詞"
+      },
+      {
+        "index": 2,
+        "options": [
+          "accompanied",
+          "accompanying",
+          "accompanies",
+          "accompany"
+        ],
+        "answer": "accompanied",
+        "explanation": "is accompanied by（伴隨著）為被動語態固定搭配，表示各支柱附帶KPI。",
+        "category": "搭配詞"
+      },
+      {
+        "index": 3,
+        "options": [
+          "aspirational",
+          "aspiration",
+          "aspire",
+          "aspiring"
+        ],
+        "answer": "aspirational",
+        "explanation": "形容詞aspirational（僅止於抱負的）與actionable對比，表示不只是空談。",
+        "category": "詞性"
+      },
+      {
+        "index": 4,
+        "options": [
+          "unbiased",
+          "unbiasing",
+          "unbiasedly",
+          "unbias"
+        ],
+        "answer": "unbiased",
+        "explanation": "形容詞unbiased修飾oversight，表示公正無偏的監督。",
+        "category": "時態"
+      }
     ]
   },
   {
@@ -123,10 +519,54 @@
     "passageTitle": "Email: Contract Renewal Discussion",
     "passageTemplate": "Dear Ms. Nakamura,\n\nI hope this message finds you well. As our current service agreement is set to expire on September 30, I would like to initiate discussions regarding its renewal. Over the past three years, our partnership has yielded (1)___ results, with your company's operational efficiency improving by an average of 12% annually since the implementation of our logistics optimization platform.\n\nFor the upcoming term, we are prepared to offer an enhanced service package that includes 24/7 technical support, quarterly performance audits, and priority access to our forthcoming AI-driven inventory management module. The proposed fee structure reflects a modest 3.5% increase, (2)___ is in line with the consumer price index and considerably below the industry average.\n\nWe would be grateful for the opportunity to present the full proposal in person. (3)___ a meeting at your office during the week of September 4, or should you prefer, we would be delighted to host your team at our headquarters.\n\n(4)___ the proposed terms are acceptable, we can proceed with drafting the renewal agreement immediately so as to avoid any lapse in service coverage.\n\nKind regards,\nAccount Director",
     "blanks": [
-      {"index": 1, "options": ["measurable", "measured", "measuring", "measures"], "answer": "measurable", "explanation": "形容詞measurable修飾results，表示可量化的成果，與後文12%數據呼應。"},
-      {"index": 2, "options": ["which", "that", "it", "what"], "answer": "which", "explanation": "which引導非限定關係子句，指代前句的3.5% increase。"},
-      {"index": 3, "options": ["We would be pleased to arrange", "Pleased to arrange", "Arranging with pleasure", "To be arranged"], "answer": "We would be pleased to arrange", "explanation": "We would be pleased to...為商務email禮貌提議的標準句型。"},
-      {"index": 4, "options": ["Provided that", "Unless", "Although", "As though"], "answer": "Provided that", "explanation": "Provided that（倘若）為正式條件連接詞，用於條款商議的場合。"}
+      {
+        "index": 1,
+        "options": [
+          "measurable",
+          "measured",
+          "measuring",
+          "measures"
+        ],
+        "answer": "measurable",
+        "explanation": "形容詞measurable修飾results，表示可量化的成果，與後文12%數據呼應。",
+        "category": "時態"
+      },
+      {
+        "index": 2,
+        "options": [
+          "which",
+          "that",
+          "it",
+          "what"
+        ],
+        "answer": "which",
+        "explanation": "which引導非限定關係子句，指代前句的3.5% increase。",
+        "category": "關係代名詞"
+      },
+      {
+        "index": 3,
+        "options": [
+          "We would be pleased to arrange",
+          "Pleased to arrange",
+          "Arranging with pleasure",
+          "To be arranged"
+        ],
+        "answer": "We would be pleased to arrange",
+        "explanation": "We would be pleased to...為商務email禮貌提議的標準句型。",
+        "category": "近義字彙"
+      },
+      {
+        "index": 4,
+        "options": [
+          "Provided that",
+          "Unless",
+          "Although",
+          "As though"
+        ],
+        "answer": "Provided that",
+        "explanation": "Provided that（倘若）為正式條件連接詞，用於條款商議的場合。",
+        "category": "連接詞"
+      }
     ]
   },
   {
@@ -136,10 +576,54 @@
     "passageTitle": "Advertisement: Global Market Expansion Services",
     "passageTemplate": "GlobalReach Consulting — Your Partner in International Growth\n\nExpanding into foreign markets presents both extraordinary opportunities and (1)___ challenges. At GlobalReach, we specialize in helping mid-sized enterprises navigate the complexities of cross-border operations, from regulatory compliance and market entry strategy to cultural adaptation and local talent acquisition.\n\nOur team of seasoned consultants brings an average of 15 years of hands-on experience across more than 30 countries. Unlike larger consulting firms that often (2)___ a one-size-fits-all methodology, we tailor every engagement to the specific needs and risk appetite of each client. Our approach has consistently delivered results: clients who have partnered with us for three or more years report an average revenue growth rate of 22% in their target markets.\n\nWe invite you to schedule a complimentary initial assessment. (3)___ your current international footprint, our team will identify the most viable expansion pathways and provide a preliminary cost-benefit analysis within ten business days.\n\n(4)___ to learn more about how we can support your global ambitions.",
     "blanks": [
-      {"index": 1, "options": ["formidable", "formidably", "formidability", "formidableness"], "answer": "formidable", "explanation": "形容詞formidable（艱巨的）修飾challenges，與extraordinary並列修飾名詞。"},
-      {"index": 2, "options": ["apply", "applied", "applying", "applies"], "answer": "apply", "explanation": "that often apply，關係子句中複數主詞firms搭配原形動詞apply。"},
-      {"index": 3, "options": ["Regardless of", "In spite", "Even though", "However"], "answer": "Regardless of", "explanation": "Regardless of + 名詞片語表「無論...」，語氣自信且正式。"},
-      {"index": 4, "options": ["Contact us today", "To contact us today", "Contacting us today", "By contacting us today"], "answer": "Contact us today", "explanation": "祈使句Call to Action，廣告結尾最直接的呼籲。"}
+      {
+        "index": 1,
+        "options": [
+          "formidable",
+          "formidably",
+          "formidability",
+          "formidableness"
+        ],
+        "answer": "formidable",
+        "explanation": "形容詞formidable（艱巨的）修飾challenges，與extraordinary並列修飾名詞。",
+        "category": "詞性"
+      },
+      {
+        "index": 2,
+        "options": [
+          "apply",
+          "applied",
+          "applying",
+          "applies"
+        ],
+        "answer": "apply",
+        "explanation": "that often apply，關係子句中複數主詞firms搭配原形動詞apply。",
+        "category": "時態"
+      },
+      {
+        "index": 3,
+        "options": [
+          "Regardless of",
+          "In spite",
+          "Even though",
+          "However"
+        ],
+        "answer": "Regardless of",
+        "explanation": "Regardless of + 名詞片語表「無論...」，語氣自信且正式。",
+        "category": "上下文邏輯"
+      },
+      {
+        "index": 4,
+        "options": [
+          "Contact us today",
+          "To contact us today",
+          "Contacting us today",
+          "By contacting us today"
+        ],
+        "answer": "Contact us today",
+        "explanation": "祈使句Call to Action，廣告結尾最直接的呼籲。",
+        "category": "近義字彙"
+      }
     ]
   },
   {
@@ -149,10 +633,54 @@
     "passageTitle": "Notice: Remote Work Policy Revision",
     "passageTemplate": "REVISED REMOTE WORK POLICY — Effective July 1\n\nAfter an extensive review of productivity data and employee feedback collected over the past 18 months, the executive team has approved a permanent hybrid work arrangement. Effective July 1, all full-time employees will be entitled to work remotely up to three days per week, (1)___ the nature of their role permits it.\n\nTo ensure seamless collaboration, teams are expected to designate at least one common in-office day per week for face-to-face meetings and team-building activities. Requests for fully remote status will be (2)___ on a case-by-case basis and must be endorsed by both the direct supervisor and the department head.\n\nIt is imperative that all employees who opt for remote work maintain a professional home-office environment and remain (3)___ during core business hours, defined as 10:00 a.m. to 4:00 p.m. local time. Failure to adhere to these guidelines may result in the revocation of remote work privileges.\n\n(4)___ that this policy represents a significant cultural shift, we have scheduled a series of information sessions throughout June to address any questions or concerns you may have.",
     "blanks": [
-      {"index": 1, "options": ["provided that", "unless", "whether", "as long"], "answer": "provided that", "explanation": "provided that（只要/倘若）為條件連接詞，正式公告用語，說明前提條件。"},
-      {"index": 2, "options": ["evaluated", "evaluating", "evaluate", "evaluates"], "answer": "evaluated", "explanation": "will be + 過去分詞構成被動語態，請求將被逐案評估。"},
-      {"index": 3, "options": ["accessible", "accessed", "accessing", "access"], "answer": "accessible", "explanation": "remain + 形容詞accessible，表示保持可聯繫的狀態。"},
-      {"index": 4, "options": ["Recognizing", "Recognized", "Recognize", "To recognize"], "answer": "Recognizing", "explanation": "現在分詞Recognizing引導原因副詞子句的省略，意為「體認到...」。"}
+      {
+        "index": 1,
+        "options": [
+          "provided that",
+          "unless",
+          "whether",
+          "as long"
+        ],
+        "answer": "provided that",
+        "explanation": "provided that（只要/倘若）為條件連接詞，正式公告用語，說明前提條件。",
+        "category": "連接詞"
+      },
+      {
+        "index": 2,
+        "options": [
+          "evaluated",
+          "evaluating",
+          "evaluate",
+          "evaluates"
+        ],
+        "answer": "evaluated",
+        "explanation": "will be + 過去分詞構成被動語態，請求將被逐案評估。",
+        "category": "時態"
+      },
+      {
+        "index": 3,
+        "options": [
+          "accessible",
+          "accessed",
+          "accessing",
+          "access"
+        ],
+        "answer": "accessible",
+        "explanation": "remain + 形容詞accessible，表示保持可聯繫的狀態。",
+        "category": "詞性"
+      },
+      {
+        "index": 4,
+        "options": [
+          "Recognizing",
+          "Recognized",
+          "Recognize",
+          "To recognize"
+        ],
+        "answer": "Recognizing",
+        "explanation": "現在分詞Recognizing引導原因副詞子句的省略，意為「體認到...」。",
+        "category": "詞性"
+      }
     ]
   }
 ]

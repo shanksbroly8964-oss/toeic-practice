@@ -18,42 +18,72 @@
       {
         "id": "P7D-T600-001-Q1",
         "question": "What product did Ms. Bennett originally order?",
-        "options": ["A non-stick cookware set (#NS-400)", "A stainless steel cookware set (#CS-400)", "An induction cooktop", "A frying pan replacement"],
+        "options": [
+          "A non-stick cookware set (#NS-400)",
+          "A stainless steel cookware set (#CS-400)",
+          "An induction cooktop",
+          "A frying pan replacement"
+        ],
         "answer": "A stainless steel cookware set (#CS-400)",
         "explanation": "顧客郵件中明確寫道「I ordered a stainless steel cookware set (item #CS-400)」。",
-        "crossReference": false
+        "crossReference": false,
+        "category": "細節"
       },
       {
         "id": "P7D-T600-001-Q2",
         "question": "Why does Ms. Bennett need the correct product urgently?",
-        "options": ["She is moving to a new house", "She has family visiting next week", "She is selling her old cookware", "She needs it for a cooking class"],
+        "options": [
+          "She is moving to a new house",
+          "She has family visiting next week",
+          "She is selling her old cookware",
+          "She needs it for a cooking class"
+        ],
         "answer": "She has family visiting next week",
         "explanation": "顧客郵件寫道「I have family visiting next week」，因此需要盡快解決。",
-        "crossReference": false
+        "crossReference": false,
+        "category": "細節"
       },
       {
         "id": "P7D-T600-001-Q3",
         "question": "How will the correct product be delivered?",
-        "options": ["By standard ground shipping", "By express delivery at no extra charge", "By customer pickup at the warehouse", "By a third-party courier with a fee"],
+        "options": [
+          "By standard ground shipping",
+          "By express delivery at no extra charge",
+          "By customer pickup at the warehouse",
+          "By a third-party courier with a fee"
+        ],
         "answer": "By express delivery at no extra charge",
         "explanation": "客服回覆中說明「shipped via express delivery today at no extra charge」。",
-        "crossReference": false
+        "crossReference": false,
+        "category": "細節"
       },
       {
         "id": "P7D-T600-001-Q4",
         "question": "What does the support team ask Ms. Bennett to do with the incorrect set?",
-        "options": ["Return it within 7 days", "Keep it or donate it", "Ship it back at her own expense", "Exchange it at a local store"],
+        "options": [
+          "Return it within 7 days",
+          "Keep it or donate it",
+          "Ship it back at her own expense",
+          "Exchange it at a local store"
+        ],
         "answer": "Keep it or donate it",
         "explanation": "客服回覆明確寫道「you may keep it or donate it to a local charity」。",
-        "crossReference": false
+        "crossReference": false,
+        "category": "細節"
       },
       {
         "id": "P7D-T600-001-Q5",
         "question": "Based on both documents, which item will be included in the replacement shipment?",
-        "options": ["Item #NS-400 (non-stick set)", "Item #CS-400 (stainless steel set)", "A different model not previously mentioned", "Both item #CS-400 and #NS-400"],
+        "options": [
+          "Item #NS-400 (non-stick set)",
+          "Item #CS-400 (stainless steel set)",
+          "A different model not previously mentioned",
+          "Both item #CS-400 and #NS-400"
+        ],
         "answer": "Item #CS-400 (stainless steel set)",
         "explanation": "此題須同時參照兩篇文件：顧客郵件中說明她訂購的是#CS-400不鏽鋼套組，客服回覆確認已為她保留「the correct stainless steel set (item #CS-400)」，對照兩者可知替換出貨的商品即為顧客原本訂購的#CS-400。",
-        "crossReference": true
+        "crossReference": true,
+        "category": "跨篇比對"
       }
     ]
   },
@@ -76,42 +106,72 @@
       {
         "id": "P7D-T600-002-Q1",
         "question": "What is the starting salary range for the position?",
-        "options": ["$40,000 - $45,000", "$48,000 - $55,000", "$50,000 - $60,000", "$55,000 - $62,000"],
+        "options": [
+          "$40,000 - $45,000",
+          "$48,000 - $55,000",
+          "$50,000 - $60,000",
+          "$55,000 - $62,000"
+        ],
         "answer": "$48,000 - $55,000",
         "explanation": "招聘廣告中明確列出「Starting salary: $48,000 - $55,000」。",
-        "crossReference": false
+        "crossReference": false,
+        "category": "細節"
       },
       {
         "id": "P7D-T600-002-Q2",
         "question": "How long has Daniel Lee worked at GreenLeaf Media?",
-        "options": ["6 months", "12 months", "18 months", "24 months"],
+        "options": [
+          "6 months",
+          "12 months",
+          "18 months",
+          "24 months"
+        ],
         "answer": "18 months",
         "explanation": "應徵信中提到「working as a Social Media Assistant at GreenLeaf Media for the past 18 months」。",
-        "crossReference": false
+        "crossReference": false,
+        "category": "細節"
       },
       {
         "id": "P7D-T600-002-Q3",
         "question": "What is the application deadline?",
-        "options": ["April 15", "April 20", "April 30", "May 5"],
+        "options": [
+          "April 15",
+          "April 20",
+          "April 30",
+          "May 5"
+        ],
         "answer": "April 30",
         "explanation": "招聘廣告寫明「email your resume and portfolio to careers@brightpath.com by April 30」。",
-        "crossReference": false
+        "crossReference": false,
+        "category": "細節"
       },
       {
         "id": "P7D-T600-002-Q4",
         "question": "What tool does Daniel mention using that is also listed as a requirement in the job posting?",
-        "options": ["Adobe Creative Suite", "Google Analytics", "Microsoft Excel", "Salesforce"],
+        "options": [
+          "Adobe Creative Suite",
+          "Google Analytics",
+          "Microsoft Excel",
+          "Salesforce"
+        ],
         "answer": "Google Analytics",
         "explanation": "此題須同時參照兩篇文件：招聘廣告要求熟練Google Analytics，應徵信中Daniel提到他在工作中使用Google Analytics追蹤活動成效。",
-        "crossReference": true
+        "crossReference": true,
+        "category": "跨篇比對"
       },
       {
         "id": "P7D-T600-002-Q5",
         "question": "Where is the position located?",
-        "options": ["New York", "Boston", "Chicago", "San Francisco"],
+        "options": [
+          "New York",
+          "Boston",
+          "Chicago",
+          "San Francisco"
+        ],
         "answer": "Boston",
         "explanation": "招聘廣告第一句即說明「BrightPath Analytics is hiring a Marketing Coordinator for our Boston office」。",
-        "crossReference": false
+        "crossReference": false,
+        "category": "細節"
       }
     ]
   },
@@ -134,42 +194,72 @@
       {
         "id": "P7D-T600-003-Q1",
         "question": "What is the total amount of the order?",
-        "options": ["$5,160", "$5,360", "$5,560", "$5,760"],
+        "options": [
+          "$5,160",
+          "$5,360",
+          "$5,560",
+          "$5,760"
+        ],
         "answer": "$5,560",
         "explanation": "訂單確認中Total欄位為$5,560（含運費$200）。",
-        "crossReference": false
+        "crossReference": false,
+        "category": "細節"
       },
       {
         "id": "P7D-T600-003-Q2",
         "question": "How many lab stools were ordered?",
-        "options": ["8", "16", "24", "32"],
+        "options": [
+          "8",
+          "16",
+          "24",
+          "32"
+        ],
         "answer": "32",
         "explanation": "訂單確認中Lab Stools數量為32張。",
-        "crossReference": false
+        "crossReference": false,
+        "category": "細節"
       },
       {
         "id": "P7D-T600-003-Q3",
         "question": "Why were the items shipped in two separate deliveries?",
-        "options": ["The customer requested separate shipments", "The storage cabinets are large and heavy", "The lab stools were out of stock", "The shipping company made an error"],
+        "options": [
+          "The customer requested separate shipments",
+          "The storage cabinets are large and heavy",
+          "The lab stools were out of stock",
+          "The shipping company made an error"
+        ],
         "answer": "The storage cabinets are large and heavy",
         "explanation": "出貨通知說明「Shipment B was sent separately due to the size and weight of the storage cabinets」。",
-        "crossReference": false
+        "crossReference": false,
+        "category": "細節"
       },
       {
         "id": "P7D-T600-003-Q4",
         "question": "What is the unit price of one storage cabinet?",
-        "options": ["$45", "$200", "$280", "$350"],
+        "options": [
+          "$45",
+          "$200",
+          "$280",
+          "$350"
+        ],
         "answer": "$280",
         "explanation": "此題須參照訂單確認：Storage Cabinets單價為$280。出貨通知未提及價格，故只需看訂單確認即可。",
-        "crossReference": false
+        "crossReference": false,
+        "category": "細節"
       },
       {
         "id": "P7D-T600-003-Q5",
         "question": "Which items will arrive earlier according to the shipping notification?",
-        "options": ["Storage Cabinets", "Science Lab Tables and Lab Stools", "Lab Stools only", "All items arrive together"],
+        "options": [
+          "Storage Cabinets",
+          "Science Lab Tables and Lab Stools",
+          "Lab Stools only",
+          "All items arrive together"
+        ],
         "answer": "Science Lab Tables and Lab Stools",
         "explanation": "此題須同時參照兩篇文件：出貨通知顯示Shipment A（實驗桌+凳子）預計3月2日到，Shipment B（儲物櫃）預計3月5日到；訂單確認可確認這些品項屬於同一個訂單WC-9021。",
-        "crossReference": true
+        "crossReference": true,
+        "category": "跨篇比對"
       }
     ]
   },
@@ -192,42 +282,72 @@
       {
         "id": "P7D-T600-004-Q1",
         "question": "What is the main purpose of the meeting?",
-        "options": ["To discuss employee performance", "To kick off Project Phoenix and align the team", "To negotiate with a supplier", "To review the annual budget"],
+        "options": [
+          "To discuss employee performance",
+          "To kick off Project Phoenix and align the team",
+          "To negotiate with a supplier",
+          "To review the annual budget"
+        ],
         "answer": "To kick off Project Phoenix and align the team",
         "explanation": "Thomas的郵件主旨和第一句即說明這是一場「kickoff meeting for Project Phoenix」。",
-        "crossReference": false
+        "crossReference": false,
+        "category": "主旨"
       },
       {
         "id": "P7D-T600-004-Q2",
         "question": "Why does Laura suggest changing the meeting room?",
-        "options": ["Room 3B is too small", "Room 3B does not have a projector", "Room 3B is already booked", "Room 3B is under renovation"],
+        "options": [
+          "Room 3B is too small",
+          "Room 3B does not have a projector",
+          "Room 3B is already booked",
+          "Room 3B is under renovation"
+        ],
         "answer": "Room 3B does not have a projector",
         "explanation": "Laura的回信中提到「Conference Room 3B does not have a projector」。",
-        "crossReference": false
+        "crossReference": false,
+        "category": "推論"
       },
       {
         "id": "P7D-T600-004-Q3",
         "question": "What does Laura plan to present at the meeting?",
-        "options": ["The design concepts", "The client brief and initial budget figures", "The team assignments", "The project milestone schedule"],
+        "options": [
+          "The design concepts",
+          "The client brief and initial budget figures",
+          "The team assignments",
+          "The project milestone schedule"
+        ],
         "answer": "The client brief and initial budget figures",
         "explanation": "Laura的回信寫道「I will prepare the client brief and have the initial budget figures ready to present」。",
-        "crossReference": false
+        "crossReference": false,
+        "category": "細節"
       },
       {
         "id": "P7D-T600-004-Q4",
         "question": "What additional topic does Laura want to discuss?",
-        "options": ["Hiring new team members", "Material sourcing timeline", "Project budget increase", "Client presentation format"],
+        "options": [
+          "Hiring new team members",
+          "Material sourcing timeline",
+          "Project budget increase",
+          "Client presentation format"
+        ],
         "answer": "Material sourcing timeline",
         "explanation": "Laura提到想增加「a discussion item about the material sourcing timeline」。",
-        "crossReference": false
+        "crossReference": false,
+        "category": "細節"
       },
       {
         "id": "P7D-T600-004-Q5",
         "question": "What time frame did Laura reserve for Room 2A?",
-        "options": ["1:00 PM to 2:30 PM", "2:00 PM to 3:00 PM", "2:00 PM to 3:30 PM", "2:30 PM to 4:00 PM"],
+        "options": [
+          "1:00 PM to 2:30 PM",
+          "2:00 PM to 3:00 PM",
+          "2:00 PM to 3:30 PM",
+          "2:30 PM to 4:00 PM"
+        ],
         "answer": "2:00 PM to 3:30 PM",
         "explanation": "此題須參照兩篇：Thomas原訂2:00 PM開會（訂單一），Laura預訂了Room 2A「from 2:00 PM to 3:30 PM」（文件二），對照可知會議時間為2:00-3:30。",
-        "crossReference": true
+        "crossReference": true,
+        "category": "跨篇比對"
       }
     ]
   },
@@ -250,42 +370,72 @@
       {
         "id": "P7D-T600-005-Q1",
         "question": "What is the main purpose of Emma's trip to Chicago?",
-        "options": ["To attend a conference", "To meet with Horizon Financial", "To visit the Chicago office", "To interview a job candidate"],
+        "options": [
+          "To attend a conference",
+          "To meet with Horizon Financial",
+          "To visit the Chicago office",
+          "To interview a job candidate"
+        ],
         "answer": "To meet with Horizon Financial",
         "explanation": "Emma的郵件第一句即說明「travel to Chicago for a meeting with Horizon Financial」。",
-        "crossReference": false
+        "crossReference": false,
+        "category": "主旨"
       },
       {
         "id": "P7D-T600-005-Q2",
         "question": "What is the hotel budget limit per night according to Robert?",
-        "options": ["$120", "$150", "$180", "$200"],
+        "options": [
+          "$120",
+          "$150",
+          "$180",
+          "$200"
+        ],
         "answer": "$150",
         "explanation": "Robert回覆中寫道「per our updated travel policy, the hotel budget is capped at $150 per night」。",
-        "crossReference": false
+        "crossReference": false,
+        "category": "細節"
       },
       {
         "id": "P7D-T600-005-Q3",
         "question": "By when must Emma submit her expense report?",
-        "options": ["Within two business days of returning", "Within five business days of returning", "Within seven business days of returning", "Within ten business days of returning"],
+        "options": [
+          "Within two business days of returning",
+          "Within five business days of returning",
+          "Within seven business days of returning",
+          "Within ten business days of returning"
+        ],
         "answer": "Within five business days of returning",
         "explanation": "Robert的回信要求「submit your expense report within five business days of returning」。",
-        "crossReference": false
+        "crossReference": false,
+        "category": "細節"
       },
       {
         "id": "P7D-T600-005-Q4",
         "question": "What does Robert ask Emma to do by May 16?",
-        "options": ["Book a new hotel", "Submit updated travel costs", "Prepare a meeting summary for the executive team", "Reschedule the client meeting"],
+        "options": [
+          "Book a new hotel",
+          "Submit updated travel costs",
+          "Prepare a meeting summary for the executive team",
+          "Reschedule the client meeting"
+        ],
         "answer": "Prepare a meeting summary for the executive team",
         "explanation": "Robert要求「prepare a summary of the meeting outcomes for the executive team by May 16」。",
-        "crossReference": false
+        "crossReference": false,
+        "category": "細節"
       },
       {
         "id": "P7D-T600-005-Q5",
         "question": "How much of Emma's original hotel estimate exceeds the company policy?",
-        "options": ["$30 per night", "$50 per night", "$90 total", "$90 per night"],
+        "options": [
+          "$30 per night",
+          "$50 per night",
+          "$90 total",
+          "$90 per night"
+        ],
         "answer": "$30 per night",
         "explanation": "此題須同時參照兩篇文件：Emma的郵件中酒店預算為$180/晚，Robert的回覆規定上限為$150/晚，兩者相差$30/晚。",
-        "crossReference": true
+        "crossReference": true,
+        "category": "跨篇比對"
       }
     ]
   }

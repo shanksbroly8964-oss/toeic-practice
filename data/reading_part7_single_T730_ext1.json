@@ -1,0 +1,740 @@
+[
+  {
+    "id": "P7S-T730-007",
+    "part": 7,
+    "type": "single",
+    "track": "T730",
+    "documents": [
+      {
+        "title": "Email: Mandatory Leadership Training Program Enrollment",
+        "body": "To: All Department Heads and Senior Managers\nFrom: Human Resources Department\nDate: March 18, 2025\nSubject: Mandatory Leadership Development Program — Enrollment Required by April 1\n\nIn accordance with the executive committee's directive to strengthen our organizational leadership pipeline, all department heads and senior managers are required to enroll in the newly redesigned Leadership Excellence Program (LEP) by April 1, 2025. This mandate applies irrespective of tenure or previous participation in similar initiatives.\n\nThe revamped curriculum, which was developed in collaboration with the Wharton School of Executive Education, comprises four intensive modules spanning strategic decision-making under uncertainty, cross-functional team orchestration, inclusive leadership practices, and crisis communication. Each module entails approximately 20 hours of synchronous and asynchronous coursework delivered over an eight-week period, with the first cohort commencing on April 15.\n\nCompletion of the program is a prerequisite for consideration in the upcoming fiscal year's promotion cycle, per the revised talent management framework ratified by the board last quarter. Participants who fail to meet the enrollment deadline will be required to submit a written justification to the Chief Human Resources Officer, and their eligibility for advancement will be deferred by a minimum of one review cycle.\n\nPlease direct any scheduling conflicts or accommodation requests to the LEP coordination team at lep@company.com no later than March 28."
+      }
+    ],
+    "questions": [
+      {
+        "id": "P7S-T730-007-Q1",
+        "question": "What is the primary purpose of this email?",
+        "options": ["To announce the promotion of several department heads", "To inform managers about a mandatory leadership training requirement", "To recruit external candidates for senior positions", "To cancel the existing leadership development program"],
+        "answer": "To inform managers about a mandatory leadership training requirement",
+        "explanation": "此郵件旨在通知所有部門主管和高階經理必須在4月1日前報名參加重新設計後的領導力卓越計畫，屬典型的強制性培訓通知。",
+        "crossReference": false,
+        "category": "主旨"
+      },
+      {
+        "id": "P7S-T730-007-Q2",
+        "question": "What can be inferred about managers who do not enroll by April 1?",
+        "options": ["They will be immediately terminated", "They will lose their department head title", "Their promotion eligibility will be deferred", "They must attend a different program instead"],
+        "answer": "Their promotion eligibility will be deferred",
+        "explanation": "郵件明確指出未按時報名者的晉升資格將「be deferred by a minimum of one review cycle」，且需提交書面說明，可推斷其晉升機會將受到延遲。",
+        "crossReference": false,
+        "category": "推論"
+      },
+      {
+        "id": "P7S-T730-007-Q3",
+        "question": "Why does HR mention the Wharton School of Executive Education?",
+        "options": ["To indicate the company is relocating to Philadelphia", "To emphasize the credibility and rigor of the training program", "To suggest that managers must travel to the university campus", "To announce a merger with the university"],
+        "answer": "To emphasize the credibility and rigor of the training program",
+        "explanation": "HR引用與華頓商學院的合作關係，目的是強調此培訓計畫具有學術背書與專業嚴謹度，從而提升管理者對此強制性課程的接受度。",
+        "crossReference": false,
+        "category": "推論"
+      }
+    ]
+  },
+  {
+    "id": "P7S-T730-008",
+    "part": 7,
+    "type": "single",
+    "track": "T730",
+    "documents": [
+      {
+        "title": "Internal Memo: Updated Data Breach Notification Protocol",
+        "body": "CONFIDENTIAL — INTERNAL USE ONLY\n\nTo: All Employees\nFrom: Information Security Office\nDate: April 2, 2025\nSubject: Updated Data Breach Notification Protocol — Immediate Compliance Required\n\nIn light of the escalating frequency and sophistication of cyber threats targeting our industry, the Information Security Office, in conjunction with the Legal and Compliance Division, has substantially revised our data breach notification procedures. These revisions, which take effect immediately, supersede all prior protocols issued before January 2025.\n\nUnder the updated framework, any employee who suspects or becomes aware of a potential data exposure—regardless of whether it involves customer information, proprietary research, or internal personnel records—must report the incident to the Security Operations Center (SOC) within 60 minutes of detection. Failure to comply with this reporting window constitutes a Category II compliance violation, which may result in disciplinary measures up to and including termination of employment.\n\nFurthermore, employees are strictly prohibited from independently notifying affected parties, discussing the incident on external communication platforms, or attempting to remediate the breach without explicit authorization from the SOC. Such actions, while often well-intentioned, can inadvertently compromise forensic investigations, trigger premature regulatory disclosure obligations, and expose the organization to additional legal liability.\n\nA mandatory briefing session will be conducted for all personnel during the week of April 14. Attendance will be tracked, and non-attendance must be remedied through the e-learning module within five business days."
+      }
+    ],
+    "questions": [
+      {
+        "id": "P7S-T730-008-Q1",
+        "question": "What is the main purpose of this memo?",
+        "options": ["To announce a recent security breach that occurred at the company", "To inform employees of revised data breach reporting procedures", "To promote the new Chief Information Security Officer", "To encourage employees to notify customers directly about breaches"],
+        "answer": "To inform employees of revised data breach reporting procedures",
+        "explanation": "備忘錄標題明確指出「Updated Data Breach Notification Protocol」，全文旨在通知全體員工有關資料外洩通報程序的更新內容及合規要求。",
+        "crossReference": false,
+        "category": "主旨"
+      },
+      {
+        "id": "P7S-T730-008-Q2",
+        "question": "Why are employees prohibited from independently notifying affected parties of a breach?",
+        "options": ["The company does not want customers to know about any breaches", "Unauthorized notifications could compromise investigations and create legal risks", "Customers have already been notified through other channels", "The Legal and Compliance Division prefers to ignore data breaches"],
+        "answer": "Unauthorized notifications could compromise investigations and create legal risks",
+        "explanation": "備忘錄指出自行通知可能「compromise forensic investigations, trigger premature regulatory disclosure obligations, and expose the organization to additional legal liability」，故禁止員工擅自聯繫受影響方。",
+        "crossReference": false,
+        "category": "推論"
+      },
+      {
+        "id": "P7S-T730-008-Q3",
+        "question": "What is implied about the e-learning module mentioned in the memo?",
+        "options": ["It is optional and has no deadline", "It serves as an alternative for those who miss the in-person briefing", "It replaces all future live training sessions permanently", "It must be completed before the April 14 briefing"],
+        "answer": "It serves as an alternative for those who miss the in-person briefing",
+        "explanation": "備忘錄指出未參加4月14日實體簡報者須在五個工作天內透過線上模組補訓，可推斷線上模組是無法出席者的替代方案。",
+        "crossReference": false,
+        "category": "推論"
+      }
+    ]
+  },
+  {
+    "id": "P7S-T730-009",
+    "part": 7,
+    "type": "single",
+    "track": "T730",
+    "documents": [
+      {
+        "title": "Corporate Communication: 2025 Global Sustainability Excellence Awards — Call for Nominations",
+        "body": "From: Corporate Communications\nTo: All Staff\nDate: May 8, 2025\nSubject: Nominations Now Open — 2025 Global Sustainability Excellence Awards\n\nWe are pleased to announce that the nomination window for the 2025 Global Sustainability Excellence Awards is now open and will remain so through June 15. Established in 2018, this annual recognition program honors teams and individuals whose initiatives have demonstrably advanced our organization's environmental, social, and governance (ESG) objectives.\n\nEligible projects must have been implemented within the preceding 18 months and must provide quantifiable evidence of impact in at least one of the following domains: carbon footprint reduction, waste diversion and circular economy adoption, community resilience and social equity enhancement, or supply chain sustainability transformation. Nominations that encompass cross-departmental collaboration or that leverage innovative technologies to amplify impact will be accorded preferential consideration during the adjudication process.\n\nAward recipients will receive a grant of $15,000 to further their sustainability initiatives, along with formal recognition at the annual leadership summit in September. Additionally, winning projects will be featured in our corporate sustainability report, which is distributed to shareholders, regulatory bodies, and industry analysts worldwide.\n\nSubmission guidelines and the nomination form can be accessed on the intranet under the \"Sustainability\" portal. For those seeking guidance on preparing a compelling nomination, two informational webinars will be held on May 20 and June 3."
+      }
+    ],
+    "questions": [
+      {
+        "id": "P7S-T730-009-Q1",
+        "question": "According to the announcement, which type of nomination receives preferential consideration?",
+        "options": ["Projects that focus solely on profit generation", "Projects involving cross-departmental collaboration", "Projects that have not yet been implemented", "Projects limited to a single department"],
+        "answer": "Projects involving cross-departmental collaboration",
+        "explanation": "公告明確指出涉及跨部門合作或運用創新科技擴大影響力的提名將在評審過程中獲得優先考量。",
+        "crossReference": false,
+        "category": "細節"
+      },
+      {
+        "id": "P7S-T730-009-Q2",
+        "question": "What can be inferred about the company's attitude toward sustainability?",
+        "options": ["The company views sustainability as a low-priority initiative", "Sustainability is treated as a strategic priority integrated into corporate identity", "The company only cares about sustainability for regulatory compliance", "Sustainability efforts are delegated entirely to external consultants"],
+        "answer": "Sustainability is treated as a strategic priority integrated into corporate identity",
+        "explanation": "公司不僅設立年度獎項、提供補助金、將獲獎專案納入企業永續報告書，還將其分發給股東、監管機構和產業分析師，顯示永續性已被整合為企業核心策略與形象的一環。",
+        "crossReference": false,
+        "category": "推論"
+      },
+      {
+        "id": "P7S-T730-009-Q3",
+        "question": "What is the meaning of \"quantifiable\" as used in the announcement?",
+        "options": ["Impossible to measure", "Able to be measured or expressed in numerical terms", "Related to water quality", "Dependent on personal opinion"],
+        "answer": "Able to be measured or expressed in numerical terms",
+        "explanation": "在本文脈絡中，「quantifiable evidence of impact」意指專案必須能夠以數字或數據來證明其影響力，而非僅憑主觀描述。",
+        "crossReference": false,
+        "category": "字義"
+      }
+    ]
+  },
+  {
+    "id": "P7S-T730-010",
+    "part": 7,
+    "type": "single",
+    "track": "T730",
+    "documents": [
+      {
+        "title": "Email: Urgent Software License Migration Deadline — Action Required by IT",
+        "body": "To: All Employees Using Workstation-Grade Software\nFrom: IT Infrastructure Division\nDate: June 5, 2025\nSubject: Critical: Software License Migration Deadline — June 30, 2025\n\nThis communication serves as the final notice regarding the mandatory transition from our legacy on-premises software suite to the cloud-based productivity platform, which the organization adopted following the executive steering committee's digital transformation mandate in Q4 2024.\n\nAs of June 30, 2025, all legacy licenses will be irrevocably deactivated, and any data that has not been migrated to the new platform will become inaccessible through standard channels. While the IT division has provisioned a six-month grace period for data retrieval via archived backups, retrieval requests submitted after the cutoff date will incur substantial administrative processing fees and may require up to 15 business days to fulfill.\n\nTo date, 73% of designated users have completed the migration. For those who have not yet done so, the IT help desk is offering extended support hours—including weekend availability—through June 28. Users who fail to migrate by the deadline will not be able to perform core job functions that rely on the legacy applications, and such inability shall not be considered grounds for deadline extensions on assigned deliverables.\n\nDetailed migration walkthroughs, including step-by-step video tutorials and live virtual assistance scheduling, are accessible via the IT portal under \"Digital Transformation Resources.\""
+      }
+    ],
+    "questions": [
+      {
+        "id": "P7S-T730-010-Q1",
+        "question": "What is the primary purpose of this email?",
+        "options": ["To announce a new software purchase", "To notify employees of an imminent license migration deadline", "To recruit volunteers for the IT help desk", "To promote the cloud-based platform's new features"],
+        "answer": "To notify employees of an imminent license migration deadline",
+        "explanation": "郵件主旨明確標示「Critical: Software License Migration Deadline」，內文進一步說明舊授權將在6月30日永久失效，目的是催促尚未完成遷移的使用者立即行動。",
+        "crossReference": false,
+        "category": "主旨"
+      },
+      {
+        "id": "P7S-T730-010-Q2",
+        "question": "What can be inferred about employees who miss the June 30 migration deadline?",
+        "options": ["Their data will be permanently deleted with no recovery option", "Retrieving their data after the deadline will be costly and time-consuming", "The IT department will automatically migrate their data for free", "They will be immediately terminated for non-compliance"],
+        "answer": "Retrieving their data after the deadline will be costly and time-consuming",
+        "explanation": "郵件指出截止日後資料取回申請將「incur substantial administrative processing fees」且需長達15個工作天，暗示延遲遷移的代價相當高昂且不便。",
+        "crossReference": false,
+        "category": "推論"
+      },
+      {
+        "id": "P7S-T730-010-Q3",
+        "question": "Why does IT mention that 73% of users have already completed the migration?",
+        "options": ["To congratulate the IT team on their achievement", "To pressure remaining users by showing that most colleagues have complied", "To announce that the project is nearly complete and no further action is needed", "To request a budget increase for the migration project"],
+        "answer": "To pressure remaining users by showing that most colleagues have complied",
+        "explanation": "引用73%已完成遷移的數據是一種社會證明策略，藉由強調多數同仁已配合行動，對尚未遷移者施加同儕壓力，促使其在截止日前完成。",
+        "crossReference": false,
+        "category": "推論"
+      }
+    ]
+  },
+  {
+    "id": "P7S-T730-011",
+    "part": 7,
+    "type": "single",
+    "track": "T730",
+    "documents": [
+      {
+        "title": "Email: Formal Complaint — International Shipment Delay to Singapore",
+        "body": "To: Customer Relations Department\nFrom: Lydia Nakamura, Procurement Director, Apex Manufacturing\nDate: July 11, 2025\nSubject: Formal Complaint — Order #INT-4492 Shipment to Singapore\n\nI am writing to formally register a complaint regarding the egregious delay in the delivery of Order #INT-4492, which was dispatched from your Chicago distribution center on May 28 and was contractually guaranteed to arrive at our Singapore facility by June 18.\n\nAs of today, July 11, the shipment has not only missed the contractual delivery window by 23 days, but tracking information indicates that the consignment was inexplicably rerouted through Frankfurt, where it has been held in customs limbo for the past nine days with no substantive explanation provided by your logistics partner. Our repeated inquiries to both your customer service desk and the local freight forwarder have yielded nothing beyond perfunctory acknowledgments devoid of any concrete resolution timeline.\n\nThe delayed receipt of these components has forced us to suspend two production lines, resulting in an estimated loss of $47,000 in unrealized output as of this date. Unless we receive confirmation of a definitive delivery date within 48 hours, along with a compensatory arrangement commensurate with the damages incurred, we will have no recourse but to invoke the penalty clause stipulated in Section 8.3 of our master service agreement and escalate this matter to formal arbitration.\n\nI expect an executive-level response, not an automated acknowledgment."
+      }
+    ],
+    "questions": [
+      {
+        "id": "P7S-T730-011-Q1",
+        "question": "According to the email, where was the shipment unexpectedly rerouted?",
+        "options": ["Chicago", "Singapore", "Frankfurt", "Tokyo"],
+        "answer": "Frankfurt",
+        "explanation": "郵件明確指出貨物追蹤資訊顯示貨物「was inexplicably rerouted through Frankfurt」並在當地海關滯留九天。",
+        "crossReference": false,
+        "category": "細節"
+      },
+      {
+        "id": "P7S-T730-011-Q2",
+        "question": "What can be inferred about the customer's experience with the customer service department?",
+        "options": ["Customer service has provided a clear resolution timeline", "Customer service responses have been unsatisfactory and unhelpful", "Customer service immediately escalated the issue to management", "Customer service offered a full refund"],
+        "answer": "Customer service responses have been unsatisfactory and unhelpful",
+        "explanation": "郵件提到多次查詢僅獲得「perfunctory acknowledgments devoid of any concrete resolution timeline」，且最後要求「executive-level response, not an automated acknowledgment」，顯示客服的回應敷衍且缺乏實質進展。",
+        "crossReference": false,
+        "category": "推論"
+      },
+      {
+        "id": "P7S-T730-011-Q3",
+        "question": "What is implied to happen if the supplier does not respond within 48 hours?",
+        "options": ["Apex Manufacturing will cancel the order and seek a new supplier", "The matter will be escalated to formal arbitration under the contract", "Apex Manufacturing will fly to Frankfurt to retrieve the shipment", "The supplier will automatically issue a refund"],
+        "answer": "The matter will be escalated to formal arbitration under the contract",
+        "explanation": "郵件明確表示若48小時內未獲確認，將「invoke the penalty clause stipulated in Section 8.3...and escalate this matter to formal arbitration」，顯示將啟動合約中的罰則條款並進入正式仲裁程序。",
+        "crossReference": false,
+        "category": "推論"
+      }
+    ]
+  },
+  {
+    "id": "P7S-T730-012",
+    "part": 7,
+    "type": "single",
+    "track": "T730",
+    "documents": [
+      {
+        "title": "Newsletter Article: Navigating the New Financial Regulatory Landscape",
+        "body": "QUARTERLY BRIEFING — COMPLIANCE & REGULATORY AFFAIRS\n\nBy Maria Gonzalez, Chief Compliance Officer\n\nAs we enter the third quarter of 2025, financial institutions across the sector are grappling with a cascade of regulatory amendments that the Financial Conduct Oversight Board (FCOB) promulgated in late May. These reforms, which represent the most sweeping overhaul of financial compliance requirements since the Dodd-Frank era, introduce several provisions that will have far-reaching implications for our operations.\n\nOf particular significance is the newly mandated requirement for real-time transaction monitoring across all cross-border transfers exceeding $50,000, with automated reporting thresholds lowered from 72 hours to 4 hours. This compression of the reporting window necessitates a fundamental reconfiguration of our compliance infrastructure, a project that the IT and Risk Management divisions have jointly undertaken with an anticipated completion date of September 30.\n\nEqually consequential is the introduction of enhanced beneficial ownership disclosure requirements, which now extend to corporate entities with ownership stakes as low as 10%, down from the previous 25% threshold. This change will exponentially increase the volume of due diligence documentation that our client onboarding teams must process, and we are already scaling up staffing levels in anticipation of this surge.\n\nA series of town hall briefings will be conducted throughout July to ensure that all client-facing personnel are thoroughly briefed on these changes and their operational ramifications."
+      }
+    ],
+    "questions": [
+      {
+        "id": "P7S-T730-012-Q1",
+        "question": "According to the article, what is the new reporting window for cross-border transfers over $50,000?",
+        "options": ["72 hours", "24 hours", "4 hours", "48 hours"],
+        "answer": "4 hours",
+        "explanation": "文章明確指出自動化通報門檻已從72小時「lowered from 72 hours to 4 hours」，新規定的通報窗口為4小時。",
+        "crossReference": false,
+        "category": "細節"
+      },
+      {
+        "id": "P7S-T730-012-Q2",
+        "question": "What can be inferred about the impact of the new beneficial ownership disclosure rules?",
+        "options": ["They will reduce paperwork for the onboarding teams", "The volume of due diligence documentation will increase significantly", "The company will stop accepting new corporate clients", "Only clients with 25% ownership or more need to be disclosed"],
+        "answer": "The volume of due diligence documentation will increase significantly",
+        "explanation": "文章指出揭露門檻從25%降至10%將「exponentially increase the volume of due diligence documentation」，公司已在擴充人力以因應此變化。",
+        "crossReference": false,
+        "category": "推論"
+      },
+      {
+        "id": "P7S-T730-012-Q3",
+        "question": "What is the meaning of \"promulgated\" as used in the article?",
+        "options": ["Canceled or revoked", "Formally announced or made known publicly", "Delayed indefinitely", "Kept secret from the public"],
+        "answer": "Formally announced or made known publicly",
+        "explanation": "在此上下文中，「promulgated in late May」意指金控監理委員會在五月下旬正式發布或公告這些法規修正案，為正式的法律用語。",
+        "crossReference": false,
+        "category": "字義"
+      }
+    ]
+  },
+  {
+    "id": "P7S-T730-013",
+    "part": 7,
+    "type": "single",
+    "track": "T730",
+    "documents": [
+      {
+        "title": "Internal Memo: Emergency Budget Reallocation — Q3 Revenue Shortfall",
+        "body": "CONFIDENTIAL — FOR DEPARTMENT HEADS ONLY\n\nTo: All Department Heads\nFrom: Office of the Chief Financial Officer\nDate: August 14, 2025\nSubject: Emergency Budget Reallocation Measures — Immediate Implementation\n\nThis memorandum is issued in response to the preliminary Q3 financial projections, which indicate a projected revenue shortfall of approximately $4.2 million against our quarterly target of $28 million. While the underlying drivers of this deficit—primarily the postponement of two major client contracts and the unanticipated decline in our European market share—are not attributable to operational mismanagement, the imperative to maintain fiscal discipline remains paramount.\n\nEffective immediately, all non-essential expenditure categories are frozen. This encompasses but is not limited to: discretionary travel, external consultancy engagements, office equipment procurement, and employee professional development stipends. Furthermore, each department is instructed to identify and submit a list of cost-containment measures totaling no less than 8% of its remaining quarterly budget allocation, with submissions due to the finance department by August 28.\n\nIt is critical to emphasize that these measures are intended as a preemptive safeguard rather than a reaction to a crisis. The executive team anticipates that the deferred client contracts will be reconfirmed by mid-September, and our European operations are concurrently executing a market recovery strategy. However, prudence dictates that we act decisively now to preserve the organization's financial resilience against any further adverse developments.\n\nPlease cascade this information to your direct reports with appropriate discretion."
+      }
+    ],
+    "questions": [
+      {
+        "id": "P7S-T730-013-Q1",
+        "question": "According to the memo, what is the primary cause of the revenue shortfall?",
+        "options": ["Operational mismanagement by department heads", "The postponement of major client contracts and decline in European market share", "Excessive spending on office equipment", "The resignation of the Chief Financial Officer"],
+        "answer": "The postponement of major client contracts and decline in European market share",
+        "explanation": "財務長明確指出收入缺口的主因是「postponement of two major client contracts and the unanticipated decline in our European market share」，並強調並非營運管理不當所致。",
+        "crossReference": false,
+        "category": "細節"
+      },
+      {
+        "id": "P7S-T730-013-Q2",
+        "question": "What is the CFO's underlying message by stating the measures are a \"preemptive safeguard\"?",
+        "options": ["The company is about to declare bankruptcy", "The measures are precautionary and the situation may improve soon", "All departments will be permanently downsized", "The CFO disagrees with the executive team's decision"],
+        "answer": "The measures are precautionary and the situation may improve soon",
+        "explanation": "財務長強調這些措施是「preemptive safeguard rather than a reaction to a crisis」，並指出延遲的合約預計九月中可確認、歐洲市場在執行復甦策略，暗示情況可能很快好轉，但以防萬一先採取保守措施。",
+        "crossReference": false,
+        "category": "推論"
+      },
+      {
+        "id": "P7S-T730-013-Q3",
+        "question": "What can be inferred about the phrase \"cascade this information to your direct reports with appropriate discretion\"?",
+        "options": ["All employees should be told every detail of the financial situation", "Department heads should share the information selectively and carefully with their teams", "The information should be posted publicly on social media", "Only the CFO is allowed to discuss the budget situation"],
+        "answer": "Department heads should share the information selectively and carefully with their teams",
+        "explanation": "「Cascade...with appropriate discretion」意指部門主管應謹慎地、有選擇性地將資訊傳遞給直屬下屬，而非全面公開所有細節，這呼應了文件標記為「CONFIDENTIAL」的性質。",
+        "crossReference": false,
+        "category": "推論"
+      }
+    ]
+  },
+  {
+    "id": "P7S-T730-014",
+    "part": 7,
+    "type": "single",
+    "track": "T730",
+    "documents": [
+      {
+        "title": "Internal Correspondence: Patent Filing Status Update from Legal Department",
+        "body": "TO: R&D Leadership Team\nFROM: Elaine Whitfield, Senior Intellectual Property Counsel\nDATE: September 3, 2025\nRE: Status Update — Patent Application #US-2025-08921-ALPHA\n\nI am writing to apprise the R&D leadership team of the current disposition of our patent application for the novel catalytic converter substrate technology (internal project designation \"Project Catalyst\"), which was filed with the United States Patent and Trademark Office (USPTO) on January 15, 2025.\n\nFollowing the initial 18-month confidentiality period, the USPTO has issued a first office action raising three substantive objections. Two of these pertain to claims of obviousness in light of prior art cited by the examiner, specifically referencing a 2022 Japanese patent filing by a competitor that bears superficial resemblance to certain elements of our invention. The third objection concerns the breadth of Claims 8 through 14, which the examiner deems insufficiently circumscribed.\n\nOur external patent prosecution team at Morrison & Keller LLP has evaluated these objections and, after a thorough analysis, has concluded that all three are surmountable through a combination of claim amendments and persuasive technical arguments. The team has drafted a comprehensive response, which I have reviewed and endorsed, that narrows the affected claims while preserving the core inventive concept. This response will be filed by September 20, well within the statutory three-month response window.\n\nProvided the examiner finds our amendments and arguments persuasive, we anticipate a notice of allowance by late Q4 2025. I will convene a briefing session on September 12 to walk through the response strategy in detail."
+      }
+    ],
+    "questions": [
+      {
+        "id": "P7S-T730-014-Q1",
+        "question": "What is one of the USPTO examiner's objections mentioned in the update?",
+        "options": ["The patent was filed too early", "Claims 8 through 14 are considered too broad", "The invention has no commercial value", "The filing fee was not paid"],
+        "answer": "Claims 8 through 14 are considered too broad",
+        "explanation": "法律顧問明確指出第三項異議涉及「breadth of Claims 8 through 14, which the examiner deems insufficiently circumscribed」，意指請求項範圍過於寬廣而未充分界定。",
+        "crossReference": false,
+        "category": "細節"
+      },
+      {
+        "id": "P7S-T730-014-Q2",
+        "question": "What can be inferred about the overall outlook for the patent application?",
+        "options": ["The application will likely be abandoned", "The legal team is cautiously optimistic that the objections can be overcome", "The patent has already been granted", "The company has decided to withdraw the application"],
+        "answer": "The legal team is cautiously optimistic that the objections can be overcome",
+        "explanation": "法律顧問表示三項異議均「surmountable」且已準備詳細回應，並預計第四季末可獲核准通知，可推斷團隊對申請結果持謹慎樂觀的態度。",
+        "crossReference": false,
+        "category": "推論"
+      },
+      {
+        "id": "P7S-T730-014-Q3",
+        "question": "What is the meaning of \"circumscribed\" as used in the legal update?",
+        "options": ["Drawn in a circular pattern", "Limited or restricted in scope", "Completely removed", "Expanded beyond original limits"],
+        "answer": "Limited or restricted in scope",
+        "explanation": "在此專利法律文件中，「insufficiently circumscribed」意指請求項的範圍沒有被充分限制或界定，審查委員認為其涵蓋範圍過於廣泛。",
+        "crossReference": false,
+        "category": "字義"
+      }
+    ]
+  },
+  {
+    "id": "P7S-T730-015",
+    "part": 7,
+    "type": "single",
+    "track": "T730",
+    "documents": [
+      {
+        "title": "Official Notice: Office Safety Inspection Results and Required Remediation",
+        "body": "FROM: Facilities Management & Occupational Safety Division\nTO: All Floor Supervisors and Office Managers\nDATE: October 7, 2025\nSUBJECT: Q3 Safety Inspection Findings — Mandatory Corrective Actions\n\nThe comprehensive Q3 safety inspection, conducted on September 22–24 by an independent industrial hygiene consultancy retained by our risk management department, has identified several deficiencies that necessitate immediate remediation to ensure compliance with Occupational Safety and Health Administration (OSHA) standards and our internal safety protocols.\n\nOf the 17 inspection points evaluated across all four floors of our headquarters, 14 were found to be fully compliant. However, three areas of concern warrant urgent attention. First, the emergency egress pathways on the third floor were found to be partially obstructed by storage cabinets that had been relocated during the recent office reconfiguration—this constitutes a critical safety violation that must be rectified no later than October 15. Second, the fire suppression system in the basement archive room failed its pressure integrity test and requires servicing by a certified contractor. Third, the ergonomic workstations audit revealed that 22% of workstations on the second floor still do not meet the minimum adjustability standards mandated by the corporate wellness policy enacted in January 2025.\n\nThe relevant floor supervisors are expected to submit a remediation status report by October 14, and a follow-up inspection has been tentatively scheduled for October 28. Non-compliance at that juncture will trigger an automatic escalation to the Chief Operating Officer."
+      }
+    ],
+    "questions": [
+      {
+        "id": "P7S-T730-015-Q1",
+        "question": "What is the primary purpose of this notice?",
+        "options": ["To announce the hiring of a new safety consultant", "To report safety inspection findings and outline required corrective actions", "To congratulate employees on passing the safety inspection", "To announce a new office reconfiguration project"],
+        "answer": "To report safety inspection findings and outline required corrective actions",
+        "explanation": "此通知旨在公布第三季安全檢查的結果，具體指出三項缺失，並要求相關主管在限期內完成改善，為典型的安全檢查結果通報。",
+        "crossReference": false,
+        "category": "主旨"
+      },
+      {
+        "id": "P7S-T730-015-Q2",
+        "question": "According to the notice, which area requires servicing by a certified contractor?",
+        "options": ["The ergonomic workstations on the second floor", "The storage cabinets on the third floor", "The fire suppression system in the basement archive room", "The emergency exit signs throughout the building"],
+        "answer": "The fire suppression system in the basement archive room",
+        "explanation": "通知明確指出地下室檔案室的消防滅火系統未通過壓力完整性測試，需要由認證承包商進行維修。",
+        "crossReference": false,
+        "category": "細節"
+      },
+      {
+        "id": "P7S-T730-015-Q3",
+        "question": "What can be inferred about the consequence of failing the follow-up inspection on October 28?",
+        "options": ["The building will be permanently closed", "The matter will be escalated to the Chief Operating Officer", "Employees will be asked to work from home indefinitely", "The company will receive a fine from OSHA immediately"],
+        "answer": "The matter will be escalated to the Chief Operating Officer",
+        "explanation": "通知明確指出追蹤檢查「Non-compliance at that juncture will trigger an automatic escalation to the Chief Operating Officer」，表示若未能在期限內改善，問題將自動升級至高層。",
+        "crossReference": false,
+        "category": "推論"
+      }
+    ]
+  },
+  {
+    "id": "P7S-T730-016",
+    "part": 7,
+    "type": "single",
+    "track": "T730",
+    "documents": [
+      {
+        "title": "Confidential Memo: Trademark Infringement Cease-and-Desist Situation",
+        "body": "CONFIDENTIAL — ATTORNEY-CLIENT PRIVILEGED COMMUNICATION\n\nTO: Executive Leadership Team\nFROM: Office of the General Counsel\nDATE: August 22, 2025\nRE: Legal Assessment — Alleged Trademark Infringement by Competitor\n\nThis memorandum summarizes the current posture of our intellectual property dispute with Meridian Technologies, a newly incorporated entity that has been marketing a product line under the brand designation \"ApexPro Solutions\" in three regional markets since May 2025.\n\nUpon review by our external trademark counsel, it is their considered opinion that the \"ApexPro\" designation is confusingly similar to our federally registered trademark \"Apex Professional,\" which has been in continuous commercial use since 2012 and enjoys incontestable status under the Lanham Act. The phonetic and conceptual proximity between the two marks, coupled with the fact that both entities operate within overlapping product categories, creates a substantial likelihood of consumer confusion—the statutory threshold for trademark infringement.\n\nOn August 15, our legal team transmitted a formal cease-and-desist letter to Meridian Technologies, demanding that they discontinue all use of the infringing designation within 30 calendar days and provide a written undertaking to that effect. To date, we have received only an acknowledgment of receipt from Meridian's registered agent, with no substantive response addressing the merits of our claims.\n\nShould Meridian fail to comply or engage constructively within the prescribed window, our litigation counsel has been instructed to prepare a complaint for injunctive relief and damages, which would be filed in the U.S. District Court for the District of Delaware. I will provide a further update upon expiration of the 30-day deadline on September 14."
+      }
+    ],
+    "questions": [
+      {
+        "id": "P7S-T730-016-Q1",
+        "question": "According to the memo, what makes the competitor's brand likely to cause consumer confusion?",
+        "options": ["It is sold at a lower price", "It has phonetic and conceptual similarity to Apex's registered trademark", "It is manufactured in the same factory", "It uses an identical logo design"],
+        "answer": "It has phonetic and conceptual similarity to Apex's registered trademark",
+        "explanation": "備忘錄指出競爭者的品牌在「phonetic and conceptual proximity」上與Apex註冊商標相似，加上雙方產品類別重疊，構成消費者混淆的高度可能性。",
+        "crossReference": false,
+        "category": "細節"
+      },
+      {
+        "id": "P7S-T730-016-Q2",
+        "question": "What can be inferred about Meridian Technologies' response to the cease-and-desist letter so far?",
+        "options": ["They have agreed to immediately stop using the disputed brand name", "They have only acknowledged receipt without addressing the claims", "They have filed a countersuit against Apex", "They have proposed a licensing agreement"],
+        "answer": "They have only acknowledged receipt without addressing the claims",
+        "explanation": "備忘錄明確指出對方僅由註冊代理人回覆收到通知，「with no substantive response addressing the merits of our claims」，顯示其尚未做出實質回應。",
+        "crossReference": false,
+        "category": "推論"
+      },
+      {
+        "id": "P7S-T730-016-Q3",
+        "question": "What is implied to happen if Meridian Technologies does not comply by the 30-day deadline?",
+        "options": ["Apex will drop the case and allow the competitor to use the name", "A lawsuit seeking an injunction and damages will be filed in federal court", "The two companies will merge under a new brand name", "Meridian will automatically lose its business license"],
+        "answer": "A lawsuit seeking an injunction and damages will be filed in federal court",
+        "explanation": "備忘錄指出若對方未在期限內配合，訴訟律師已準備好向德拉瓦州聯邦地方法院提起「complaint for injunctive relief and damages」，即申請禁制令並求償。",
+        "crossReference": false,
+        "category": "推論"
+      }
+    ]
+  },
+  {
+    "id": "P7S-T730-017",
+    "part": 7,
+    "type": "single",
+    "track": "T730",
+    "documents": [
+      {
+        "title": "Press Release: Apex Manufacturing Announces Strategic Acquisition of NanoTech Dynamics",
+        "body": "FOR IMMEDIATE RELEASE\n\nApex Manufacturing Acquires NanoTech Dynamics in Strategic Expansion\n\nSAN DIEGO, CA — October 15, 2025 — Apex Manufacturing (NYSE: APX) today announced the completion of its acquisition of NanoTech Dynamics, a privately held advanced materials startup based in Austin, Texas, in a transaction valued at $340 million. The acquisition, which was unanimously approved by the boards of both companies, is expected to be accretive to Apex's earnings within the first full fiscal year following integration.\n\nNanoTech Dynamics, founded in 2019, has developed a proprietary nanocomposite coating technology that has garnered significant attention within the aerospace and defense sectors. While the company has yet to achieve profitability—reporting an operating loss of $18 million in its most recent fiscal year—its intellectual property portfolio comprises 14 granted patents and an additional 9 pending applications that are widely regarded as foundational to next-generation thermal barrier materials.\n\nThe integration process will be overseen by a dedicated transition task force co-chaired by Apex's Chief Technology Officer and NanoTech's founding CEO, Dr. Priya Suresh, who will assume the role of Executive Vice President of Advanced Materials within the combined entity. All 87 NanoTech employees will be retained, and the Austin facility will be expanded to serve as Apex's center of excellence for nanotechnology research.\n\n\"This acquisition represents a pivotal investment in our long-term innovation strategy,\" said Apex CEO Jonathan Blackwell. \"NanoTech's technology platform has the potential to unlock substantial value across multiple product lines.\""
+      }
+    ],
+    "questions": [
+      {
+        "id": "P7S-T730-017-Q1",
+        "question": "What is the main purpose of this press release?",
+        "options": ["To announce a new product launch by NanoTech Dynamics", "To publicize Apex Manufacturing's acquisition of NanoTech Dynamics", "To report NanoTech Dynamics' annual financial results", "To announce the resignation of Apex's CEO"],
+        "answer": "To publicize Apex Manufacturing's acquisition of NanoTech Dynamics",
+        "explanation": "此新聞稿標題明確表明「Apex Manufacturing Acquires NanoTech Dynamics in Strategic Expansion」，全文旨在對外宣布此收購案的完成及其策略意義。",
+        "crossReference": false,
+        "category": "主旨"
+      },
+      {
+        "id": "P7S-T730-017-Q2",
+        "question": "According to the press release, what will Dr. Priya Suresh's role be after the acquisition?",
+        "options": ["Chief Executive Officer of Apex Manufacturing", "Executive Vice President of Advanced Materials", "Chief Financial Officer of NanoTech Dynamics", "Chair of the transition task force only"],
+        "answer": "Executive Vice President of Advanced Materials",
+        "explanation": "新聞稿指出Dr. Priya Suresh將在合併後的實體中擔任「Executive Vice President of Advanced Materials」，同時共同主持過渡任務小組。",
+        "crossReference": false,
+        "category": "細節"
+      },
+      {
+        "id": "P7S-T730-017-Q3",
+        "question": "What can be inferred about Apex's motivation for acquiring NanoTech Dynamics despite its operating loss?",
+        "options": ["Apex wanted to eliminate a competitor by acquiring it", "Apex valued NanoTech's intellectual property and technological potential over short-term profitability", "Apex was primarily interested in NanoTech's real estate assets in Austin", "Apex was required to make the acquisition by government regulation"],
+        "answer": "Apex valued NanoTech's intellectual property and technological potential over short-term profitability",
+        "explanation": "儘管NanoTech有1,800萬美元的營運虧損，但其擁有14項專利和9項申請中的專利且被視為下世代材料的基礎，加上CEO強調此為「pivotal investment in long-term innovation strategy」，可推斷Apex看重的是長期技術潛力而非短期獲利。",
+        "crossReference": false,
+        "category": "推論"
+      }
+    ]
+  },
+  {
+    "id": "P7S-T730-018",
+    "part": 7,
+    "type": "single",
+    "track": "T730",
+    "documents": [
+      {
+        "title": "Email Response: Customer Service Resolution — Billing Error Complaint #SR-8841",
+        "body": "To: Ms. Rachel Thornton (rthornton@thorntonconsulting.com)\nFrom: Diego Reyes, Senior Customer Relations Specialist\nDate: September 19, 2025\nSubject: Resolution of Billing Discrepancy — Service Request #SR-8841\n\nDear Ms. Thornton,\n\nThank you for bringing the billing discrepancy on your September invoice to our attention and for your patience while we conducted a thorough investigation. I am writing to confirm that our audit has substantiated your claim, and to outline the corrective measures we have implemented.\n\nUpon reviewing your account records and cross-referencing them against our service delivery logs, we determined that the overcharge of $2,340 stemmed from a system-generated error in which your account was inadvertently migrated to our premium tier pricing structure during a routine platform upgrade on August 14—a transition for which you neither requested nor consented. This error affected 47 of our approximately 12,000 active accounts.\n\nAs a remedy, we have processed a full credit of $2,340 to your account, which will be reflected on your October statement. Additionally, as a gesture of goodwill for the inconvenience this may have caused, we have applied a complimentary three-month subscription to your account, extending your current service plan at no charge through December 2025. Your account has been permanently reverted to the standard tier, with a system-level lock implemented to prevent recurrence.\n\nI sincerely apologize for this oversight and the frustration it engendered. Should you have any residual concerns, please do not hesitate to contact me directly at extension 4823."
+      }
+    ],
+    "questions": [
+      {
+        "id": "P7S-T730-018-Q1",
+        "question": "What caused the billing error according to the email?",
+        "options": ["The customer intentionally upgraded her account", "A system error during a platform upgrade migrated the account to a premium tier", "The customer service team manually overcharged the account", "A third-party payment processor made a mistake"],
+        "answer": "A system error during a platform upgrade migrated the account to a premium tier",
+        "explanation": "客服專員明確指出多收費用的原因是「a system-generated error in which your account was inadvertently migrated to our premium tier pricing structure during a routine platform upgrade on August 14」。",
+        "crossReference": false,
+        "category": "細節"
+      },
+      {
+        "id": "P7S-T730-018-Q2",
+        "question": "What can be inferred about the scope of the billing error?",
+        "options": ["It affected all 12,000 accounts of the company", "It was a relatively isolated issue affecting less than 0.4% of accounts", "Only Ms. Thornton's account was affected", "The company refuses to acknowledge the error"],
+        "answer": "It was a relatively isolated issue affecting less than 0.4% of accounts",
+        "explanation": "郵件指出此錯誤影響了「47 of our approximately 12,000 active accounts」，約佔總帳戶數的0.39%，屬於相對小規模的系統性問題。",
+        "crossReference": false,
+        "category": "推論"
+      },
+      {
+        "id": "P7S-T730-018-Q3",
+        "question": "What is the meaning of \"substantiated\" as used in the email?",
+        "options": ["Rejected or dismissed", "Confirmed or verified with evidence", "Partially refunded", "Temporarily suspended"],
+        "answer": "Confirmed or verified with evidence",
+        "explanation": "在此客服回覆中，「our audit has substantiated your claim」意指公司的審核已經證實了客戶所提出的帳單錯誤主張，即透過查核證據確認該主張成立。",
+        "crossReference": false,
+        "category": "字義"
+      }
+    ]
+  },
+  {
+    "id": "P7S-T730-019",
+    "part": 7,
+    "type": "single",
+    "track": "T730",
+    "documents": [
+      {
+        "title": "Internal Memo: Introduction of the 2026 Flexible Benefits Program",
+        "body": "TO: All Regular Full-Time Employees\nFROM: Total Rewards Department\nDATE: November 10, 2025\nSUBJECT: Introducing the Enhanced Flexible Benefits Program — Enrollment Window Opens December 1\n\nFollowing an extensive benchmarking analysis of peer organizations and the incorporation of feedback gathered through the employee engagement survey conducted last June, the Total Rewards Department is pleased to unveil a substantially enhanced Flexible Benefits Program, effective January 1, 2026.\n\nThe cornerstone of this redesign is the introduction of a modular benefits allocation model, which supplants the previous one-size-fits-all approach. Under this new framework, each eligible employee will receive an annual benefits allowance of $8,500, which may be allocated across a curated portfolio of benefit categories including: health and dental insurance tiers, retirement plan contributions, mental wellness services, professional development stipends, dependent care subsidies, and—in a newly introduced category—lifestyle spending accounts that encompass gym memberships, nutrition counseling, and mindfulness app subscriptions.\n\nEmployees may adjust their allocation percentages annually during the open enrollment period, which for the 2026 plan year runs from December 1 through December 22, 2025. Unallocated funds will automatically default to the retirement contribution category, per the revised plan rules. Detailed plan documents, including a comprehensive comparison guide illustrating the distinctions between the legacy and new programs, are accessible on the HR intranet.\n\nA series of informational town halls—both in-person and virtual—will be conducted during the first week of December. Attendance is strongly encouraged to ensure all employees can make informed decisions."
+      }
+    ],
+    "questions": [
+      {
+        "id": "P7S-T730-019-Q1",
+        "question": "According to the memo, what happens to unallocated benefits funds?",
+        "options": ["They are forfeited and returned to the company", "They are automatically directed to the retirement contribution category", "They are donated to charity", "They are carried over to the next year"],
+        "answer": "They are automatically directed to the retirement contribution category",
+        "explanation": "備忘錄明確指出未分配的資金將「automatically default to the retirement contribution category, per the revised plan rules」。",
+        "crossReference": false,
+        "category": "細節"
+      },
+      {
+        "id": "P7S-T730-019-Q2",
+        "question": "What can be inferred about the reason for redesigning the benefits program?",
+        "options": ["The company wanted to reduce total benefits spending", "Employee feedback and industry benchmarking indicated the old program needed improvement", "The government mandated a change in benefits structure", "All employees requested higher salaries instead of benefits"],
+        "answer": "Employee feedback and industry benchmarking indicated the old program needed improvement",
+        "explanation": "備忘錄提到新方案是基於「extensive benchmarking analysis of peer organizations」和「employee engagement survey」的回饋，可推斷舊有「一刀切」模式未能滿足員工多元需求，需要改進。",
+        "crossReference": false,
+        "category": "推論"
+      },
+      {
+        "id": "P7S-T730-019-Q3",
+        "question": "What is implied by the term \"supplants\" as used in the context of the memo?",
+        "options": ["Supports and maintains", "Replaces or takes the place of", "Operates alongside", "Delays the implementation of"],
+        "answer": "Replaces or takes the place of",
+        "explanation": "在文本「modular benefits allocation model, which supplants the previous one-size-fits-all approach」中，新模式「取代」了舊的齊頭式做法，即新模式完全替代了原有的方案。",
+        "crossReference": false,
+        "category": "推論"
+      }
+    ]
+  },
+  {
+    "id": "P7S-T730-020",
+    "part": 7,
+    "type": "single",
+    "track": "T730",
+    "documents": [
+      {
+        "title": "Letter: Invitation to Deliver Keynote Address at the 2026 Global Innovation Summit",
+        "body": "November 20, 2025\n\nDr. Jonathan Blackwell\nChief Executive Officer\nApex Manufacturing\n8900 Innovation Drive\nSan Diego, CA 92121\n\nDear Dr. Blackwell,\n\nOn behalf of the organizing committee of the 2026 Global Innovation Summit (GIS), it is my distinct privilege to invite you to deliver a keynote address at our forthcoming conference, which will convene in Barcelona, Spain, from March 15–18, 2026.\n\nThe GIS has established itself as the preeminent annual gathering of technology leaders, policymakers, and academic researchers dedicated to advancing the frontiers of industrial innovation. This year's theme, \"Resilient Innovation: Navigating Disruption Through Technological Foresight,\" aligns remarkably well with Apex Manufacturing's widely acknowledged trajectory of pioneering advancements in advanced materials and sustainable manufacturing processes.\n\nWe envision your keynote—tentatively scheduled for the opening plenary session on March 16—as a 45-minute presentation followed by a moderated 15-minute question-and-answer segment with the audience. The honorarium for the keynote engagement is €15,000, and the organizing committee will additionally cover all travel and accommodation expenses for you and one accompanying guest.\n\nWe would be deeply honored by your participation and respectfully request your response by December 15, 2025. Should you be amenable, our programming director, Ms. Elena Vasquez, will coordinate directly with your office to finalize logistical and thematic details.\n\nWith warm regards,\nProfessor Adrian Kohler\nChair, GIS 2026 Organizing Committee"
+      }
+    ],
+    "questions": [
+      {
+        "id": "P7S-T730-020-Q1",
+        "question": "What is the purpose of this letter?",
+        "options": ["To offer Dr. Blackwell a job at the Global Innovation Summit", "To invite Dr. Blackwell to deliver a keynote address at a conference", "To inform Dr. Blackwell about Apex Manufacturing's new product", "To request a donation from Apex Manufacturing for the conference"],
+        "answer": "To invite Dr. Blackwell to deliver a keynote address at a conference",
+        "explanation": "信件開頭明確表示「invite you to deliver a keynote address at our forthcoming conference」，全信旨在正式邀請Dr. Blackwell擔任2026年全球創新峰會的主題演講者。",
+        "crossReference": false,
+        "category": "主旨"
+      },
+      {
+        "id": "P7S-T730-020-Q2",
+        "question": "Why does the committee believe Dr. Blackwell is a suitable keynote speaker?",
+        "options": ["He is a personal friend of Professor Kohler", "Apex Manufacturing's innovations align with the conference theme", "Dr. Blackwell previously worked at the organizing university", "No other speakers were available for the opening session"],
+        "answer": "Apex Manufacturing's innovations align with the conference theme",
+        "explanation": "信件指出今年大會主題「aligns remarkably well with Apex Manufacturing's widely acknowledged trajectory of pioneering advancements in advanced materials and sustainable manufacturing processes」，顯示委員會認為Apex的創新方向與峰會主題高度契合。",
+        "crossReference": false,
+        "category": "推論"
+      },
+      {
+        "id": "P7S-T730-020-Q3",
+        "question": "What can be inferred about the honorarium and expense arrangement mentioned in the letter?",
+        "options": ["Dr. Blackwell must pay his own travel expenses", "The committee will pay both a speaking fee and cover travel and accommodation costs", "The honorarium is paid in U.S. dollars", "The invitation is unpaid and purely honorary"],
+        "answer": "The committee will pay both a speaking fee and cover travel and accommodation costs",
+        "explanation": "信件明確指出提供€15,000演講酬金且委員會將「additionally cover all travel and accommodation expenses for you and one accompanying guest」，顯示主辦方將同時支付演講費與旅宿費用。",
+        "crossReference": false,
+        "category": "推論"
+      }
+    ]
+  },
+  {
+    "id": "P7S-T730-021",
+    "part": 7,
+    "type": "single",
+    "track": "T730",
+    "documents": [
+      {
+        "title": "Corporate Blog Post: Diversity and Inclusion Annual Report — 2025 Milestones and Continuing Commitments",
+        "body": "POSTED: December 5, 2025 | BY: Office of Diversity, Equity, and Inclusion\n\nAs we close out another transformative year, we are pleased to share the key findings from our 2025 Diversity and Inclusion Annual Report, which provides a candid assessment of both our achievements and the areas where our efforts must intensify.\n\nAmong the milestones we are proud to report: women now constitute 42% of our senior management roles, up from 34% three years ago—a trajectory that places us above the industry benchmark of 31%. Our supplier diversity initiative, which directs procurement spending toward certified minority-owned, women-owned, and veteran-owned enterprises, exceeded its target for the third consecutive year, channeling $127 million to diverse suppliers in fiscal year 2025.\n\nHowever, the data also illuminates persistent challenges that demand our unflagging attention. The representation of underrepresented minorities in technical leadership positions remains disproportionately low at 9%, compared to their 22% representation in the overall workforce. Additionally, our employee engagement survey revealed a perceptible gap in the sense of belonging reported by employees from marginalized backgrounds, with a 14-percentage-point differential compared to their peers.\n\nIn response, we are intensifying our efforts on three fronts: expanding our mentorship and sponsorship program to encompass 200 additional participants in 2026, implementing mandatory inclusive leadership training for all people managers by Q2 2026, and establishing an external advisory council comprising DEI practitioners and community leaders to provide independent oversight of our progress.\n\nWe are encouraged by our trajectory but remain resolute in our acknowledgment that meaningful, sustainable change requires sustained commitment, not episodic initiatives."
+      }
+    ],
+    "questions": [
+      {
+        "id": "P7S-T730-021-Q1",
+        "question": "According to the report, which area remains a persistent challenge?",
+        "options": ["The company has exceeded all its diversity targets", "Underrepresented minorities in technical leadership positions are disproportionately low", "Women hold too many senior management roles", "The supplier diversity initiative has failed for three consecutive years"],
+        "answer": "Underrepresented minorities in technical leadership positions are disproportionately low",
+        "explanation": "報告明確指出「representation of underrepresented minorities in technical leadership positions remains disproportionately low at 9%」，屬於持續存在的挑戰。",
+        "crossReference": false,
+        "category": "細節"
+      },
+      {
+        "id": "P7S-T730-021-Q2",
+        "question": "What can be inferred about the company's approach to diversity and inclusion?",
+        "options": ["The company believes one-time initiatives are sufficient", "The company acknowledges both successes and shortcomings and is committed to sustained effort", "The company has decided to discontinue its diversity programs", "The company only focuses on gender diversity and ignores other dimensions"],
+        "answer": "The company acknowledges both successes and shortcomings and is committed to sustained effort",
+        "explanation": "報告同時呈現成就與挑戰，並提出三項具體行動計畫（擴大導師計畫、強制性培訓、設立外部諮詢委員會），最後一段更強調「sustained commitment, not episodic initiatives」，顯示公司採取坦誠且持續投入的態度。",
+        "crossReference": false,
+        "category": "推論"
+      },
+      {
+        "id": "P7S-T730-021-Q3",
+        "question": "What is the meaning of \"unflagging\" as used in the blog post?",
+        "options": ["Slowly decreasing", "Removing all flags or symbols", "Persistent and tireless, without weakening", "Casual and occasional"],
+        "answer": "Persistent and tireless, without weakening",
+        "explanation": "在文中「demand our unflagging attention」意指導致這些挑戰需要持續不懈、不減弱的關注與努力，強調公司必須長期持續地投入。",
+        "crossReference": false,
+        "category": "字義"
+      }
+    ]
+  },
+  {
+    "id": "P7S-T730-022",
+    "part": 7,
+    "type": "single",
+    "track": "T730",
+    "documents": [
+      {
+        "title": "Plant-Wide Notice: Emergency Equipment Maintenance Shutdown Schedule",
+        "body": "URGENT — OPERATIONS CRITICAL\n\nTO: All Production Personnel, Shift Supervisors, and Logistics Coordinators\nFROM: Plant Operations Directorate\nDATE: January 6, 2026\nSUBJECT: Mandatory Emergency Shutdown — Primary Conveyance System Maintenance\n\nDuring a routine vibration analysis conducted on January 4, our predictive maintenance monitoring system detected anomalous harmonic frequencies in the primary conveyance assembly that feeds all three production lines. Subsequent diagnostic imaging confirmed the presence of stress fractures in two load-bearing coupling joints—a condition that, if left unaddressed, poses a non-trivial risk of catastrophic mechanical failure.\n\nConsequently, the Plant Operations Directorate, in consultation with the Chief Engineer and the Health and Safety Officer, has authorized an emergency maintenance shutdown of the entire conveyance system effective Saturday, January 10, at 06:00. The shutdown is anticipated to require a minimum of 36 hours, with production tentatively scheduled to resume on Monday, January 12, at 18:00, contingent upon the successful completion of all repair and recertification procedures.\n\nDuring the shutdown window, all production personnel assigned to Lines A, B, and C will be temporarily redeployed to either the finished goods inventory reconciliation project or the 5S workplace organization initiative currently underway in Warehouse C. Shift supervisors are responsible for communicating individual assignments to their teams by close of business on January 8.\n\nContingency arrangements have been established with our secondary distribution center in Phoenix to fulfill any time-sensitive orders during the shutdown period. Logistics coordinators should liaise with their Phoenix counterparts to coordinate the temporary routing of affected shipments.\n\nThis shutdown has been classified as a Tier 2 operational disruption under our business continuity framework, and all relevant protocols are in effect."
+      }
+    ],
+    "questions": [
+      {
+        "id": "P7S-T730-022-Q1",
+        "question": "What is the primary purpose of this notice?",
+        "options": ["To announce a routine annual holiday schedule", "To inform staff of an emergency maintenance shutdown and its operational arrangements", "To praise employees for meeting production targets", "To announce the permanent closure of the production facility"],
+        "answer": "To inform staff of an emergency maintenance shutdown and its operational arrangements",
+        "explanation": "此公告旨在通知全廠人員傳送系統因偵測到結構裂縫需緊急停機維修，並詳述停機期間的人員調度、應變措施及預計恢復時間。",
+        "crossReference": false,
+        "category": "主旨"
+      },
+      {
+        "id": "P7S-T730-022-Q2",
+        "question": "According to the notice, what will production personnel do during the shutdown?",
+        "options": ["They will be sent home without pay", "They will be temporarily redeployed to inventory and workplace organization projects", "They will operate the machinery manually", "They will attend mandatory safety training off-site"],
+        "answer": "They will be temporarily redeployed to inventory and workplace organization projects",
+        "explanation": "公告明確指出生產線人員將被「temporarily redeployed to either the finished goods inventory reconciliation project or the 5S workplace organization initiative」。",
+        "crossReference": false,
+        "category": "細節"
+      },
+      {
+        "id": "P7S-T730-022-Q3",
+        "question": "What can be inferred about the Phoenix distribution center mentioned in the notice?",
+        "options": ["It is the company's primary production facility", "It will help fulfill urgent orders during the shutdown", "It is permanently replacing the main facility", "It is also undergoing maintenance at the same time"],
+        "answer": "It will help fulfill urgent orders during the shutdown",
+        "explanation": "公告指出已與鳳凰城的次要配送中心建立應變安排以處理停機期間的緊急訂單，可推斷其將作為備援設施維持出貨能力。",
+        "crossReference": false,
+        "category": "推論"
+      }
+    ]
+  },
+  {
+    "id": "P7S-T730-023",
+    "part": 7,
+    "type": "single",
+    "track": "T730",
+    "documents": [
+      {
+        "title": "Policy Update: Revised Travel and Entertainment Reimbursement Guidelines",
+        "body": "TO: All Employees\nFROM: Corporate Finance & Accounting\nDATE: February 3, 2026\nSUBJECT: Revised Travel and Entertainment Reimbursement Policy — Effective March 1, 2026\n\nAfter a comprehensive review of our travel and entertainment (T&E) expenditure patterns over the preceding two fiscal years, during which aggregate T&E spending exceeded the board-authorized budget by 17%, the Corporate Finance division has revised our reimbursement policy to strike an appropriate equilibrium between fiscal prudence and operational necessity.\n\nThe key modifications are as follows. First, the daily meal allowance has been recalibrated from $75 to $65 for domestic travel and from $100 to $85 for international destinations—adjustments that align our per diem rates with the General Services Administration's published benchmarks. Second, all air travel exceeding six hours in duration must now be booked in premium economy class rather than business class, unless pre-approved by a vice president on medical or productivity grounds. Third, client entertainment expenses exceeding $500 per event now require itemized receipts and a written business justification outlining the specific business purpose and anticipated return on engagement.\n\nNotably, the policy introduces a pre-trip approval workflow for any anticipated T&E exceeding $2,500, which must be submitted through the digital procurement portal no later than five business days before the scheduled departure. Reimbursement claims submitted more than 30 days after the expense was incurred will be subject to a 15% reduction unless the delay is attributable to extenuating circumstances documented to the satisfaction of the accounting department.\n\nThe complete policy document, including the revised reimbursement claim form and an FAQ addressing common scenarios, is available on the finance intranet portal. Employees with outstanding questions are encouraged to attend one of the informational webinars scheduled for February 10 and February 17."
+      }
+    ],
+    "questions": [
+      {
+        "id": "P7S-T730-023-Q1",
+        "question": "According to the policy update, what is the new daily meal allowance for domestic travel?",
+        "options": ["$75", "$65", "$85", "$100"],
+        "answer": "$65",
+        "explanation": "政策明確指出國內差旅每日餐飲津貼已從$75「recalibrated from $75 to $65 for domestic travel」。",
+        "crossReference": false,
+        "category": "細節"
+      },
+      {
+        "id": "P7S-T730-023-Q2",
+        "question": "What can be inferred about the reason for revising the reimbursement policy?",
+        "options": ["Employees were consistently spending less than the allocated budget", "Aggregate T&E spending exceeded the authorized budget, prompting tighter controls", "The company wanted to encourage more business travel", "A new accounting software system was implemented"],
+        "answer": "Aggregate T&E spending exceeded the authorized budget, prompting tighter controls",
+        "explanation": "政策開頭指出過去兩年「aggregate T&E spending exceeded the board-authorized budget by 17%」，可推斷超出預算是促使公司收緊差旅報銷規範的主因。",
+        "crossReference": false,
+        "category": "推論"
+      },
+      {
+        "id": "P7S-T730-023-Q3",
+        "question": "What is implied about reimbursement claims submitted after the 30-day window?",
+        "options": ["They will be automatically rejected", "They may be reduced by 15% unless there are documented extenuating circumstances", "They will receive priority processing", "They will be approved without any conditions"],
+        "answer": "They may be reduced by 15% unless there are documented extenuating circumstances",
+        "explanation": "政策明確規定超過30天提交的報銷申請「will be subject to a 15% reduction」除非有可證明的特殊情況，暗示逾期申請將面臨扣減風險。",
+        "crossReference": false,
+        "category": "推論"
+      }
+    ]
+  },
+  {
+    "id": "P7S-T730-024",
+    "part": 7,
+    "type": "single",
+    "track": "T730",
+    "documents": [
+      {
+        "title": "Internal Memo: Updated Whistleblower Protection Policy",
+        "body": "TO: All Employees, Contractors, and Temporary Personnel\nFROM: Chief Ethics & Compliance Officer\nDATE: February 18, 2026\nSUBJECT: Enhanced Whistleblower Protection Policy — Strengthening Our Commitment to Ethical Transparency\n\nThe organization's Whistleblower Protection Policy has undergone a substantive revision, approved by the board of directors on February 10, 2026, to reinforce our unwavering commitment to fostering a culture in which individuals feel unequivocally empowered to report misconduct without apprehension of retaliation.\n\nThe revised policy introduces several notable enhancements. First, the scope of protected disclosures has been broadened to explicitly encompass reports concerning financial irregularities that fall below the materiality threshold previously required, as well as reports pertaining to systemic ethical lapses that may not individually constitute violations of law but that collectively undermine organizational integrity. Second, the policy now provides for anonymous reporting through an independent third-party platform operated by EthicsPoint, a globally recognized integrity reporting service, which guarantees that the reporter's identity is shielded even from internal investigators unless the reporter elects to waive anonymity.\n\nFurthermore, the anti-retaliation provisions have been fortified. Any substantiated act of retaliation against a whistleblower—whether overt or insidious, including but not limited to demotion, reassignment to less desirable duties, exclusion from professional development opportunities, or the creation of a hostile work environment—will result in mandatory termination of the offending party's employment, irrespective of their seniority or tenure. All such determinations will be subject to review by an independent panel comprising three external ethics advisors.\n\nEmployees may access the full policy document, along with a concise summary guide, on the compliance intranet. A series of mandatory briefing sessions will be conducted in March, with scheduling details to follow."
+      }
+    ],
+    "questions": [
+      {
+        "id": "P7S-T730-024-Q1",
+        "question": "What is the primary purpose of this memo?",
+        "options": ["To announce the termination of several senior executives", "To inform personnel about enhancements to the whistleblower protection policy", "To introduce a new external ethics consulting firm", "To report financial irregularities discovered in the company"],
+        "answer": "To inform personnel about enhancements to the whistleblower protection policy",
+        "explanation": "備忘錄主旨明確指出「Enhanced Whistleblower Protection Policy」，全文旨在通知所有人員政策已進行實質性修訂及各項強化內容。",
+        "crossReference": false,
+        "category": "主旨"
+      },
+      {
+        "id": "P7S-T730-024-Q2",
+        "question": "What can be inferred about the new anonymous reporting platform operated by EthicsPoint?",
+        "options": ["Internal investigators will always know the reporter's identity", "The reporter's identity is protected even from internal investigators", "The platform is operated by the company's IT department", "Anonymous reporting is discouraged under the new policy"],
+        "answer": "The reporter's identity is protected even from internal investigators",
+        "explanation": "備忘錄指出EthicsPoint平台「guarantees that the reporter's identity is shielded even from internal investigators unless the reporter elects to waive anonymity」，可推斷舉報者的身分受到高度保護。",
+        "crossReference": false,
+        "category": "推論"
+      },
+      {
+        "id": "P7S-T730-024-Q3",
+        "question": "What is the meaning of \"substantiated\" as used in the context of this memo?",
+        "options": ["Only alleged but not yet investigated", "Proven or verified through investigation", "Automatically accepted without review", "Withdrawn by the whistleblower"],
+        "answer": "Proven or verified through investigation",
+        "explanation": "在本文中，「any substantiated act of retaliation」意指任何經調查證實的報復行為，強調必須經過查證確認後才會採取強制解僱的處分。",
+        "crossReference": false,
+        "category": "字義"
+      }
+    ]
+  }
+]

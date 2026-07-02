@@ -6,10 +6,54 @@
     "passageTitle": "Email: Office Relocation Notice",
     "passageTemplate": "Dear Staff,\n\nWe are pleased to announce that our office will (1)___ to a new location on 5F, Taipei 101 starting next Monday. Please make sure all personal belongings are (2)___ by Friday afternoon. The new office (3)___ more meeting rooms and a larger pantry area. If you have any questions, (4)___ contact the HR department.\n\nBest regards,\nAdmin Team",
     "blanks": [
-      {"index": 1, "options": ["relocate", "relocated", "relocating", "has relocated"], "answer": "relocate", "explanation": "主詞will後接原形動詞，表示未來式。"},
-      {"index": 2, "options": ["packed", "packing", "pack", "to pack"], "answer": "packed", "explanation": "be動詞+過去分詞構成被動語態，符合「物品被打包」的語意。"},
-      {"index": 3, "options": ["features", "featured", "featuring", "to feature"], "answer": "features", "explanation": "主詞office為第三人稱單數，現在簡單式動詞需加s。"},
-      {"index": 4, "options": ["please", "you should", "we recommend that", "it is suggested"], "answer": "please", "explanation": "承接祈使句語氣，please最自然銜接「請聯絡」。"}
+      {
+        "index": 1,
+        "options": [
+          "relocate",
+          "relocated",
+          "relocating",
+          "has relocated"
+        ],
+        "answer": "relocate",
+        "explanation": "主詞will後接原形動詞，表示未來式。",
+        "category": "時態"
+      },
+      {
+        "index": 2,
+        "options": [
+          "packed",
+          "packing",
+          "pack",
+          "to pack"
+        ],
+        "answer": "packed",
+        "explanation": "be動詞+過去分詞構成被動語態，符合「物品被打包」的語意。",
+        "category": "時態"
+      },
+      {
+        "index": 3,
+        "options": [
+          "features",
+          "featured",
+          "featuring",
+          "to feature"
+        ],
+        "answer": "features",
+        "explanation": "主詞office為第三人稱單數，現在簡單式動詞需加s。",
+        "category": "時態"
+      },
+      {
+        "index": 4,
+        "options": [
+          "please",
+          "you should",
+          "we recommend that",
+          "it is suggested"
+        ],
+        "answer": "please",
+        "explanation": "承接祈使句語氣，please最自然銜接「請聯絡」。",
+        "category": "上下文邏輯"
+      }
     ]
   },
   {
@@ -19,10 +63,54 @@
     "passageTitle": "Memo: New Lunch Policy",
     "passageTemplate": "To: All Employees\nFrom: Administration\nDate: June 15\n\nStarting next week, the company cafeteria will extend its operating hours (1)___ 11:00 a.m. to 2:30 p.m. This change was made to reduce crowding during peak lunch time. Employees are encouraged to (2)___ their lunch breaks between these hours to avoid long waiting lines. Please note that outside food deliveries (3)___ not be allowed in the main lobby after 1:00 p.m.\n\n(4)___ you have any dietary restrictions or special requests, please inform the cafeteria manager by this Friday.",
     "blanks": [
-      {"index": 1, "options": ["from", "on", "at", "between"], "answer": "from", "explanation": "from...to...表示時間範圍起迄，為標準搭配。"},
-      {"index": 2, "options": ["take", "taken", "taking", "took"], "answer": "take", "explanation": "encourage someone to + 原形動詞不定詞，故用take。"},
-      {"index": 3, "options": ["should", "must", "will", "can"], "answer": "will", "explanation": "will not表示未來將不允許；應理解整句為公告未來規定。"},
-      {"index": 4, "options": ["If", "Unless", "Because", "Although"], "answer": "If", "explanation": "條件句引導詞If最適合，表示「如果有飲食限制請告知」。"}
+      {
+        "index": 1,
+        "options": [
+          "from",
+          "on",
+          "at",
+          "between"
+        ],
+        "answer": "from",
+        "explanation": "from...to...表示時間範圍起迄，為標準搭配。",
+        "category": "介系詞"
+      },
+      {
+        "index": 2,
+        "options": [
+          "take",
+          "taken",
+          "taking",
+          "took"
+        ],
+        "answer": "take",
+        "explanation": "encourage someone to + 原形動詞不定詞，故用take。",
+        "category": "時態"
+      },
+      {
+        "index": 3,
+        "options": [
+          "should",
+          "must",
+          "will",
+          "can"
+        ],
+        "answer": "will",
+        "explanation": "will not表示未來將不允許；應理解整句為公告未來規定。",
+        "category": "近義字彙"
+      },
+      {
+        "index": 4,
+        "options": [
+          "If",
+          "Unless",
+          "Because",
+          "Although"
+        ],
+        "answer": "If",
+        "explanation": "條件句引導詞If最適合，表示「如果有飲食限制請告知」。",
+        "category": "連接詞"
+      }
     ]
   },
   {
@@ -32,10 +120,54 @@
     "passageTitle": "Announcement: Staff Training Workshop",
     "passageTemplate": "Attention all department heads,\n\nA mandatory training workshop will be held on July 10 at the downtown conference center. The workshop (1)___ on effective communication and team collaboration skills. All managers are required to attend the full-day session, (2)___ starts at 9:00 a.m. and ends at 4:30 p.m. Please (3)___ your registration before June 30 to secure a seat.\n\n(4)___ unable to attend due to urgent business, please notify the training coordinator as soon as possible.",
     "blanks": [
-      {"index": 1, "options": ["focuses", "will focus", "focused", "focusing"], "answer": "will focus", "explanation": "介紹workshop未來的主題方向，用未來式will focus最合適。"},
-      {"index": 2, "options": ["which", "who", "what", "where"], "answer": "which", "explanation": "關係代名詞which引導非限定子句，修飾先行詞session（事物）。"},
-      {"index": 3, "options": ["complete", "completing", "completed", "completes"], "answer": "complete", "explanation": "祈使句please後接原形動詞complete。"},
-      {"index": 4, "options": ["For those", "Those who are", "Anyone is", "Whoever"], "answer": "For those", "explanation": "For those後可省略who are，為公告常見簡潔寫法，表「針對無法出席者」。"}
+      {
+        "index": 1,
+        "options": [
+          "focuses",
+          "will focus",
+          "focused",
+          "focusing"
+        ],
+        "answer": "will focus",
+        "explanation": "介紹workshop未來的主題方向，用未來式will focus最合適。",
+        "category": "時態"
+      },
+      {
+        "index": 2,
+        "options": [
+          "which",
+          "who",
+          "what",
+          "where"
+        ],
+        "answer": "which",
+        "explanation": "關係代名詞which引導非限定子句，修飾先行詞session（事物）。",
+        "category": "關係代名詞"
+      },
+      {
+        "index": 3,
+        "options": [
+          "complete",
+          "completing",
+          "completed",
+          "completes"
+        ],
+        "answer": "complete",
+        "explanation": "祈使句please後接原形動詞complete。",
+        "category": "時態"
+      },
+      {
+        "index": 4,
+        "options": [
+          "For those",
+          "Those who are",
+          "Anyone is",
+          "Whoever"
+        ],
+        "answer": "For those",
+        "explanation": "For those後可省略who are，為公告常見簡潔寫法，表「針對無法出席者」。",
+        "category": "關係代名詞"
+      }
     ]
   },
   {
@@ -45,10 +177,54 @@
     "passageTitle": "Email: Meeting Schedule Change",
     "passageTemplate": "Dear Team,\n\nI am writing to inform you that the weekly project meeting has been (1)___ from Wednesday to Thursday this week. The change is (2)___ a scheduling conflict with the client presentation. The meeting room will remain the same, but please note that the starting time has been moved (3)___ 30 minutes earlier. If you cannot attend the rescheduled meeting, (4)___ send me an email by Tuesday evening.\n\nRegards,\nProject Manager",
     "blanks": [
-      {"index": 1, "options": ["rescheduled", "reschedule", "rescheduling", "reschedules"], "answer": "rescheduled", "explanation": "has been + 過去分詞構成現在完成被動語態。"},
-      {"index": 2, "options": ["due to", "because", "since", "as of"], "answer": "due to", "explanation": "due to + 名詞（scheduling conflict）表示原因，為正確片語。"},
-      {"index": 3, "options": ["up", "to", "at", "for"], "answer": "up", "explanation": "move up表示提前，為動詞片語固定搭配。"},
-      {"index": 4, "options": ["please", "you would", "it is appreciated if", "we hope that"], "answer": "please", "explanation": "if條件句後接祈使句please為email常用禮貌請求語氣。"}
+      {
+        "index": 1,
+        "options": [
+          "rescheduled",
+          "reschedule",
+          "rescheduling",
+          "reschedules"
+        ],
+        "answer": "rescheduled",
+        "explanation": "has been + 過去分詞構成現在完成被動語態。",
+        "category": "時態"
+      },
+      {
+        "index": 2,
+        "options": [
+          "due to",
+          "because",
+          "since",
+          "as of"
+        ],
+        "answer": "due to",
+        "explanation": "due to + 名詞（scheduling conflict）表示原因，為正確片語。",
+        "category": "搭配詞"
+      },
+      {
+        "index": 3,
+        "options": [
+          "up",
+          "to",
+          "at",
+          "for"
+        ],
+        "answer": "up",
+        "explanation": "move up表示提前，為動詞片語固定搭配。",
+        "category": "介系詞"
+      },
+      {
+        "index": 4,
+        "options": [
+          "please",
+          "you would",
+          "it is appreciated if",
+          "we hope that"
+        ],
+        "answer": "please",
+        "explanation": "if條件句後接祈使句please為email常用禮貌請求語氣。",
+        "category": "近義字彙"
+      }
     ]
   },
   {
@@ -58,10 +234,54 @@
     "passageTitle": "Notice: Parking Lot Maintenance",
     "passageTemplate": "Building Management Notice\n\nPlease be informed that the underground parking lot will be closed for maintenance (1)___ October 5 to October 7. During this period, all vehicles must be (2)___ from the premises by 8:00 p.m. on October 4. We (3)___ apologize for any inconvenience this may cause. Alternative parking is available at the public lot (4)___ across the street.\n\nThank you for your cooperation.",
     "blanks": [
-      {"index": 1, "options": ["from", "in", "on", "at"], "answer": "from", "explanation": "from...to...表示一段時間的起迄，為公告常見句型。"},
-      {"index": 2, "options": ["removed", "removing", "remove", "to remove"], "answer": "removed", "explanation": "must be + 過去分詞構成被動語態，表示車輛「必須被移走」。"},
-      {"index": 3, "options": ["sincerely", "sincere", "sincerity", "more sincere"], "answer": "sincerely", "explanation": "副詞sincerely修飾動詞apologize；sincere為形容詞，sincerity為名詞。"},
-      {"index": 4, "options": ["located", "locating", "locate", "locates"], "answer": "located", "explanation": "過去分詞located當形容詞修飾lot，相當於which is located的簡化。"}
+      {
+        "index": 1,
+        "options": [
+          "from",
+          "in",
+          "on",
+          "at"
+        ],
+        "answer": "from",
+        "explanation": "from...to...表示一段時間的起迄，為公告常見句型。",
+        "category": "上下文邏輯"
+      },
+      {
+        "index": 2,
+        "options": [
+          "removed",
+          "removing",
+          "remove",
+          "to remove"
+        ],
+        "answer": "removed",
+        "explanation": "must be + 過去分詞構成被動語態，表示車輛「必須被移走」。",
+        "category": "時態"
+      },
+      {
+        "index": 3,
+        "options": [
+          "sincerely",
+          "sincere",
+          "sincerity",
+          "more sincere"
+        ],
+        "answer": "sincerely",
+        "explanation": "副詞sincerely修飾動詞apologize；sincere為形容詞，sincerity為名詞。",
+        "category": "詞性"
+      },
+      {
+        "index": 4,
+        "options": [
+          "located",
+          "locating",
+          "locate",
+          "locates"
+        ],
+        "answer": "located",
+        "explanation": "過去分詞located當形容詞修飾lot，相當於which is located的簡化。",
+        "category": "時態"
+      }
     ]
   },
   {
@@ -71,10 +291,54 @@
     "passageTitle": "Advertisement: Job Opening",
     "passageTemplate": "NOW HIRING: Customer Service Representative\n\nWe are looking for a friendly and (1)___ individual to join our customer support team. The ideal candidate should have at least one year of experience in a similar role and be able to communicate (2)___ in both English and Mandarin. Responsibilities include answering customer inquiries, processing orders, and (3)___ complaints in a professional manner.\n\nTo apply, please send your resume to hr@abccorp.com. (4)___ will be contacted for an interview within one week of their application.",
     "blanks": [
-      {"index": 1, "options": ["enthusiastic", "enthusiasm", "enthusiastically", "enthuse"], "answer": "enthusiastic", "explanation": "形容詞enthusiastic與friendly並列修飾名詞individual；enthusiasm為名詞。"},
-      {"index": 2, "options": ["effectively", "effective", "effect", "effectiveness"], "answer": "effectively", "explanation": "副詞effectively修飾動詞communicate；effective為形容詞，effect為名詞。"},
-      {"index": 3, "options": ["handling", "handle", "handled", "handles"], "answer": "handling", "explanation": "與answering, processing並列，皆用動名詞作介系詞的受詞。"},
-      {"index": 4, "options": ["Qualified candidates", "The qualified candidate", "Those who qualify", "Anyone qualifies"], "answer": "Qualified candidates", "explanation": "複數主詞與後文will be contacted一致；語意上合適的應徵者整體。"}
+      {
+        "index": 1,
+        "options": [
+          "enthusiastic",
+          "enthusiasm",
+          "enthusiastically",
+          "enthuse"
+        ],
+        "answer": "enthusiastic",
+        "explanation": "形容詞enthusiastic與friendly並列修飾名詞individual；enthusiasm為名詞。",
+        "category": "詞性"
+      },
+      {
+        "index": 2,
+        "options": [
+          "effectively",
+          "effective",
+          "effect",
+          "effectiveness"
+        ],
+        "answer": "effectively",
+        "explanation": "副詞effectively修飾動詞communicate；effective為形容詞，effect為名詞。",
+        "category": "詞性"
+      },
+      {
+        "index": 3,
+        "options": [
+          "handling",
+          "handle",
+          "handled",
+          "handles"
+        ],
+        "answer": "handling",
+        "explanation": "與answering, processing並列，皆用動名詞作介系詞的受詞。",
+        "category": "時態"
+      },
+      {
+        "index": 4,
+        "options": [
+          "Qualified candidates",
+          "The qualified candidate",
+          "Those who qualify",
+          "Anyone qualifies"
+        ],
+        "answer": "Qualified candidates",
+        "explanation": "複數主詞與後文will be contacted一致；語意上合適的應徵者整體。",
+        "category": "上下文邏輯"
+      }
     ]
   },
   {
@@ -84,10 +348,54 @@
     "passageTitle": "Email: Order Confirmation",
     "passageTemplate": "Dear Mr. Chen,\n\nThank you for your recent order. This email is to confirm that your order #8823 has been (1)___ and is currently being prepared for shipment. Your items are expected to be (2)___ within three to five business days. The shipping cost has been calculated (3)___ on the total weight of your package.\n\n(4)___ the shipment has been dispatched, you will receive a tracking number via email.\n\nSincerely,\nCustomer Service Team",
     "blanks": [
-      {"index": 1, "options": ["received", "receiving", "receive", "receives"], "answer": "received", "explanation": "has been + 過去分詞構成現在完成被動語態，表示「已收到」。"},
-      {"index": 2, "options": ["delivered", "delivering", "deliver", "delivers"], "answer": "delivered", "explanation": "be expected to be + 過去分詞，被動不定詞表示「預計被送達」。"},
-      {"index": 3, "options": ["based", "basing", "base", "bases"], "answer": "based", "explanation": "has been calculated based on為被動語態+過去分詞形容詞片語。"},
-      {"index": 4, "options": ["As soon as", "Despite", "Unless", "In order that"], "answer": "As soon as", "explanation": "As soon as引導時間子句表示「一...就...」，為訂單通知常見說法。"}
+      {
+        "index": 1,
+        "options": [
+          "received",
+          "receiving",
+          "receive",
+          "receives"
+        ],
+        "answer": "received",
+        "explanation": "has been + 過去分詞構成現在完成被動語態，表示「已收到」。",
+        "category": "時態"
+      },
+      {
+        "index": 2,
+        "options": [
+          "delivered",
+          "delivering",
+          "deliver",
+          "delivers"
+        ],
+        "answer": "delivered",
+        "explanation": "be expected to be + 過去分詞，被動不定詞表示「預計被送達」。",
+        "category": "時態"
+      },
+      {
+        "index": 3,
+        "options": [
+          "based",
+          "basing",
+          "base",
+          "bases"
+        ],
+        "answer": "based",
+        "explanation": "has been calculated based on為被動語態+過去分詞形容詞片語。",
+        "category": "時態"
+      },
+      {
+        "index": 4,
+        "options": [
+          "As soon as",
+          "Despite",
+          "Unless",
+          "In order that"
+        ],
+        "answer": "As soon as",
+        "explanation": "As soon as引導時間子句表示「一...就...」，為訂單通知常見說法。",
+        "category": "近義字彙"
+      }
     ]
   },
   {
@@ -97,10 +405,54 @@
     "passageTitle": "Memo: IT System Upgrade",
     "passageTemplate": "To: All Staff\nFrom: IT Department\n\nThis is to notify you that the company's server system will undergo maintenance this Saturday, June 22, from 6:00 a.m. to 12:00 p.m. During this time, all network services (1)___ temporarily unavailable. Please save all your work and (2)___ out of your accounts before leaving on Friday.\n\nThe upgrade is expected to (3)___ the overall system performance and reduce downtime significantly. If you experience any technical issues after the upgrade, (4)___ contact the IT help desk immediately.",
     "blanks": [
-      {"index": 1, "options": ["will be", "are", "were", "have been"], "answer": "will be", "explanation": "未來時間during this time需要未來式will be來表示將出現的狀態。"},
-      {"index": 2, "options": ["log", "logging", "logged", "logs"], "answer": "log", "explanation": "save and log out為祈使句並列，兩者皆用原形動詞。"},
-      {"index": 3, "options": ["improve", "improving", "improved", "improvement"], "answer": "improve", "explanation": "be expected to + 原形動詞不定詞，improve為正確形式。"},
-      {"index": 4, "options": ["please", "you are advised to", "it is necessary that", "we suggest you"], "answer": "please", "explanation": "祈使句please銜接最為直接自然，為公告標準語氣。"}
+      {
+        "index": 1,
+        "options": [
+          "will be",
+          "are",
+          "were",
+          "have been"
+        ],
+        "answer": "will be",
+        "explanation": "未來時間during this time需要未來式will be來表示將出現的狀態。",
+        "category": "時態"
+      },
+      {
+        "index": 2,
+        "options": [
+          "log",
+          "logging",
+          "logged",
+          "logs"
+        ],
+        "answer": "log",
+        "explanation": "save and log out為祈使句並列，兩者皆用原形動詞。",
+        "category": "時態"
+      },
+      {
+        "index": 3,
+        "options": [
+          "improve",
+          "improving",
+          "improved",
+          "improvement"
+        ],
+        "answer": "improve",
+        "explanation": "be expected to + 原形動詞不定詞，improve為正確形式。",
+        "category": "時態"
+      },
+      {
+        "index": 4,
+        "options": [
+          "please",
+          "you are advised to",
+          "it is necessary that",
+          "we suggest you"
+        ],
+        "answer": "please",
+        "explanation": "祈使句please銜接最為直接自然，為公告標準語氣。",
+        "category": "近義字彙"
+      }
     ]
   },
   {
@@ -110,10 +462,54 @@
     "passageTitle": "Announcement: Annual Company Picnic",
     "passageTemplate": "Dear Colleagues,\n\nWe are excited to announce that this year's company picnic will take place (1)___ Saturday, August 17, at Yangmingshan National Park. Buses will depart from the office (2)___ 8:30 a.m. sharp. Lunch and refreshments will be provided, and there will be various outdoor activities for everyone to enjoy.\n\nFamily members are (3)___ to join the event. Please RSVP by August 5 so that we can make (4)___ arrangements for transportation and catering.\n\nWe look forward to seeing you there!",
     "blanks": [
-      {"index": 1, "options": ["on", "in", "at", "by"], "answer": "on", "explanation": "特定日期Saturday用介係詞on；in用於月份/年，at用於時間點。"},
-      {"index": 2, "options": ["at", "in", "on", "for"], "answer": "at", "explanation": "特定時間點8:30 a.m.用介係詞at。"},
-      {"index": 3, "options": ["welcome", "welcomed", "welcoming", "welcomes"], "answer": "welcome", "explanation": "are welcome to join（歡迎參加）為固定用法，welcome為形容詞。"},
-      {"index": 4, "options": ["necessary", "necessity", "necessarily", "necessitate"], "answer": "necessary", "explanation": "形容詞necessary修飾名詞arrangements；necessity為名詞。"}
+      {
+        "index": 1,
+        "options": [
+          "on",
+          "in",
+          "at",
+          "by"
+        ],
+        "answer": "on",
+        "explanation": "特定日期Saturday用介係詞on；in用於月份/年，at用於時間點。",
+        "category": "近義字彙"
+      },
+      {
+        "index": 2,
+        "options": [
+          "at",
+          "in",
+          "on",
+          "for"
+        ],
+        "answer": "at",
+        "explanation": "特定時間點8:30 a.m.用介係詞at。",
+        "category": "近義字彙"
+      },
+      {
+        "index": 3,
+        "options": [
+          "welcome",
+          "welcomed",
+          "welcoming",
+          "welcomes"
+        ],
+        "answer": "welcome",
+        "explanation": "are welcome to join（歡迎參加）為固定用法，welcome為形容詞。",
+        "category": "搭配詞"
+      },
+      {
+        "index": 4,
+        "options": [
+          "necessary",
+          "necessity",
+          "necessarily",
+          "necessitate"
+        ],
+        "answer": "necessary",
+        "explanation": "形容詞necessary修飾名詞arrangements；necessity為名詞。",
+        "category": "詞性"
+      }
     ]
   },
   {
@@ -123,10 +519,54 @@
     "passageTitle": "Email: Travel Expense Reimbursement",
     "passageTemplate": "Dear Ms. Lin,\n\nYour travel expense report for last month's business trip to Singapore has been (1)___. However, we noticed that the receipt for the hotel accommodation is missing. Please submit the (2)___ receipt as soon as possible so that we can process your reimbursement.\n\nKindly note that all reimbursements must be (3)___ within 30 days of the travel date. (4)___ additional questions regarding the reimbursement policy, please refer to the employee handbook or contact the finance department.\n\nBest regards,\nFinance Team",
     "blanks": [
-      {"index": 1, "options": ["reviewed", "reviewing", "review", "reviews"], "answer": "reviewed", "explanation": "has been + 過去分詞構成現在完成被動語態，表示「已被審查」。"},
-      {"index": 2, "options": ["missing", "missed", "miss", "missingly"], "answer": "missing", "explanation": "形容詞missing修飾名詞receipt，表示「缺少的收據」。"},
-      {"index": 3, "options": ["submitted", "submitting", "submit", "submits"], "answer": "submitted", "explanation": "must be + 過去分詞構成被動語態，表示「必須被提交」。"},
-      {"index": 4, "options": ["If you have", "Having", "You having", "Should you had"], "answer": "If you have", "explanation": "條件句If you have...引導，為email常見句型。"}
+      {
+        "index": 1,
+        "options": [
+          "reviewed",
+          "reviewing",
+          "review",
+          "reviews"
+        ],
+        "answer": "reviewed",
+        "explanation": "has been + 過去分詞構成現在完成被動語態，表示「已被審查」。",
+        "category": "時態"
+      },
+      {
+        "index": 2,
+        "options": [
+          "missing",
+          "missed",
+          "miss",
+          "missingly"
+        ],
+        "answer": "missing",
+        "explanation": "形容詞missing修飾名詞receipt，表示「缺少的收據」。",
+        "category": "時態"
+      },
+      {
+        "index": 3,
+        "options": [
+          "submitted",
+          "submitting",
+          "submit",
+          "submits"
+        ],
+        "answer": "submitted",
+        "explanation": "must be + 過去分詞構成被動語態，表示「必須被提交」。",
+        "category": "時態"
+      },
+      {
+        "index": 4,
+        "options": [
+          "If you have",
+          "Having",
+          "You having",
+          "Should you had"
+        ],
+        "answer": "If you have",
+        "explanation": "條件句If you have...引導，為email常見句型。",
+        "category": "近義字彙"
+      }
     ]
   },
   {
@@ -136,10 +576,54 @@
     "passageTitle": "Notice: Fire Drill Schedule",
     "passageTemplate": "FIRE DRILL NOTICE\n\nA fire drill will be conducted on Tuesday, September 10, at 2:00 p.m. (1)___ the fire alarm sounds, all employees must evacuate the building immediately using the nearest emergency exit. Do not use the elevators (2)___ the drill. Please assemble at the designated meeting point in the parking lot and wait for further (3)___ from the safety officer.\n\nThe drill is expected to last approximately 20 minutes. (4)___ cooperation is appreciated and will help ensure everyone's safety in a real emergency.",
     "blanks": [
-      {"index": 1, "options": ["When", "Because", "Unless", "In case"], "answer": "When", "explanation": "When引導時間副詞子句表示「當警報響起時」，最直接合理。"},
-      {"index": 2, "options": ["during", "while", "for", "since"], "answer": "during", "explanation": "during + 名詞（the drill）表示「演習期間」，比while（需接子句/分詞）更合適。"},
-      {"index": 3, "options": ["instructions", "instructs", "instructing", "instructed"], "answer": "instructions", "explanation": "further instructions（進一步指示）為名詞片語，作wait for的受詞。"},
-      {"index": 4, "options": ["Your", "You", "Yours", "Oneself"], "answer": "Your", "explanation": "所有格Your修飾名詞cooperation；You為主格代名詞，Yours為所有格代名詞。"}
+      {
+        "index": 1,
+        "options": [
+          "When",
+          "Because",
+          "Unless",
+          "In case"
+        ],
+        "answer": "When",
+        "explanation": "When引導時間副詞子句表示「當警報響起時」，最直接合理。",
+        "category": "連接詞"
+      },
+      {
+        "index": 2,
+        "options": [
+          "during",
+          "while",
+          "for",
+          "since"
+        ],
+        "answer": "during",
+        "explanation": "during + 名詞（the drill）表示「演習期間」，比while（需接子句/分詞）更合適。",
+        "category": "詞性"
+      },
+      {
+        "index": 3,
+        "options": [
+          "instructions",
+          "instructs",
+          "instructing",
+          "instructed"
+        ],
+        "answer": "instructions",
+        "explanation": "further instructions（進一步指示）為名詞片語，作wait for的受詞。",
+        "category": "詞性"
+      },
+      {
+        "index": 4,
+        "options": [
+          "Your",
+          "You",
+          "Yours",
+          "Oneself"
+        ],
+        "answer": "Your",
+        "explanation": "所有格Your修飾名詞cooperation；You為主格代名詞，Yours為所有格代名詞。",
+        "category": "詞性"
+      }
     ]
   },
   {
@@ -149,10 +633,54 @@
     "passageTitle": "Advertisement: Business English Course",
     "passageTemplate": "BUSINESS ENGLISH COURSE — ENROLL NOW!\n\nAre you looking to improve your English skills for the workplace? Our 12-week Business English program is designed (1)___ for working professionals who want to communicate more confidently in meetings, presentations, and negotiations. Classes are held twice a week (2)___ the evening to accommodate busy schedules.\n\nEach course includes practical exercises, role-play activities, and (3)___ feedback from experienced instructors. Upon completion, participants will receive a certificate that can be added (4)___ their professional portfolio.\n\nRegister by August 31 and receive a 15% early-bird discount!",
     "blanks": [
-      {"index": 1, "options": ["specifically", "specific", "specify", "specification"], "answer": "specifically", "explanation": "副詞specifically修飾designed，表示「特別針對」；specific為形容詞。"},
-      {"index": 2, "options": ["in", "on", "at", "during"], "answer": "in", "explanation": "in the evening（在晚間）為固定搭配；on用於特定日期，at用於時間點。"},
-      {"index": 3, "options": ["personalized", "personalize", "personalizing", "personally"], "answer": "personalized", "explanation": "形容詞personalized修飾名詞feedback，表示「個人化的回饋」。"},
-      {"index": 4, "options": ["to", "in", "on", "with"], "answer": "to", "explanation": "add to（加入、增添到）為動詞片語固定搭配。"}
+      {
+        "index": 1,
+        "options": [
+          "specifically",
+          "specific",
+          "specify",
+          "specification"
+        ],
+        "answer": "specifically",
+        "explanation": "副詞specifically修飾designed，表示「特別針對」；specific為形容詞。",
+        "category": "詞性"
+      },
+      {
+        "index": 2,
+        "options": [
+          "in",
+          "on",
+          "at",
+          "during"
+        ],
+        "answer": "in",
+        "explanation": "in the evening（在晚間）為固定搭配；on用於特定日期，at用於時間點。",
+        "category": "搭配詞"
+      },
+      {
+        "index": 3,
+        "options": [
+          "personalized",
+          "personalize",
+          "personalizing",
+          "personally"
+        ],
+        "answer": "personalized",
+        "explanation": "形容詞personalized修飾名詞feedback，表示「個人化的回饋」。",
+        "category": "詞性"
+      },
+      {
+        "index": 4,
+        "options": [
+          "to",
+          "in",
+          "on",
+          "with"
+        ],
+        "answer": "to",
+        "explanation": "add to（加入、增添到）為動詞片語固定搭配。",
+        "category": "片語動詞"
+      }
     ]
   }
 ]

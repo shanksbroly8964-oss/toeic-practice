@@ -1,0 +1,744 @@
+
+========== reading_part5_T600_ext1.json (150 items, sampling 15) ==========
+
+--- P5-T600-051 (idx 0) ---
+  question: By the time the manager arrives, the staff ____ the reports already.
+  options: ['will prepare', 'will have prepared', 'prepared', 'are preparing']
+
+--- P5-T600-061 (idx 10) ---
+  question: The employees ____ the new policy since last Monday.
+  options: ['discuss', 'discussed', 'are discussing', 'have been discussing']
+
+--- P5-T600-071 (idx 20) ---
+  question: The negotiation process was surprisingly ____.
+  options: ['smooth', 'smoothly', 'smoothness', 'smoothed']
+
+--- P5-T600-081 (idx 30) ---
+  question: The applicant should have strong ____ skills.
+  options: ['communicate', 'communication', 'communicative', 'communicating']
+
+--- P5-T600-091 (idx 40) ---
+  question: The company is expanding its operations ____ Asia.
+  options: ['in', 'on', 'at', 'by']
+
+--- P5-T600-101 (idx 50) ---
+  question: We need to account ____ every dollar spent on the project.
+  options: ['to', 'for', 'with', 'of']
+
+--- P5-T600-111 (idx 60) ---
+  question: Please submit the application ____ you have completed all sections.
+  options: ['so', 'but', 'once', 'although']
+
+--- P5-T600-121 (idx 70) ---
+  question: The manager ____ office is on the third floor will meet you at 3 PM.
+  options: ['who', 'whom', 'which', 'whose']
+
+--- P5-T600-131 (idx 80) ---
+  question: This is the software ____ we use for inventory management.
+  options: ['who', 'whom', 'which', 'whose']
+
+--- P5-T600-141 (idx 90) ---
+  question: If he had left on time, he ____ the train.
+  options: ['catches', 'caught', 'would have caught', 'will catch']
+
+--- P5-T600-151 (idx 100) ---
+  question: The company decided to ____ a new marketing strategy.
+  options: ['adopt', 'adapt', 'adept', 'adjust']
+
+--- P5-T600-161 (idx 110) ---
+  question: Our team needs to ____ the deadline for this proposal.
+  options: ['do', 'make', 'meet', 'take']
+
+--- P5-T600-171 (idx 120) ---
+  question: The supplier failed to ____ the agreed delivery date.
+  options: ['keep on', 'keep up', 'keep to', 'keep off']
+
+--- P5-T600-181 (idx 130) ---
+  question: The customer service team will ____ your complaint shortly.
+  options: ['follow through', 'follow up on', 'follow out', 'follow after']
+
+--- P5-T600-191 (idx 140) ---
+  question: The accountant will ____ the financial statements.
+  options: ['reveal', 'review', 'revise', 'reverse']
+
+========== reading_part5_T730_ext1.json (165 items, sampling 17) ==========
+
+--- P5-T730-056 (idx 0) ---
+  question: By the time the audit is completed, the accounting team ____ all outstanding discrepancies.
+  options: ['will have resolved', 'will resolve', 'resolves', 'has resolved']
+
+--- P5-T730-066 (idx 10) ---
+  question: The CEO's decision was met with widespread ____ from both employees and shareholders.
+  options: ['disapproval', 'disapprove', 'disapproving', 'disapprovingly']
+
+--- P5-T730-076 (idx 20) ---
+  question: The vendor was held ____ for the damages caused by the defective products.
+  options: ['liable', 'accountable', 'responsible', 'answerable']
+
+--- P5-T730-086 (idx 30) ---
+  question: The departments ____ proposals were selected will receive additional funding for implementation.
+  options: ['whose', 'which', 'that', 'whom']
+
+--- P5-T730-096 (idx 40) ---
+  question: The management recommended that the company ____ its remote work policy permanently.
+  options: ['adopt', 'adopts', 'adopted', 'would adopt']
+
+--- P5-T730-106 (idx 50) ---
+  question: The government has decided to ____ subsidies for renewable energy projects over the next five years.
+  options: ['phase in', 'fall back', 'give away', 'look into']
+
+--- P5-T730-116 (idx 60) ---
+  question: The quarterly report must be submitted by Friday to ____ with corporate filing requirements.
+  options: ['comply', 'abide', 'conform', 'adhere']
+
+--- P5-T730-126 (idx 70) ---
+  question: The management hopes that the restructuring will ____ productivity and reduce operational costs.
+  options: ['bolster', 'bother', 'broker', 'bother']
+
+--- P5-T730-136 (idx 80) ---
+  question: The committee reached a ____ decision after hours of deliberation.
+  options: ['unanimous', 'unanimously', 'unanimity', 'unanimousness']
+
+--- P5-T730-146 (idx 90) ---
+  question: The company was criticized ____ its failure to address workplace safety concerns promptly.
+  options: ['for', 'about', 'with', 'on']
+
+--- P5-T730-156 (idx 100) ---
+  question: The insurance policy covers damages ____ by natural disasters such as floods and earthquakes.
+  options: ['caused', 'causing', 'being caused', 'having caused']
+
+--- P5-T730-166 (idx 110) ---
+  question: The candidate, ____ background in finance was impressive, was offered the position immediately.
+  options: ['whose', 'who', 'whom', 'which']
+
+--- P5-T730-176 (idx 120) ---
+  question: The supplier was unable to ____ the unexpected increase in demand during the holiday season.
+  options: ['keep up with', 'put up with', 'come down with', 'go through with']
+
+--- P5-T730-186 (idx 130) ---
+  question: The new software has significantly improved the ____ of data processing operations.
+  options: ['efficiency', 'effectiveness', 'efficacy', 'effort']
+
+--- P5-T730-196 (idx 140) ---
+  question: The new regulation is ____ to all companies operating within the European Union.
+  options: ['applicable', 'application', 'apply', 'applied']
+
+--- P5-T730-206 (idx 150) ---
+  question: The HR department ____ the new performance evaluation system for three months before rolling it out company-wide.
+  options: ['had been testing', 'has tested', 'tests', 'will test']
+
+--- P5-T730-216 (idx 160) ---
+  question: The speaker's ____ on the future of artificial intelligence captivated the audience.
+  options: ['insights', 'incidents', 'inquiries', 'incentives']
+
+========== reading_part6_T600_ext1.json (36 items, sampling 4) ==========
+
+--- P6-T600-013 (idx 0) ---
+  passageTitle: Email: New Employee Welcome
+  passageTemplate: Dear Jason,
+
+Welcome to the team! We are very pleased to have you (1)___ us starting next Monday. Your workstation has been set up on the 3rd floor, and your computer login credentials will be (2)___ to you by the IT department on your first day.
+
+Please arrive at 9:00 a.m. and report to the HR office, (3)___ a staff member will give you a brief orientation. Also, remember to bring a photo ID for your security badge. (4)___ any questions before your start date, feel free to contact me directly.
+
+Best regards,
+Rebecca Tan
+HR Manager
+
+--- P6-T600-023 (idx 10) ---
+  passageTitle: Email: Internship Application
+  passageTemplate: Dear Mr. Lee,
+
+Thank you for your interest in the summer internship program at TechForward Inc. We have received your application and would like to invite you (1)___ an interview on June 20 at 10:00 a.m. The interview will last approximately 45 minutes and will be (2)___ by two members of our marketing team.
+
+Please bring a copy of your resume and any relevant work samples. The interview will take place at our main office (3)___ 15F, No. 100, Section 2, Dunhua South Road.
+
+(4)___ unable to attend the scheduled interview, please notify us at least 24 hours in advance so that we can reschedule.
+
+Best regards,
+Kelly Wu
+HR Internship Coordinator
+
+--- P6-T600-033 (idx 20) ---
+  passageTitle: Announcement: Year-End Party
+  passageTemplate: YEAR-END PARTY INVITATION
+
+You are cordially invited to this year's year-end celebration party! The event will be (1)___ on Saturday, December 21, at the Grand Ballroom of the Royal Hotel, starting at 6:30 p.m.
+
+The evening will feature a buffet dinner, live music, a lucky draw with (2)___ prizes, and an awards ceremony to recognize outstanding employees. Dress code for the evening is semi-formal.
+
+Each employee (3)___ bring one guest. Please RSVP via the online registration form by December 10. (4)___ have any dietary restrictions, please include this information when you register.
+
+We look forward to celebrating a successful year with all of you!
+
+— Events Planning Committee
+
+--- P6-T600-043 (idx 30) ---
+  passageTitle: Announcement: Professional Development Scholarship
+  passageTemplate: PROFESSIONAL DEVELOPMENT SCHOLARSHIP — APPLY NOW!
+
+The company is pleased to announce the 2026 Professional Development Scholarship Program. Full-time employees who have been with the company for at least one year are (1)___ to apply. The scholarship covers up to NT$30,000 for approved courses, conferences, or certification programs.
+
+(2)___ for the scholarship must be submitted online by March 15. Applicants are required to submit a brief proposal explaining how the training will benefit their work (3)___ the company's goals. A committee will review all applications and announce the results by April 1.
+
+This is a great opportunity to (4)___ your skills and advance your career. Don't miss out!
+
+— Training and Development Department
+
+========== reading_part6_T730_ext1.json (36 items, sampling 4) ==========
+
+--- P6-T730-013 (idx 0) ---
+  passageTitle: Email: Project Deadline Extension Request
+  passageTemplate: Dear Mr. Henderson,
+
+I am writing to formally request a two-week extension for the Sentinel Platform integration project, which is currently scheduled for delivery on May 15. As you are aware, the third-party API documentation we (1)___ on for the payment gateway module was updated without prior notice last week, rendering a significant portion of our existing codebase incompatible.
+
+Our development team has been working overtime to refactor the affected modules, and I am confident that the additional time will allow us not only to resolve the compatibility issues but also to (2)___ more rigorous testing protocols that were originally planned for the post-launch phase. The revised timeline would push the go-live date to May 29.
+
+I understand that any delay impacts the broader product roadmap, and I do not make this request (3)___. We have already notified the stakeholders of the downstream teams and have prepared a mitigation plan to minimize disruption.
+
+(4)___ at your earliest convenience so that we can adjust the resource allocation accordingly.
+
+Best regards,
+Project Lead
+
+--- P6-T730-023 (idx 10) ---
+  passageTitle: Memo: Quarterly Market Share Analysis
+  passageTemplate: To: Executive Leadership Team
+From: Market Intelligence Unit
+
+Please find below the highlights from our third-quarter market share analysis across the three primary product categories. The data, (1)___ has been compiled from independent industry reports and our internal sales databases, reveals a mixed but generally encouraging picture.
+
+In the enterprise software segment, our market share increased from 14.2% to 16.8%, the (2)___ gain recorded since the second quarter of 2022. This jump is largely attributable to the successful launch of our cloud-native platform and the withdrawal of a key competitor from the Asia-Pacific market. Conversely, the consumer electronics division experienced a marginal decline of 0.7 percentage points, which we attribute to aggressive pricing strategies employed by several emerging brands in the budget segment.
+
+The most significant concern, however, lies in the professional services category, where our share has (3)___ eroded over four consecutive quarters, falling from 22.1% to 18.9%. I recommend that we commission an independent review of our service delivery model to identify the root causes before this trend becomes irreversible.
+
+(4)___ a comprehensive discussion of these findings at the executive retreat scheduled for November 10.
+
+Regards,
+Director of Market Intelligence
+
+--- P6-T730-033 (idx 20) ---
+  passageTitle: Email: Intellectual Property Licensing
+  passageTemplate: Dear Ms. Okonkwo,
+
+Thank you for expressing interest in licensing our patented microfiltration technology for application in your water purification systems. We have reviewed your preliminary proposal and are generally (1)___ to entering into a licensing agreement, subject to the satisfactory negotiation of the terms outlined below.
+
+We propose a non-exclusive licensing arrangement with an initial term of five years, renewable by mutual consent. The royalty structure would consist of a 4.5% running royalty on net sales of products incorporating the licensed technology, with a minimum annual guaranteed payment of $80,000, (2)___ against earned royalties on a quarterly basis. This structure is consistent with the terms we have extended to other licensees in comparable markets.
+
+Before we can proceed to drafting the definitive agreement, we require a detailed commercialization plan that specifies your projected production volumes, target markets, and anticipated timeline for bringing the licensed products to market. (3)___ this information, we cannot accurately assess the revenue potential of the partnership.
+
+(4)___ to discuss any aspect of this proposal in greater detail at your convenience.
+
+Best regards,
+Technology Transfer Director
+
+--- P6-T730-043 (idx 30) ---
+  passageTitle: Memo: Knowledge Management System Launch
+  passageTemplate: To: All Employees
+From: Chief Knowledge Officer
+
+I am excited to announce that our new enterprise knowledge management system, InsightHub, will go live on November 1. This platform represents a significant investment in our collective ability to capture, organize, and share institutional knowledge across departments and geographic regions.
+
+InsightHub replaces the fragmented collection of shared drives, wikis, and departmental databases that (1)___ made it difficult to locate information and led to the duplication of work across teams. The new system features an AI-powered search engine, topic-based knowledge clusters, and a peer review mechanism that ensures content remains accurate and up to date. All employees will have both read and contribute access to the platform.
+
+To facilitate the transition, a dedicated migration team will transfer all existing content from the legacy systems over the next 60 days. During this period, employees are asked to refrain from (2)___ new content to the old platforms and to begin familiarizing themselves with the InsightHub interface through the self-paced training modules available on the onboarding portal.
+
+(3)___ the platform becomes intuitive with regular use, a series of live webinars and drop-in help sessions have been scheduled throughout November. We encourage you to attend at least one session to accelerate your proficiency.
+
+(4)___ of knowledge is one of the most valuable contributions you can make to the company's long-term competitiveness. I look forward to seeing InsightHub become an integral part of our daily work.
+
+Thank you for your engagement.
+
+========== reading_part7_single_T600_ext1.json (21 items, sampling 3) ==========
+
+--- P7S-T600-008 (idx 0) ---
+  document1 title: Company Newsletter: Cafeteria Menu Change
+  document1 body: From: Staff Services
+Date: October 2, 2025
+
+We are pleased to announce that starting next Monday, the company cafeteria will feature a new healthy menu. The updated menu includes more salads, whole-grain options, and fresh fruit. The popular hot meal station will remain available but will now offer smaller portion sizes. A new self-serve soup station will be added near the beverage counter. The cafeteria will also extend its hours by 30 minutes, now opening at 7:30 AM and closing at 2:30 PM. Prices for most items will stay the same, though some salad options will increase slightly due to the higher cost of fresh ingredients. We welcome your feedback via the suggestion box by the entrance.
+  ---
+  questions (4):
+    P7S-T600-008-Q1: What is the main topic of this notice?
+    P7S-T600-008-Q2: What new station will be added to the cafeteria?
+    P7S-T600-008-Q3: What will the new closing time be?
+    P7S-T600-008-Q4: Why will some salad options become more expensive?
+
+--- P7S-T600-018 (idx 10) ---
+  document1 title: Email: Vendor Change Notification
+  document1 body: From: purchasing@greentech.com
+To: all-departments@greentech.com
+Subject: Change in Office Coffee Supplier
+
+Dear Colleagues,
+
+Please note that effective August 1, our office coffee services will be provided by a new supplier, BrewPerfect Coffee Co. Our contract with the previous vendor, Daily Brew Inc., will expire on July 31.
+
+What will change:
+- New coffee machines will be installed on all floors on July 30 (old machines will be removed the same day)
+- The new machines offer espresso, cappuccino, and hot chocolate in addition to regular coffee
+- Coffee will remain free of charge for all employees
+
+What stays the same:
+- The coffee stations will remain in their current locations
+- Coffee supplies will continue to be restocked every Monday and Thursday
+
+If you have any preferences for coffee blends or flavors, please email your suggestions to purchasing@greentech.com by July 15.
+
+Thank you,
+Purchasing Department
+  ---
+  questions (3):
+    P7S-T600-018-Q1: When will the new coffee machines be installed?
+    P7S-T600-018-Q2: What new beverage options will be available?
+    P7S-T600-018-Q3: What is the deadline for submitting coffee preferences?
+
+--- P7S-T600-028 (idx 20) ---
+  document1 title: Email: Team-Building Event Invitation
+  document1 body: From: social@teamspirit.com
+To: sales-team@teamspirit.com
+Subject: You're Invited - Q3 Team-Building Event!
+
+Hello Sales Team,
+
+To celebrate our record-breaking Q3 sales performance, we are hosting a team-building event!
+
+Event Details:
+Date: Friday, October 17, 2026
+Time: 2:00 PM - 5:00 PM (work hours)
+Location: Adventure Zone, 890 Park Avenue
+Activity: Indoor rock climbing and team challenges
+
+Schedule:
+2:00 PM - 2:30 PM: Safety briefing and equipment fitting
+2:30 PM - 4:00 PM: Rock climbing (beginner and advanced walls available)
+4:00 PM - 4:45 PM: Team relay challenge
+4:45 PM - 5:00 PM: Awards and closing
+
+What to bring:
+- Comfortable clothing and athletic shoes
+- A water bottle
+
+All climbing equipment will be provided. Transportation from the office will depart at 1:30 PM and return by 5:30 PM.
+
+Please RSVP by October 10 to social@teamspirit.com. Spots are limited to 40 participants.
+
+Let's celebrate together!
+Social Committee
+  ---
+  questions (4):
+    P7S-T600-028-Q1: What is the main purpose of the event?
+    P7S-T600-028-Q2: What time does the bus leave the office?
+    P7S-T600-028-Q3: What is the deadline to RSVP?
+    P7S-T600-028-Q4: What equipment do participants need to bring?
+
+========== reading_part7_single_T730_ext1.json (18 items, sampling 2) ==========
+
+--- P7S-T730-007 (idx 0) ---
+  document1 title: Email: Mandatory Leadership Training Program Enrollment
+  document1 body: To: All Department Heads and Senior Managers
+From: Human Resources Department
+Date: March 18, 2025
+Subject: Mandatory Leadership Development Program — Enrollment Required by April 1
+
+In accordance with the executive committee's directive to strengthen our organizational leadership pipeline, all department heads and senior managers are required to enroll in the newly redesigned Leadership Excellence Program (LEP) by April 1, 2025. This mandate applies irrespective of tenure or previous participation in similar initiatives.
+
+The revamped curriculum, which was developed in collaboration with the Wharton School of Executive Education, comprises four intensive modules spanning strategic decision-making under uncertainty, cross-functional team orchestration, inclusive leadership practices, and crisis communication. Each module entails approximately 20 hours of synchronous and asynchronous coursework delivered over an eight-week period, with the first cohort commencing on April 15.
+
+Completion of the program is a prerequisite for consideration in the upcoming fiscal year's promotion cycle, per the revised talent management framework ratified by the board last quarter. Participants who fail to meet the enrollment deadline will be required to submit a written justification to the Chief Human Resources Officer, and their eligibility for advancement will be deferred by a minimum of one review cycle.
+
+Please direct any scheduling conflicts or accommodation requests to the LEP coordination team at lep@company.com no later than March 28.
+  ---
+  questions (3):
+    P7S-T730-007-Q1: What is the primary purpose of this email?
+    P7S-T730-007-Q2: What can be inferred about managers who do not enroll by April 1?
+    P7S-T730-007-Q3: Why does HR mention the Wharton School of Executive Education?
+
+--- P7S-T730-017 (idx 10) ---
+  document1 title: Press Release: Apex Manufacturing Announces Strategic Acquisition of NanoTech Dynamics
+  document1 body: FOR IMMEDIATE RELEASE
+
+Apex Manufacturing Acquires NanoTech Dynamics in Strategic Expansion
+
+SAN DIEGO, CA — October 15, 2025 — Apex Manufacturing (NYSE: APX) today announced the completion of its acquisition of NanoTech Dynamics, a privately held advanced materials startup based in Austin, Texas, in a transaction valued at $340 million. The acquisition, which was unanimously approved by the boards of both companies, is expected to be accretive to Apex's earnings within the first full fiscal year following integration.
+
+NanoTech Dynamics, founded in 2019, has developed a proprietary nanocomposite coating technology that has garnered significant attention within the aerospace and defense sectors. While the company has yet to achieve profitability—reporting an operating loss of $18 million in its most recent fiscal year—its intellectual property portfolio comprises 14 granted patents and an additional 9 pending applications that are widely regarded as foundational to next-generation thermal barrier materials.
+
+The integration process will be overseen by a dedicated transition task force co-chaired by Apex's Chief Technology Officer and NanoTech's founding CEO, Dr. Priya Suresh, who will assume the role of Executive Vice President of Advanced Materials within the combined entity. All 87 NanoTech employees will be retained, and the Austin facility will be expanded to serve as Apex's center of excellence for nanotechnology research.
+
+"This acquisition represents a pivotal investment in our long-term innovation strategy," said Apex CEO Jonathan Blackwell. "NanoTech's technology platform has the potential to unlock substantial value across multiple product lines."
+  ---
+  questions (3):
+    P7S-T730-017-Q1: What is the main purpose of this press release?
+    P7S-T730-017-Q2: According to the press release, what will Dr. Priya Suresh's role be after the acquisition?
+    P7S-T730-017-Q3: What can be inferred about Apex's motivation for acquiring NanoTech Dynamics despite its operating loss?
+
+========== reading_part7_double_T600_ext1.json (15 items, sampling 2) ==========
+
+--- P7D-T600-006 (idx 0) ---
+  document1 title: Email: Complaint About Office Printer
+  document1 body: From: diana.wu@accounting.com
+To: it-support@officetech.com
+Subject: Urgent - Printer Malfunction on 4th Floor
+
+Dear IT Support,
+
+The office printer on the 4th floor (Model: PrintPro X500, serial #PP-4482) has not been working properly for the past two days. It frequently jams when printing more than 10 pages at a time, and the copies come out with black streaks on the left side. Our accounting team is in the middle of preparing the quarterly financial reports, and we need this printer to print our documents by Thursday at the latest.
+
+We tried replacing the toner cartridge and cleaning the rollers as suggested in the user manual, but the problem persists. Could you please send a technician as soon as possible? If the repair will take more than one day, we would appreciate a temporary replacement printer.
+
+Thank you,
+Diana Wu
+Accounting Department
+  ---
+  document2 title: Reply from IT Support
+  document2 body: From: it-support@officetech.com
+To: diana.wu@accounting.com
+Subject: RE: Urgent - Printer Malfunction on 4th Floor
+
+Dear Ms. Wu,
+
+Thank you for reporting the issue with the printer. Based on your description, the problem appears to be with the fuser unit, which is a common issue with the PrintPro X500 model after extended use. The black streaks on the left side are a typical symptom of a worn fuser.
+
+I have scheduled a technician, Carlos Ramirez, to visit tomorrow, Wednesday, at 9:00 AM. He will bring a replacement fuser unit and should have the printer working within 2 hours. If the repair takes longer, we will provide a loaner printer (Model PrintPro X300) that you can use until the X500 is fixed.
+
+In the meantime, you may use the printer on the 3rd floor. Your department's access card should already be programmed for that printer. If you need any further assistance, please let us know.
+
+Best regards,
+Sam Patel
+IT Support Lead
+  ---
+  questions (5):
+    P7D-T600-006-Q1: What problem is the 4th floor printer experiencing?
+    P7D-T600-006-Q2: What part does the IT technician believe needs to be replaced?
+    P7D-T600-006-Q3: When will the technician arrive?
+    P7D-T600-006-Q4: What alternative does IT suggest while the 4th floor printer is being repaired?
+    P7D-T600-006-Q5: What deadline does Diana mention, and what temporary solution does IT offer if the repair takes too long?
+
+--- P7D-T600-016 (idx 10) ---
+  document1 title: Memo: Office Supply Budget Cut
+  document1 body: MEMORANDUM
+
+To: All Department Heads
+From: Finance Department
+Date: March 3, 2026
+Subject: Office Supply Budget Reduction
+
+As part of our cost-saving measures for Q2 2026, the office supply budget for each department will be reduced by 20% effective April 1. This decision was made after a review of spending patterns showed that supply usage has exceeded the allocated budget in all four quarters of 2025.
+
+To help departments adjust, we recommend the following:
+- Switch to digital documents whenever possible to reduce paper usage
+- Order supplies in bulk once a month rather than placing multiple small orders
+- Use the shared supply cabinet in the break room for infrequently used items
+
+The new monthly supply budgets are as follows:
+- Marketing: $320 (was $400)
+- Sales: $280 (was $350)
+- Engineering: $450 (was $562.50)
+- HR: $200 (was $250)
+
+If your department has special supply needs that cannot be met under the new budget, please submit a written request to finance@companyname.com by March 15 for review.
+
+Finance Department
+  ---
+  document2 title: Email: Budget Exception Request
+  document2 body: From: jessica.wong@companyname.com
+To: finance@companyname.com
+Subject: Supply Budget Exception Request - Marketing Department
+
+Dear Finance Team,
+
+I am writing to request an exception to the office supply budget reduction for the Marketing Department.
+
+In April and May, we will be preparing materials for two major industry trade shows: the National Marketing Expo and the Regional Business Summit. We need to print approximately 500 full-color brochures, 200 product catalogs, and 100 presentation folders for each event. The estimated cost for these materials alone is $380, which is already above our reduced monthly budget of $320.
+
+This is a seasonal increase in supply needs. For the remaining months of Q2 (June), our supply usage should fall well within the new $320 budget. I am requesting that our April and May budgets be temporarily raised to $450 per month, returning to $320 in June.
+
+I have attached a cost breakdown for your review. Thank you for your consideration.
+
+Best regards,
+Jessica Wong
+Marketing Director
+  ---
+  questions (5):
+    P7D-T600-016-Q1: By what percentage is the office supply budget being reduced?
+    P7D-T600-016-Q2: What is the new monthly supply budget for the Marketing Department?
+    P7D-T600-016-Q3: What is the deadline to submit an exception request?
+    P7D-T600-016-Q4: For which months is Jessica requesting a temporary budget increase?
+    P7D-T600-016-Q5: What is Jessica's justification for requesting a higher budget, and what amount does she ask for?
+
+========== reading_part7_double_T730_ext1.json (12 items, sampling 2) ==========
+
+--- P7D-T730-005 (idx 0) ---
+  document1 title: Marketing Specialist — Global Brand Division
+  document1 body: POSITION SUMMARY
+MetroVantage Inc., a multinational consumer goods corporation headquartered in Singapore, is seeking a seasoned Marketing Specialist to join our Global Brand Division. The successful candidate will be responsible for conceptualizing and executing integrated marketing campaigns across digital and traditional channels, conducting granular market segmentation analyses, and liaising with external creative agencies to ensure brand consistency.
+
+PRIMARY RESPONSIBILITIES
+• Devise and implement data-driven, omnichannel marketing strategies that optimize customer acquisition costs while maximizing lifetime value.
+• Spearhead A/B testing initiatives and interpret multivariable regression analyses to refine campaign performance.
+• Collaborate cross-functionally with product development, supply chain, and regional sales teams to align brand messaging with commercial objectives.
+• Manage quarterly marketing budgets exceeding $500,000 and produce post-campaign ROI reconciliation reports.
+
+MINIMUM QUALIFICATIONS
+• Bachelor's degree in Marketing, Business Administration, or a cognate discipline; an MBA is highly advantageous.
+• At least five years of progressive experience in brand management or digital marketing within a fast-paced, matrixed organization.
+• Demonstrated proficiency in Google Analytics 4, Salesforce Marketing Cloud, and Tableau.
+• Exceptional written and verbal communication skills in English; working knowledge of Mandarin or Japanese is a distinct asset.
+
+APPLICATION DEADLINE: November 30. Shortlisted candidates will be contacted for a panel interview and a case-study presentation within two weeks of the closing date.
+  ---
+  document2 title: RE: Application for Marketing Specialist (Ref: MV-GBD-2026-047) — Acknowledgment & Next Steps
+  document2 body: Dear Ms. Chen,
+
+Thank you for submitting your application for the Marketing Specialist position with our Global Brand Division. We have successfully received all requisite documents, including your curriculum vitae, cover letter, and professional references.
+
+After an initial screening of your credentials, the hiring panel has noted that your resume lacks a digital portfolio or a compendium of past campaign deliverables. Given the seniority of this role, could you please furnish a curated portfolio demonstrating quantifiable outcomes from at least three marketing campaigns you have spearheaded? Preferably, include metrics such as ROAS, conversion lift, or engagement rate improvements.
+
+Kindly submit the portfolio by November 25 to allow sufficient time for the panel's deliberation before the interview shortlisting phase commences. Please be advised that the application deadline of November 30 remains firm; however, portfolios received after November 25 will not be factored into the pre-screening assessment.
+
+Should you have any inquiries, do not hesitate to contact our Talent Acquisition team.
+
+Warm regards,
+Priya Kapoor
+Senior Talent Acquisition Partner
+MetroVantage Inc.
+  ---
+  questions (5):
+    P7D-T730-005-Q1: What is the main purpose of the email from Ms. Kapoor?
+    P7D-T730-005-Q2: According to the job advertisement, which technical competency is explicitly listed as a requirement?
+    P7D-T730-005-Q3: What is implied about the hiring panel's decision-making process?
+    P7D-T730-005-Q4: In the job advertisement, the word "cognate" is closest in meaning to:
+    P7D-T730-005-Q5: How does the portfolio deadline mentioned in the email relate to the application deadline stated in the job posting?
+
+--- P7D-T730-015 (idx 10) ---
+  document1 title: IMPORTANT — Enterprise Software License Renewal: Pricing Update for Autodesk Suite
+  document1 body: TO: All Autodesk License Administrators
+FROM: Synergy Tech Solutions (Authorized Autodesk Platinum Partner)
+DATE: October 1, 2026
+
+RE: 2027 License Renewal — Pricing Structure Revision
+
+This communication serves as formal notification that Autodesk will implement a revised pricing structure for all multi-year enterprise license agreements (ELAs) commencing January 1, 2027. The following material changes will take effect upon renewal:
+
+1. BASE LICENSE FEE ADJUSTMENT
+The per-seat annual license fee for the Architecture, Engineering & Construction (AEC) Collection will increase from $3,215 to $3,525, representing a 9.6% uplift. The Product Design & Manufacturing (PD&M) Collection will rise from $2,940 to $3,205 (9.0% increase).
+
+2. TIERED DISCOUNT RESTRUCTURING
+The volume-based discount schedule has been recalibrated:
+• Tier 1 (1–24 seats): 0% discount (no change)
+• Tier 2 (25–99 seats): Reduced from 12% to 8%
+• Tier 3 (100–499 seats): Reduced from 18% to 14%
+• Tier 4 (500+ seats): Reduced from 25% to 20%
+
+3. MANDATORY CLOUD BUNDLE
+All ELA renewals signed after January 1, 2027, must include the Autodesk Cloud Collaboration Bundle at a flat fee of $480 per seat annually. This bundle was previously optional and priced at $360. Existing customers without the bundle will be required to adopt it upon renewal.
+
+4. EARLY RENEWAL INCENTIVE
+Customers who execute their renewal agreement by November 15, 2026, will be grandfathered under the current pricing structure and exempt from the mandatory cloud bundle requirement for the 2027 term.
+
+For a customized renewal quotation, please contact your dedicated account manager at Synergy Tech Solutions.
+  ---
+  document2 title: MEMO — Request for Budget Approval: Autodesk License Renewal (FY2027)
+  document2 body: TO: Dr. Patricia Okonkwo, Chief Financial Officer
+FROM: Benjamin Cross, Director of Engineering
+DATE: October 8, 2026
+
+SUBJECT: Urgent Budget Approval — Autodesk ELA Renewal for 142 Seats
+
+Patricia,
+
+I am writing to request expedited approval for an unbudgeted expenditure of $29,820 to capitalize on the early renewal incentive window for our Autodesk ELA, which is due for renewal on March 1, 2027.
+
+CONTEXT: Our engineering division currently maintains 142 seats of the AEC Collection under an ELA that expires on February 28, 2027. The recent pricing notification from Synergy Tech Solutions (attached) has introduced two developments that necessitate immediate action:
+
+1. If we renew after January 1, 2027, our annual cost will escalate to $500,550 (142 seats × $3,525) plus the mandatory cloud bundle costing $68,160 (142 × $480), totaling $568,710. Furthermore, under the recalibrated tiered discounts, we would drop from Tier 3 (18% discount) to the new Tier 3 rate of 14%, adding further cost pressure.
+
+2. If we execute the renewal by November 15, we can lock in the current rate of $3,215 per seat at the existing 18% volume discount, yielding a net cost of $374,294 (142 × $3,215 × 0.82). The $29,820 I am requesting covers the balance between our already-allocated budget of $344,474 and the early renewal total.
+
+RISK OF INACTION: Delaying beyond November 15 would result in an incremental cost of approximately $194,416 for FY2027, or $1,370 per seat — funds that would otherwise be allocated to three critical R&D initiatives scheduled for Q2.
+
+I urge the finance committee to approve this reallocation. The long-term cost avoidance far outweighs the short-term budget variance.
+
+Respectfully,
+Benjamin Cross
+  ---
+  questions (5):
+    P7D-T730-015-Q1: According to the pricing notice, what change will affect customers with 100 or more seats?
+    P7D-T730-015-Q2: What is the primary financial justification Mr. Cross provides for requesting the unbudgeted $29,820?
+    P7D-T730-015-Q3: In the pricing notice, the term "grandfathered" most likely means:
+    P7D-T730-015-Q4: What can be inferred about Mr. Cross's budgeting process for his division?
+    P7D-T730-015-Q5: How does Mr. Cross's cost calculation of early renewal ($374,294) derive from the pricing details in the vendor's notice?
+
+========== reading_part7_triple_T600_ext1.json (9 items, sampling 1) ==========
+
+--- P7T-T600-004 (idx 0) ---
+  document1 title: Job Posting: HR Specialist
+  document1 body: Pacific Coast Healthcare is hiring a Human Resources Specialist for our San Diego headquarters.
+
+Key Responsibilities:
+- Manage the full recruitment cycle for clinical and administrative positions
+- Administer employee benefits programs and handle enrollment
+- Conduct new hire orientations (twice monthly)
+- Maintain HR records and ensure compliance with healthcare labor regulations
+
+Requirements:
+- Bachelor's degree in Human Resources or related field
+- Minimum 3 years of HR experience
+- SHRM-CP or PHR certification preferred
+- Experience in healthcare HR is a strong plus
+
+Benefits:
+- Salary: $58,000 - $65,000
+- Medical, dental, and vision coverage starting day one
+- 403(b) retirement plan with employer match
+- Tuition reimbursement up to $4,000 per year
+- Free on-site fitness center
+
+Apply by January 25, 2026 at careers.pch.org. Reference job ID: HR-2026-012.
+  ---
+  document2 title: Resume: Emily Sanders
+  document2 body: EMILY SANDERS, SHRM-CP
+emily.sanders@email.com | (619) 555-0182 | San Diego, CA
+
+PROFESSIONAL SUMMARY
+Certified HR professional with 4 years of experience in healthcare human resources. Proven track record in talent acquisition, benefits administration, and employee relations.
+
+CERTIFICATIONS
+- SHRM-CP (Society for Human Resource Management - Certified Professional), 2024
+
+WORK EXPERIENCE
+
+HR Coordinator - Mercy General Hospital, San Diego, CA
+March 2022 - Present (3 years, 10 months)
+- Managed recruitment for 25+ clinical positions annually, reducing average time-to-hire by 12 days
+- Administered health and retirement benefits for 400+ employees
+- Conducted 24 new hire orientation sessions, receiving 98% positive feedback
+- Maintained compliance with California healthcare labor laws
+
+HR Assistant - San Diego Medical Group, San Diego, CA
+June 2020 - February 2022 (1 year, 8 months)
+- Processed benefits enrollment for 150+ employees
+- Coordinated interview scheduling for hiring managers
+- Updated employee records in HRIS system
+
+EDUCATION
+Bachelor of Science in Human Resources Management - San Diego State University, 2020
+
+SKILLS
+- HRIS: Workday, ADP
+- California and federal labor law compliance
+- Bilingual: English and Spanish
+  ---
+  document3 title: Interview Schedule Email
+  document3 body: From: careers@pch.org
+To: emily.sanders@email.com
+Subject: Interview Invitation - HR Specialist (HR-2026-012)
+
+Dear Ms. Sanders,
+
+Thank you for applying for the HR Specialist position at Pacific Coast Healthcare. After reviewing your application, we are pleased to invite you for an interview.
+
+Interview Details:
+Date: Tuesday, February 4, 2026
+Time: 10:00 AM - 11:30 AM (90 minutes)
+Location: Pacific Coast Healthcare, 5200 Health Center Drive, Building C, 3rd Floor, San Diego, CA 92108
+
+Interview Panel:
+- Dr. Sarah Williams, Chief Human Resources Officer
+- Mark Davis, Director of Talent Acquisition
+- Linda Park, Senior HR Business Partner
+
+Format: The interview will consist of three segments:
+1. Panel interview (45 minutes)
+2. Case study exercise (30 minutes): You will be given a recruitment scenario to analyze
+3. Q&A session (15 minutes)
+
+Please bring three copies of your resume and a list of professional references. Business professional attire is recommended.
+
+Please confirm your attendance by replying to this email by January 31.
+
+We look forward to meeting you!
+
+Pacific Coast Healthcare Recruitment Team
+  ---
+  questions (5):
+    P7T-T600-004-Q1: What is the salary range for the HR Specialist position?
+    P7T-T600-004-Q2: What certification does Emily Sanders hold?
+    P7T-T600-004-Q3: How long will the interview last?
+    P7T-T600-004-Q4: What is the deadline to confirm interview attendance?
+    P7T-T600-004-Q5: Based on all three documents, which of Emily's qualifications most directly matches the preferred requirement in the job posting?
+
+========== reading_part7_triple_T730_ext1.json (9 items, sampling 1) ==========
+
+--- P7T-T730-004 (idx 0) ---
+  document1 title: Market Research Report: Q3 Consumer Trends
+  document1 body: CONFIDENTIAL – MARKET INTELLIGENCE REPORT
+Q3 2025 Consumer Behavior Analysis: Office Productivity Software
+Prepared by: Market Insights Division
+Date: September 30, 2025
+
+Executive Summary:
+Our quarterly survey of 2,400 knowledge workers and 680 IT decision-makers across North America reveals three consequential shifts in purchasing behavior that warrant immediate strategic attention.
+
+Finding 1 – Preference Consolidation: 73% of respondents expressed a pronounced preference for integrated, all-in-one productivity suites over standalone point solutions, representing a 19-percentage-point increase from Q3 2024. Decision-makers cited reduced vendor management complexity (cited by 61%) and seamless cross-application data integration (cited by 54%) as primary motivators.
+
+Finding 2 – AI Feature Expectations: 68% of respondents now consider embedded AI-assisted features—including automated report generation, natural language querying of datasets, and intelligent meeting summarization—to be baseline expectations rather than premium differentiators. Notably, 41% of enterprise accounts indicated they would consider switching vendors within 12 months if their current provider failed to deliver competitive AI functionality.
+
+Finding 3 – Pricing Sensitivity Threshold: The perceived value ceiling for per-user monthly subscriptions has contracted to $28.50, down from $34.00 in Q1 2025. Accounts exceeding 500 seats demonstrated heightened price elasticity, with 57% reporting active exploration of lower-cost alternatives.
+
+Recommendation: Our current product portfolio remains disproportionately weighted toward standalone applications. We recommend a comprehensive review of our product integration roadmap and AI feature development priorities.
+  ---
+  document2 title: Email: Competitor Analysis from Strategy Team
+  document2 body: From: vincent.nguyen@companyname.com
+To: exec-strategy@companyname.com
+Date: October 3, 2025
+Subject: Urgent – Competitive Landscape Assessment
+
+Executive Team,
+
+Our strategy team has completed an exhaustive analysis of the three competitors that pose the most immediate threat to our market position. The findings are sobering and demand a coordinated response.
+
+ConvergeSuite (formerly MicroApps Inc.): Following their $340M acquisition by a private equity firm in March, ConvergeSuite has aggressively bundled AI-powered workflow automation into their core productivity suite at no additional cost. Their Q3 market share among mid-market accounts (100–999 seats) surged to 18.4%, up from 11.2% in Q1. Their value proposition—"one platform, one contract, one support team"—directly mirrors the consolidation preference our own research identified.
+
+NovaWorks: Despite being a relatively new entrant (founded 2023), NovaWorks has captured 8.7% of the enterprise segment by positioning itself as an AI-native platform built from the ground up. Their natural language processing capabilities for data analysis have received industry awards and are widely regarded as best-in-class. Their pricing model undercuts ours by approximately 22% at comparable seat counts.
+
+ApexDesk: Our most direct historical competitor has accelerated their integration roadmap significantly. Their Q3 product release consolidated seven previously separate applications into a unified workspace with single sign-on and centralized administration. Customer retention rates improved from 84% to 91% following this release.
+
+Implication: We are rapidly approaching an inflection point where our fragmented product architecture becomes a decisive competitive disadvantage. I urge the executive team to convene an emergency strategy session this week.
+
+Vincent Nguyen
+Director, Corporate Strategy
+  ---
+  document3 title: Executive Memo: Strategic Realignment Directive
+  document3 body: MEMORANDUM – BOARD-APPROVED
+
+To: All Department Heads
+From: Catherine Walsh, CEO
+Date: October 8, 2025
+Subject: Immediate Strategic Realignment – Project Convergence
+
+Following the board of directors' emergency session on October 7, this memorandum formalizes a comprehensive strategic realignment that will fundamentally reshape our product development priorities and resource allocation for the next 18 months.
+
+Key Directives:
+
+1. Product Integration Initiative (Code Name: Project Convergence): Effective immediately, 60% of our engineering resources will be reallocated from standalone application development to building a unified productivity platform. The standalone document editor, spreadsheet application, and presentation tool will be consolidated into a single integrated workspace with centralized user management and seamless cross-application data flow. Target completion: Q2 2026.
+
+2. AI Acceleration Program: We are establishing a dedicated AI Center of Excellence with an initial headcount of 35 engineers and data scientists. This team will report directly to the CTO and is tasked with embedding competitive AI features—including natural language querying, automated content generation, and intelligent workflow suggestions—across all product lines by Q3 2026.
+
+3. Pricing Restructuring: The finance department will model a revised pricing architecture that reduces our per-seat cost for enterprise accounts by 15–20% while introducing a tiered feature-access model. The objective is to bring our pricing within the newly identified market tolerance threshold without compromising premium-tier revenue.
+
+4. Resource Implications: To fund these initiatives, we will implement a hiring freeze for non-engineering roles, defer the planned office expansion in Austin, and reduce the Q4 marketing budget by 30%.
+
+I recognize that these changes represent a significant departure from our historical product strategy. However, the market intelligence is unequivocal: we either adapt decisively or cede ground to competitors who are moving faster and more cohesively. Department heads are expected to submit implementation plans aligned with these directives by October 22.
+
+Catherine Walsh
+Chief Executive Officer
+  ---
+  questions (5):
+    P7T-T730-004-Q1: What is the primary purpose of Catherine Walsh's executive memo?
+    P7T-T730-004-Q2: According to the market research report, what percentage of enterprise accounts indicated they would consider switching vendors if AI functionality remained uncompetitive?
+    P7T-T730-004-Q3: What can be inferred about ConvergeSuite's market strategy based on the competitor analysis?
+    P7T-T730-004-Q4: How do the three documents collectively demonstrate the company's response to external market pressures?
+    P7T-T730-004-Q5: In the context of the executive memo, what does the phrase "strategic realignment" most nearly mean?

@@ -1,0 +1,947 @@
+[
+  {
+    "id": "P7D-T600-006",
+    "part": 7,
+    "type": "double",
+    "track": "T600",
+    "documents": [
+      {
+        "title": "Email: Complaint About Office Printer",
+        "body": "From: diana.wu@accounting.com\nTo: it-support@officetech.com\nSubject: Urgent - Printer Malfunction on 4th Floor\n\nDear IT Support,\n\nThe office printer on the 4th floor (Model: PrintPro X500, serial #PP-4482) has not been working properly for the past two days. It frequently jams when printing more than 10 pages at a time, and the copies come out with black streaks on the left side. Our accounting team is in the middle of preparing the quarterly financial reports, and we need this printer to print our documents by Thursday at the latest.\n\nWe tried replacing the toner cartridge and cleaning the rollers as suggested in the user manual, but the problem persists. Could you please send a technician as soon as possible? If the repair will take more than one day, we would appreciate a temporary replacement printer.\n\nThank you,\nDiana Wu\nAccounting Department"
+      },
+      {
+        "title": "Reply from IT Support",
+        "body": "From: it-support@officetech.com\nTo: diana.wu@accounting.com\nSubject: RE: Urgent - Printer Malfunction on 4th Floor\n\nDear Ms. Wu,\n\nThank you for reporting the issue with the printer. Based on your description, the problem appears to be with the fuser unit, which is a common issue with the PrintPro X500 model after extended use. The black streaks on the left side are a typical symptom of a worn fuser.\n\nI have scheduled a technician, Carlos Ramirez, to visit tomorrow, Wednesday, at 9:00 AM. He will bring a replacement fuser unit and should have the printer working within 2 hours. If the repair takes longer, we will provide a loaner printer (Model PrintPro X300) that you can use until the X500 is fixed.\n\nIn the meantime, you may use the printer on the 3rd floor. Your department's access card should already be programmed for that printer. If you need any further assistance, please let us know.\n\nBest regards,\nSam Patel\nIT Support Lead"
+      }
+    ],
+    "questions": [
+      {
+        "id": "P7D-T600-006-Q1",
+        "question": "What problem is the 4th floor printer experiencing?",
+        "options": ["It does not turn on", "It jams and produces black streaks", "It is out of paper", "It prints too slowly"],
+        "answer": "It jams and produces black streaks",
+        "category": "細節",
+        "explanation": "Diana的郵件說明「It frequently jams when printing more than 10 pages...the copies come out with black streaks」。",
+        "crossReference": false
+      },
+      {
+        "id": "P7D-T600-006-Q2",
+        "question": "What part does the IT technician believe needs to be replaced?",
+        "options": ["The toner cartridge", "The fuser unit", "The paper tray", "The power supply"],
+        "answer": "The fuser unit",
+        "category": "細節",
+        "explanation": "IT回覆中推測「the problem appears to be with the fuser unit」並將攜帶替換零件。",
+        "crossReference": false
+      },
+      {
+        "id": "P7D-T600-006-Q3",
+        "question": "When will the technician arrive?",
+        "options": ["Tuesday morning", "Tuesday afternoon", "Wednesday at 9:00 AM", "Thursday at 9:00 AM"],
+        "answer": "Wednesday at 9:00 AM",
+        "category": "細節",
+        "explanation": "IT回覆寫明「scheduled a technician...to visit tomorrow, Wednesday, at 9:00 AM」。",
+        "crossReference": false
+      },
+      {
+        "id": "P7D-T600-006-Q4",
+        "question": "What alternative does IT suggest while the 4th floor printer is being repaired?",
+        "options": ["Use the 3rd floor printer", "Use a personal printer", "Email documents instead", "Wait for the repair"],
+        "answer": "Use the 3rd floor printer",
+        "category": "細節",
+        "explanation": "IT回覆建議「you may use the printer on the 3rd floor」。",
+        "crossReference": false
+      },
+      {
+        "id": "P7D-T600-006-Q5",
+        "question": "What deadline does Diana mention, and what temporary solution does IT offer if the repair takes too long?",
+        "options": ["Diana needs printing by Thursday; IT will provide a loaner printer", "Diana needs printing by Friday; IT will extend the deadline", "Diana needs printing by Wednesday; IT will use express repair", "Diana needs printing by Monday; IT will send a new printer"],
+        "answer": "Diana needs printing by Thursday; IT will provide a loaner printer",
+        "category": "跨篇比對",
+        "explanation": "此題須同時參照兩篇文件：Diana的郵件中提到需要「print our documents by Thursday」；IT回覆承諾若維修超過2小時「we will provide a loaner printer」。比對兩者可知Diana截至週四的列印需求可透過備用機獲得保障。",
+        "crossReference": true
+      }
+    ]
+  },
+  {
+    "id": "P7D-T600-007",
+    "part": 7,
+    "type": "double",
+    "track": "T600",
+    "documents": [
+      {
+        "title": "Job Advertisement: Graphic Designer",
+        "body": "PixelCraft Studio is hiring a full-time Graphic Designer to join our creative team in Austin.\n\nAbout the role:\n- Create visual content for digital and print media\n- Collaborate with the marketing team on brand campaigns\n- Design social media graphics, brochures, and presentations\n- Ensure all designs follow company brand guidelines\n\nRequirements:\n- Degree in Graphic Design or related field\n- At least 2 years of professional design experience\n- Proficiency in Adobe Illustrator and Photoshop\n- Knowledge of UI/UX design is a plus\n\nBenefits:\n- Salary: $52,000 - $58,000\n- Flexible work hours\n- Health and dental insurance\n- Annual creative conference budget\n\nTo apply, send your resume, cover letter, and portfolio link to jobs@pixelcraft.com by July 20."
+      },
+      {
+        "title": "Email: Application for Graphic Designer",
+        "body": "From: kelly.chen@email.com\nTo: jobs@pixelcraft.com\nSubject: Application for Graphic Designer Position\n\nDear Hiring Manager,\n\nI am writing to apply for the Graphic Designer position at PixelCraft Studio. I hold a Bachelor's degree in Graphic Design from the University of Texas and have three years of experience working as a Junior Designer at Bright Ideas Agency.\n\nAt Bright Ideas, I created social media content, designed print brochures for five major clients, and assisted with a complete rebranding project. I am highly proficient in both Adobe Illustrator and Photoshop, and I have also completed a UI/UX certification course last year.\n\nMy online portfolio is available at www.kellychendesign.com/portfolio. I have also attached my resume and cover letter for your review.\n\nI would love the opportunity to discuss how my skills can contribute to PixelCraft Studio's creative projects. Thank you for your time and consideration.\n\nBest regards,\nKelly Chen"
+      }
+    ],
+    "questions": [
+      {
+        "id": "P7D-T600-007-Q1",
+        "question": "Where is the Graphic Designer position located?",
+        "options": ["Dallas", "Austin", "Houston", "San Antonio"],
+        "answer": "Austin",
+        "category": "細節",
+        "explanation": "招聘廣告第一句即說明「join our creative team in Austin」。",
+        "crossReference": false
+      },
+      {
+        "id": "P7D-T600-007-Q2",
+        "question": "What is the salary range for the position?",
+        "options": ["$48,000 - $52,000", "$52,000 - $58,000", "$55,000 - $60,000", "$58,000 - $65,000"],
+        "answer": "$52,000 - $58,000",
+        "category": "細節",
+        "explanation": "招聘廣告列出「Salary: $52,000 - $58,000」。",
+        "crossReference": false
+      },
+      {
+        "id": "P7D-T600-007-Q3",
+        "question": "What is the application deadline?",
+        "options": ["July 10", "July 15", "July 20", "July 25"],
+        "answer": "July 20",
+        "category": "細節",
+        "explanation": "招聘廣告寫明「send your resume...to jobs@pixelcraft.com by July 20」。",
+        "crossReference": false
+      },
+      {
+        "id": "P7D-T600-007-Q4",
+        "question": "What additional qualification does Kelly have that is listed as a \"plus\" in the job posting?",
+        "options": ["A master's degree", "UI/UX design knowledge", "Video editing skills", "Copywriting experience"],
+        "answer": "UI/UX design knowledge",
+        "category": "跨篇比對",
+        "explanation": "此題須同時參照兩篇文件：招聘廣告將「Knowledge of UI/UX design is a plus」列為加分項；Kelly的應徵信中提到她「completed a UI/UX certification course last year」，比對可知她具備這項加分條件。",
+        "crossReference": true
+      },
+      {
+        "id": "P7D-T600-007-Q5",
+        "question": "What work did Kelly do at her previous job?",
+        "options": ["Managed a team of designers", "Created social media content and designed brochures", "Taught design courses", "Developed software applications"],
+        "answer": "Created social media content and designed brochures",
+        "category": "細節",
+        "explanation": "應徵信中提到「created social media content, designed print brochures for five major clients」。",
+        "crossReference": false
+      }
+    ]
+  },
+  {
+    "id": "P7D-T600-008",
+    "part": 7,
+    "type": "double",
+    "track": "T600",
+    "documents": [
+      {
+        "title": "Meeting Agenda: Q3 Safety Review",
+        "body": "Q3 SAFETY REVIEW MEETING AGENDA\n\nDate: Thursday, October 9\nTime: 10:00 AM - 11:00 AM\nLocation: Conference Room 1A\n\n1. Review of Q3 safety incidents (10 min)\n2. Update on fire extinguisher inspections (10 min)\n3. New safety training requirements for warehouse staff (15 min)\n4. Emergency evacuation procedure update (10 min)\n5. Open discussion and questions (15 min)\n\nAttendees: All department supervisors and safety committee members\n\nAction required: Each supervisor should come prepared with a list of safety concerns from their department. Please submit your concerns to safety@companyname.com by October 7.\n\nMeeting organized by: Rachel Torres, Safety Officer"
+      },
+      {
+        "title": "Email: Safety Concern Submission",
+        "body": "From: kevin.li@companyname.com\nTo: safety@companyname.com\nSubject: Safety Concerns - Shipping Department\n\nDear Rachel,\n\nHere are the safety concerns from the Shipping Department for the Q3 review meeting:\n\n1. The loading dock area has poor lighting after 5:00 PM, which creates a risk for workers handling packages in the evening.\n2. Two of the forklifts have not been serviced since June. The maintenance schedule requires service every three months, so they are overdue.\n3. Several new employees have not yet received their safety vests and steel-toe boots. I have ordered them, but delivery is expected next week.\n\nI also have a suggestion: Could we install security cameras at the loading dock? We had a minor incident last month where a package went missing, and footage would have helped identify what happened.\n\nThank you for organizing this meeting.\n\nKevin Li\nShipping Department Supervisor"
+      }
+    ],
+    "questions": [
+      {
+        "id": "P7D-T600-008-Q1",
+        "question": "When is the Q3 Safety Review meeting?",
+        "options": ["Tuesday, October 7", "Thursday, October 9", "Monday, October 13", "Friday, October 17"],
+        "answer": "Thursday, October 9",
+        "category": "細節",
+        "explanation": "會議議程標明「Date: Thursday, October 9」。",
+        "crossReference": false
+      },
+      {
+        "id": "P7D-T600-008-Q2",
+        "question": "Who organized the meeting?",
+        "options": ["Kevin Li", "The HR Director", "Rachel Torres", "The Warehouse Manager"],
+        "answer": "Rachel Torres",
+        "category": "細節",
+        "explanation": "議程底部列出「Meeting organized by: Rachel Torres, Safety Officer」。",
+        "crossReference": false
+      },
+      {
+        "id": "P7D-T600-008-Q3",
+        "question": "What concern does Kevin raise about the loading dock?",
+        "options": ["It is too small", "The lighting is poor after 5:00 PM", "It is always crowded", "It has no loading ramp"],
+        "answer": "The lighting is poor after 5:00 PM",
+        "category": "細節",
+        "explanation": "Kevin的郵件指出「The loading dock area has poor lighting after 5:00 PM」。",
+        "crossReference": false
+      },
+      {
+        "id": "P7D-T600-008-Q4",
+        "question": "What is the deadline for supervisors to submit safety concerns?",
+        "options": ["October 5", "October 7", "October 9", "October 10"],
+        "answer": "October 7",
+        "category": "細節",
+        "explanation": "議程要求「Please submit your concerns to safety@companyname.com by October 7」。",
+        "crossReference": false
+      },
+      {
+        "id": "P7D-T600-008-Q5",
+        "question": "Which of Kevin's concerns relates to a topic on the meeting agenda?",
+        "options": ["Poor lighting at the loading dock", "Overdue forklift maintenance", "Missing safety equipment", "Security camera installation"],
+        "answer": "Overdue forklift maintenance",
+        "category": "跨篇比對",
+        "explanation": "此題須同時參照兩篇文件：議程第2項為「Update on fire extinguisher inspections」，涉及設備檢查；Kevin提到「Two of the forklifts have not been serviced since June...overdue」，屬於設備維護問題，與議程的安全設備檢查主題直接相關。",
+        "crossReference": true
+      }
+    ]
+  },
+  {
+    "id": "P7D-T600-009",
+    "part": 7,
+    "type": "double",
+    "track": "T600",
+    "documents": [
+      {
+        "title": "Invoice: Web Development Services",
+        "body": "INVOICE #WD-2025-1128\n\nFrom: BrightWeb Solutions\nTo: GreenLeaf Organic Foods\nDate: November 15, 2025\n\nServices Provided:\n1. Website redesign (homepage + 5 product pages) - $4,500\n2. E-commerce integration setup - $2,200\n3. Mobile optimization - $1,800\n4. SEO setup and keyword research - $1,200\n\nSubtotal: $9,700\nTax (7%): $679\nTotal: $10,379\n\nPayment Terms: Net 30 days\nPayment due by: December 15, 2025\n\nPlease make checks payable to BrightWeb Solutions or pay online at www.brightweb.com/pay.\n\nThank you for your business!"
+      },
+      {
+        "title": "Email: Invoice Dispute",
+        "body": "From: accounting@greenleaf.com\nTo: billing@brightweb.com\nSubject: Question About Invoice #WD-2025-1128\n\nDear BrightWeb Billing Team,\n\nWe received invoice #WD-2025-1128 dated November 15. However, we have a question about the charges. According to our signed contract dated September 20, the e-commerce integration should include a 15% discount as part of the package deal we agreed upon. I have attached a copy of the contract for your reference.\n\nAdditionally, we noticed that the mobile optimization fee of $1,800 was not listed in the original proposal we approved. Can you please clarify what this service includes? Our initial agreement only covered the website redesign and e-commerce setup.\n\nWe are ready to pay the undisputed portions of the invoice immediately but would like these two items resolved before we process the full payment.\n\nThank you,\nMargaret Cho\nAccounting Manager, GreenLeaf Organic Foods"
+      }
+    ],
+    "questions": [
+      {
+        "id": "P7D-T600-009-Q1",
+        "question": "What is the total amount on the invoice?",
+        "options": ["$9,700", "$10,379", "$10,500", "$11,200"],
+        "answer": "$10,379",
+        "category": "細節",
+        "explanation": "發票列出「Total: $10,379」。",
+        "crossReference": false
+      },
+      {
+        "id": "P7D-T600-009-Q2",
+        "question": "What is the payment deadline for the invoice?",
+        "options": ["November 15", "November 30", "December 15", "December 31"],
+        "answer": "December 15",
+        "category": "細節",
+        "explanation": "發票標明「Payment due by: December 15, 2025」。",
+        "crossReference": false
+      },
+      {
+        "id": "P7D-T600-009-Q3",
+        "question": "What discount does Margaret claim should apply to the e-commerce integration?",
+        "options": ["5%", "10%", "15%", "20%"],
+        "answer": "15%",
+        "category": "細節",
+        "explanation": "Margaret的郵件指出「the e-commerce integration should include a 15% discount」。",
+        "crossReference": false
+      },
+      {
+        "id": "P7D-T600-009-Q4",
+        "question": "Which charge does Margaret say was not in the original proposal?",
+        "options": ["Website redesign", "E-commerce integration", "Mobile optimization", "SEO setup"],
+        "answer": "Mobile optimization",
+        "category": "細節",
+        "explanation": "Margaret寫道「the mobile optimization fee of $1,800 was not listed in the original proposal」。",
+        "crossReference": false
+      },
+      {
+        "id": "P7D-T600-009-Q5",
+        "question": "How much would GreenLeaf save if both of Margaret's disputed items are resolved in her favor?",
+        "options": ["$330", "$1,800", "$2,130", "$2,460"],
+        "answer": "$2,130",
+        "category": "跨篇比對",
+        "explanation": "此題須同時參照兩篇文件：發票中電商整合費用為$2,200，15%折扣可省$330；加上Margaret爭議的行動版優化費用$1,800，兩項合計$2,130。",
+        "crossReference": true
+      }
+    ]
+  },
+  {
+    "id": "P7D-T600-010",
+    "part": 7,
+    "type": "double",
+    "track": "T600",
+    "documents": [
+      {
+        "title": "Conference Announcement: TechForward 2026",
+        "body": "TECHFORWARD 2026 - CALL FOR SPEAKERS\n\nWe are now accepting speaker proposals for TechForward 2026, the region's premier technology conference. This year's theme is \"Building the Future with AI.\"\n\nConference Details:\nDate: May 18-20, 2026\nLocation: Grand Pacific Convention Center, San Diego\nExpected attendees: 2,000+\n\nWe are looking for speakers in the following areas:\n- Artificial Intelligence applications in business\n- Cybersecurity trends and best practices\n- Cloud computing and data management\n- Digital transformation case studies\n\nSpeaker benefits:\n- Free conference registration (value: $850)\n- Two nights of hotel accommodation at the conference hotel\n- Speaker dinner with industry leaders on May 18\n\nTo apply, submit a 300-word session description, your bio, and a headshot photo to speakers@techforward2026.com by January 31, 2026. Selected speakers will be notified by February 28.\n\nTechForward 2026 Committee"
+      },
+      {
+        "title": "Speaker Application Email",
+        "body": "From: nina.kapoor@datadriven.com\nTo: speakers@techforward2026.com\nSubject: Speaker Proposal - AI for Small Business Growth\n\nDear TechForward 2026 Committee,\n\nI am excited to submit my proposal to speak at TechForward 2026.\n\nSession Title: \"Practical AI: How Small Businesses Can Compete with Big Data\"\n\nSession Description: [300-word description attached as a separate document]\n\nSpeaker Bio: I am the founder and CEO of DataDriven Solutions, a consulting firm that helps small and medium-sized businesses implement AI tools. Over the past six years, I have worked with more than 80 companies across the retail, healthcare, and manufacturing sectors. I hold a Master's degree in Data Science from Stanford University and have spoken at industry events including the National Retail Federation Conference and SXSW.\n\nMy headshot photo is attached. I am available to speak on any of the three conference days and am happy to adjust the session content to fit the conference theme.\n\nThank you for your consideration.\n\nBest regards,\nNina Kapoor\nCEO, DataDriven Solutions"
+      }
+    ],
+    "questions": [
+      {
+        "id": "P7D-T600-010-Q1",
+        "question": "What is the theme of TechForward 2026?",
+        "options": ["Digital Transformation", "Building the Future with AI", "Cloud Computing Trends", "Cybersecurity Best Practices"],
+        "answer": "Building the Future with AI",
+        "category": "細節",
+        "explanation": "大會公告寫明「This year's theme is 'Building the Future with AI'」。",
+        "crossReference": false
+      },
+      {
+        "id": "P7D-T600-010-Q2",
+        "question": "What benefits do selected speakers receive?",
+        "options": ["A speaking fee of $500", "Free registration and two nights of hotel accommodation", "Airfare reimbursement", "A one-year conference pass"],
+        "answer": "Free registration and two nights of hotel accommodation",
+        "category": "細節",
+        "explanation": "公告列出「Free conference registration...Two nights of hotel accommodation」。",
+        "crossReference": false
+      },
+      {
+        "id": "P7D-T600-010-Q3",
+        "question": "What is Nina Kapoor's educational background?",
+        "options": ["Bachelor's in Computer Science", "Master's in Data Science from Stanford", "PhD in Artificial Intelligence", "MBA from Harvard"],
+        "answer": "Master's in Data Science from Stanford",
+        "category": "細節",
+        "explanation": "Nina的應徵信中寫道「I hold a Master's degree in Data Science from Stanford University」。",
+        "crossReference": false
+      },
+      {
+        "id": "P7D-T600-010-Q4",
+        "question": "What is the deadline for submitting speaker proposals?",
+        "options": ["January 15", "January 31", "February 15", "February 28"],
+        "answer": "January 31",
+        "category": "細節",
+        "explanation": "公告要求「submit...to speakers@techforward2026.com by January 31, 2026」。",
+        "crossReference": false
+      },
+      {
+        "id": "P7D-T600-010-Q5",
+        "question": "Which of the conference's topic areas does Nina's proposed session most closely match?",
+        "options": ["Cybersecurity trends", "Cloud computing", "AI applications in business", "Digital transformation case studies"],
+        "answer": "AI applications in business",
+        "category": "跨篇比對",
+        "explanation": "此題須同時參照兩篇文件：大會徵求「Artificial Intelligence applications in business」領域講者；Nina提出的講題為「Practical AI: How Small Businesses Can Compete with Big Data」，內容聚焦中小企業AI應用，與大會第一主題領域直接對應。",
+        "crossReference": true
+      }
+    ]
+  },
+  {
+    "id": "P7D-T600-011",
+    "part": 7,
+    "type": "double",
+    "track": "T600",
+    "documents": [
+      {
+        "title": "Work Order Request",
+        "body": "WORK ORDER #WO-3402\n\nDate: August 4, 2026\nRequested by: Sandra Mills, Lab Manager\nDepartment: Research & Development\n\nIssue: The air conditioning unit in Lab Room 204 is not cooling properly. The room temperature has been reading 27°C (80°F) instead of the required 21°C (70°F) for scientific equipment. This is affecting the stability of our testing instruments.\n\nPriority: High - Equipment at risk\n\nAdditional requests:\n- Please also check the ventilation fan in Lab 204, which has been making a loud noise.\n- The sink faucet in Lab 203 is leaking and needs a washer replacement.\n\nContact person: Sandra Mills, ext. 5621\nBest times for repair: Weekdays 8:00 AM - 4:00 PM"
+      },
+      {
+        "title": "Work Order Response",
+        "body": "WORK ORDER RESPONSE - WO-3402\n\nDate: August 5, 2026\nResponded by: Tony Russo, Facilities Supervisor\n\nStatus Updates:\n\n1. AC Unit (Lab 204): A technician will inspect the unit tomorrow, August 6, at 9:00 AM. If a simple repair is possible, it will be completed the same day. If the unit needs replacement parts, the order will take 3-5 business days to arrive. In that case, we will place a portable AC unit in the room as a temporary solution.\n\n2. Ventilation Fan (Lab 204): This is a quick fix. The technician will replace the fan belt during the same visit on August 6. Estimated repair time: 30 minutes.\n\n3. Sink Faucet (Lab 203): We are out of the required washer size. The part has been ordered and is expected to arrive by August 8. The repair will be completed by August 9.\n\nIf you have any questions, please contact Facilities at ext. 7700.\n\nNote: Please ensure the lab is accessible on August 6. The technician will need about 2 hours total to complete the AC inspection and fan repair."
+      }
+    ],
+    "questions": [
+      {
+        "id": "P7D-T600-011-Q1",
+        "question": "What is the main problem reported in Lab Room 204?",
+        "options": ["The lights are flickering", "The air conditioning is not cooling properly", "The door is broken", "The floor is wet"],
+        "answer": "The air conditioning is not cooling properly",
+        "category": "細節",
+        "explanation": "工作單寫明「The air conditioning unit in Lab Room 204 is not cooling properly」。",
+        "crossReference": false
+      },
+      {
+        "id": "P7D-T600-011-Q2",
+        "question": "What temperature should Lab 204 maintain?",
+        "options": ["18°C", "21°C", "24°C", "27°C"],
+        "answer": "21°C",
+        "category": "細節",
+        "explanation": "工作單說明應為「the required 21°C (70°F)」。",
+        "crossReference": false
+      },
+      {
+        "id": "P7D-T600-011-Q3",
+        "question": "When will the technician visit to inspect the AC unit?",
+        "options": ["August 5", "August 6", "August 7", "August 8"],
+        "answer": "August 6",
+        "category": "細節",
+        "explanation": "回覆中寫道「A technician will inspect the unit tomorrow, August 6, at 9:00 AM」。",
+        "crossReference": false
+      },
+      {
+        "id": "P7D-T600-011-Q4",
+        "question": "What temporary solution will be provided if the AC needs replacement parts?",
+        "options": ["Fans will be placed in the room", "A portable AC unit will be used", "The lab will be moved to another room", "The equipment will be stored elsewhere"],
+        "answer": "A portable AC unit will be used",
+        "category": "細節",
+        "explanation": "回覆承諾「we will place a portable AC unit in the room as a temporary solution」。",
+        "crossReference": false
+      },
+      {
+        "id": "P7D-T600-011-Q5",
+        "question": "Which repair will be completed last?",
+        "options": ["The AC inspection", "The ventilation fan", "The sink faucet in Lab 203", "All repairs will be completed on the same day"],
+        "answer": "The sink faucet in Lab 203",
+        "category": "跨篇比對",
+        "explanation": "此題須同時參照兩篇文件：工作單列出三項維修需求；回覆中冷氣檢修於8月6日進行，通風扇也在8月6日修復，但水龍頭墊圈零件預計8月8日到貨、8月9日維修，是三項中最晚完成的。",
+        "crossReference": true
+      }
+    ]
+  },
+  {
+    "id": "P7D-T600-012",
+    "part": 7,
+    "type": "double",
+    "track": "T600",
+    "documents": [
+      {
+        "title": "Policy Change Announcement",
+        "body": "FROM THE DESK OF THE CEO\nDate: April 1, 2026\n\nDear Team,\n\nAfter careful consideration and employee feedback, we are introducing two important changes to our work policy, effective May 1, 2026.\n\n1. Flexible Work Hours\nEmployees may now choose their start time between 7:00 AM and 10:00 AM, as long as they complete 8 hours of work each day. Core hours, when all employees must be available for meetings, are 10:00 AM to 3:00 PM.\n\n2. Remote Work Policy\nAll employees are allowed to work from home up to two days per week. However, remote work must be scheduled with your direct manager at least one week in advance. Team meetings and client presentations must still be attended in person unless otherwise approved.\n\nThese policies do not apply to manufacturing and warehouse staff, whose work requires on-site presence. A separate policy for those teams will be announced next quarter.\n\nThank you for your continued dedication.\n\nSincerely,\nJames Whitfield\nCEO"
+      },
+      {
+        "title": "Email: Questions About New Policy",
+        "body": "From: lisa.park@companyname.com\nTo: hr@companyname.com\nSubject: Questions About New Work Policy\n\nDear HR,\n\nI read the CEO's announcement about the new flexible work policy, and I have a couple of questions.\n\nFirst, I am a marketing team member, and our team meeting is held every Monday at 9:30 AM. Under the new policy, can I start work at 10:00 AM on Mondays and miss the first 30 minutes of the meeting?\n\nSecond, regarding the remote work policy, my husband and I are expecting a baby in July. Would it be possible to work remotely three days per week for a temporary period after the baby arrives? I would only need this arrangement for about two months.\n\nPlease let me know if these situations can be accommodated. Thank you!\n\nLisa Park\nMarketing Department"
+      }
+    ],
+    "questions": [
+      {
+        "id": "P7D-T600-012-Q1",
+        "question": "When does the new work policy take effect?",
+        "options": ["April 1", "April 15", "May 1", "May 15"],
+        "answer": "May 1",
+        "category": "細節",
+        "explanation": "公告寫明「effective May 1, 2026」。",
+        "crossReference": false
+      },
+      {
+        "id": "P7D-T600-012-Q2",
+        "question": "What are the mandatory core hours?",
+        "options": ["7:00 AM to 3:00 PM", "9:00 AM to 5:00 PM", "10:00 AM to 3:00 PM", "10:00 AM to 4:00 PM"],
+        "answer": "10:00 AM to 3:00 PM",
+        "category": "細節",
+        "explanation": "公告明確指出「Core hours...are 10:00 AM to 3:00 PM」。",
+        "crossReference": false
+      },
+      {
+        "id": "P7D-T600-012-Q3",
+        "question": "Which employees are excluded from the new policies?",
+        "options": ["Marketing staff", "Senior managers", "Manufacturing and warehouse staff", "IT department staff"],
+        "answer": "Manufacturing and warehouse staff",
+        "category": "細節",
+        "explanation": "公告說明「These policies do not apply to manufacturing and warehouse staff」。",
+        "crossReference": false
+      },
+      {
+        "id": "P7D-T600-012-Q4",
+        "question": "What is Lisa's concern about the Monday team meeting?",
+        "options": ["The meeting is too long", "She wants to skip the meeting", "Starting at 10:00 AM would cause her to miss part of the meeting", "The meeting should be moved online"],
+        "answer": "Starting at 10:00 AM would cause her to miss part of the meeting",
+        "category": "細節",
+        "explanation": "Lisa寫道「our team meeting is held every Monday at 9:30 AM...can I start work at 10:00 AM on Mondays and miss the first 30 minutes」。",
+        "crossReference": false
+      },
+      {
+        "id": "P7D-T600-012-Q5",
+        "question": "What portion of Lisa's request goes beyond what the new policy allows?",
+        "options": ["Flexible start time on Mondays", "Working remotely for three days per week", "Remote work scheduling", "Attending meetings in person"],
+        "answer": "Working remotely for three days per week",
+        "category": "跨篇比對",
+        "explanation": "此題須同時參照兩篇文件：CEO公告規定遠距工作「up to two days per week」；Lisa詢問是否能因育嬰需求「work remotely three days per week」，比對可知她的請求超出新政策允許的天數上限。",
+        "crossReference": true
+      }
+    ]
+  },
+  {
+    "id": "P7D-T600-013",
+    "part": 7,
+    "type": "double",
+    "track": "T600",
+    "documents": [
+      {
+        "title": "Email: Speaker Invitation",
+        "body": "From: events@businessleadersforum.com\nTo: robert.kim@greentech.com\nSubject: Invitation to Speak at Business Leaders Forum\n\nDear Mr. Kim,\n\nOn behalf of the Business Leaders Forum, I am pleased to invite you to be a keynote speaker at our upcoming annual conference. We have been following GreenTech's success in sustainable manufacturing and believe your insights would be valuable to our attendees.\n\nEvent Details:\nDate: Friday, November 14, 2026\nTime: Your keynote is scheduled for 11:00 AM - 11:45 AM, followed by a 15-minute Q&A session.\nLocation: Hilton Riverside Hotel, 350 Harbor Blvd, San Francisco\n\nWe expect approximately 500 attendees, primarily business owners and senior executives from the Bay Area. We will cover your travel expenses and provide two nights of hotel accommodation. Guests of keynote speakers receive complimentary tickets to the evening networking dinner on November 14.\n\nPlease let us know by October 1 if you are available. We would be happy to discuss the topic of your presentation in more detail.\n\nBest regards,\nClaire Thompson\nProgram Director, Business Leaders Forum"
+      },
+      {
+        "title": "Reply: Accepting Speaker Invitation",
+        "body": "From: robert.kim@greentech.com\nTo: events@businessleadersforum.com\nSubject: RE: Invitation to Speak at Business Leaders Forum\n\nDear Claire,\n\nThank you for the invitation. I am honored to accept and would be delighted to speak at the Business Leaders Forum on November 14.\n\nFor my keynote, I would like to focus on \"How Sustainability Drives Profitability,\" drawing on GreenTech's experience over the past five years. This topic should resonate well with your audience of business owners and executives.\n\nI have a few logistical questions:\n1. Will a laptop and projector be provided, or should I bring my own?\n2. Is there a specific slide template I should use for my presentation?\n3. I am a vegetarian. Can a vegetarian meal be arranged for the networking dinner?\n\nI have already booked my flight and will arrive in San Francisco on November 13. I look forward to the event.\n\nBest regards,\nRobert Kim\nCEO, GreenTech Solutions"
+      }
+    ],
+    "questions": [
+      {
+        "id": "P7D-T600-013-Q1",
+        "question": "Where will the conference take place?",
+        "options": ["GreenTech headquarters", "Hilton Riverside Hotel, San Francisco", "Bay Area Convention Center", "Business Leaders Forum Office"],
+        "answer": "Hilton Riverside Hotel, San Francisco",
+        "category": "細節",
+        "explanation": "邀請函列出「Location: Hilton Riverside Hotel, 350 Harbor Blvd, San Francisco」。",
+        "crossReference": false
+      },
+      {
+        "id": "P7D-T600-013-Q2",
+        "question": "How long is the keynote session including Q&A?",
+        "options": ["30 minutes", "45 minutes", "60 minutes", "75 minutes"],
+        "answer": "60 minutes",
+        "category": "細節",
+        "explanation": "邀請函說明「11:00 AM - 11:45 AM, followed by a 15-minute Q&A session」，合計60分鐘。",
+        "crossReference": false
+      },
+      {
+        "id": "P7D-T600-013-Q3",
+        "question": "What topic does Robert propose for his keynote?",
+        "options": ["GreenTech's company history", "How Sustainability Drives Profitability", "Future of Manufacturing", "Technology Trends in Business"],
+        "answer": "How Sustainability Drives Profitability",
+        "category": "細節",
+        "explanation": "回信中寫道「I would like to focus on 'How Sustainability Drives Profitability'」。",
+        "crossReference": false
+      },
+      {
+        "id": "P7D-T600-013-Q4",
+        "question": "What is the deadline for Robert to confirm his availability?",
+        "options": ["September 15", "October 1", "October 15", "November 1"],
+        "answer": "October 1",
+        "category": "細節",
+        "explanation": "邀請函要求「Please let us know by October 1 if you are available」。",
+        "crossReference": false
+      },
+      {
+        "id": "P7D-T600-013-Q5",
+        "question": "What does Robert request that relates to information provided in the invitation?",
+        "options": ["A higher speaking fee", "A vegetarian meal for the networking dinner", "A different time slot", "An extra hotel night"],
+        "answer": "A vegetarian meal for the networking dinner",
+        "category": "跨篇比對",
+        "explanation": "此題須同時參照兩篇文件：邀請函提到「Guests of keynote speakers receive complimentary tickets to the evening networking dinner」；Robert回覆詢問「I am a vegetarian. Can a vegetarian meal be arranged for the networking dinner?」，比對可知他針對邀請函中的晚宴提出特殊飲食需求。",
+        "crossReference": true
+      }
+    ]
+  },
+  {
+    "id": "P7D-T600-014",
+    "part": 7,
+    "type": "double",
+    "track": "T600",
+    "documents": [
+      {
+        "title": "Event Registration Form",
+        "body": "MENTORSHIP PROGRAM KICKOFF EVENT - REGISTRATION FORM\n\nEvent: Annual Mentorship Program Kickoff\nDate: Wednesday, September 24\nTime: 6:00 PM - 8:30 PM\nVenue: The Gallery, 212 West Elm Street\n\nThis form is for mentors and mentees to register for the program kickoff event.\n\nRegistered Participant: Tomás Herrera\nRole: Mentor\nDepartment: Engineering\nYears with company: 6\n\nMentoring topics of interest:\n- Career development\n- Leadership skills\n- Technical project management\n\nDinner option selected: Chicken\n\nDietary restrictions: None noted\n\nSpecial requests: Wheelchair-accessible seating please\n\nPlease confirm your attendance by signing below. By signing, you agree to attend at least 80% of the scheduled mentoring sessions over the 6-month program.\n\nSignature: Tomás Herrera\nDate submitted: September 10"
+      },
+      {
+        "title": "Confirmation Email",
+        "body": "From: mentorship@companyname.com\nTo: tomas.herrera@companyname.com\nSubject: Confirmation - Mentorship Program Kickoff\n\nDear Tomás,\n\nThank you for registering as a mentor for the Mentorship Program Kickoff event. Your registration has been confirmed.\n\nHere is a summary of your registration:\n- Event Date: Wednesday, September 24, 6:00 PM - 8:30 PM\n- Location: The Gallery, 212 West Elm Street (parking is available in the lot behind the building)\n- Your role: Mentor\n\nWe have noted your request for wheelchair-accessible seating and have reserved a table on the ground floor near the entrance.\n\nYou have been matched with two mentees:\n1. Priya Sharma - Software Developer, interested in career growth\n2. David Okonkwo - Junior Engineer, interested in technical skills development\n\nBoth mentees will be seated at your table during the dinner. Please arrive 15 minutes early (5:45 PM) for a brief mentor orientation before the event begins.\n\nDress code: Business casual\n\nIf you have any questions, please contact us at mentorship@companyname.com.\n\nWe look forward to seeing you there!\n\nMentorship Program Team"
+      }
+    ],
+    "questions": [
+      {
+        "id": "P7D-T600-014-Q1",
+        "question": "What role is Tomás Herrera registered for?",
+        "options": ["Mentee", "Mentor", "Organizer", "Speaker"],
+        "answer": "Mentor",
+        "category": "細節",
+        "explanation": "報名表中「Role: Mentor」及確認信中「Thank you for registering as a mentor」均表明其角色。",
+        "crossReference": false
+      },
+      {
+        "id": "P7D-T600-014-Q2",
+        "question": "What dinner option did Tomás select?",
+        "options": ["Beef", "Fish", "Chicken", "Vegetarian"],
+        "answer": "Chicken",
+        "category": "細節",
+        "explanation": "報名表中標明「Dinner option selected: Chicken」。",
+        "crossReference": false
+      },
+      {
+        "id": "P7D-T600-014-Q3",
+        "question": "What special request did Tomás make?",
+        "options": ["Vegetarian meal", "Wheelchair-accessible seating", "Early departure", "Translation services"],
+        "answer": "Wheelchair-accessible seating",
+        "category": "細節",
+        "explanation": "報名表中「Special requests: Wheelchair-accessible seating please」明確列出。",
+        "crossReference": false
+      },
+      {
+        "id": "P7D-T600-014-Q4",
+        "question": "How many mentees is Tomás matched with?",
+        "options": ["One", "Two", "Three", "Four"],
+        "answer": "Two",
+        "category": "細節",
+        "explanation": "確認信列出兩位mentee：Priya Sharma和David Okonkwo。",
+        "crossReference": false
+      },
+      {
+        "id": "P7D-T600-014-Q5",
+        "question": "What time should Tomás arrive, and why does he need to arrive earlier than the event start time?",
+        "options": ["5:30 PM for setup", "5:45 PM for a mentor orientation", "6:00 PM for registration", "5:45 PM for dinner preparation"],
+        "answer": "5:45 PM for a mentor orientation",
+        "category": "跨篇比對",
+        "explanation": "此題須同時參照兩篇文件：報名表顯示活動時間為6:00 PM開始；確認信說明「Please arrive 15 minutes early (5:45 PM) for a brief mentor orientation before the event begins」，比對可知導師需提前15分鐘參加說明會。",
+        "crossReference": true
+      }
+    ]
+  },
+  {
+    "id": "P7D-T600-015",
+    "part": 7,
+    "type": "double",
+    "track": "T600",
+    "documents": [
+      {
+        "title": "Product Inquiry Email",
+        "body": "From: procurement@cityhospital.org\nTo: sales@medequip.com\nSubject: Inquiry - Hospital Beds Model HB-500\n\nDear MedEquip Sales Team,\n\nCity Hospital is planning to upgrade our patient rooms, and we are interested in purchasing your HB-500 electric hospital beds.\n\nBefore we proceed with an order, we have the following questions:\n1. What is the current unit price for an order of 40 beds? We noticed the listed price is $2,800 per bed, but we are hoping for a bulk discount.\n2. What is the warranty period? Our previous supplier offered 5 years.\n3. Do you provide installation and staff training on-site? We would need training for approximately 60 nurses.\n4. What is the estimated delivery time for 40 units?\n\nOur purchasing timeline requires that we place the order by November 30. Please send us your best quote at your earliest convenience.\n\nThank you,\nDr. Patricia Owens\nDirector of Procurement, City Hospital"
+      },
+      {
+        "title": "Reply: Quote and Product Information",
+        "body": "From: sales@medequip.com\nTo: procurement@cityhospital.org\nSubject: RE: Inquiry - Hospital Beds Model HB-500\n\nDear Dr. Owens,\n\nThank you for your interest in our HB-500 electric hospital beds. I am pleased to provide the following information:\n\n1. Pricing: For orders of 30 or more units, we offer a bulk discount of 12%. The discounted unit price would be $2,464 per bed. Total for 40 beds: $98,560.\n\n2. Warranty: The HB-500 comes with a 3-year full warranty covering all parts and labor. An extended 2-year warranty is available for an additional $120 per bed.\n\n3. Installation and training: We provide free on-site installation by certified technicians. Staff training is also included at no extra charge for up to 4 sessions (maximum 20 participants per session). For your 60 nurses, we would conduct 3 training sessions.\n\n4. Delivery: Standard delivery time is 4-6 weeks from order confirmation. With the current production schedule, we can deliver by December 20.\n\nI have attached a formal quote for your review. Please let me know if you have any additional questions.\n\nBest regards,\nMichael Torres\nRegional Sales Manager, MedEquip"
+      }
+    ],
+    "questions": [
+      {
+        "id": "P7D-T600-015-Q1",
+        "question": "What is the discounted price per bed for the bulk order?",
+        "options": ["$2,464", "$2,500", "$2,600", "$2,800"],
+        "answer": "$2,464",
+        "category": "細節",
+        "explanation": "回覆中計算「bulk discount of 12%...discounted unit price would be $2,464」。",
+        "crossReference": false
+      },
+      {
+        "id": "P7D-T600-015-Q2",
+        "question": "How long is the standard warranty for the HB-500 bed?",
+        "options": ["1 year", "2 years", "3 years", "5 years"],
+        "answer": "3 years",
+        "category": "細節",
+        "explanation": "回覆寫明「The HB-500 comes with a 3-year full warranty」。",
+        "crossReference": false
+      },
+      {
+        "id": "P7D-T600-015-Q3",
+        "question": "How many training sessions will be provided for the nurses?",
+        "options": ["2 sessions", "3 sessions", "4 sessions", "5 sessions"],
+        "answer": "3 sessions",
+        "category": "細節",
+        "explanation": "回覆說明「For your 60 nurses, we would conduct 3 training sessions」。",
+        "crossReference": false
+      },
+      {
+        "id": "P7D-T600-015-Q4",
+        "question": "What is the deadline for City Hospital to place their order?",
+        "options": ["November 15", "November 20", "November 30", "December 20"],
+        "answer": "November 30",
+        "category": "細節",
+        "explanation": "詢問信中指出「Our purchasing timeline requires that we place the order by November 30」。",
+        "crossReference": false
+      },
+      {
+        "id": "P7D-T600-015-Q5",
+        "question": "How does MedEquip's warranty compare to what City Hospital had with their previous supplier?",
+        "options": ["It is longer", "It is shorter", "It is the same duration", "No warranty was provided"],
+        "answer": "It is shorter",
+        "category": "跨篇比對",
+        "explanation": "此題須同時參照兩篇文件：City Hospital詢問信中提及「Our previous supplier offered 5 years」的保固；MedEquip回覆標準保固為3年。比對可知新供應商的保固比原供應商少了2年，但可加購延長保固。",
+        "crossReference": true
+      }
+    ]
+  },
+  {
+    "id": "P7D-T600-016",
+    "part": 7,
+    "type": "double",
+    "track": "T600",
+    "documents": [
+      {
+        "title": "Memo: Office Supply Budget Cut",
+        "body": "MEMORANDUM\n\nTo: All Department Heads\nFrom: Finance Department\nDate: March 3, 2026\nSubject: Office Supply Budget Reduction\n\nAs part of our cost-saving measures for Q2 2026, the office supply budget for each department will be reduced by 20% effective April 1. This decision was made after a review of spending patterns showed that supply usage has exceeded the allocated budget in all four quarters of 2025.\n\nTo help departments adjust, we recommend the following:\n- Switch to digital documents whenever possible to reduce paper usage\n- Order supplies in bulk once a month rather than placing multiple small orders\n- Use the shared supply cabinet in the break room for infrequently used items\n\nThe new monthly supply budgets are as follows:\n- Marketing: $320 (was $400)\n- Sales: $280 (was $350)\n- Engineering: $450 (was $562.50)\n- HR: $200 (was $250)\n\nIf your department has special supply needs that cannot be met under the new budget, please submit a written request to finance@companyname.com by March 15 for review.\n\nFinance Department"
+      },
+      {
+        "title": "Email: Budget Exception Request",
+        "body": "From: jessica.wong@companyname.com\nTo: finance@companyname.com\nSubject: Supply Budget Exception Request - Marketing Department\n\nDear Finance Team,\n\nI am writing to request an exception to the office supply budget reduction for the Marketing Department.\n\nIn April and May, we will be preparing materials for two major industry trade shows: the National Marketing Expo and the Regional Business Summit. We need to print approximately 500 full-color brochures, 200 product catalogs, and 100 presentation folders for each event. The estimated cost for these materials alone is $380, which is already above our reduced monthly budget of $320.\n\nThis is a seasonal increase in supply needs. For the remaining months of Q2 (June), our supply usage should fall well within the new $320 budget. I am requesting that our April and May budgets be temporarily raised to $450 per month, returning to $320 in June.\n\nI have attached a cost breakdown for your review. Thank you for your consideration.\n\nBest regards,\nJessica Wong\nMarketing Director"
+      }
+    ],
+    "questions": [
+      {
+        "id": "P7D-T600-016-Q1",
+        "question": "By what percentage is the office supply budget being reduced?",
+        "options": ["10%", "15%", "20%", "25%"],
+        "answer": "20%",
+        "category": "細節",
+        "explanation": "備忘錄寫明「the office supply budget for each department will be reduced by 20%」。",
+        "crossReference": false
+      },
+      {
+        "id": "P7D-T600-016-Q2",
+        "question": "What is the new monthly supply budget for the Marketing Department?",
+        "options": ["$280", "$320", "$350", "$400"],
+        "answer": "$320",
+        "category": "細節",
+        "explanation": "備忘錄列出「Marketing: $320 (was $400)」。",
+        "crossReference": false
+      },
+      {
+        "id": "P7D-T600-016-Q3",
+        "question": "What is the deadline to submit an exception request?",
+        "options": ["March 10", "March 15", "March 20", "April 1"],
+        "answer": "March 15",
+        "category": "細節",
+        "explanation": "備忘錄要求「submit a written request to finance@companyname.com by March 15」。",
+        "crossReference": false
+      },
+      {
+        "id": "P7D-T600-016-Q4",
+        "question": "For which months is Jessica requesting a temporary budget increase?",
+        "options": ["March and April", "April and May", "May and June", "April only"],
+        "answer": "April and May",
+        "category": "細節",
+        "explanation": "Jessica寫道「requesting that our April and May budgets be temporarily raised to $450 per month」。",
+        "crossReference": false
+      },
+      {
+        "id": "P7D-T600-016-Q5",
+        "question": "What is Jessica's justification for requesting a higher budget, and what amount does she ask for?",
+        "options": ["She needs $320 for regular operations", "She needs $450 for two months due to trade show materials", "She needs $400 to return to the original budget", "She needs $500 for new equipment"],
+        "answer": "She needs $450 for two months due to trade show materials",
+        "category": "跨篇比對",
+        "explanation": "此題須同時參照兩篇文件：備忘錄將行銷部預算從$400降至$320；Jessica指出準備兩場商展的材料預估成本$380已超過新預算$320，並請求4月和5月暫時提高至$450。比對可知她的請求金額高於原預算，原因是季節性商展需求。",
+        "crossReference": true
+      }
+    ]
+  },
+  {
+    "id": "P7D-T600-017",
+    "part": 7,
+    "type": "double",
+    "track": "T600",
+    "documents": [
+      {
+        "title": "Service Outage Alert",
+        "body": "SERVICE OUTAGE ALERT - CloudStore Database\n\nDate: August 12, 2026\nTime of outage: 2:15 PM (ongoing)\n\nWe are currently experiencing an outage affecting the CloudStore database service. Customers may be unable to access their stored files, upload new documents, or sync data across devices. Our engineering team has identified the issue as a server malfunction in our East Coast data center and is working to resolve it.\n\nThe following services are affected:\n- File storage and retrieval\n- Document sharing links\n- Automatic backup service\n\nPlease note that all customer data is backed up and secure. No data loss is expected.\n\nWe will provide an update within 2 hours. For urgent needs, customers can access an older version of their files through the Emergency Access Portal at emergency.cloudstore.com.\n\nWe apologize for the inconvenience.\nCloudStore Support Team"
+      },
+      {
+        "title": "Service Restoration Notice",
+        "body": "SERVICE RESTORATION NOTICE - CloudStore Database\n\nDate: August 12, 2026\nTime: 5:40 PM\n\nWe are pleased to inform you that the CloudStore database outage has been fully resolved. All services are now operating normally:\n\n- File storage and retrieval: Restored\n- Document sharing links: Restored (previously shared links are working again)\n- Automatic backup service: Restored (any backups scheduled during the outage have been rescheduled to run tonight)\n\nRoot cause: A cooling system failure in the East Coast data center caused two servers to overheat and shut down automatically to prevent damage. The cooling system has been repaired, and both servers are back online.\n\nPreventive measures: We are installing additional temperature sensors and backup cooling units in all data centers. This work will be completed by September 15 and will require no further service interruptions.\n\nAs compensation for the 3-hour and 25-minute outage, all affected customers will receive a 10% credit on their next monthly bill.\n\nThank you for your patience.\nCloudStore Support Team"
+      }
+    ],
+    "questions": [
+      {
+        "id": "P7D-T600-017-Q1",
+        "question": "What caused the CloudStore database outage?",
+        "options": ["A cyber attack", "A cooling system failure causing servers to overheat", "A software update error", "A power outage in the building"],
+        "answer": "A cooling system failure causing servers to overheat",
+        "category": "細節",
+        "explanation": "恢復通知說明「A cooling system failure in the East Coast data center caused two servers to overheat」。",
+        "crossReference": false
+      },
+      {
+        "id": "P7D-T600-017-Q2",
+        "question": "What temporary solution was offered during the outage?",
+        "options": ["Phone support", "The Emergency Access Portal", "A mobile app", "Email-based file retrieval"],
+        "answer": "The Emergency Access Portal",
+        "category": "細節",
+        "explanation": "故障警報中建議「access an older version of their files through the Emergency Access Portal at emergency.cloudstore.com」。",
+        "crossReference": false
+      },
+      {
+        "id": "P7D-T600-017-Q3",
+        "question": "What compensation is being offered to customers?",
+        "options": ["A free month of service", "A 10% credit on the next monthly bill", "A $50 refund", "Free data upgrade"],
+        "answer": "A 10% credit on the next monthly bill",
+        "category": "細節",
+        "explanation": "恢復通知寫明「all affected customers will receive a 10% credit on their next monthly bill」。",
+        "crossReference": false
+      },
+      {
+        "id": "P7D-T600-017-Q4",
+        "question": "What preventive measure is CloudStore implementing?",
+        "options": ["Hiring more support staff", "Installing additional temperature sensors and backup cooling units", "Moving to a different data center", "Upgrading all servers"],
+        "answer": "Installing additional temperature sensors and backup cooling units",
+        "category": "細節",
+        "explanation": "恢復通知提到「installing additional temperature sensors and backup cooling units in all data centers」。",
+        "crossReference": false
+      },
+      {
+        "id": "P7D-T600-017-Q5",
+        "question": "How long did the outage last from start to full restoration?",
+        "options": ["2 hours", "2 hours and 15 minutes", "3 hours and 25 minutes", "4 hours and 10 minutes"],
+        "answer": "3 hours and 25 minutes",
+        "category": "跨篇比對",
+        "explanation": "此題須同時參照兩篇文件：故障警報顯示中斷開始於2:15 PM；恢復通知顯示服務於5:40 PM完全恢復，並明確寫明「the 3-hour and 25-minute outage」。比對起迄時間可確認總中斷時長。",
+        "crossReference": true
+      }
+    ]
+  },
+  {
+    "id": "P7D-T600-018",
+    "part": 7,
+    "type": "double",
+    "track": "T600",
+    "documents": [
+      {
+        "title": "Job Posting: Data Analyst",
+        "body": "Orion Insurance Group is seeking a Data Analyst for our risk assessment department in Phoenix, AZ.\n\nKey Responsibilities:\n- Analyze customer data to identify risk patterns\n- Create monthly reports for the underwriting team\n- Maintain and update internal databases\n- Present findings to senior management\n\nRequirements:\n- Bachelor's degree in Statistics, Mathematics, or related field\n- 2+ years of experience in data analysis\n- Advanced Excel skills (pivot tables, VLOOKUP)\n- Experience with SQL required; Python or R preferred\n\nWe offer:\n- Salary: $60,000 - $68,000\n- 401(k) with 5% company match\n- Health, dental, and vision insurance\n- 20 days of paid vacation\n- Tuition reimbursement up to $3,000 per year\n\nApply online at www.orioninsurance.com/careers by June 15. Reference job code DA-2026-04."
+      },
+      {
+        "title": "Cover Letter: Application for Data Analyst",
+        "body": "Dear Orion Insurance Group Hiring Team,\n\nI am writing to express my strong interest in the Data Analyst position (job code DA-2026-04) at Orion Insurance Group.\n\nI hold a Bachelor's degree in Statistics from Arizona State University and have been working as a Junior Data Analyst at Southwest Health Analytics for the past three years. In this role, I:\n- Used SQL daily to extract and manipulate patient data from databases with over 500,000 records\n- Created automated Excel reports with pivot tables and macros that saved the team 10 hours per week\n- Developed a Python script to automate data cleaning processes\n- Presented quarterly findings to department directors\n\nI was particularly drawn to this position because of Orion's reputation in the insurance industry and my interest in applying data analysis to risk assessment. I believe my experience in healthcare data has prepared me well for working with insurance data sets.\n\nI have attached my resume for your review. I would welcome the opportunity to discuss how I can contribute to your team.\n\nSincerely,\nMarcus Williams\nmarcus.williams@email.com"
+      }
+    ],
+    "questions": [
+      {
+        "id": "P7D-T600-018-Q1",
+        "question": "What is the salary range for the Data Analyst position?",
+        "options": ["$55,000 - $62,000", "$60,000 - $68,000", "$65,000 - $72,000", "$68,000 - $75,000"],
+        "answer": "$60,000 - $68,000",
+        "category": "細節",
+        "explanation": "招聘廣告列出「Salary: $60,000 - $68,000」。",
+        "crossReference": false
+      },
+      {
+        "id": "P7D-T600-018-Q2",
+        "question": "How many years of experience does Marcus have as a data analyst?",
+        "options": ["One year", "Two years", "Three years", "Four years"],
+        "answer": "Three years",
+        "category": "細節",
+        "explanation": "求職信寫道「working as a Junior Data Analyst at Southwest Health Analytics for the past three years」。",
+        "crossReference": false
+      },
+      {
+        "id": "P7D-T600-018-Q3",
+        "question": "What is the job code for this position?",
+        "options": ["DA-2026-01", "DA-2026-04", "DA-2025-04", "DA-2026-10"],
+        "answer": "DA-2026-04",
+        "category": "細節",
+        "explanation": "招聘廣告要求「Reference job code DA-2026-04」，求職信中也引用了此代碼。",
+        "crossReference": false
+      },
+      {
+        "id": "P7D-T600-018-Q4",
+        "question": "What programming language did Marcus use to automate data cleaning?",
+        "options": ["SQL", "R", "Python", "Java"],
+        "answer": "Python",
+        "category": "細節",
+        "explanation": "求職信寫道「Developed a Python script to automate data cleaning processes」。",
+        "crossReference": false
+      },
+      {
+        "id": "P7D-T600-018-Q5",
+        "question": "Which of Marcus's skills matches both the required and preferred qualifications in the job posting?",
+        "options": ["Advanced Excel skills", "SQL experience", "Python programming", "Presentation skills"],
+        "answer": "SQL experience",
+        "category": "跨篇比對",
+        "explanation": "此題須同時參照兩篇文件：招聘廣告將SQL列為「required」、Python列為「preferred」；Marcus的求職信提到他在工作中「Used SQL daily」且「Developed a Python script」，比對可知SQL同時符合必備條件且Python符合加分條件。",
+        "crossReference": true
+      }
+    ]
+  },
+  {
+    "id": "P7D-T600-019",
+    "part": 7,
+    "type": "double",
+    "track": "T600",
+    "documents": [
+      {
+        "title": "Announcement: New Company Merger",
+        "body": "IMPORTANT ANNOUNCEMENT\n\nDate: February 10, 2026\nFrom: Office of the CEO\n\nWe are pleased to announce that effective March 1, 2026, Apex Digital Solutions will officially merge with NovaTech Systems. The combined company will operate under the name ApexNova Technologies.\n\nWhat this means for employees:\n- All current employees will retain their positions and salary levels.\n- The new headquarters will be at the current NovaTech campus at 800 Innovation Parkway. The Apex office at 450 Tech Drive will close on April 30.\n- Employees currently at the Apex office will begin relocating to the NovaTech campus starting March 15. The relocation schedule will be shared by each department head.\n- Health insurance and retirement plans will be unified under the ApexNova benefits package starting July 1. Until then, current plans remain in effect.\n\nA town hall meeting will be held on February 17 at 2:00 PM in the main auditorium at the NovaTech campus to answer your questions. A shuttle bus will be available from the Apex office.\n\nWe are excited about the opportunities this merger will bring.\n\nThomas Reid, CEO"
+      },
+      {
+        "title": "Email: Relocation Concern",
+        "body": "From: jason.nguyen@apexdigital.com\nTo: hr@apexdigital.com\nSubject: Question About Office Relocation\n\nDear HR,\n\nI read the merger announcement, and I have a concern about the office relocation. I currently live 10 minutes from the Apex office on Tech Drive, but the NovaTech campus on Innovation Parkway is about 45 minutes from my home without traffic.\n\nI understand that all Apex employees will move to Innovation Parkway by April 30. I am willing to make the longer commute, but I was wondering if the company plans to offer any support for employees facing significantly longer commutes due to the relocation. For example, some of my colleagues mentioned the possibility of a transportation allowance or a flexible work-from-home policy.\n\nAdditionally, I noticed that the announcement mentions the relocation schedule will be shared by department heads. Could you tell me when we can expect to receive that schedule? My department (Product Development) has several projects due in late March, and I want to plan ahead.\n\nThank you for your help.\n\nBest regards,\nJason Nguyen\nProduct Development, Apex Digital Solutions"
+      }
+    ],
+    "questions": [
+      {
+        "id": "P7D-T600-019-Q1",
+        "question": "What will the merged company be called?",
+        "options": ["Apex Digital Solutions", "NovaTech Systems", "ApexNova Technologies", "ApexNova Digital"],
+        "answer": "ApexNova Technologies",
+        "category": "細節",
+        "explanation": "公告寫明「The combined company will operate under the name ApexNova Technologies」。",
+        "crossReference": false
+      },
+      {
+        "id": "P7D-T600-019-Q2",
+        "question": "When will the Apex office close?",
+        "options": ["March 1", "March 15", "April 30", "July 1"],
+        "answer": "April 30",
+        "category": "細節",
+        "explanation": "公告指出「The Apex office at 450 Tech Drive will close on April 30」。",
+        "crossReference": false
+      },
+      {
+        "id": "P7D-T600-019-Q3",
+        "question": "When is the town hall meeting?",
+        "options": ["February 10", "February 17", "March 1", "March 15"],
+        "answer": "February 17",
+        "category": "細節",
+        "explanation": "公告寫道「A town hall meeting will be held on February 17 at 2:00 PM」。",
+        "crossReference": false
+      },
+      {
+        "id": "P7D-T600-019-Q4",
+        "question": "Why is Jason concerned about the relocation?",
+        "options": ["He does not want to change his job title", "His commute will increase significantly", "He does not like the new office building", "His salary will be reduced"],
+        "answer": "His commute will increase significantly",
+        "category": "細節",
+        "explanation": "Jason寫道「I currently live 10 minutes from the Apex office...the NovaTech campus...is about 45 minutes from my home」。",
+        "crossReference": false
+      },
+      {
+        "id": "P7D-T600-019-Q5",
+        "question": "What does Jason want to know that was mentioned but not fully detailed in the merger announcement?",
+        "options": ["The date of the town hall meeting", "When department heads will share the relocation schedule", "The new company name", "The closing date of the Apex office"],
+        "answer": "When department heads will share the relocation schedule",
+        "category": "跨篇比對",
+        "explanation": "此題須同時參照兩篇文件：合併公告提到「The relocation schedule will be shared by each department head」但未給出具體時間；Jason的郵件追問「Could you tell me when we can expect to receive that schedule?」，比對可知他針對公告中未明確的時間點提出了追問。",
+        "crossReference": true
+      }
+    ]
+  },
+  {
+    "id": "P7D-T600-020",
+    "part": 7,
+    "type": "double",
+    "track": "T600",
+    "documents": [
+      {
+        "title": "Training Course Description",
+        "body": "PROJECT MANAGEMENT PROFESSIONAL (PMP) PREP COURSE\n\nProvider: GlobalSkills Training Institute\nFormat: Online, instructor-led\n\nCourse Overview:\nThis 8-week course prepares participants for the PMP certification exam. It covers all five process groups and ten knowledge areas outlined in the PMBOK Guide. The course includes practice exams, case studies, and one-on-one coaching sessions.\n\nSchedule:\nStart Date: September 8, 2026\nLive Sessions: Tuesdays and Thursdays, 6:30 PM - 8:30 PM (Eastern Time)\n\nCost: $1,495 (includes all materials, two practice exams, and one exam voucher)\n\nPayment plan: $495 deposit to reserve your seat, with the remaining $1,000 due by the first day of class.\n\nPrerequisites:\n- A bachelor's degree or equivalent\n- At least 3 years of project management experience\n\nCancellation policy: Full refund minus $100 processing fee if canceled at least 14 days before the course starts. No refunds after August 25, 2026.\n\nTo register: www.globalskills.com/pmp or call 1-800-555-0456."
+      },
+      {
+        "title": "Registration Confirmation",
+        "body": "GLOBALSKILLS TRAINING INSTITUTE - REGISTRATION CONFIRMATION\n\nStudent: Rebecca Tan\nEmail: rebecca.tan@email.com\nCourse: PMP Prep Course (September 8 - October 29, 2026)\nRegistration Date: August 1, 2026\n\nPayment Summary:\n- Deposit paid: $495 (August 1, 2026)\n- Balance due: $1,000 (Due by September 8, 2026)\n- Total course fee: $1,495\n\nImportant Dates:\n- Course access opens: September 5, 2026 (You will receive login instructions by email)\n- First live session: September 8, 2026 at 6:30 PM ET\n- Last live session: October 29, 2026\n- Exam voucher issued: Upon course completion (valid for 6 months)\n\nCourse Materials:\n- Digital textbook: Accessible from September 5 via the student portal\n- Practice exams: Available after Session 4 (September 22)\n- One-on-one coaching session: Schedule with your instructor during the first week of class\n\nPlease save this confirmation for your records. If you have questions, contact us at support@globalskills.com.\n\nWe look forward to helping you achieve your PMP certification!"
+      }
+    ],
+    "questions": [
+      {
+        "id": "P7D-T600-020-Q1",
+        "question": "How often are the live sessions held?",
+        "options": ["Once a week", "Twice a week", "Three times a week", "Every weekday"],
+        "answer": "Twice a week",
+        "category": "細節",
+        "explanation": "課程說明列出「Live Sessions: Tuesdays and Thursdays」，每週兩次。",
+        "crossReference": false
+      },
+      {
+        "id": "P7D-T600-020-Q2",
+        "question": "What is the total cost of the course?",
+        "options": ["$495", "$1,000", "$1,495", "$1,595"],
+        "answer": "$1,495",
+        "category": "細節",
+        "explanation": "課程說明標明「Cost: $1,495」。",
+        "crossReference": false
+      },
+      {
+        "id": "P7D-T600-020-Q3",
+        "question": "When can students access the course materials?",
+        "options": ["August 1", "September 5", "September 8", "September 22"],
+        "answer": "September 5",
+        "category": "細節",
+        "explanation": "確認信指出「Course access opens: September 5, 2026」。",
+        "crossReference": false
+      },
+      {
+        "id": "P7D-T600-020-Q4",
+        "question": "When will the exam voucher be issued?",
+        "options": ["Upon registration", "At the start of the course", "After the fourth session", "Upon course completion"],
+        "answer": "Upon course completion",
+        "category": "細節",
+        "explanation": "確認信寫明「Exam voucher issued: Upon course completion」。",
+        "crossReference": false
+      },
+      {
+        "id": "P7D-T600-020-Q5",
+        "question": "How much would Rebecca lose if she canceled her registration on August 20?",
+        "options": ["$0", "$100", "$495", "$1,495"],
+        "answer": "$100",
+        "category": "跨篇比對",
+        "explanation": "此題須同時參照兩篇文件：課程說明中的取消政策為「Full refund minus $100 processing fee if canceled at least 14 days before the course starts」；課程9月8日開始，8月20日取消符合14天前條件；確認信顯示Rebecca已付訂金$495，但因在14天前取消，她只會損失$100手續費，其餘可退還。",
+        "crossReference": true
+      }
+    ]
+  }
+]

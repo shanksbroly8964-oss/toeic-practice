@@ -1,0 +1,677 @@
+[
+  {
+    "id": "L1-T600-016",
+    "part": 1,
+    "track": "T600",
+    "imageDescription": "A waiter is carrying a tray of drinks to a table in a restaurant.",
+    "options": [
+      "A waiter is carrying a tray of drinks.",
+      "The waiter is wiping the table.",
+      "Customers are paying the bill.",
+      "The restaurant is being renovated."
+    ],
+    "answer": "A waiter is carrying a tray of drinks.",
+    "explanation": "描述的情境與此選項完全一致；其他選項描述的動作或狀態未在畫面中出現。",
+    "category": "人物動作"
+  },
+  {
+    "id": "L1-T600-017",
+    "part": 1,
+    "track": "T600",
+    "imageDescription": "A gardener is trimming the bushes in front of an office building.",
+    "options": [
+      "A gardener is trimming the bushes.",
+      "The office windows are being washed.",
+      "A delivery truck is parked outside.",
+      "The building entrance is locked."
+    ],
+    "answer": "A gardener is trimming the bushes.",
+    "explanation": "描述的情境與此選項完全一致；其他選項描述的動作或狀態未在畫面中出現。",
+    "category": "人物動作"
+  },
+  {
+    "id": "L1-T600-018",
+    "part": 1,
+    "track": "T600",
+    "imageDescription": "A technician is repairing a copy machine in the staff workroom.",
+    "options": [
+      "A technician is repairing a copy machine.",
+      "An employee is making copies.",
+      "The workroom is being painted.",
+      "The printer is running out of paper."
+    ],
+    "answer": "A technician is repairing a copy machine.",
+    "explanation": "描述的情境與此選項完全一致；其他選項描述的動作或狀態未在畫面中出現。",
+    "category": "人物動作"
+  },
+  {
+    "id": "L1-T600-019",
+    "part": 1,
+    "track": "T600",
+    "imageDescription": "A security guard is checking identification at the main entrance.",
+    "options": [
+      "A security guard is checking identification.",
+      "Visitors are signing a guest book.",
+      "The entrance gate is broken.",
+      "A guard is opening the door."
+    ],
+    "answer": "A security guard is checking identification.",
+    "explanation": "描述的情境與此選項完全一致；其他選項描述的動作或狀態未在畫面中出現。",
+    "category": "人物動作"
+  },
+  {
+    "id": "L1-T600-020",
+    "part": 1,
+    "track": "T600",
+    "imageDescription": "A nurse is taking a patient's blood pressure in a hospital room.",
+    "options": [
+      "A nurse is taking a patient's blood pressure.",
+      "The patient is eating breakfast.",
+      "A doctor is writing a prescription.",
+      "The hospital room is being cleaned."
+    ],
+    "answer": "A nurse is taking a patient's blood pressure.",
+    "explanation": "描述的情境與此選項完全一致；其他選項描述的動作或狀態未在畫面中出現。",
+    "category": "人物動作"
+  },
+  {
+    "id": "L1-T600-021",
+    "part": 1,
+    "track": "T600",
+    "imageDescription": "A cashier is scanning items at a supermarket checkout counter.",
+    "options": [
+      "A cashier is scanning items.",
+      "A customer is bagging groceries.",
+      "The checkout counter is closed.",
+      "A manager is counting money."
+    ],
+    "answer": "A cashier is scanning items.",
+    "explanation": "描述的情境與此選項完全一致；其他選項描述的動作或狀態未在畫面中出現。",
+    "category": "人物動作"
+  },
+  {
+    "id": "L1-T600-022",
+    "part": 1,
+    "track": "T600",
+    "imageDescription": "A trainer is demonstrating an exercise to a group in a gym.",
+    "options": [
+      "A trainer is demonstrating an exercise.",
+      "The gym members are taking a break.",
+      "The workout equipment is being repaired.",
+      "A member is drinking water."
+    ],
+    "answer": "A trainer is demonstrating an exercise.",
+    "explanation": "描述的情境與此選項完全一致；其他選項描述的動作或狀態未在畫面中出現。",
+    "category": "人物動作"
+  },
+  {
+    "id": "L1-T600-023",
+    "part": 1,
+    "track": "T600",
+    "imageDescription": "A barista is pouring milk into a coffee cup at a café counter.",
+    "options": [
+      "A barista is pouring milk into a coffee cup.",
+      "A customer is ordering at the counter.",
+      "The café is closed for cleaning.",
+      "The coffee machine is being replaced."
+    ],
+    "answer": "A barista is pouring milk into a coffee cup.",
+    "explanation": "描述的情境與此選項完全一致；其他選項描述的動作或狀態未在畫面中出現。",
+    "category": "人物動作"
+  },
+  {
+    "id": "L1-T600-024",
+    "part": 1,
+    "track": "T600",
+    "imageDescription": "A construction worker is wearing a hard hat while operating a drill on a site.",
+    "options": [
+      "A construction worker is operating a drill.",
+      "The building is fully completed.",
+      "Workers are taking a lunch break.",
+      "The construction site is empty."
+    ],
+    "answer": "A construction worker is operating a drill.",
+    "explanation": "描述的情境與此選項完全一致；其他選項描述的動作或狀態未在畫面中出現。",
+    "category": "人物動作"
+  },
+  {
+    "id": "L1-T600-025",
+    "part": 1,
+    "track": "T600",
+    "imageDescription": "A photographer is adjusting a camera on a tripod in a studio.",
+    "options": [
+      "A photographer is adjusting a camera on a tripod.",
+      "The model is posing for a photo.",
+      "The studio lights are turned off.",
+      "A client is reviewing photos on a screen."
+    ],
+    "answer": "A photographer is adjusting a camera on a tripod.",
+    "explanation": "描述的情境與此選項完全一致；其他選項描述的動作或狀態未在畫面中出現。",
+    "category": "人物動作"
+  },
+  {
+    "id": "L1-T600-026",
+    "part": 1,
+    "track": "T600",
+    "imageDescription": "A lecturer is writing on a whiteboard in a university classroom.",
+    "options": [
+      "A lecturer is writing on a whiteboard.",
+      "Students are leaving the classroom.",
+      "The classroom projector is broken.",
+      "A student is answering a question."
+    ],
+    "answer": "A lecturer is writing on a whiteboard.",
+    "explanation": "描述的情境與此選項完全一致；其他選項描述的動作或狀態未在畫面中出現。",
+    "category": "人物動作"
+  },
+  {
+    "id": "L1-T600-027",
+    "part": 1,
+    "track": "T600",
+    "imageDescription": "A pharmacist is handing a bottle of medicine to a customer.",
+    "options": [
+      "A pharmacist is handing medicine to a customer.",
+      "The customer is reading a magazine.",
+      "The pharmacy shelves are empty.",
+      "A doctor is checking the prescription."
+    ],
+    "answer": "A pharmacist is handing medicine to a customer.",
+    "explanation": "描述的情境與此選項完全一致；其他選項描述的動作或狀態未在畫面中出現。",
+    "category": "人物動作"
+  },
+  {
+    "id": "L1-T600-028",
+    "part": 1,
+    "track": "T600",
+    "imageDescription": "A bellhop is carrying luggage into a hotel lobby.",
+    "options": [
+      "A bellhop is carrying luggage into the lobby.",
+      "Guests are checking out of the hotel.",
+      "The hotel lobby is under construction.",
+      "A receptionist is making a reservation."
+    ],
+    "answer": "A bellhop is carrying luggage into the lobby.",
+    "explanation": "描述的情境與此選項完全一致；其他選項描述的動作或狀態未在畫面中出現。",
+    "category": "人物動作"
+  },
+  {
+    "id": "L1-T600-029",
+    "part": 1,
+    "track": "T600",
+    "imageDescription": "A tailor is measuring fabric on a cutting table in a workshop.",
+    "options": [
+      "A tailor is measuring fabric on a table.",
+      "A customer is trying on a suit.",
+      "The sewing machine is being fixed.",
+      "Clothes are hanging on a rack."
+    ],
+    "answer": "A tailor is measuring fabric on a table.",
+    "explanation": "描述的情境與此選項完全一致；其他選項描述的動作或狀態未在畫面中出現。",
+    "category": "人物動作"
+  },
+  {
+    "id": "L1-T600-030",
+    "part": 1,
+    "track": "T600",
+    "imageDescription": "A tour guide is pointing at a building while speaking to a group of tourists.",
+    "options": [
+      "A tour guide is pointing at a building.",
+      "Tourists are boarding a bus.",
+      "The museum entrance is closed.",
+      "A guide is selling tickets."
+    ],
+    "answer": "A tour guide is pointing at a building.",
+    "explanation": "描述的情境與此選項完全一致；其他選項描述的動作或狀態未在畫面中出現。",
+    "category": "人物動作"
+  },
+  {
+    "id": "L1-T600-031",
+    "part": 1,
+    "track": "T600",
+    "imageDescription": "Several chairs are stacked in a corner of an empty conference room.",
+    "options": [
+      "Several chairs are stacked in a corner.",
+      "The conference table is being set up.",
+      "The projector is displaying a slide.",
+      "A meeting is in progress."
+    ],
+    "answer": "Several chairs are stacked in a corner.",
+    "explanation": "描述的情境與此選項完全一致；其他選項描述的動作或狀態未在畫面中出現。",
+    "category": "物品狀態"
+  },
+  {
+    "id": "L1-T600-032",
+    "part": 1,
+    "track": "T600",
+    "imageDescription": "A row of computers is turned on in a quiet computer lab.",
+    "options": [
+      "A row of computers is turned on in a lab.",
+      "Students are printing documents.",
+      "The lab is crowded with people.",
+      "A printer is out of order."
+    ],
+    "answer": "A row of computers is turned on in a lab.",
+    "explanation": "描述的情境與此選項完全一致；其他選項描述的動作或狀態未在畫面中出現。",
+    "category": "物品狀態"
+  },
+  {
+    "id": "L1-T600-033",
+    "part": 1,
+    "track": "T600",
+    "imageDescription": "A large banner is hanging from the ceiling at a trade show booth.",
+    "options": [
+      "A large banner is hanging from the ceiling.",
+      "Exhibitors are packing up their materials.",
+      "The trade show floor is empty.",
+      "Samples are being distributed to visitors."
+    ],
+    "answer": "A large banner is hanging from the ceiling.",
+    "explanation": "描述的情境與此選項完全一致；其他選項描述的動作或狀態未在畫面中出現。",
+    "category": "物品狀態"
+  },
+  {
+    "id": "L1-T600-034",
+    "part": 1,
+    "track": "T600",
+    "imageDescription": "The office lobby has a modern sofa and a glass coffee table.",
+    "options": [
+      "The office lobby has a modern sofa and glass table.",
+      "A receptionist is sitting at the front desk.",
+      "The lobby floor is being mopped.",
+      "Visitors are waiting in a line."
+    ],
+    "answer": "The office lobby has a modern sofa and glass table.",
+    "explanation": "描述的情境與此選項完全一致；其他選項描述的動作或狀態未在畫面中出現。",
+    "category": "物品狀態"
+  },
+  {
+    "id": "L1-T600-035",
+    "part": 1,
+    "track": "T600",
+    "imageDescription": "A bookshelf is filled with binders and reference manuals.",
+    "options": [
+      "A bookshelf is filled with binders and manuals.",
+      "An employee is reading a book.",
+      "The office is being painted.",
+      "Files are scattered on the floor."
+    ],
+    "answer": "A bookshelf is filled with binders and manuals.",
+    "explanation": "描述的情境與此選項完全一致；其他選項描述的動作或狀態未在畫面中出現。",
+    "category": "物品狀態"
+  },
+  {
+    "id": "L1-T600-036",
+    "part": 1,
+    "track": "T600",
+    "imageDescription": "A whiteboard is covered with notes and diagrams from a meeting.",
+    "options": [
+      "A whiteboard is covered with notes and diagrams.",
+      "The meeting room is being cleaned.",
+      "Employees are writing on the board.",
+      "The board has been erased."
+    ],
+    "answer": "A whiteboard is covered with notes and diagrams.",
+    "explanation": "描述的情境與此選項完全一致；其他選項描述的動作或狀態未在畫面中出現。",
+    "category": "物品狀態"
+  },
+  {
+    "id": "L1-T600-037",
+    "part": 1,
+    "track": "T600",
+    "imageDescription": "Several potted plants are placed along the hallway of an office.",
+    "options": [
+      "Several potted plants are placed along the hallway.",
+      "A worker is watering the plants.",
+      "The hallway carpet is being replaced.",
+      "Employees are walking through the hallway."
+    ],
+    "answer": "Several potted plants are placed along the hallway.",
+    "explanation": "描述的情境與此選項完全一致；其他選項描述的動作或狀態未在畫面中出現。",
+    "category": "物品狀態"
+  },
+  {
+    "id": "L1-T600-038",
+    "part": 1,
+    "track": "T600",
+    "imageDescription": "A fire extinguisher is mounted on the wall near the stairwell.",
+    "options": [
+      "A fire extinguisher is mounted on the wall.",
+      "The fire alarm is ringing.",
+      "A worker is inspecting the equipment.",
+      "The stairwell door is locked."
+    ],
+    "answer": "A fire extinguisher is mounted on the wall.",
+    "explanation": "描述的情境與此選項完全一致；其他選項描述的動作或狀態未在畫面中出現。",
+    "category": "物品狀態"
+  },
+  {
+    "id": "L1-T600-039",
+    "part": 1,
+    "track": "T600",
+    "imageDescription": "The cafeteria counter displays various sandwiches and salads.",
+    "options": [
+      "The cafeteria counter displays sandwiches and salads.",
+      "Employees are lining up to pay.",
+      "The kitchen staff is cooking lunch.",
+      "The cafeteria is closed for the day."
+    ],
+    "answer": "The cafeteria counter displays sandwiches and salads.",
+    "explanation": "描述的情境與此選項完全一致；其他選項描述的動作或狀態未在畫面中出現。",
+    "category": "物品狀態"
+  },
+  {
+    "id": "L1-T600-040",
+    "part": 1,
+    "track": "T600",
+    "imageDescription": "A company logo is displayed on a large sign above the entrance.",
+    "options": [
+      "A company logo is displayed on a large sign.",
+      "The entrance door is being repaired.",
+      "Employees are leaving the building.",
+      "The parking lot is full of cars."
+    ],
+    "answer": "A company logo is displayed on a large sign.",
+    "explanation": "描述的情境與此選項完全一致；其他選項描述的動作或狀態未在畫面中出現。",
+    "category": "物品狀態"
+  },
+  {
+    "id": "L1-T600-041",
+    "part": 1,
+    "track": "T600",
+    "imageDescription": "Several umbrellas are standing in a rack by the office entrance.",
+    "options": [
+      "Several umbrellas are standing in a rack.",
+      "It is raining outside.",
+      "Employees are drying their clothes.",
+      "The entrance mat is being replaced."
+    ],
+    "answer": "Several umbrellas are standing in a rack.",
+    "explanation": "描述的情境與此選項完全一致；其他選項描述的動作或狀態未在畫面中出現。",
+    "category": "物品狀態"
+  },
+  {
+    "id": "L1-T600-042",
+    "part": 1,
+    "track": "T600",
+    "imageDescription": "A row of bicycles is parked in a bike rack near the office.",
+    "options": [
+      "A row of bicycles is parked in a bike rack.",
+      "Workers are riding bicycles.",
+      "The parking lot is being repaved.",
+      "A car is parked in the bike lane."
+    ],
+    "answer": "A row of bicycles is parked in a bike rack.",
+    "explanation": "描述的情境與此選項完全一致；其他選項描述的動作或狀態未在畫面中出現。",
+    "category": "物品狀態"
+  },
+  {
+    "id": "L1-T600-043",
+    "part": 1,
+    "track": "T600",
+    "imageDescription": "A printer is sitting on a table next to a stack of paper.",
+    "options": [
+      "A printer is sitting on a table next to paper.",
+      "Someone is refilling the paper tray.",
+      "The printer is printing a document.",
+      "The copier is out of service."
+    ],
+    "answer": "A printer is sitting on a table next to paper.",
+    "explanation": "描述的情境與此選項完全一致；其他選項描述的動作或狀態未在畫面中出現。",
+    "category": "物品狀態"
+  },
+  {
+    "id": "L1-T600-044",
+    "part": 1,
+    "track": "T600",
+    "imageDescription": "A vase of fresh flowers is placed on the front desk.",
+    "options": [
+      "A vase of fresh flowers is placed on the front desk.",
+      "A receptionist is arranging the flowers.",
+      "The flowers are being thrown away.",
+      "A visitor is signing in at the desk."
+    ],
+    "answer": "A vase of fresh flowers is placed on the front desk.",
+    "explanation": "描述的情境與此選項完全一致；其他選項描述的動作或狀態未在畫面中出現。",
+    "category": "物品狀態"
+  },
+  {
+    "id": "L1-T600-045",
+    "part": 1,
+    "track": "T600",
+    "imageDescription": "A clock on the wall shows it is almost noon.",
+    "options": [
+      "A clock on the wall shows it is almost noon.",
+      "Employees are having lunch.",
+      "The office lights are turned off.",
+      "A meeting is starting at noon."
+    ],
+    "answer": "A clock on the wall shows it is almost noon.",
+    "explanation": "描述的情境與此選項完全一致；其他選項描述的動作或狀態未在畫面中出現。",
+    "category": "物品狀態"
+  },
+  {
+    "id": "L1-T600-046",
+    "part": 1,
+    "track": "T600",
+    "imageDescription": "Cars are parked along the street in front of several shops.",
+    "options": [
+      "Cars are parked along the street in front of shops.",
+      "A car is being towed away.",
+      "The shops are closed for renovation.",
+      "Customers are entering a store."
+    ],
+    "answer": "Cars are parked along the street in front of shops.",
+    "explanation": "描述的情境與此選項完全一致；其他選項描述的動作或狀態未在畫面中出現。",
+    "category": "場景位置"
+  },
+  {
+    "id": "L1-T600-047",
+    "part": 1,
+    "track": "T600",
+    "imageDescription": "A long queue has formed at the ticket counter of a train station.",
+    "options": [
+      "A long queue has formed at a ticket counter.",
+      "Passengers are boarding the train.",
+      "The train station is empty.",
+      "A train is arriving at the platform."
+    ],
+    "answer": "A long queue has formed at a ticket counter.",
+    "explanation": "描述的情境與此選項完全一致；其他選項描述的動作或狀態未在畫面中出現。",
+    "category": "場景位置"
+  },
+  {
+    "id": "L1-T600-048",
+    "part": 1,
+    "track": "T600",
+    "imageDescription": "A laptop and a notebook are spread out on a table in a library.",
+    "options": [
+      "A laptop and notebook are on a library table.",
+      "A librarian is shelving books.",
+      "The library is closing for the day.",
+      "A student is checking out books."
+    ],
+    "answer": "A laptop and notebook are on a library table.",
+    "explanation": "描述的情境與此選項完全一致；其他選項描述的動作或狀態未在畫面中出現。",
+    "category": "場景位置"
+  },
+  {
+    "id": "L1-T600-049",
+    "part": 1,
+    "track": "T600",
+    "imageDescription": "An escalator is moving between floors in a busy shopping mall.",
+    "options": [
+      "An escalator is moving between floors in a mall.",
+      "Shoppers are waiting for the elevator.",
+      "The mall is being renovated.",
+      "A store is having a sale."
+    ],
+    "answer": "An escalator is moving between floors in a mall.",
+    "explanation": "描述的情境與此選項完全一致；其他選項描述的動作或狀態未在畫面中出現。",
+    "category": "場景位置"
+  },
+  {
+    "id": "L1-T600-050",
+    "part": 1,
+    "track": "T600",
+    "imageDescription": "Several people are swimming in a hotel outdoor pool.",
+    "options": [
+      "Several people are swimming in a hotel pool.",
+      "The pool area is being cleaned.",
+      "Guests are checking into the hotel.",
+      "The hotel restaurant is serving breakfast."
+    ],
+    "answer": "Several people are swimming in a hotel pool.",
+    "explanation": "描述的情境與此選項完全一致；其他選項描述的動作或狀態未在畫面中出現。",
+    "category": "場景位置"
+  },
+  {
+    "id": "L1-T600-051",
+    "part": 1,
+    "track": "T600",
+    "imageDescription": "A park bench is surrounded by trees and flowering bushes.",
+    "options": [
+      "A park bench is surrounded by trees and bushes.",
+      "People are jogging on the path.",
+      "The park is closed for maintenance.",
+      "Children are playing on the grass."
+    ],
+    "answer": "A park bench is surrounded by trees and bushes.",
+    "explanation": "描述的情境與此選項完全一致；其他選項描述的動作或狀態未在畫面中出現。",
+    "category": "場景位置"
+  },
+  {
+    "id": "L1-T600-052",
+    "part": 1,
+    "track": "T600",
+    "imageDescription": "A conference hall is set up with rows of chairs facing a stage.",
+    "options": [
+      "A conference hall is set up with rows of chairs.",
+      "A speaker is giving a presentation on stage.",
+      "The audience is clapping.",
+      "The hall lights are being dimmed."
+    ],
+    "answer": "A conference hall is set up with rows of chairs.",
+    "explanation": "描述的情境與此選項完全一致；其他選項描述的動作或狀態未在畫面中出現。",
+    "category": "場景位置"
+  },
+  {
+    "id": "L1-T600-053",
+    "part": 1,
+    "track": "T600",
+    "imageDescription": "A waiting area at a dental clinic has chairs and a magazine rack.",
+    "options": [
+      "A waiting area has chairs and a magazine rack.",
+      "A patient is seeing the dentist.",
+      "The clinic is closed for lunch.",
+      "A receptionist is on the phone."
+    ],
+    "answer": "A waiting area has chairs and a magazine rack.",
+    "explanation": "描述的情境與此選項完全一致；其他選項描述的動作或狀態未在畫面中出現。",
+    "category": "場景位置"
+  },
+  {
+    "id": "L1-T600-054",
+    "part": 1,
+    "track": "T600",
+    "imageDescription": "A luggage carousel is moving at an airport baggage claim area.",
+    "options": [
+      "A luggage carousel is moving at baggage claim.",
+      "Passengers are checking in for a flight.",
+      "The flight has been delayed.",
+      "Customs officers are inspecting bags."
+    ],
+    "answer": "A luggage carousel is moving at baggage claim.",
+    "explanation": "描述的情境與此選項完全一致；其他選項描述的動作或狀態未在畫面中出現。",
+    "category": "場景位置"
+  },
+  {
+    "id": "L1-T600-055",
+    "part": 1,
+    "track": "T600",
+    "imageDescription": "A meeting room has a long table with chairs around it.",
+    "options": [
+      "A meeting room has a long table with chairs.",
+      "The meeting is about to begin.",
+      "The room is being set up.",
+      "Employees are cleaning the table."
+    ],
+    "answer": "A meeting room has a long table with chairs.",
+    "explanation": "描述的情境與此選項完全一致；其他選項描述的動作或狀態未在畫面中出現。",
+    "category": "場景位置"
+  },
+  {
+    "id": "L1-T600-056",
+    "part": 1,
+    "track": "T600",
+    "imageDescription": "A food court has several different food stalls and seating areas.",
+    "options": [
+      "A food court has several food stalls and seating.",
+      "All the stalls are closed.",
+      "A chef is cooking at one of the stalls.",
+      "Customers are washing their dishes."
+    ],
+    "answer": "A food court has several food stalls and seating.",
+    "explanation": "描述的情境與此選項完全一致；其他選項描述的動作或狀態未在畫面中出現。",
+    "category": "場景位置"
+  },
+  {
+    "id": "L1-T600-057",
+    "part": 1,
+    "track": "T600",
+    "imageDescription": "An empty waiting room has rows of seats and a television on the wall.",
+    "options": [
+      "An empty waiting room has rows of seats and a TV.",
+      "A doctor is calling the next patient.",
+      "The waiting room is being painted.",
+      "Nurses are checking medical records."
+    ],
+    "answer": "An empty waiting room has rows of seats and a TV.",
+    "explanation": "描述的情境與此選項完全一致；其他選項描述的動作或狀態未在畫面中出現。",
+    "category": "場景位置"
+  },
+  {
+    "id": "L1-T600-058",
+    "part": 1,
+    "track": "T600",
+    "imageDescription": "A boat is docked at a pier near a lakeside restaurant.",
+    "options": [
+      "A boat is docked at a pier near a restaurant.",
+      "People are boarding the boat.",
+      "The restaurant is under construction.",
+      "A waiter is serving food on the boat."
+    ],
+    "answer": "A boat is docked at a pier near a restaurant.",
+    "explanation": "描述的情境與此選項完全一致；其他選項描述的動作或狀態未在畫面中出現。",
+    "category": "場景位置"
+  },
+  {
+    "id": "L1-T600-059",
+    "part": 1,
+    "track": "T600",
+    "imageDescription": "A museum gallery has paintings hanging on white walls.",
+    "options": [
+      "A museum gallery has paintings hanging on white walls.",
+      "Visitors are taking photographs.",
+      "The gallery is closed for an exhibition.",
+      "A guide is leading a tour."
+    ],
+    "answer": "A museum gallery has paintings hanging on white walls.",
+    "explanation": "描述的情境與此選項完全一致；其他選項描述的動作或狀態未在畫面中出現。",
+    "category": "場景位置"
+  },
+  {
+    "id": "L1-T600-060",
+    "part": 1,
+    "track": "T600",
+    "imageDescription": "A subway platform is crowded with commuters waiting for a train.",
+    "options": [
+      "A subway platform is crowded with waiting commuters.",
+      "The train has just departed.",
+      "The station is closed for maintenance.",
+      "A worker is cleaning the tracks."
+    ],
+    "answer": "A subway platform is crowded with waiting commuters.",
+    "explanation": "描述的情境與此選項完全一致；其他選項描述的動作或狀態未在畫面中出現。",
+    "category": "場景位置"
+  }
+]

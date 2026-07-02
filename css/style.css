@@ -991,6 +991,232 @@ body {
   font-weight: 600;
 }
 
+/* ─── Wrongbook Category Tag ─── */
+.wrong-category {
+  font-size: 0.78rem;
+  font-weight: 500;
+  color: #495057;
+  background: #e8edf3;
+  padding: 0.15rem 0.5rem;
+  border-radius: 3px;
+  margin: 0 0.25rem;
+}
+
+/* ─── Analytics Page ─── */
+.analytics-section {
+  background: #fff;
+  border-radius: 8px;
+  padding: 1.25rem;
+  margin-bottom: 1rem;
+  box-shadow: 0 1px 4px rgba(0,0,0,0.08);
+  border: 1px solid #e9ecef;
+}
+
+.analytics-insufficient {
+  text-align: center;
+  padding: 3rem 1rem;
+  color: #6c757d;
+  font-size: 1.05rem;
+}
+
+.analytics-insufficient p {
+  margin-bottom: 0.5rem;
+}
+
+.analytics-chart-title {
+  font-size: 0.95rem;
+  font-weight: 600;
+  color: #1a3a5c;
+  margin-bottom: 0.75rem;
+  padding-bottom: 0.5rem;
+  border-bottom: 1px solid #e9ecef;
+}
+
+.analytics-chart {
+  margin-bottom: 0.5rem;
+}
+
+.chart-row {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  margin-bottom: 0.4rem;
+}
+
+.chart-label {
+  min-width: 90px;
+  font-size: 0.82rem;
+  font-weight: 500;
+  color: #495057;
+  text-align: right;
+}
+
+.chart-bar-area {
+  flex: 1;
+  height: 22px;
+  background: #f0f2f5;
+  border-radius: 4px;
+  position: relative;
+  overflow: hidden;
+}
+
+.chart-bar {
+  height: 100%;
+  border-radius: 4px;
+  position: absolute;
+  top: 0;
+  left: 0;
+  min-width: 2px;
+  transition: width 0.3s ease;
+}
+
+.chart-bar-attempts {
+  background: linear-gradient(90deg, #5b8cce, #3b6cb4);
+  z-index: 1;
+}
+
+.chart-bar-wrong {
+  background: linear-gradient(90deg, #e35d6a, #dc3545);
+  z-index: 2;
+}
+
+.chart-bar-error {
+  background: linear-gradient(90deg, #e9745a, #dc5a35);
+}
+
+.chart-stat {
+  min-width: 110px;
+  font-size: 0.78rem;
+  color: #6c757d;
+  text-align: right;
+}
+
+.chart-legend {
+  display: flex;
+  gap: 1.5rem;
+  justify-content: center;
+  margin-top: 0.5rem;
+  font-size: 0.78rem;
+  color: #6c757d;
+}
+
+.chart-legend-item {
+  display: flex;
+  align-items: center;
+  gap: 0.35rem;
+}
+
+.chart-legend-color {
+  display: inline-block;
+  width: 14px;
+  height: 14px;
+  border-radius: 3px;
+}
+
+.chart-color-attempts {
+  background: #3b6cb4;
+}
+
+.chart-color-wrong {
+  background: #dc3545;
+}
+
+/* ─── Analytics Weak Cards ─── */
+.analytics-weak-card {
+  background: #fff;
+  border: 1px solid #e9ecef;
+  border-radius: 6px;
+  padding: 1rem;
+  margin-bottom: 0.75rem;
+}
+
+.analytics-weak-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 0.5rem;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+}
+
+.analytics-weak-name {
+  font-weight: 600;
+  font-size: 0.95rem;
+  color: #1a3a5c;
+}
+
+.analytics-weak-rate {
+  font-size: 0.82rem;
+  color: #dc3545;
+  font-weight: 600;
+}
+
+/* ─── Suggestion Badge ─── */
+.analytics-suggestion-badge {
+  display: inline-block;
+  font-size: 0.72rem;
+  font-weight: 700;
+  padding: 0.15rem 0.55rem;
+  border-radius: 3px;
+  margin-bottom: 0.5rem;
+  margin-right: 0.5rem;
+  text-transform: uppercase;
+  letter-spacing: 0.03em;
+}
+
+.analytics-suggestion-badge.priority {
+  background: #fde8e8;
+  color: #c62828;
+  border: 1px solid #f5c6c6;
+}
+
+.analytics-suggestion-badge.review {
+  background: #fff3cd;
+  color: #856404;
+  border: 1px solid #ffeeba;
+}
+
+.analytics-suggestion-text {
+  font-size: 0.88rem;
+  color: #495057;
+  line-height: 1.65;
+  margin-bottom: 0.75rem;
+}
+
+.analytics-go-btn {
+  font-size: 0.82rem !important;
+  padding: 0.4rem 1.2rem !important;
+}
+
+/* ─── Suggestion All-items ─── */
+.analytics-suggestion-item {
+  background: #fafbfc;
+  border: 1px solid #e9ecef;
+  border-radius: 6px;
+  padding: 0.85rem 1rem;
+  margin-bottom: 0.6rem;
+}
+
+.analytics-suggestion-header {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  margin-bottom: 0.4rem;
+  flex-wrap: wrap;
+}
+
+.analytics-suggestion-name {
+  font-weight: 600;
+  font-size: 0.9rem;
+  color: #1a3a5c;
+}
+
+.analytics-suggestion-rate {
+  font-size: 0.78rem;
+  color: #6c757d;
+  margin-left: auto;
+}
+
 /* ─── Responsive ─── */
 @media (max-width: 768px) {
   #app { padding: 1rem 0.75rem 2rem; }

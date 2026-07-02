@@ -1,0 +1,1682 @@
+[
+  {
+    "id": "L2-T730-041",
+    "part": 2,
+    "track": "T730",
+    "audioScript": "Has the board approved the annual budget yet?",
+    "options": [
+      "Not yet, they're reviewing it line by line.",
+      "I was so bored during the budget meeting last week.",
+      "The budget was approved last year."
+    ],
+    "answer": "Not yet, they're reviewing it line by line.",
+    "explanation": "YesNo問句問董事會是否通過預算；選項B的bored與board音似（無聊vs董事會）但答非所問。",
+    "category": "音似干擾"
+  },
+  {
+    "id": "L2-T730-042",
+    "part": 2,
+    "track": "T730",
+    "audioScript": "You wouldn't happen to know where the archived files are stored, would you?",
+    "options": [
+      "I think they're on the server under 'Archived Projects'.",
+      "No, I wouldn't happen to know.",
+      "The files were archived last month."
+    ],
+    "answer": "I think they're on the server under 'Archived Projects'.",
+    "explanation": "You wouldn't happen to know...為迂迴問句，提供檔案存放位置正確；字面否定回答和歸檔時間答非所問。",
+    "category": "附加間接問句"
+  },
+  {
+    "id": "L2-T730-043",
+    "part": 2,
+    "track": "T730",
+    "audioScript": "How will the tariff affect our import costs?",
+    "options": [
+      "It could increase our expenses by about ten percent.",
+      "The new regulation will take effect next quarter.",
+      "Yes, it will affect our costs."
+    ],
+    "answer": "It could increase our expenses by about ten percent.",
+    "explanation": "How問關稅影響；選項B的effect與affect音似（n.效果vs v.影響），句意不完整答非所問。",
+    "category": "音似干擾"
+  },
+  {
+    "id": "L2-T730-044",
+    "part": 2,
+    "track": "T730",
+    "audioScript": "I'm afraid the subcontractor hasn't delivered the materials yet.",
+    "options": [
+      "Let me call them to check the delivery status.",
+      "Yes, the materials haven't been delivered.",
+      "The subcontractor was hired last month."
+    ],
+    "answer": "Let me call them to check the delivery status.",
+    "explanation": "陳述句表達包商尚未送達材料，主動打電話查詢進度解決問題正確；空洞重複事實和雇用時間答非所問。",
+    "category": "陳述句回應"
+  },
+  {
+    "id": "L2-T730-045",
+    "part": 2,
+    "track": "T730",
+    "audioScript": "Did the inspector cite any violations during the site visit?",
+    "options": [
+      "He cited two safety concerns that need immediate attention.",
+      "The inspector had perfect sight during the visit.",
+      "The site visit was conducted last Friday."
+    ],
+    "answer": "He cited two safety concerns that need immediate attention.",
+    "explanation": "Did...cite問是否引用違規事項；選項B的sight與cite/site音似（視力vs引用/工地）混淆語意。",
+    "category": "音似干擾"
+  },
+  {
+    "id": "L2-T730-046",
+    "part": 2,
+    "track": "T730",
+    "audioScript": "You'll have the quarterly projections ready by Friday, right?",
+    "options": [
+      "I'm on track, barring any unexpected issues.",
+      "Yes, the projections are quarterly.",
+      "Friday is the last day of the work week."
+    ],
+    "answer": "I'm on track, barring any unexpected issues.",
+    "explanation": "附加問句確認週五前能否準備好，表示進度正常但預留彈性正確；重複季度和說明週五答非所問。",
+    "category": "附加間接問句"
+  },
+  {
+    "id": "L2-T730-047",
+    "part": 2,
+    "track": "T730",
+    "audioScript": "Is the delivery truck stationary at the loading dock?",
+    "options": [
+      "Yes, it's been parked there since early this morning.",
+      "The stationery order includes pens and notebooks.",
+      "The loading dock was renovated last quarter."
+    ],
+    "answer": "Yes, it's been parked there since early this morning.",
+    "explanation": "Is...stationary問貨車是否靜止不動；選項B的stationery與stationary音似（文具vs靜止的）完全混淆。",
+    "category": "音似干擾"
+  },
+  {
+    "id": "L2-T730-048",
+    "part": 2,
+    "track": "T730",
+    "audioScript": "The principal has asked us to revise the curriculum proposal.",
+    "options": [
+      "Let's set up a meeting with her to discuss the changes.",
+      "The principle of academic integrity is very important.",
+      "Yes, the principal has asked us."
+    ],
+    "answer": "Let's set up a meeting with her to discuss the changes.",
+    "explanation": "陳述句說校長要求修改提案；選項B的principle與principal音似（原則vs校長）混淆語意。",
+    "category": "音似干擾"
+  },
+  {
+    "id": "L2-T730-049",
+    "part": 2,
+    "track": "T730",
+    "audioScript": "Did you accept all the terms in the agreement?",
+    "options": [
+      "I accepted all terms except the non-compete clause.",
+      "The agreement was accepted by both parties.",
+      "Yes, I did accept them."
+    ],
+    "answer": "I accepted all terms except the non-compete clause.",
+    "explanation": "Did you accept問接受程度；選項A雖含except（除...外）但整體說明接受範圍，仍為唯一合理回答；選項B主詞混淆。except與accept音形相近。",
+    "category": "音似干擾"
+  },
+  {
+    "id": "L2-T730-050",
+    "part": 2,
+    "track": "T730",
+    "audioScript": "What did the consultant advise about the restructuring?",
+    "options": [
+      "They advised us to phase it in gradually.",
+      "The advice was very helpful for the team.",
+      "Yes, the consultant gave us advice."
+    ],
+    "answer": "They advised us to phase it in gradually.",
+    "explanation": "What advise問建議內容；選項B的advice與advise音似（n.建議vs v.建議），但僅重複事實無具體內容。",
+    "category": "音似干擾"
+  },
+  {
+    "id": "L2-T730-051",
+    "part": 2,
+    "track": "T730",
+    "audioScript": "If you were in my position, how would you handle the complaint?",
+    "options": [
+      "I'd schedule a face-to-face meeting with the client first.",
+      "The complaint was filed yesterday afternoon.",
+      "Yes, I would handle it."
+    ],
+    "answer": "I'd schedule a face-to-face meeting with the client first.",
+    "explanation": "How would you handle問處理方式，提出先與客戶面談的具體方案正確；投訴時間和空洞肯定答非所問。",
+    "category": "附加間接問句"
+  },
+  {
+    "id": "L2-T730-052",
+    "part": 2,
+    "track": "T730",
+    "audioScript": "Don't you think the marketing campaign lacks a clear call to action?",
+    "options": [
+      "Absolutely, I'll ask the creative team to revise it.",
+      "No, I don't think so.",
+      "The campaign was launched last week."
+    ],
+    "answer": "Absolutely, I'll ask the creative team to revise it.",
+    "explanation": "Don't you think問意見，同意並提出請團隊修改正確；直接否定和推出時間答非所問。",
+    "category": "附加間接問句"
+  },
+  {
+    "id": "L2-T730-053",
+    "part": 2,
+    "track": "T730",
+    "audioScript": "This warranty doesn't cover accidental damage, does it?",
+    "options": [
+      "That's correct, it only covers manufacturing defects.",
+      "No, it doesn't cover accidental damage.",
+      "The warranty was issued with the purchase."
+    ],
+    "answer": "That's correct, it only covers manufacturing defects.",
+    "explanation": "附加問句確認保固範圍，確認僅涵蓋製造瑕疵正確；字面否定和保固來源答非所問。",
+    "category": "附加間接問句"
+  },
+  {
+    "id": "L2-T730-054",
+    "part": 2,
+    "track": "T730",
+    "audioScript": "The photocopier has jammed three times this morning already.",
+    "options": [
+      "I'll call the maintenance technician right away.",
+      "The photocopier is located near the break room.",
+      "Yes, it has jammed three times."
+    ],
+    "answer": "I'll call the maintenance technician right away.",
+    "explanation": "陳述句抱怨影印機卡紙，主動聯絡維修技師解決問題正確；位置資訊和重複事實答非所問。",
+    "category": "陳述句回應"
+  },
+  {
+    "id": "L2-T730-055",
+    "part": 2,
+    "track": "T730",
+    "audioScript": "Did the manager compliment your presentation skills?",
+    "options": [
+      "She said my visual aids complemented the data well.",
+      "The presentation skills training starts next week.",
+      "Yes, she complimented me."
+    ],
+    "answer": "She said my visual aids complemented the data well.",
+    "explanation": "Did...compliment問是否稱讚簡報技巧；問句用compliment（讚美）但選項A用complemented（相輔相成）為音似混淆陷阱。",
+    "category": "音似干擾"
+  },
+  {
+    "id": "L2-T730-056",
+    "part": 2,
+    "track": "T730",
+    "audioScript": "Please ensure that all packages are labeled before shipping.",
+    "options": [
+      "I'll double-check the labels before dispatch.",
+      "The packages are insured against damage during transit.",
+      "Yes, I'll ensure it."
+    ],
+    "answer": "I'll double-check the labels before dispatch.",
+    "explanation": "陳述句要求確保包裹貼標；選項B的insured與ensure音似（投保vs確保）混淆語意。",
+    "category": "音似干擾"
+  },
+  {
+    "id": "L2-T730-057",
+    "part": 2,
+    "track": "T730",
+    "audioScript": "Which of the proposed locations is most cost-effective for the new branch?",
+    "options": [
+      "The industrial park offers the best tax incentives.",
+      "The new branch will open next quarter.",
+      "Yes, some locations are cost-effective."
+    ],
+    "answer": "The industrial park offers the best tax incentives.",
+    "explanation": "Which問哪個地點最符合成本效益，回答工業園區稅務優惠最好正確；開幕時間和空洞肯定答非所問。",
+    "category": "WH問句"
+  },
+  {
+    "id": "L2-T730-058",
+    "part": 2,
+    "track": "T730",
+    "audioScript": "You couldn't have finished the annual report already, could you?",
+    "options": [
+      "Actually, I worked on it over the weekend.",
+      "No, I couldn't have finished it.",
+      "The annual report is due next month."
+    ],
+    "answer": "Actually, I worked on it over the weekend.",
+    "explanation": "附加問句表達難以置信已寫完年報，回答週末加班完成表明事實正確；字面否定和截止日期答非所問。",
+    "category": "附加間接問句"
+  },
+  {
+    "id": "L2-T730-059",
+    "part": 2,
+    "track": "T730",
+    "audioScript": "Do you have any idea why the application was rejected?",
+    "options": [
+      "It didn't meet the minimum qualification requirements.",
+      "Yes, I have an idea about it.",
+      "The application was submitted last week."
+    ],
+    "answer": "It didn't meet the minimum qualification requirements.",
+    "explanation": "Do you have any idea why問原因，回答不符合最低資格要求正確；空洞肯定和申請時間答非所問。",
+    "category": "附加間接問句"
+  },
+  {
+    "id": "L2-T730-060",
+    "part": 2,
+    "track": "T730",
+    "audioScript": "I don't mean to pry, but what happened to the original vendor?",
+    "options": [
+      "They went out of business unexpectedly last month.",
+      "No, you don't mean to pry.",
+      "The original vendor was from overseas."
+    ],
+    "answer": "They went out of business unexpectedly last month.",
+    "explanation": "間接問句what happened to問原供應商狀況，回答倒閉正確；否定打探意圖和來源國籍答非所問。",
+    "category": "附加間接問句"
+  },
+  {
+    "id": "L2-T730-061",
+    "part": 2,
+    "track": "T730",
+    "audioScript": "What was the main point of the department meeting this morning?",
+    "options": [
+      "The meaning of the new policy was explained in detail.",
+      "The department meeting was held in conference room B.",
+      "Yes, there was a meeting this morning."
+    ],
+    "answer": "The meaning of the new policy was explained in detail.",
+    "explanation": "What問會議重點；選項A的meaning與問句meeting音似（意義vs會議），但選項A確實在解釋會議重點，為正確答案；選項B重複地點答非所問，選項C空洞肯定。",
+    "category": "音似干擾"
+  },
+  {
+    "id": "L2-T730-062",
+    "part": 2,
+    "track": "T730",
+    "audioScript": "No one has calibrated the equipment since last year, have they?",
+    "options": [
+      "I'll schedule the calibration for next week.",
+      "No, they haven't calibrated it.",
+      "The equipment was purchased last year."
+    ],
+    "answer": "I'll schedule the calibration for next week.",
+    "explanation": "附加問句指出設備久未校正，主動排程解決正確；字面附和和購買時間答非所問。",
+    "category": "附加間接問句"
+  },
+  {
+    "id": "L2-T730-063",
+    "part": 2,
+    "track": "T730",
+    "audioScript": "What measures do we have in place to prevent data breaches?",
+    "options": [
+      "All files are encrypted and access is logged.",
+      "Data breaches can be very costly.",
+      "Yes, we have measures in place."
+    ],
+    "answer": "All files are encrypted and access is logged.",
+    "explanation": "What measures問預防措施，回答檔案加密和存取紀錄正確；資料外洩影響和空洞肯定答非所問。",
+    "category": "WH問句"
+  },
+  {
+    "id": "L2-T730-064",
+    "part": 2,
+    "track": "T730",
+    "audioScript": "I'm not sure the pricing is fair for small businesses.",
+    "options": [
+      "Let's compare our rates with what competitors offer.",
+      "The bus fare was increased by the city last month.",
+      "Yes, the pricing should be fair."
+    ],
+    "answer": "Let's compare our rates with what competitors offer.",
+    "explanation": "陳述句質疑定價不公允；選項B的fare與fair音似（車資vs公平的）混淆語意。",
+    "category": "音似干擾"
+  },
+  {
+    "id": "L2-T730-065",
+    "part": 2,
+    "track": "T730",
+    "audioScript": "With whom should I coordinate the logistics for the trade show?",
+    "options": [
+      "You should speak with Rachel in the events department.",
+      "The trade show is in Las Vegas this year.",
+      "Yes, you should coordinate with someone."
+    ],
+    "answer": "You should speak with Rachel in the events department.",
+    "explanation": "With whom問協調對象，回答活動部門Rachel正確；展會地點和空洞肯定答非所問。",
+    "category": "WH問句"
+  },
+  {
+    "id": "L2-T730-066",
+    "part": 2,
+    "track": "T730",
+    "audioScript": "I don't think the new interns were properly briefed on safety protocols, were they?",
+    "options": [
+      "You're right, I'll arrange a safety orientation tomorrow.",
+      "No, they weren't properly briefed.",
+      "The interns started last Monday."
+    ],
+    "answer": "You're right, I'll arrange a safety orientation tomorrow.",
+    "explanation": "陳述句+附加問句擔心實習生未被適當告知安全規範，同意並安排說明會正確；直接否定和到職時間答非所問。",
+    "category": "附加間接問句"
+  },
+  {
+    "id": "L2-T730-067",
+    "part": 2,
+    "track": "T730",
+    "audioScript": "Is the material too coarse for the precision components?",
+    "options": [
+      "Yes, we need a finer grade for this application.",
+      "The training course starts next Monday.",
+      "Yes, it is too coarse."
+    ],
+    "answer": "Yes, we need a finer grade for this application.",
+    "explanation": "Is...coarse問材料是否太粗糙；選項B的course與coarse音似（課程vs粗糙的）混淆語意。",
+    "category": "音似干擾"
+  },
+  {
+    "id": "L2-T730-068",
+    "part": 2,
+    "track": "T730",
+    "audioScript": "We need somebody who speaks Japanese for the Tokyo presentation next month.",
+    "options": [
+      "I believe Lisa is fluent and she's available.",
+      "The Tokyo presentation is next month.",
+      "Yes, we need somebody."
+    ],
+    "answer": "I believe Lisa is fluent and she's available.",
+    "explanation": "陳述句表達需求日語人才，推薦Lisa能勝任且有空正確；會議時間和空洞肯定答非所問。",
+    "category": "陳述句回應"
+  },
+  {
+    "id": "L2-T730-069",
+    "part": 2,
+    "track": "T730",
+    "audioScript": "Whose responsibility is it to update the disaster recovery plan?",
+    "options": [
+      "It falls under the IT security manager's role.",
+      "The disaster recovery plan was created three years ago.",
+      "Yes, it's someone's responsibility."
+    ],
+    "answer": "It falls under the IT security manager's role.",
+    "explanation": "Whose responsibility問權責歸屬，回答屬於資安經理職責正確；計畫建立時間和空洞肯定答非所問。",
+    "category": "WH問句"
+  },
+  {
+    "id": "L2-T730-070",
+    "part": 2,
+    "track": "T730",
+    "audioScript": "Could you write a follow-up email to the client?",
+    "options": [
+      "Of course, I'll draft it right after lunch.",
+      "You're right, the client needs a follow-up.",
+      "The client email was sent yesterday."
+    ],
+    "answer": "Of course, I'll draft it right after lunch.",
+    "explanation": "Could you write問能否寫信；選項B的right與write音似（對的vs寫）混淆語意。",
+    "category": "音似干擾"
+  },
+  {
+    "id": "L2-T730-071",
+    "part": 2,
+    "track": "T730",
+    "audioScript": "Which department is handling the merger due diligence?",
+    "options": [
+      "The legal and finance teams are collaborating on it.",
+      "The merger was announced three months ago.",
+      "Yes, due diligence is being handled."
+    ],
+    "answer": "The legal and finance teams are collaborating on it.",
+    "explanation": "Which department問負責部門，回答法務和財務團隊協作正確；合併宣布時間和空洞肯定答非所問。",
+    "category": "WH問句"
+  },
+  {
+    "id": "L2-T730-072",
+    "part": 2,
+    "track": "T730",
+    "audioScript": "We need to take a break from this intense negotiation.",
+    "options": [
+      "I agree, a short recess could help clear our minds.",
+      "The brake system on the machine needs inspection.",
+      "Yes, we need a break."
+    ],
+    "answer": "I agree, a short recess could help clear our minds.",
+    "explanation": "陳述句建議暫停談判休息；選項B的brake與break音似（煞車vs休息）混淆語意。",
+    "category": "音似干擾"
+  },
+  {
+    "id": "L2-T730-073",
+    "part": 2,
+    "track": "T730",
+    "audioScript": "How come the budget variance report hasn't been filed yet?",
+    "options": [
+      "The accountant who handles it has been out sick.",
+      "The budget variance is significant this month.",
+      "Yes, it hasn't been filed yet."
+    ],
+    "answer": "The accountant who handles it has been out sick.",
+    "explanation": "How come問未提交原因，說明負責會計請病假正確；變異幅度的評論和空洞肯定答非所問。",
+    "category": "WH問句"
+  },
+  {
+    "id": "L2-T730-074",
+    "part": 2,
+    "track": "T730",
+    "audioScript": "You don't actually expect me to work through the holiday weekend, do you?",
+    "options": [
+      "Of course not, I was just checking the schedule.",
+      "No, I don't expect you to.",
+      "The holiday weekend starts on Friday."
+    ],
+    "answer": "Of course not, I was just checking the schedule.",
+    "explanation": "附加問句表達不情願，澄清只是確認行程並非要求加班，維護關係正確；單純否定和放假時間答非所問。",
+    "category": "附加間接問句"
+  },
+  {
+    "id": "L2-T730-075",
+    "part": 2,
+    "track": "T730",
+    "audioScript": "Were you able to attend the briefing about the new fleet vehicle reimbursement policy?",
+    "options": [
+      "Yes, I attended the briefing this morning.",
+      "The documents are here on my desk.",
+      "The company vehicle policy was updated."
+    ],
+    "answer": "Yes, I attended the briefing this morning.",
+    "explanation": "Did you hear問是否聽聞新政策；選項B的here與hear音似（這裡vs聽到）混淆語意。",
+    "category": "音似干擾"
+  },
+  {
+    "id": "L2-T730-076",
+    "part": 2,
+    "track": "T730",
+    "audioScript": "The client seems unhappy with the prototype we presented.",
+    "options": [
+      "Let's schedule a follow-up to gather specific feedback.",
+      "The prototype was presented yesterday.",
+      "Yes, the client seems unhappy."
+    ],
+    "answer": "Let's schedule a follow-up to gather specific feedback.",
+    "explanation": "陳述句觀察客戶不滿原型，建議安排後續會議收集意見解決正確；呈現時間和空洞附和答非所問。",
+    "category": "陳述句回應"
+  },
+  {
+    "id": "L2-T730-077",
+    "part": 2,
+    "track": "T730",
+    "audioScript": "To what degree has the staff turnover affected the project timeline?",
+    "options": [
+      "We've fallen behind by approximately two weeks.",
+      "The project timeline was approved in January.",
+      "Yes, it has affected the timeline."
+    ],
+    "answer": "We've fallen behind by approximately two weeks.",
+    "explanation": "To what degree問影響程度，回答延誤約兩週具體正確；核準時間和空洞肯定答非所問。",
+    "category": "WH問句"
+  },
+  {
+    "id": "L2-T730-078",
+    "part": 2,
+    "track": "T730",
+    "audioScript": "You've already submitted the tax documents to the accountant, haven't you?",
+    "options": [
+      "Not yet, I'm still waiting for a few receipts.",
+      "Yes, I've submitted them.",
+      "The accountant is on the third floor."
+    ],
+    "answer": "Not yet, I'm still waiting for a few receipts.",
+    "explanation": "附加問句確認是否已提交，誠實回答尚未並說明等待收據正確；肯定說謊和會計師位置答非所問。",
+    "category": "附加間接問句"
+  },
+  {
+    "id": "L2-T730-079",
+    "part": 2,
+    "track": "T730",
+    "audioScript": "What prompted the sudden change in the pricing structure?",
+    "options": [
+      "The board decided to remain competitive in the market.",
+      "The pricing structure was changed last month.",
+      "Yes, it was prompted by something."
+    ],
+    "answer": "The board decided to remain competitive in the market.",
+    "explanation": "What prompted問變更原因，回答董事會決定維持競爭力正確；變更時間和空洞肯定答非所問。",
+    "category": "WH問句"
+  },
+  {
+    "id": "L2-T730-080",
+    "part": 2,
+    "track": "T730",
+    "audioScript": "I really think we should reconsider the outsourcing decision.",
+    "options": [
+      "What specific concerns do you have about it?",
+      "Yes, we should reconsider the decision.",
+      "The outsourcing decision was made by the board."
+    ],
+    "answer": "What specific concerns do you have about it?",
+    "explanation": "陳述句主張重新考慮外包決定，追問具體顧慮展現開放態度正確；空洞同意和決策者答非所問。",
+    "category": "陳述句回應"
+  },
+  {
+    "id": "L2-T730-081",
+    "part": 2,
+    "track": "T730",
+    "audioScript": "Shouldn't we have notified the clients about the price increase in advance?",
+    "options": [
+      "Absolutely, it would have been more professional.",
+      "No, we shouldn't have done that.",
+      "The price increase takes effect next month."
+    ],
+    "answer": "Absolutely, it would have been more professional.",
+    "explanation": "Shouldn't we have...表達本應事先通知，同意並表示更專業正確；否定後見之明和生效時間答非所問。",
+    "category": "YesNo問句"
+  },
+  {
+    "id": "L2-T730-082",
+    "part": 2,
+    "track": "T730",
+    "audioScript": "Could you clarify what specific credentials the ideal candidate would need to bring to this role?",
+    "options": [
+      "At least five years of experience and a professional certification.",
+      "The ideal candidate will start next month.",
+      "Yes, qualifications are needed for the role."
+    ],
+    "answer": "At least five years of experience and a professional certification.",
+    "explanation": "What qualifications問所需資格，回答五年經驗和專業證照具體正確；到職時間和空洞肯定答非所問。",
+    "category": "WH問句"
+  },
+  {
+    "id": "L2-T730-083",
+    "part": 2,
+    "track": "T730",
+    "audioScript": "It's not like we can afford another delay in production.",
+    "options": [
+      "I agree, I'll talk to the shift supervisor about the bottleneck.",
+      "No, we can't afford another delay.",
+      "Production was delayed last month as well."
+    ],
+    "answer": "I agree, I'll talk to the shift supervisor about the bottleneck.",
+    "explanation": "陳述句表示無法再承受延遲，同意並提出找輪班主管討論瓶頸正確；字面否定和過去延遲答非所問。",
+    "category": "陳述句回應"
+  },
+  {
+    "id": "L2-T730-084",
+    "part": 2,
+    "track": "T730",
+    "audioScript": "How does the company plan to address the skill gap among junior staff?",
+    "options": [
+      "We're launching a mentorship program next quarter.",
+      "The skill gap was identified in the annual review.",
+      "Yes, the company has a plan."
+    ],
+    "answer": "We're launching a mentorship program next quarter.",
+    "explanation": "How問解決技能差距的方法，回答推出導師計畫具體正確；發現時間和空洞肯定答非所問。",
+    "category": "WH問句"
+  },
+  {
+    "id": "L2-T730-085",
+    "part": 2,
+    "track": "T730",
+    "audioScript": "I wonder if the delay in approval is going to affect the launch date.",
+    "options": [
+      "It might, let's discuss contingency options with the team.",
+      "Yes, I wonder about it too.",
+      "The launch date was set for June."
+    ],
+    "answer": "It might, let's discuss contingency options with the team.",
+    "explanation": "I wonder if表達對核准延遲的擔憂，承認可能性並提議討論因應方案正確；空洞附和和既定日期答非所問。",
+    "category": "附加間接問句"
+  },
+  {
+    "id": "L2-T730-086",
+    "part": 2,
+    "track": "T730",
+    "audioScript": "Would it be feasible to outsource the customer service department?",
+    "options": [
+      "It could be, but we'd need to evaluate the risks first.",
+      "Yes, it would be feasible.",
+      "Customer service is handled by the call center."
+    ],
+    "answer": "It could be, but we'd need to evaluate the risks first.",
+    "explanation": "Would it be feasible問可行性，承認可能但需先評估風險，審慎回答正確；空洞肯定和現狀說明答非所問。",
+    "category": "YesNo問句"
+  },
+  {
+    "id": "L2-T730-087",
+    "part": 2,
+    "track": "T730",
+    "audioScript": "The software update seems to have caused more problems than it solved.",
+    "options": [
+      "I noticed that too. Let's report it to the development team.",
+      "Yes, it caused problems.",
+      "The software was updated last night."
+    ],
+    "answer": "I noticed that too. Let's report it to the development team.",
+    "explanation": "陳述句抱怨更新造成更多問題，同意觀察並提議回報開發團隊正確；空洞附和和更新時間答非所問。",
+    "category": "陳述句回應"
+  },
+  {
+    "id": "L2-T730-088",
+    "part": 2,
+    "track": "T730",
+    "audioScript": "Could you remind me by when the consultant said she needs the finalized data set?",
+    "options": [
+      "She requested it by the end of this week.",
+      "The consultant was hired last month.",
+      "Yes, the data set needs to be finalized."
+    ],
+    "answer": "She requested it by the end of this week.",
+    "explanation": "By when問期限，回答顧問要求本週末前正確；雇用時間和空洞肯定答非所問。",
+    "category": "WH問句"
+  },
+  {
+    "id": "L2-T730-089",
+    "part": 2,
+    "track": "T730",
+    "audioScript": "Is it standard procedure to archive emails after six months?",
+    "options": [
+      "According to the records management policy, yes.",
+      "The emails were archived last quarter.",
+      "Yes, it is a standard procedure."
+    ],
+    "answer": "According to the records management policy, yes.",
+    "explanation": "Is it standard procedure問是否為標準流程，引用文件管理政策回答正確；歸檔時間和空洞肯定答非所問。",
+    "category": "YesNo問句"
+  },
+  {
+    "id": "L2-T730-090",
+    "part": 2,
+    "track": "T730",
+    "audioScript": "How on earth did the error go unnoticed during the review?",
+    "options": [
+      "The reviewer was focused on formatting, not content.",
+      "The review was conducted last Thursday.",
+      "Yes, the error went unnoticed."
+    ],
+    "answer": "The reviewer was focused on formatting, not content.",
+    "explanation": "How問錯誤如何未被發現，推測審查者只注意格式正確；審查時間和空洞肯定答非所問。",
+    "category": "WH問句"
+  },
+  {
+    "id": "L2-T730-091",
+    "part": 2,
+    "track": "T730",
+    "audioScript": "I don't suppose there's any way to expedite the shipping, is there?",
+    "options": [
+      "We could upgrade to express delivery for an additional fee.",
+      "No, there isn't any way.",
+      "The shipping was arranged by the logistics team."
+    ],
+    "answer": "We could upgrade to express delivery for an additional fee.",
+    "explanation": "附加問句委婉問能否加快運送，提出升級快遞的可行方案正確；直接否定和安排單位答非所問。",
+    "category": "附加間接問句"
+  },
+  {
+    "id": "L2-T730-092",
+    "part": 2,
+    "track": "T730",
+    "audioScript": "May I ask who approved the overtime hours for last weekend?",
+    "options": [
+      "The shift manager signed off on it.",
+      "Yes, you may ask.",
+      "The overtime hours were recorded in the system."
+    ],
+    "answer": "The shift manager signed off on it.",
+    "explanation": "May I ask who問核准者，回答值班經理批准正確；空洞允許和記錄方式答非所問。",
+    "category": "附加間接問句"
+  },
+  {
+    "id": "L2-T730-093",
+    "part": 2,
+    "track": "T730",
+    "audioScript": "Has anyone followed up with the venue about the cancellation policy?",
+    "options": [
+      "I emailed them this morning and am awaiting their reply.",
+      "The cancellation policy is in the contract.",
+      "Yes, someone has followed up."
+    ],
+    "answer": "I emailed them this morning and am awaiting their reply.",
+    "explanation": "Has anyone followed up問是否已跟進，回答今早已寄信等待回覆正確；政策位置和空洞肯定答非所問。",
+    "category": "YesNo問句"
+  },
+  {
+    "id": "L2-T730-094",
+    "part": 2,
+    "track": "T730",
+    "audioScript": "I'm not convinced that the new workflow is actually more efficient.",
+    "options": [
+      "Let's run a pilot test to compare the metrics.",
+      "The new workflow was introduced last month.",
+      "No, you're not convinced about it."
+    ],
+    "answer": "Let's run a pilot test to compare the metrics.",
+    "explanation": "陳述句質疑新流程效率，提議進行試點測試比較數據正確；引入時間和重複否定答非所問。",
+    "category": "陳述句回應"
+  },
+  {
+    "id": "L2-T730-095",
+    "part": 2,
+    "track": "T730",
+    "audioScript": "Under what circumstances would the warranty be voided?",
+    "options": [
+      "If the product is tampered with or modified by the user.",
+      "The warranty was issued with the original purchase.",
+      "Yes, there are circumstances that void it."
+    ],
+    "answer": "If the product is tampered with or modified by the user.",
+    "explanation": "Under what circumstances問保固失效條件，回答使用者擅自改裝正確；保固來源和空洞肯定答非所問。",
+    "category": "WH問句"
+  },
+  {
+    "id": "L2-T730-096",
+    "part": 2,
+    "track": "T730",
+    "audioScript": "Don't tell me the presentation file got corrupted again.",
+    "options": [
+      "I'm afraid so. I should have saved a backup.",
+      "No, it didn't get corrupted.",
+      "The presentation file is very large."
+    ],
+    "answer": "I'm afraid so. I should have saved a backup.",
+    "explanation": "陳述句表達無奈猜測檔案又毀損，承認並自責未備份正確；直接否定和檔案大小答非所問。",
+    "category": "陳述句回應"
+  },
+  {
+    "id": "L2-T730-097",
+    "part": 2,
+    "track": "T730",
+    "audioScript": "I wanted to check how much advance notice the supplier requires before processing an urgent order.",
+    "options": [
+      "They need at least forty-eight hours advance notice.",
+      "The supplier is based in Taiwan.",
+      "Yes, they require notice for urgent orders."
+    ],
+    "answer": "They need at least forty-eight hours advance notice.",
+    "explanation": "How much notice問提前通知時間，回答至少48小時正確；供應商位置和空洞肯定答非所問。",
+    "category": "WH問句"
+  },
+  {
+    "id": "L2-T730-098",
+    "part": 2,
+    "track": "T730",
+    "audioScript": "I can't understand why the audit committee rejected the proposal.",
+    "options": [
+      "They felt the risk assessment was inadequate.",
+      "The audit committee meets once a month.",
+      "No, you can't understand why."
+    ],
+    "answer": "They felt the risk assessment was inadequate.",
+    "explanation": "陳述句表示不理解審計委員會為何否決，推測風險評估不足做合理猜測正確；開會頻率和否定理解能力答非所問。",
+    "category": "陳述句回應"
+  },
+  {
+    "id": "L2-T730-099",
+    "part": 2,
+    "track": "T730",
+    "audioScript": "What's the protocol if the fire alarm goes off during business hours?",
+    "options": [
+      "Everyone must evacuate through the nearest emergency exit.",
+      "The fire alarm was tested last week.",
+      "Yes, there is a protocol for that."
+    ],
+    "answer": "Everyone must evacuate through the nearest emergency exit.",
+    "explanation": "What's the protocol問應變程序，回答從最近逃生出口疏散正確；測試時間和空洞肯定答非所問。",
+    "category": "WH問句"
+  },
+  {
+    "id": "L2-T730-100",
+    "part": 2,
+    "track": "T730",
+    "audioScript": "Are we expected to cover the travel expenses for the consultants ourselves?",
+    "options": [
+      "According to the contract, they're responsible for their own costs.",
+      "The consultants will arrive next Monday.",
+      "Yes, we are expected to cover them."
+    ],
+    "answer": "According to the contract, they're responsible for their own costs.",
+    "explanation": "選擇問句問費用歸屬，引用合約說明顧問自理正確；到達時間和片面肯定答非所問。",
+    "category": "YesNo問句"
+  },
+  {
+    "id": "L2-T730-101",
+    "part": 2,
+    "track": "T730",
+    "audioScript": "Nobody remembered to order the catering for the luncheon, did they?",
+    "options": [
+      "I'll call the restaurant right now to place an order.",
+      "No, nobody remembered.",
+      "The luncheon starts at noon."
+    ],
+    "answer": "I'll call the restaurant right now to place an order.",
+    "explanation": "附加問句確認沒人訂餐，立即打電話解決問題正確；字面附和和活動時間答非所問。",
+    "category": "附加間接問句"
+  },
+  {
+    "id": "L2-T730-102",
+    "part": 2,
+    "track": "T730",
+    "audioScript": "I'm curious what kind of return policy the online store provides for customers who aren't satisfied.",
+    "options": [
+      "They provide a full refund within thirty days of purchase.",
+      "The online store was launched last year.",
+      "Yes, they have a return policy."
+    ],
+    "answer": "They provide a full refund within thirty days of purchase.",
+    "explanation": "What sort問退貨政策，回答30天內全額退費具體正確；商店上線時間和空洞肯定答非所問。",
+    "category": "WH問句"
+  },
+  {
+    "id": "L2-T730-103",
+    "part": 2,
+    "track": "T730",
+    "audioScript": "There's no point in resubmitting the proposal if nothing has changed, is there?",
+    "options": [
+      "You have a point. Let's wait until we have substantial revisions.",
+      "No, there's no point.",
+      "The proposal was submitted last week."
+    ],
+    "answer": "You have a point. Let's wait until we have substantial revisions.",
+    "explanation": "附加問句確認是否無須重送，同意並建議等待實質修改後再送正確；字面附和和提交時間答非所問。",
+    "category": "附加間接問句"
+  },
+  {
+    "id": "L2-T730-104",
+    "part": 2,
+    "track": "T730",
+    "audioScript": "Did the QA team sign off on the batch before shipment, or are we still waiting for their decision?",
+    "options": [
+      "Yes, they approved it after the final inspection.",
+      "The quality assurance team works on the ground floor.",
+      "The shipment left the warehouse yesterday."
+    ],
+    "answer": "Yes, they approved it after the final inspection.",
+    "explanation": "Did...sign off問是否核准出貨，肯定回答終檢後批准正確；團隊位置和出貨時間答非所問。",
+    "category": "YesNo問句"
+  },
+  {
+    "id": "L2-T730-105",
+    "part": 2,
+    "track": "T730",
+    "audioScript": "I'm having second thoughts about the partnership after what happened last week.",
+    "options": [
+      "Let's weigh the pros and cons before making a final decision.",
+      "Last week's incident was unfortunate.",
+      "Yes, you're having second thoughts."
+    ],
+    "answer": "Let's weigh the pros and cons before making a final decision.",
+    "explanation": "陳述句表示對合作猶豫，建議權衡利弊後再做決定正確；評論事件和空洞肯定答非所問。",
+    "category": "陳述句回應"
+  },
+  {
+    "id": "L2-T730-106",
+    "part": 2,
+    "track": "T730",
+    "audioScript": "How many participants have registered for the webinar so far?",
+    "options": [
+      "We've had about two hundred sign-ups to date.",
+      "The webinar is scheduled for next Thursday.",
+      "Yes, participants have registered."
+    ],
+    "answer": "We've had about two hundred sign-ups to date.",
+    "explanation": "How many問數量，回答約兩百人報名具體正確；研討會時間和空洞肯定答非所問。",
+    "category": "WH問句"
+  },
+  {
+    "id": "L2-T730-107",
+    "part": 2,
+    "track": "T730",
+    "audioScript": "Could this discrepancy in the accounts simply be a rounding error?",
+    "options": [
+      "I doubt it, the difference is too significant.",
+      "Yes, it could be a rounding error.",
+      "The accounts were reviewed by an external auditor."
+    ],
+    "answer": "I doubt it, the difference is too significant.",
+    "explanation": "Could this be問是否可能為四捨五入誤差，合理質疑差異過大不可能正確；簡單肯定和審計來源答非所問。",
+    "category": "YesNo問句"
+  },
+  {
+    "id": "L2-T730-108",
+    "part": 2,
+    "track": "T730",
+    "audioScript": "It's not that I don't trust the data, but the source seems questionable.",
+    "options": [
+      "Let's cross-reference it with another database to be sure.",
+      "The data source should be reliable.",
+      "Yes, the source seems questionable."
+    ],
+    "answer": "Let's cross-reference it with another database to be sure.",
+    "explanation": "陳述句委婉質疑資料來源，提議交叉比對驗證正確；主觀斷言和空洞附和答非所問。",
+    "category": "陳述句回應"
+  },
+  {
+    "id": "L2-T730-109",
+    "part": 2,
+    "track": "T730",
+    "audioScript": "What exactly constitutes a conflict of interest in this context?",
+    "options": [
+      "Any situation where personal gain could influence professional judgment.",
+      "The conflict of interest policy was updated in March.",
+      "Yes, there is a definition for it."
+    ],
+    "answer": "Any situation where personal gain could influence professional judgment.",
+    "explanation": "What constitutes問定義，回答個人利益可能影響專業判斷的情況正確；政策更新時間和空洞肯定答非所問。",
+    "category": "WH問句"
+  },
+  {
+    "id": "L2-T730-110",
+    "part": 2,
+    "track": "T730",
+    "audioScript": "You've been with the firm for almost twenty years, haven't you?",
+    "options": [
+      "Actually, it'll be eighteen years this September.",
+      "No, I haven't been with the firm.",
+      "The firm was established in the 1990s."
+    ],
+    "answer": "Actually, it'll be eighteen years this September.",
+    "explanation": "附加問句確認年資，精確更正為18年正確；強烈否定和公司歷史答非所問。",
+    "category": "附加間接問句"
+  },
+  {
+    "id": "L2-T730-111",
+    "part": 2,
+    "track": "T730",
+    "audioScript": "Has the engineering team resolved the compatibility issue yet?",
+    "options": [
+      "They deployed a patch earlier this morning.",
+      "The compatibility issue was reported last week.",
+      "Yes, they have resolved it."
+    ],
+    "answer": "They deployed a patch earlier this morning.",
+    "explanation": "Has...resolved問是否解決相容性問題，回答今早部署修補程式更具體正確；回報時間和空洞Yes答非所問。",
+    "category": "YesNo問句"
+  },
+  {
+    "id": "L2-T730-112",
+    "part": 2,
+    "track": "T730",
+    "audioScript": "I wish the management had consulted us before making the announcement.",
+    "options": [
+      "I agree, it would have been better to get our input first.",
+      "The announcement was made yesterday.",
+      "Yes, you wish they had consulted you."
+    ],
+    "answer": "I agree, it would have been better to get our input first.",
+    "explanation": "I wish表達對未先諮詢的不滿，同意應先取得意見正確；宣布時間和重複願望答非所問。",
+    "category": "陳述句回應"
+  },
+  {
+    "id": "L2-T730-113",
+    "part": 2,
+    "track": "T730",
+    "audioScript": "How likely is it that the shipment will clear customs before the holiday?",
+    "options": [
+      "It's unlikely given the current backlog at the port.",
+      "The holiday starts next Friday.",
+      "Yes, it is likely."
+    ],
+    "answer": "It's unlikely given the current backlog at the port.",
+    "explanation": "How likely問可能性，根據港口積壓判斷不太可能正確；放假時間和空洞肯定答非所問。",
+    "category": "WH問句"
+  },
+  {
+    "id": "L2-T730-114",
+    "part": 2,
+    "track": "T730",
+    "audioScript": "Do you happen to recall whose idea it was to enter this market?",
+    "options": [
+      "If I remember correctly, it was suggested by the regional director.",
+      "Yes, I recall the idea.",
+      "The market was entered three years ago."
+    ],
+    "answer": "If I remember correctly, it was suggested by the regional director.",
+    "explanation": "Do you happen to recall whose idea問發想人是誰，回答區域總監建議正確；空洞肯定和進入時間答非所問。",
+    "category": "附加間接問句"
+  },
+  {
+    "id": "L2-T730-115",
+    "part": 2,
+    "track": "T730",
+    "audioScript": "Aren't there more cost-effective alternatives to this software?",
+    "options": [
+      "There are a few open-source options we could evaluate.",
+      "The software was purchased last quarter.",
+      "No, there aren't any alternatives."
+    ],
+    "answer": "There are a few open-source options we could evaluate.",
+    "explanation": "Aren't there問是否有更省錢的替代方案，回答有開源選項可評估正確；購買時間和否定回答答非所問。",
+    "category": "YesNo問句"
+  },
+  {
+    "id": "L2-T730-116",
+    "part": 2,
+    "track": "T730",
+    "audioScript": "What's the point of having a backup system if it's never tested?",
+    "options": [
+      "You're absolutely right, I'll schedule a test for next week.",
+      "The backup system was installed last year.",
+      "Yes, it has never been tested."
+    ],
+    "answer": "You're absolutely right, I'll schedule a test for next week.",
+    "explanation": "What's the point表達對備援系統從未測試的不滿，同意並排定測試正確；安裝時間和重複事實答非所問。",
+    "category": "陳述句回應"
+  },
+  {
+    "id": "L2-T730-117",
+    "part": 2,
+    "track": "T730",
+    "audioScript": "Whereabouts in the building is the server room located exactly?",
+    "options": [
+      "It's in the basement, next to the electrical room.",
+      "The server room was renovated last year.",
+      "Yes, it's located in the building."
+    ],
+    "answer": "It's in the basement, next to the electrical room.",
+    "explanation": "Whereabouts問精確位置，回答地下室電氣室旁正確；翻修時間和空洞肯定答非所問。",
+    "category": "WH問句"
+  },
+  {
+    "id": "L2-T730-118",
+    "part": 2,
+    "track": "T730",
+    "audioScript": "I can't imagine why the client would reject such a generous offer.",
+    "options": [
+      "Maybe they found a competitor with a better deal.",
+      "The offer was sent to the client last week.",
+      "No, you can't imagine why."
+    ],
+    "answer": "Maybe they found a competitor with a better deal.",
+    "explanation": "陳述句無法理解客戶拒絕，推測競爭對手提供了更好條件合理正確；寄送時間和否定想像力答非所問。",
+    "category": "陳述句回應"
+  },
+  {
+    "id": "L2-T730-119",
+    "part": 2,
+    "track": "T730",
+    "audioScript": "How many units do we need to sell to break even on this product?",
+    "options": [
+      "According to the financial model, approximately five thousand.",
+      "The product was launched last quarter.",
+      "Yes, we need to sell enough units."
+    ],
+    "answer": "According to the financial model, approximately five thousand.",
+    "explanation": "How many問損益兩平數量，引用財務模型約5000件正確；上市時間和空洞肯定答非所問。",
+    "category": "WH問句"
+  },
+  {
+    "id": "L2-T730-120",
+    "part": 2,
+    "track": "T730",
+    "audioScript": "You wouldn't object to working from the satellite office next month, would you?",
+    "options": [
+      "Not at all, it might be a nice change of scenery.",
+      "No, I wouldn't object to it.",
+      "The satellite office is in the suburbs."
+    ],
+    "answer": "Not at all, it might be a nice change of scenery.",
+    "explanation": "附加問句委婉問是否介意調到衛星辦公室，不介意並表達正面看法正確；否定回答和位置描述答非所問。",
+    "category": "附加間接問句"
+  },
+  {
+    "id": "L2-T730-121",
+    "part": 2,
+    "track": "T730",
+    "audioScript": "I've forgotten the exact date — when is the soft launch scheduled for the new platform?",
+    "options": [
+      "It's set for the first week of next month.",
+      "The new platform was developed in-house.",
+      "Yes, the soft launch is scheduled."
+    ],
+    "answer": "It's set for the first week of next month.",
+    "explanation": "When問時間，回答下月初正式正確；開發方式和空洞肯定答非所問。",
+    "category": "WH問句"
+  },
+  {
+    "id": "L2-T730-122",
+    "part": 2,
+    "track": "T730",
+    "audioScript": "Isn't it customary to give two weeks' notice before resigning?",
+    "options": [
+      "That's generally expected in most professional settings.",
+      "No, it isn't customary.",
+      "The resignation letter was submitted yesterday."
+    ],
+    "answer": "That's generally expected in most professional settings.",
+    "explanation": "Isn't it customary問是否為慣例，回答職場普遍預期如此正確；直接否定和離職信時間答非所問。",
+    "category": "YesNo問句"
+  },
+  {
+    "id": "L2-T730-123",
+    "part": 2,
+    "track": "T730",
+    "audioScript": "Someone must have leaked the information to the press, don't you think?",
+    "options": [
+      "It's possible. Let's find out who had access to the document.",
+      "No, someone must not have leaked it.",
+      "The press released the story this morning."
+    ],
+    "answer": "It's possible. Let's find out who had access to the document.",
+    "explanation": "附加問句徵求同意資訊外洩的可能性，同意並提議追查正確；矛盾否定和報導時間答非所問。",
+    "category": "附加間接問句"
+  },
+  {
+    "id": "L2-T730-124",
+    "part": 2,
+    "track": "T730",
+    "audioScript": "Who do we contact if the payment gateway goes down during business hours?",
+    "options": [
+      "You should call the IT help desk immediately.",
+      "The payment gateway was upgraded last month.",
+      "Yes, we have someone to contact."
+    ],
+    "answer": "You should call the IT help desk immediately.",
+    "explanation": "Who問聯絡對象，回答立即通知IT服務台正確；升級時間和空洞肯定答非所問。",
+    "category": "WH問句"
+  },
+  {
+    "id": "L2-T730-125",
+    "part": 2,
+    "track": "T730",
+    "audioScript": "The expiration date on this batch of inventory has already passed.",
+    "options": [
+      "I'll quarantine it and initiate the disposal process.",
+      "Yes, the expiration date has passed.",
+      "The inventory was received last quarter."
+    ],
+    "answer": "I'll quarantine it and initiate the disposal process.",
+    "explanation": "陳述句通知庫存已過期，主動隔離並啟動報廢程序解決問題正確；重複事實和收貨時間答非所問。",
+    "category": "陳述句回應"
+  },
+  {
+    "id": "L2-T730-126",
+    "part": 2,
+    "track": "T730",
+    "audioScript": "To whom should the purchase order be addressed?",
+    "options": [
+      "It should be made out to the procurement manager.",
+      "The purchase order was approved last week.",
+      "Yes, it should be addressed to someone."
+    ],
+    "answer": "It should be made out to the procurement manager.",
+    "explanation": "To whom問採購單抬頭對象，回答採購經理正確；核准時間和空洞肯定答非所問。",
+    "category": "WH問句"
+  },
+  {
+    "id": "L2-T730-127",
+    "part": 2,
+    "track": "T730",
+    "audioScript": "Would it be correct to say that the deadline has been extended?",
+    "options": [
+      "That's right, the client granted us an additional two weeks.",
+      "Yes, it would be correct to say that.",
+      "The deadline was originally set for Friday."
+    ],
+    "answer": "That's right, the client granted us an additional two weeks.",
+    "explanation": "Would it be correct to say問確認是否延長，肯定並說明客戶給兩週寬限期正確；空洞肯定和原截止日答非所問。",
+    "category": "附加間接問句"
+  },
+  {
+    "id": "L2-T730-128",
+    "part": 2,
+    "track": "T730",
+    "audioScript": "I have a feeling the negotiation isn't going to end well.",
+    "options": [
+      "Let's prepare some alternative proposals just in case.",
+      "The negotiation started this morning.",
+      "Yes, you have that feeling."
+    ],
+    "answer": "Let's prepare some alternative proposals just in case.",
+    "explanation": "陳述句表達對談判結果悲觀，提議準備替代方案因應正確；開始時間和空洞附和答非所問。",
+    "category": "陳述句回應"
+  },
+  {
+    "id": "L2-T730-129",
+    "part": 2,
+    "track": "T730",
+    "audioScript": "What's the company's stance on remote work after the pandemic?",
+    "options": [
+      "They've adopted a hybrid model with three days in the office.",
+      "The pandemic changed many workplace policies.",
+      "Yes, there is a stance on remote work."
+    ],
+    "answer": "They've adopted a hybrid model with three days in the office.",
+    "explanation": "What's the stance問公司立場，回答採用混合辦公模式具體正確；疫情影響評論和空洞肯定答非所問。",
+    "category": "WH問句"
+  },
+  {
+    "id": "L2-T730-130",
+    "part": 2,
+    "track": "T730",
+    "audioScript": "Aren't we supposed to be reimbursed for mileage when using personal vehicles?",
+    "options": [
+      "Yes, just submit your mileage log to HR at the end of the month.",
+      "No, we aren't supposed to be reimbursed.",
+      "The mileage rate was adjusted last year."
+    ],
+    "answer": "Yes, just submit your mileage log to HR at the end of the month.",
+    "explanation": "Aren't we supposed to問是否應報銷里程，肯定並告知流程正確；直接否定和費率調整答非所問。",
+    "category": "YesNo問句"
+  },
+  {
+    "id": "L2-T730-131",
+    "part": 2,
+    "track": "T730",
+    "audioScript": "I can't help noticing that the attendance rate has dropped significantly.",
+    "options": [
+      "You're right, let's look into what might be causing it.",
+      "The attendance rate was higher last year.",
+      "No, you can't help noticing it."
+    ],
+    "answer": "You're right, let's look into what might be causing it.",
+    "explanation": "陳述句觀察出席率下降，同意並提議調查原因正確；過去比較和否定觀察答非所問。",
+    "category": "陳述句回應"
+  },
+  {
+    "id": "L2-T730-132",
+    "part": 2,
+    "track": "T730",
+    "audioScript": "How does the depreciation schedule work for capital equipment?",
+    "options": [
+      "Assets are depreciated over their useful life using the straight-line method.",
+      "The depreciation schedule was prepared by accounting.",
+      "Yes, there is a schedule for depreciation."
+    ],
+    "answer": "Assets are depreciated over their useful life using the straight-line method.",
+    "explanation": "How問折舊方式，回答直線法按耐用年限攤提正確；編製單位和空洞肯定答非所問。",
+    "category": "WH問句"
+  },
+  {
+    "id": "L2-T730-133",
+    "part": 2,
+    "track": "T730",
+    "audioScript": "It's a bit late to be making changes to the agenda, isn't it?",
+    "options": [
+      "You're right, we should have finalized it last week.",
+      "No, it isn't too late.",
+      "The agenda was circulated by email."
+    ],
+    "answer": "You're right, we should have finalized it last week.",
+    "explanation": "附加問句質疑太晚修改議程，同意並表示本應上週定案正確；直接否定和散發方式答非所問。",
+    "category": "附加間接問句"
+  },
+  {
+    "id": "L2-T730-134",
+    "part": 2,
+    "track": "T730",
+    "audioScript": "What prompted the sudden interest in acquiring that startup?",
+    "options": [
+      "Their AI technology complements our product line perfectly.",
+      "The startup was founded five years ago.",
+      "Yes, there was a sudden interest."
+    ],
+    "answer": "Their AI technology complements our product line perfectly.",
+    "explanation": "What prompted問收購動機，回答其AI技術與產品線互補具體正確；公司成立時間和空洞肯定答非所問。",
+    "category": "WH問句"
+  },
+  {
+    "id": "L2-T730-135",
+    "part": 2,
+    "track": "T730",
+    "audioScript": "Could we have overlooked any potential risks in the feasibility study?",
+    "options": [
+      "It's possible, let's do a thorough review to be safe.",
+      "No, we couldn't have overlooked any.",
+      "The feasibility study was completed last week."
+    ],
+    "answer": "It's possible, let's do a thorough review to be safe.",
+    "explanation": "Could we have...問是否可能遺漏風險，承認可能性並提議徹底審查正確；直接否定和完成時間答非所問。",
+    "category": "YesNo問句"
+  },
+  {
+    "id": "L2-T730-136",
+    "part": 2,
+    "track": "T730",
+    "audioScript": "The auditors will be here next week, or so I've been told.",
+    "options": [
+      "Then we'd better make sure all the records are in order.",
+      "The auditors came last year as well.",
+      "Yes, the auditors will be here."
+    ],
+    "answer": "Then we'd better make sure all the records are in order.",
+    "explanation": "陳述句轉述審計員下週到，建議確保紀錄完備正確；過去記錄和空洞肯定答非所問。",
+    "category": "陳述句回應"
+  },
+  {
+    "id": "L2-T730-137",
+    "part": 2,
+    "track": "T730",
+    "audioScript": "What exactly does the non-disclosure agreement cover regarding client data?",
+    "options": [
+      "It prohibits sharing any confidential information with third parties.",
+      "The non-disclosure agreement was signed last month.",
+      "Yes, it covers client data."
+    ],
+    "answer": "It prohibits sharing any confidential information with third parties.",
+    "explanation": "What does cover問保密協議範圍，回答禁止向第三方揭露機密資訊正確；簽署時間和空洞肯定答非所問。",
+    "category": "WH問句"
+  },
+  {
+    "id": "L2-T730-138",
+    "part": 2,
+    "track": "T730",
+    "audioScript": "You haven't had a chance to look over the merger documents, have you?",
+    "options": [
+      "Not thoroughly, I've only skimmed the executive summary.",
+      "Yes, I've had a chance.",
+      "The merger documents are over a hundred pages."
+    ],
+    "answer": "Not thoroughly, I've only skimmed the executive summary.",
+    "explanation": "附加問句確認是否已審閱，誠實回答僅瀏覽摘要正確；簡單肯定和頁數答非所問。",
+    "category": "附加間接問句"
+  },
+  {
+    "id": "L2-T730-139",
+    "part": 2,
+    "track": "T730",
+    "audioScript": "Is it mandatory for all employees to complete the ethics training annually?",
+    "options": [
+      "Yes, it's a requirement for continued employment.",
+      "The ethics training was introduced three years ago.",
+      "Yes, it's mandatory for everyone."
+    ],
+    "answer": "Yes, it's a requirement for continued employment.",
+    "explanation": "Is it mandatory問是否強制，肯定並說明是續聘條件更具體正確；引入時間和空洞肯定答非所問。",
+    "category": "YesNo問句"
+  },
+  {
+    "id": "L2-T730-140",
+    "part": 2,
+    "track": "T730",
+    "audioScript": "I'm not sure the supplier can meet our quality standards.",
+    "options": [
+      "Let's arrange an audit of their facility before committing.",
+      "The supplier was recommended by the procurement team.",
+      "Yes, you're not sure about it."
+    ],
+    "answer": "Let's arrange an audit of their facility before committing.",
+    "explanation": "陳述句質疑供應商品質，提議先稽核其廠房再做決定正確；推薦來源和重複不確定答非所問。",
+    "category": "陳述句回應"
+  },
+  {
+    "id": "L2-T730-141",
+    "part": 2,
+    "track": "T730",
+    "audioScript": "How do we reconcile the discrepancy between the inventory count and the system record?",
+    "options": [
+      "We should conduct a physical recount of the warehouse.",
+      "The system record was updated last night.",
+      "Yes, there is a discrepancy."
+    ],
+    "answer": "We should conduct a physical recount of the warehouse.",
+    "explanation": "How問調解差異的方法，建議進行實體盤點正確；系統更新時間和空洞肯定答非所問。",
+    "category": "WH問句"
+  },
+  {
+    "id": "L2-T730-142",
+    "part": 2,
+    "track": "T730",
+    "audioScript": "This isn't the first time the vendor has missed a deadline, is it?",
+    "options": [
+      "Unfortunately, no. We need to consider other suppliers.",
+      "No, it isn't the first time.",
+      "The vendor missed the deadline last quarter as well."
+    ],
+    "answer": "Unfortunately, no. We need to consider other suppliers.",
+    "explanation": "附加問句確認是否非首次延誤，同意並建議考慮更換供應商正確；字面附和和過去記錄答非所問。",
+    "category": "附加間接問句"
+  },
+  {
+    "id": "L2-T730-143",
+    "part": 2,
+    "track": "T730",
+    "audioScript": "In what ways can we improve the customer onboarding experience?",
+    "options": [
+      "We could streamline the paperwork and add a welcome tutorial.",
+      "The customer onboarding process was redesigned last year.",
+      "Yes, there are ways to improve it."
+    ],
+    "answer": "We could streamline the paperwork and add a welcome tutorial.",
+    "explanation": "In what ways問改進方法，提出簡化文書和加入歡迎教學具體正確；過去重新設計和空洞肯定答非所問。",
+    "category": "WH問句"
+  },
+  {
+    "id": "L2-T730-144",
+    "part": 2,
+    "track": "T730",
+    "audioScript": "You'll notify the team about the schedule change, won't you?",
+    "options": [
+      "Of course, I'll send out an email right after this meeting.",
+      "No, I won't notify them.",
+      "The schedule change was approved by management."
+    ],
+    "answer": "Of course, I'll send out an email right after this meeting.",
+    "explanation": "附加問句要求通知團隊，爽快答應並告知馬上發信正確；拒絕和變更核准者答非所問。",
+    "category": "附加間接問句"
+  },
+  {
+    "id": "L2-T730-145",
+    "part": 2,
+    "track": "T730",
+    "audioScript": "What effect will the new tariff have on our import costs?",
+    "options": [
+      "It could increase our costs by roughly fifteen percent.",
+      "The new tariff was announced by the government.",
+      "Yes, it will have an effect."
+    ],
+    "answer": "It could increase our costs by roughly fifteen percent.",
+    "explanation": "What effect問影響程度，回答成本可能增加約15%具體正確；關稅宣布單位和空洞肯定答非所問。",
+    "category": "WH問句"
+  },
+  {
+    "id": "L2-T730-146",
+    "part": 2,
+    "track": "T730",
+    "audioScript": "I wish the airline had notified us earlier about the flight cancellation.",
+    "options": [
+      "I agree, it caused a lot of unnecessary inconvenience.",
+      "The flight was cancelled due to bad weather.",
+      "Yes, you wish they had notified you."
+    ],
+    "answer": "I agree, it caused a lot of unnecessary inconvenience.",
+    "explanation": "I wish表達對未及早通知的不滿，同意並評論造成不便正確；取消原因和重複願望答非所問。",
+    "category": "陳述句回應"
+  },
+  {
+    "id": "L2-T730-147",
+    "part": 2,
+    "track": "T730",
+    "audioScript": "Could it be that the delay was caused by miscommunication?",
+    "options": [
+      "That's very likely, the instructions weren't clear enough.",
+      "The delay was reported to the project manager.",
+      "Yes, it could be that."
+    ],
+    "answer": "That's very likely, the instructions weren't clear enough.",
+    "explanation": "Could it be that問是否為溝通不良導致，認同可能性並指出指示不夠明確正確；回報對象和空洞肯定答非所問。",
+    "category": "YesNo問句"
+  },
+  {
+    "id": "L2-T730-148",
+    "part": 2,
+    "track": "T730",
+    "audioScript": "The stationery cupboard is practically bare, and the quarterly order hasn't been placed yet.",
+    "options": [
+      "I'll place an order with the supplier this afternoon.",
+      "The office supplies were delivered last Monday.",
+      "Yes, we are running low."
+    ],
+    "answer": "I'll place an order with the supplier this afternoon.",
+    "explanation": "陳述句提醒文具快用完，主動向供應商下單解決正確；上次送貨時間和空洞肯定答非所問。",
+    "category": "陳述句回應"
+  },
+  {
+    "id": "L2-T730-149",
+    "part": 2,
+    "track": "T730",
+    "audioScript": "Do you happen to know how long the receptionist has been employed with the company?",
+    "options": [
+      "She joined the company about two years ago.",
+      "The receptionist works at the front desk.",
+      "Yes, she has been working here."
+    ],
+    "answer": "She joined the company about two years ago.",
+    "explanation": "How long問工作年資，回答約兩年前加入正確；工作位置和空洞肯定答非所問。",
+    "category": "WH問句"
+  },
+  {
+    "id": "L2-T730-150",
+    "part": 2,
+    "track": "T730",
+    "audioScript": "I'm not sure I can finish the due diligence by Friday.",
+    "options": [
+      "Let me reassign some of your other tasks to help.",
+      "The due diligence was started last week.",
+      "No, you're not sure about it."
+    ],
+    "answer": "Let me reassign some of your other tasks to help.",
+    "explanation": "陳述句表達無法如期完成盡職調查，主動協助重新分配任務正確；開始時間和重複不確定答非所問。",
+    "category": "陳述句回應"
+  },
+  {
+    "id": "L2-T730-151",
+    "part": 2,
+    "track": "T730",
+    "audioScript": "Is the deadline flexible, or is it set in stone?",
+    "options": [
+      "Unfortunately, it's a regulatory deadline that can't be moved.",
+      "The deadline was set by the board of directors.",
+      "Yes, it is flexible."
+    ],
+    "answer": "Unfortunately, it's a regulatory deadline that can't be moved.",
+    "explanation": "選擇問句問期限是否可調整，說明法規期限無法變動正確；設定單位和片面回答是彈性答非所問。",
+    "category": "YesNo問句"
+  },
+  {
+    "id": "L2-T730-152",
+    "part": 2,
+    "track": "T730",
+    "audioScript": "Does the insurance policy cover damage caused by natural disasters?",
+    "options": [
+      "It does, but only for floods and earthquakes specifically listed.",
+      "The insurance policy was renewed in January.",
+      "Yes, it covers natural disasters."
+    ],
+    "answer": "It does, but only for floods and earthquakes specifically listed.",
+    "explanation": "Does...cover問保障範圍，肯定但僅限列舉的水災地震正確；續約時間和籠統肯定答非所問。",
+    "category": "YesNo問句"
+  },
+  {
+    "id": "L2-T730-153",
+    "part": 2,
+    "track": "T730",
+    "audioScript": "This isn't the invoice we agreed on, is it?",
+    "options": [
+      "You're right, there seems to be a pricing error.",
+      "No, it isn't the invoice we agreed on.",
+      "The invoice was sent by the accounting department."
+    ],
+    "answer": "You're right, there seems to be a pricing error.",
+    "explanation": "附加問句確認發票不符，同意並指出定價錯誤具體正確；字面附和和寄送單位答非所問。",
+    "category": "附加間接問句"
+  },
+  {
+    "id": "L2-T730-154",
+    "part": 2,
+    "track": "T730",
+    "audioScript": "Whatever happened to the proposal we submitted last quarter?",
+    "options": [
+      "It's still under review by the investment committee.",
+      "The proposal was submitted three months ago.",
+      "Yes, something happened to it."
+    ],
+    "answer": "It's still under review by the investment committee.",
+    "explanation": "Whatever happened to問提案進度，回答投資委員會仍在審查中正確；提交時間和空洞肯定答非所問。",
+    "category": "WH問句"
+  },
+  {
+    "id": "L2-T730-155",
+    "part": 2,
+    "track": "T730",
+    "audioScript": "We're going to need more than just a Band-Aid fix for this issue.",
+    "options": [
+      "I agree, let's develop a comprehensive solution.",
+      "The issue was reported by the customer.",
+      "Yes, a Band-Aid fix won't be enough."
+    ],
+    "answer": "I agree, let's develop a comprehensive solution.",
+    "explanation": "陳述句表示問題需要根本解決而非權宜之計，同意並提議開發完整方案正確；通報來源和重複事實答非所問。",
+    "category": "陳述句回應"
+  },
+  {
+    "id": "L2-T730-156",
+    "part": 2,
+    "track": "T730",
+    "audioScript": "What are the implications of breaching the service-level agreement?",
+    "options": [
+      "We could face financial penalties and loss of the contract.",
+      "The service-level agreement was signed last year.",
+      "Yes, there are implications."
+    ],
+    "answer": "We could face financial penalties and loss of the contract.",
+    "explanation": "What are the implications問違約後果，回答可能面臨罰款和解約具體正確；簽署時間和空洞肯定答非所問。",
+    "category": "WH問句"
+  },
+  {
+    "id": "L2-T730-157",
+    "part": 2,
+    "track": "T730",
+    "audioScript": "You've managed to negotiate a better rate with the supplier, haven't you?",
+    "options": [
+      "Yes, we got a five percent discount on bulk orders.",
+      "No, I haven't managed to do that.",
+      "The supplier's rates were increased last year."
+    ],
+    "answer": "Yes, we got a five percent discount on bulk orders.",
+    "explanation": "附加問句確認是否談成更好價格，肯定並說明大量訂購享95折正確；否定和調漲答非所問。",
+    "category": "附加間接問句"
+  },
+  {
+    "id": "L2-T730-158",
+    "part": 2,
+    "track": "T730",
+    "audioScript": "The vendor said they sent the goods, but we haven't received anything.",
+    "options": [
+      "Let me request the tracking number and investigate.",
+      "The goods were supposedly sent last Tuesday.",
+      "Yes, we haven't received anything."
+    ],
+    "answer": "Let me request the tracking number and investigate.",
+    "explanation": "陳述句表示賣家說已出貨但未收到，主動要求追蹤碼調查正確；出貨時間和重複事實答非所問。",
+    "category": "陳述句回應"
+  },
+  {
+    "id": "L2-T730-159",
+    "part": 2,
+    "track": "T730",
+    "audioScript": "Wouldn't it be wiser to wait until the market stabilizes before investing?",
+    "options": [
+      "Perhaps, but we might miss the opportunity if we wait too long.",
+      "No, it wouldn't be wiser.",
+      "The market is expected to stabilize by next quarter."
+    ],
+    "answer": "Perhaps, but we might miss the opportunity if we wait too long.",
+    "explanation": "Wouldn't it be wiser問是否該等待，委婉提出等待太久可能錯失良機，權衡觀點正確；直接否定和市場預測答非所問。",
+    "category": "YesNo問句"
+  },
+  {
+    "id": "L2-T730-160",
+    "part": 2,
+    "track": "T730",
+    "audioScript": "Do you see any red flags in the due diligence report?",
+    "options": [
+      "A few. Their liabilities seem higher than initially stated.",
+      "Yes, I see red flags.",
+      "The due diligence report was prepared by an external firm."
+    ],
+    "answer": "A few. Their liabilities seem higher than initially stated.",
+    "explanation": "Do you see any問是否發現警訊，具體指出負債高於預期正確；空洞肯定和報告編製單位答非所問。",
+    "category": "YesNo問句"
+  }
+]

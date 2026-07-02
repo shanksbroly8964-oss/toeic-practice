@@ -4,19 +4,79 @@
     "part": 3,
     "track": "T730",
     "conversation": [
-      {"speaker": "A", "line": "I've reviewed your department's budget proposal for next quarter."},
-      {"speaker": "B", "line": "I hope you found the figures reasonable. We tried to keep things lean."},
-      {"speaker": "A", "line": "The training allocation is quite high, don't you think? Almost double last quarter's."},
-      {"speaker": "B", "line": "That's because we're rolling out the new inventory system. Everyone needs to be certified by September."},
-      {"speaker": "A", "line": "I see. But could we phase the training over two quarters instead?"},
-      {"speaker": "B", "line": "That would delay the system launch, which management specifically asked us to avoid."},
-      {"speaker": "A", "line": "Fair enough. I'll approve it, but let's review the actual spending monthly."}
+      {
+        "speaker": "A",
+        "line": "I've reviewed your department's budget proposal for next quarter."
+      },
+      {
+        "speaker": "B",
+        "line": "I hope you found the figures reasonable. We tried to keep things lean."
+      },
+      {
+        "speaker": "A",
+        "line": "The training allocation is quite high, don't you think? Almost double last quarter's."
+      },
+      {
+        "speaker": "B",
+        "line": "That's because we're rolling out the new inventory system. Everyone needs to be certified by September."
+      },
+      {
+        "speaker": "A",
+        "line": "I see. But could we phase the training over two quarters instead?"
+      },
+      {
+        "speaker": "B",
+        "line": "That would delay the system launch, which management specifically asked us to avoid."
+      },
+      {
+        "speaker": "A",
+        "line": "Fair enough. I'll approve it, but let's review the actual spending monthly."
+      }
     ],
     "chartData": null,
     "questions": [
-      {"id": "L3-T730-001-Q1", "question": "What is the woman's main concern about the budget?", "options": ["The overall total is too high", "The training cost is too high", "The timeline is too short", "The staff is not capable"], "answer": "The training cost is too high", "explanation": "A說訓練預算幾乎是上季的兩倍，暗示她認為這個項目過高。", "requiresChart": false},
-      {"id": "L3-T730-001-Q2", "question": "Why does the man insist on keeping the training budget?", "options": ["It is required by law", "The new system launch cannot be delayed", "The staff requested more training", "The budget was already approved"], "answer": "The new system launch cannot be delayed", "explanation": "B說分批訓練會延遲系統上線，而管理層明確要求避免延遲。", "requiresChart": false},
-      {"id": "L3-T730-001-Q3", "question": "What compromise does the woman suggest in the end?", "options": ["Cut the training entirely", "Reduce the number of trainees", "Approve the budget with monthly reviews", "Ask management for more funding"], "answer": "Approve the budget with monthly reviews", "explanation": "A最後說會批准，但要求每月檢視實際支出。", "requiresChart": false}
+      {
+        "id": "L3-T730-001-Q1",
+        "question": "What is the woman's main concern about the budget?",
+        "options": [
+          "The overall total is too high",
+          "The training cost is too high",
+          "The timeline is too short",
+          "The staff is not capable"
+        ],
+        "answer": "The training cost is too high",
+        "explanation": "A說訓練預算幾乎是上季的兩倍，暗示她認為這個項目過高。",
+        "requiresChart": false,
+        "category": "細節"
+      },
+      {
+        "id": "L3-T730-001-Q2",
+        "question": "Why does the man insist on keeping the training budget?",
+        "options": [
+          "It is required by law",
+          "The new system launch cannot be delayed",
+          "The staff requested more training",
+          "The budget was already approved"
+        ],
+        "answer": "The new system launch cannot be delayed",
+        "explanation": "B說分批訓練會延遲系統上線，而管理層明確要求避免延遲。",
+        "requiresChart": false,
+        "category": "細節"
+      },
+      {
+        "id": "L3-T730-001-Q3",
+        "question": "What compromise does the woman suggest in the end?",
+        "options": [
+          "Cut the training entirely",
+          "Reduce the number of trainees",
+          "Approve the budget with monthly reviews",
+          "Ask management for more funding"
+        ],
+        "answer": "Approve the budget with monthly reviews",
+        "explanation": "A最後說會批准，但要求每月檢視實際支出。",
+        "requiresChart": false,
+        "category": "推論意圖"
+      }
     ]
   },
   {
@@ -24,19 +84,79 @@
     "part": 3,
     "track": "T730",
     "conversation": [
-      {"speaker": "A", "line": "We have three proposals for the office renovation project. Have you looked at them?"},
-      {"speaker": "B", "line": "I went through all of them. DesignWorks has the most creative vision, but their quote is significantly higher."},
-      {"speaker": "A", "line": "What about BuildRight? They came in with the lowest bid."},
-      {"speaker": "B", "line": "I know, but I've heard they've had issues meeting deadlines on recent projects."},
-      {"speaker": "A", "line": "So you're leaning toward OfficeCraft then?"},
-      {"speaker": "B", "line": "They're not the cheapest or the most innovative, but they have a solid track record and came in within our range."},
-      {"speaker": "A", "line": "Reliability matters more than flashy designs at this stage. Let's go with them."}
+      {
+        "speaker": "A",
+        "line": "We have three proposals for the office renovation project. Have you looked at them?"
+      },
+      {
+        "speaker": "B",
+        "line": "I went through all of them. DesignWorks has the most creative vision, but their quote is significantly higher."
+      },
+      {
+        "speaker": "A",
+        "line": "What about BuildRight? They came in with the lowest bid."
+      },
+      {
+        "speaker": "B",
+        "line": "I know, but I've heard they've had issues meeting deadlines on recent projects."
+      },
+      {
+        "speaker": "A",
+        "line": "So you're leaning toward OfficeCraft then?"
+      },
+      {
+        "speaker": "B",
+        "line": "They're not the cheapest or the most innovative, but they have a solid track record and came in within our range."
+      },
+      {
+        "speaker": "A",
+        "line": "Reliability matters more than flashy designs at this stage. Let's go with them."
+      }
     ],
     "chartData": null,
     "questions": [
-      {"id": "L3-T730-002-Q1", "question": "What is the disadvantage of DesignWorks?", "options": ["Poor design quality", "Lack of experience", "High cost", "Slow delivery"], "answer": "High cost", "explanation": "B說DesignWorks最有創意但報價明顯較高。", "requiresChart": false},
-      {"id": "L3-T730-002-Q2", "question": "Why does the man hesitate to choose BuildRight?", "options": ["Their design is outdated", "They are too expensive", "They may miss deadlines", "They refused the project"], "answer": "They may miss deadlines", "explanation": "B說聽說BuildRight最近幾個案子有無法準時交件的問題。", "requiresChart": false},
-      {"id": "L3-T730-002-Q3", "question": "Which vendor do the speakers ultimately choose?", "options": ["DesignWorks", "BuildRight", "OfficeCraft", "None of them"], "answer": "OfficeCraft", "explanation": "B暗示傾向OfficeCraft，A同意並說可靠性比華麗設計重要，決定選擇他們。", "requiresChart": false}
+      {
+        "id": "L3-T730-002-Q1",
+        "question": "What is the disadvantage of DesignWorks?",
+        "options": [
+          "Poor design quality",
+          "Lack of experience",
+          "High cost",
+          "Slow delivery"
+        ],
+        "answer": "High cost",
+        "explanation": "B說DesignWorks最有創意但報價明顯較高。",
+        "requiresChart": false,
+        "category": "細節"
+      },
+      {
+        "id": "L3-T730-002-Q2",
+        "question": "Why does the man hesitate to choose BuildRight?",
+        "options": [
+          "Their design is outdated",
+          "They are too expensive",
+          "They may miss deadlines",
+          "They refused the project"
+        ],
+        "answer": "They may miss deadlines",
+        "explanation": "B說聽說BuildRight最近幾個案子有無法準時交件的問題。",
+        "requiresChart": false,
+        "category": "細節"
+      },
+      {
+        "id": "L3-T730-002-Q3",
+        "question": "Which vendor do the speakers ultimately choose?",
+        "options": [
+          "DesignWorks",
+          "BuildRight",
+          "OfficeCraft",
+          "None of them"
+        ],
+        "answer": "OfficeCraft",
+        "explanation": "B暗示傾向OfficeCraft，A同意並說可靠性比華麗設計重要，決定選擇他們。",
+        "requiresChart": false,
+        "category": "細節"
+      }
     ]
   },
   {
@@ -44,19 +164,79 @@
     "part": 3,
     "track": "T730",
     "conversation": [
-      {"speaker": "A", "line": "The numbers from last month's social media campaign just came in."},
-      {"speaker": "B", "line": "How did we do? I was hoping for at least a twenty percent increase in engagement."},
-      {"speaker": "A", "line": "We got fifteen percent, which isn't bad, but it's not quite what we aimed for."},
-      {"speaker": "B", "line": "Hmm. Which platform performed best?"},
-      {"speaker": "A", "line": "LinkedIn outperformed all the others. Instagram engagement actually dropped by five percent."},
-      {"speaker": "B", "line": "That's surprising. Maybe our audience has shifted platforms. Let's reallocate the budget toward LinkedIn for next month."},
-      {"speaker": "A", "line": "Agreed. I'll prepare a revised plan by end of day."}
+      {
+        "speaker": "A",
+        "line": "The numbers from last month's social media campaign just came in."
+      },
+      {
+        "speaker": "B",
+        "line": "How did we do? I was hoping for at least a twenty percent increase in engagement."
+      },
+      {
+        "speaker": "A",
+        "line": "We got fifteen percent, which isn't bad, but it's not quite what we aimed for."
+      },
+      {
+        "speaker": "B",
+        "line": "Hmm. Which platform performed best?"
+      },
+      {
+        "speaker": "A",
+        "line": "LinkedIn outperformed all the others. Instagram engagement actually dropped by five percent."
+      },
+      {
+        "speaker": "B",
+        "line": "That's surprising. Maybe our audience has shifted platforms. Let's reallocate the budget toward LinkedIn for next month."
+      },
+      {
+        "speaker": "A",
+        "line": "Agreed. I'll prepare a revised plan by end of day."
+      }
     ],
     "chartData": null,
     "questions": [
-      {"id": "L3-T730-003-Q1", "question": "What was the target engagement increase?", "options": ["Five percent", "Fifteen percent", "Twenty percent", "Twenty-five percent"], "answer": "Twenty percent", "explanation": "B說原本希望互動率能增加至少20%。", "requiresChart": false},
-      {"id": "L3-T730-003-Q2", "question": "What does the woman find surprising?", "options": ["The overall growth", "LinkedIn's strong performance", "Instagram's drop in engagement", "The budget allocation"], "answer": "Instagram's drop in engagement", "explanation": "B聽到Instagram互動率下降5%後說這很令人意外。", "requiresChart": false},
-      {"id": "L3-T730-003-Q3", "question": "What will the speakers most likely do next?", "options": ["Cancel the campaign", "Focus more on LinkedIn", "Increase Instagram spending", "Hire a new agency"], "answer": "Focus more on LinkedIn", "explanation": "B說要將預算轉移到LinkedIn，A同意並說會準備修訂計畫。", "requiresChart": false}
+      {
+        "id": "L3-T730-003-Q1",
+        "question": "What was the target engagement increase?",
+        "options": [
+          "Five percent",
+          "Fifteen percent",
+          "Twenty percent",
+          "Twenty-five percent"
+        ],
+        "answer": "Twenty percent",
+        "explanation": "B說原本希望互動率能增加至少20%。",
+        "requiresChart": false,
+        "category": "細節"
+      },
+      {
+        "id": "L3-T730-003-Q2",
+        "question": "What does the woman find surprising?",
+        "options": [
+          "The overall growth",
+          "LinkedIn's strong performance",
+          "Instagram's drop in engagement",
+          "The budget allocation"
+        ],
+        "answer": "Instagram's drop in engagement",
+        "explanation": "B聽到Instagram互動率下降5%後說這很令人意外。",
+        "requiresChart": false,
+        "category": "細節"
+      },
+      {
+        "id": "L3-T730-003-Q3",
+        "question": "What will the speakers most likely do next?",
+        "options": [
+          "Cancel the campaign",
+          "Focus more on LinkedIn",
+          "Increase Instagram spending",
+          "Hire a new agency"
+        ],
+        "answer": "Focus more on LinkedIn",
+        "explanation": "B說要將預算轉移到LinkedIn，A同意並說會準備修訂計畫。",
+        "requiresChart": false,
+        "category": "推論意圖"
+      }
     ]
   },
   {
@@ -64,19 +244,79 @@
     "part": 3,
     "track": "T730",
     "conversation": [
-      {"speaker": "A", "line": "You've been looking exhausted lately. Is everything alright?"},
-      {"speaker": "B", "line": "To be honest, I've been covering for two people since Janet left, and we still haven't hired a replacement."},
-      {"speaker": "A", "line": "I wasn't aware the workload had increased that much. Have you brought this up with HR?"},
-      {"speaker": "B", "line": "I mentioned it a few weeks ago, but they said hiring is on hold until next quarter."},
-      {"speaker": "A", "line": "That's not ideal. Would it help if I reassigned some of your routine tasks to another team member?"},
-      {"speaker": "B", "line": "That would make a huge difference. I really appreciate it."},
-      {"speaker": "A", "line": "I'll speak with Kevin this afternoon. He has some capacity at the moment."}
+      {
+        "speaker": "A",
+        "line": "You've been looking exhausted lately. Is everything alright?"
+      },
+      {
+        "speaker": "B",
+        "line": "To be honest, I've been covering for two people since Janet left, and we still haven't hired a replacement."
+      },
+      {
+        "speaker": "A",
+        "line": "I wasn't aware the workload had increased that much. Have you brought this up with HR?"
+      },
+      {
+        "speaker": "B",
+        "line": "I mentioned it a few weeks ago, but they said hiring is on hold until next quarter."
+      },
+      {
+        "speaker": "A",
+        "line": "That's not ideal. Would it help if I reassigned some of your routine tasks to another team member?"
+      },
+      {
+        "speaker": "B",
+        "line": "That would make a huge difference. I really appreciate it."
+      },
+      {
+        "speaker": "A",
+        "line": "I'll speak with Kevin this afternoon. He has some capacity at the moment."
+      }
     ],
     "chartData": null,
     "questions": [
-      {"id": "L3-T730-004-Q1", "question": "Why is the man exhausted?", "options": ["He is working on a difficult project", "He is covering for two vacant positions", "He has health problems", "He is traveling too much"], "answer": "He is covering for two vacant positions", "explanation": "B說Janet離職後他在代班兩個人的工作，且尚未找到替代人選。", "requiresChart": false},
-      {"id": "L3-T730-004-Q2", "question": "What did HR tell the man about hiring?", "options": ["They will hire immediately", "Hiring is on hold until next quarter", "The position is being eliminated", "They lost his request"], "answer": "Hiring is on hold until next quarter", "explanation": "B說HR表示招聘要等到下一季才會解凍。", "requiresChart": false},
-      {"id": "L3-T730-004-Q3", "question": "What solution does the woman propose?", "options": ["Hire a temporary worker", "Reassign some tasks to Kevin", "Ask the man to work overtime", "Postpone the project deadline"], "answer": "Reassign some tasks to Kevin", "explanation": "A說會跟Kevin談，把B的部分例行工作轉移給他。", "requiresChart": false}
+      {
+        "id": "L3-T730-004-Q1",
+        "question": "Why is the man exhausted?",
+        "options": [
+          "He is working on a difficult project",
+          "He is covering for two vacant positions",
+          "He has health problems",
+          "He is traveling too much"
+        ],
+        "answer": "He is covering for two vacant positions",
+        "explanation": "B說Janet離職後他在代班兩個人的工作，且尚未找到替代人選。",
+        "requiresChart": false,
+        "category": "細節"
+      },
+      {
+        "id": "L3-T730-004-Q2",
+        "question": "What did HR tell the man about hiring?",
+        "options": [
+          "They will hire immediately",
+          "Hiring is on hold until next quarter",
+          "The position is being eliminated",
+          "They lost his request"
+        ],
+        "answer": "Hiring is on hold until next quarter",
+        "explanation": "B說HR表示招聘要等到下一季才會解凍。",
+        "requiresChart": false,
+        "category": "細節"
+      },
+      {
+        "id": "L3-T730-004-Q3",
+        "question": "What solution does the woman propose?",
+        "options": [
+          "Hire a temporary worker",
+          "Reassign some tasks to Kevin",
+          "Ask the man to work overtime",
+          "Postpone the project deadline"
+        ],
+        "answer": "Reassign some tasks to Kevin",
+        "explanation": "A說會跟Kevin談，把B的部分例行工作轉移給他。",
+        "requiresChart": false,
+        "category": "細節"
+      }
     ]
   },
   {
@@ -84,18 +324,116 @@
     "part": 3,
     "track": "T730",
     "conversation": [
-      {"speaker": "A", "line": "I'm planning which sessions to attend at next week's industry conference. Have you decided yet?"},
-      {"speaker": "B", "line": "I'm definitely going to the keynote at nine. After that, I want to attend something on digital transformation."},
-      {"speaker": "A", "line": "There are two sessions on that topic. Which one are you interested in?"},
-      {"speaker": "B", "line": "The one in the afternoon, not the morning one. I have a client call during the morning slot."},
-      {"speaker": "A", "line": "Smart. I'll probably join you for that. I'm also interested in the leadership track."},
-      {"speaker": "B", "line": "That's during the lunch hour, isn't it? You'll need to grab a quick meal before or after."}
+      {
+        "speaker": "A",
+        "line": "I'm planning which sessions to attend at next week's industry conference. Have you decided yet?"
+      },
+      {
+        "speaker": "B",
+        "line": "I'm definitely going to the keynote at nine. After that, I want to attend something on digital transformation."
+      },
+      {
+        "speaker": "A",
+        "line": "There are two sessions on that topic. Which one are you interested in?"
+      },
+      {
+        "speaker": "B",
+        "line": "The one in the afternoon, not the morning one. I have a client call during the morning slot."
+      },
+      {
+        "speaker": "A",
+        "line": "Smart. I'll probably join you for that. I'm also interested in the leadership track."
+      },
+      {
+        "speaker": "B",
+        "line": "That's during the lunch hour, isn't it? You'll need to grab a quick meal before or after."
+      }
     ],
-    "chartData": {"type": "table", "title": "Industry Conference - Day 1 Schedule", "rows": [["Time", "Track A - Main Hall", "Track B - Room 201", "Track C - Room 305"], ["9:00 - 10:30", "Keynote: Future of Work", " — ", " — "], ["10:45 - 12:00", "Digital Marketing Trends", "AI in Supply Chain", "Team Leadership Skills"], ["12:00 - 13:00", "Lunch Break", "Lunch Break", "Lunch Break"], ["13:00 - 14:15", "Cybersecurity Basics", "Digital Transformation Strategy", "Remote Work Best Practices"], ["14:30 - 16:00", "Panel: Industry Outlook", "Data Analytics Workshop", "Emotional Intelligence at Work"]]},
+    "chartData": {
+      "type": "table",
+      "title": "Industry Conference - Day 1 Schedule",
+      "rows": [
+        [
+          "Time",
+          "Track A - Main Hall",
+          "Track B - Room 201",
+          "Track C - Room 305"
+        ],
+        [
+          "9:00 - 10:30",
+          "Keynote: Future of Work",
+          " — ",
+          " — "
+        ],
+        [
+          "10:45 - 12:00",
+          "Digital Marketing Trends",
+          "AI in Supply Chain",
+          "Team Leadership Skills"
+        ],
+        [
+          "12:00 - 13:00",
+          "Lunch Break",
+          "Lunch Break",
+          "Lunch Break"
+        ],
+        [
+          "13:00 - 14:15",
+          "Cybersecurity Basics",
+          "Digital Transformation Strategy",
+          "Remote Work Best Practices"
+        ],
+        [
+          "14:30 - 16:00",
+          "Panel: Industry Outlook",
+          "Data Analytics Workshop",
+          "Emotional Intelligence at Work"
+        ]
+      ]
+    },
     "questions": [
-      {"id": "L3-T730-005-Q1", "question": "Which session does the man most likely plan to attend in the afternoon?", "options": ["Cybersecurity Basics", "Digital Transformation Strategy", "Data Analytics Workshop", "Remote Work Best Practices"], "answer": "Digital Transformation Strategy", "explanation": "B說想參加下午的數位轉型課程而非上午的，對話中A說有兩個相關session，B選擇下午那個。對照chartData，下午13:00-14:15時段中Track B的Digital Transformation Strategy符合此主題。", "requiresChart": true},
-      {"id": "L3-T730-005-Q2", "question": "Why does the man skip the morning digital transformation session?", "options": ["It is fully booked", "He has a client call", "He dislikes the speaker", "He prefers the keynote"], "answer": "He has a client call", "explanation": "B說上午時段有客戶電話要處理。", "requiresChart": false},
-      {"id": "L3-T730-005-Q3", "question": "What does the woman imply about attending the leadership track?", "options": ["She will skip it because it conflicts with lunch", "She will attend but needs to eat quickly", "She thinks it is boring", "She has already attended it before"], "answer": "She will attend but needs to eat quickly", "explanation": "B提醒A領導力課程在午餐時間，A需要快速用餐，暗示A還是會參加但時間緊湊。", "requiresChart": false}
+      {
+        "id": "L3-T730-005-Q1",
+        "question": "Which session does the man most likely plan to attend in the afternoon?",
+        "options": [
+          "Cybersecurity Basics",
+          "Digital Transformation Strategy",
+          "Data Analytics Workshop",
+          "Remote Work Best Practices"
+        ],
+        "answer": "Digital Transformation Strategy",
+        "explanation": "B說想參加下午的數位轉型課程而非上午的，對話中A說有兩個相關session，B選擇下午那個。對照chartData，下午13:00-14:15時段中Track B的Digital Transformation Strategy符合此主題。",
+        "requiresChart": true,
+        "category": "圖表整合"
+      },
+      {
+        "id": "L3-T730-005-Q2",
+        "question": "Why does the man skip the morning digital transformation session?",
+        "options": [
+          "It is fully booked",
+          "He has a client call",
+          "He dislikes the speaker",
+          "He prefers the keynote"
+        ],
+        "answer": "He has a client call",
+        "explanation": "B說上午時段有客戶電話要處理。",
+        "requiresChart": false,
+        "category": "細節"
+      },
+      {
+        "id": "L3-T730-005-Q3",
+        "question": "What does the woman imply about attending the leadership track?",
+        "options": [
+          "She will skip it because it conflicts with lunch",
+          "She will attend but needs to eat quickly",
+          "She thinks it is boring",
+          "She has already attended it before"
+        ],
+        "answer": "She will attend but needs to eat quickly",
+        "explanation": "B提醒A領導力課程在午餐時間，A需要快速用餐，暗示A還是會參加但時間緊湊。",
+        "requiresChart": false,
+        "category": "推論意圖"
+      }
     ]
   },
   {
@@ -103,20 +441,93 @@
     "part": 3,
     "track": "T730",
     "conversation": [
-      {"speaker": "A", "line": "Our office lease expires in three months. Have you spoken with the landlord about renewal?"},
-      {"speaker": "B", "line": "I did. They're proposing a twelve percent increase, citing market rates in this area."},
-      {"speaker": "A", "line": "Twelve percent is steep. Have we looked at alternative spaces?"},
-      {"speaker": "B", "line": "I toured two buildings last week. One is cheaper but farther from the station, the other is comparable but smaller."},
-      {"speaker": "A", "line": "Moving would disrupt operations too. Let's counter with a six percent increase and a three-year term."},
-      {"speaker": "B", "line": "That sounds reasonable. I'll draft a counter-proposal and send it to them this afternoon."},
-      {"speaker": "A", "line": "Good. If they won't go below eight percent, we may have to seriously consider moving."}
+      {
+        "speaker": "A",
+        "line": "Our office lease expires in three months. Have you spoken with the landlord about renewal?"
+      },
+      {
+        "speaker": "B",
+        "line": "I did. They're proposing a twelve percent increase, citing market rates in this area."
+      },
+      {
+        "speaker": "A",
+        "line": "Twelve percent is steep. Have we looked at alternative spaces?"
+      },
+      {
+        "speaker": "B",
+        "line": "I toured two buildings last week. One is cheaper but farther from the station, the other is comparable but smaller."
+      },
+      {
+        "speaker": "A",
+        "line": "Moving would disrupt operations too. Let's counter with a six percent increase and a three-year term."
+      },
+      {
+        "speaker": "B",
+        "line": "That sounds reasonable. I'll draft a counter-proposal and send it to them this afternoon."
+      },
+      {
+        "speaker": "A",
+        "line": "Good. If they won't go below eight percent, we may have to seriously consider moving."
+      }
     ],
     "chartData": null,
     "questions": [
-      {"id": "L3-T730-006-Q1", "question": "What is the landlord's proposal?", "options": ["A six percent rent increase", "A twelve percent rent increase", "A three-year lease extension", "Office renovation"], "answer": "A twelve percent rent increase", "explanation": "B說房東提出漲租12%，理由是該區域的市場行情。", "requiresChart": false},
-      {"id": "L3-T730-006-Q2", "question": "What counter-offer do the speakers plan to make?", "options": ["Six percent increase with a three-year term", "Eight percent increase with a two-year term", "Freeze the rent for one year", "Move to a new building immediately"], "answer": "Six percent increase with a three-year term", "explanation": "A提出的反提案是漲6%並簽三年約。", "requiresChart": false},
-      {"id": "L3-T730-006-Q3", "question": "What is the maximum rent increase the speakers would accept?", "options": ["Six percent", "Eight percent", "Ten percent", "Twelve percent"], "answer": "Eight percent", "explanation": "A說如果房東不接受低於8%的方案，就要認真考慮搬家。", "requiresChart": false},
-      {"id": "L3-T730-006-Q4", "question": "What is one disadvantage of the cheaper building B visited?", "options": ["It is too small", "It is far from the station", "It is under renovation", "The lease is too short"], "answer": "It is far from the station", "explanation": "B說看過的兩棟建築中，較便宜的那棟離車站較遠。", "requiresChart": false}
+      {
+        "id": "L3-T730-006-Q1",
+        "question": "What is the landlord's proposal?",
+        "options": [
+          "A six percent rent increase",
+          "A twelve percent rent increase",
+          "A three-year lease extension",
+          "Office renovation"
+        ],
+        "answer": "A twelve percent rent increase",
+        "explanation": "B說房東提出漲租12%，理由是該區域的市場行情。",
+        "requiresChart": false,
+        "category": "細節"
+      },
+      {
+        "id": "L3-T730-006-Q2",
+        "question": "What counter-offer do the speakers plan to make?",
+        "options": [
+          "Six percent increase with a three-year term",
+          "Eight percent increase with a two-year term",
+          "Freeze the rent for one year",
+          "Move to a new building immediately"
+        ],
+        "answer": "Six percent increase with a three-year term",
+        "explanation": "A提出的反提案是漲6%並簽三年約。",
+        "requiresChart": false,
+        "category": "推論意圖"
+      },
+      {
+        "id": "L3-T730-006-Q3",
+        "question": "What is the maximum rent increase the speakers would accept?",
+        "options": [
+          "Six percent",
+          "Eight percent",
+          "Ten percent",
+          "Twelve percent"
+        ],
+        "answer": "Eight percent",
+        "explanation": "A說如果房東不接受低於8%的方案，就要認真考慮搬家。",
+        "requiresChart": false,
+        "category": "細節"
+      },
+      {
+        "id": "L3-T730-006-Q4",
+        "question": "What is one disadvantage of the cheaper building B visited?",
+        "options": [
+          "It is too small",
+          "It is far from the station",
+          "It is under renovation",
+          "The lease is too short"
+        ],
+        "answer": "It is far from the station",
+        "explanation": "B說看過的兩棟建築中，較便宜的那棟離車站較遠。",
+        "requiresChart": false,
+        "category": "細節"
+      }
     ]
   },
   {
@@ -124,19 +535,79 @@
     "part": 3,
     "track": "T730",
     "conversation": [
-      {"speaker": "A", "line": "The system migration is scheduled for next weekend. Are all the preparations in place?"},
-      {"speaker": "B", "line": "Mostly. The data backup was completed yesterday, and the new servers are configured."},
-      {"speaker": "A", "line": "What about the user acceptance testing?"},
-      {"speaker": "B", "line": "We ran the initial tests, but the accounting module showed some inconsistencies."},
-      {"speaker": "A", "line": "That's concerning. Can we fix it before the migration window?"},
-      {"speaker": "B", "line": "The development team says they need three more days. We might have to push the migration to the following weekend."},
-      {"speaker": "A", "line": "Then let's do that. I'd rather delay than risk data corruption. Inform all department heads."}
+      {
+        "speaker": "A",
+        "line": "The system migration is scheduled for next weekend. Are all the preparations in place?"
+      },
+      {
+        "speaker": "B",
+        "line": "Mostly. The data backup was completed yesterday, and the new servers are configured."
+      },
+      {
+        "speaker": "A",
+        "line": "What about the user acceptance testing?"
+      },
+      {
+        "speaker": "B",
+        "line": "We ran the initial tests, but the accounting module showed some inconsistencies."
+      },
+      {
+        "speaker": "A",
+        "line": "That's concerning. Can we fix it before the migration window?"
+      },
+      {
+        "speaker": "B",
+        "line": "The development team says they need three more days. We might have to push the migration to the following weekend."
+      },
+      {
+        "speaker": "A",
+        "line": "Then let's do that. I'd rather delay than risk data corruption. Inform all department heads."
+      }
     ],
     "chartData": null,
     "questions": [
-      {"id": "L3-T730-007-Q1", "question": "What step has already been completed?", "options": ["User acceptance testing", "Data backup", "Server configuration", "Staff training"], "answer": "Data backup", "explanation": "B說昨天已完成資料備份，新伺服器也已配置好。", "requiresChart": false},
-      {"id": "L3-T730-007-Q2", "question": "What problem was found during testing?", "options": ["The servers crashed", "The backup was corrupted", "The accounting module had errors", "The network was too slow"], "answer": "The accounting module had errors", "explanation": "B說會計模組的測試出現不一致的狀況。", "requiresChart": false},
-      {"id": "L3-T730-007-Q3", "question": "What does the woman decide to do?", "options": ["Proceed with the migration as planned", "Cancel the migration entirely", "Postpone the migration by one week", "Switch to a different software vendor"], "answer": "Postpone the migration by one week", "explanation": "A寧可延遲也不願冒資料損壞的風險，決定將遷移推遲到下個週末。", "requiresChart": false}
+      {
+        "id": "L3-T730-007-Q1",
+        "question": "What step has already been completed?",
+        "options": [
+          "User acceptance testing",
+          "Data backup",
+          "Server configuration",
+          "Staff training"
+        ],
+        "answer": "Data backup",
+        "explanation": "B說昨天已完成資料備份，新伺服器也已配置好。",
+        "requiresChart": false,
+        "category": "細節"
+      },
+      {
+        "id": "L3-T730-007-Q2",
+        "question": "What problem was found during testing?",
+        "options": [
+          "The servers crashed",
+          "The backup was corrupted",
+          "The accounting module had errors",
+          "The network was too slow"
+        ],
+        "answer": "The accounting module had errors",
+        "explanation": "B說會計模組的測試出現不一致的狀況。",
+        "requiresChart": false,
+        "category": "細節"
+      },
+      {
+        "id": "L3-T730-007-Q3",
+        "question": "What does the woman decide to do?",
+        "options": [
+          "Proceed with the migration as planned",
+          "Cancel the migration entirely",
+          "Postpone the migration by one week",
+          "Switch to a different software vendor"
+        ],
+        "answer": "Postpone the migration by one week",
+        "explanation": "A寧可延遲也不願冒資料損壞的風險，決定將遷移推遲到下個週末。",
+        "requiresChart": false,
+        "category": "細節"
+      }
     ]
   },
   {
@@ -144,19 +615,79 @@
     "part": 3,
     "track": "T730",
     "conversation": [
-      {"speaker": "A", "line": "A customer emailed about a defective product they received last week. They're quite upset."},
-      {"speaker": "B", "line": "Have they sent photos of the damage?"},
-      {"speaker": "A", "line": "Yes, and the packaging was intact, so it seems to be a manufacturing issue."},
-      {"speaker": "B", "line": "That's the third complaint about the same batch. We should issue a recall before this escalates."},
-      {"speaker": "A", "line": "I agree. But that's going to affect our quarterly numbers significantly."},
-      {"speaker": "B", "line": "A recall now is better than a lawsuit later. Let me draft the notice for your approval."},
-      {"speaker": "A", "line": "Alright. And make sure we offer affected customers a full refund plus a discount on future purchases."}
+      {
+        "speaker": "A",
+        "line": "A customer emailed about a defective product they received last week. They're quite upset."
+      },
+      {
+        "speaker": "B",
+        "line": "Have they sent photos of the damage?"
+      },
+      {
+        "speaker": "A",
+        "line": "Yes, and the packaging was intact, so it seems to be a manufacturing issue."
+      },
+      {
+        "speaker": "B",
+        "line": "That's the third complaint about the same batch. We should issue a recall before this escalates."
+      },
+      {
+        "speaker": "A",
+        "line": "I agree. But that's going to affect our quarterly numbers significantly."
+      },
+      {
+        "speaker": "B",
+        "line": "A recall now is better than a lawsuit later. Let me draft the notice for your approval."
+      },
+      {
+        "speaker": "A",
+        "line": "Alright. And make sure we offer affected customers a full refund plus a discount on future purchases."
+      }
     ],
     "chartData": null,
     "questions": [
-      {"id": "L3-T730-008-Q1", "question": "What is the likely cause of the product defect?", "options": ["Shipping damage", "Manufacturing issue", "Customer misuse", "Packaging failure"], "answer": "Manufacturing issue", "explanation": "A說包裝完好，因此判斷是製造端的問題。", "requiresChart": false},
-      {"id": "L3-T730-008-Q2", "question": "What does the man suggest doing?", "options": ["Ignore the complaints", "Issue a product recall", "Contact a lawyer immediately", "Replace the defective products only"], "answer": "Issue a product recall", "explanation": "B說與其事態擴大，不如主動召回，並說召回總比日後被告好。", "requiresChart": false},
-      {"id": "L3-T730-008-Q3", "question": "How will the company compensate affected customers?", "options": ["Replacement product only", "Partial refund", "Full refund and future discount", "Store credit only"], "answer": "Full refund and future discount", "explanation": "A說要提供全額退款加上未來購買的折扣。", "requiresChart": false}
+      {
+        "id": "L3-T730-008-Q1",
+        "question": "What is the likely cause of the product defect?",
+        "options": [
+          "Shipping damage",
+          "Manufacturing issue",
+          "Customer misuse",
+          "Packaging failure"
+        ],
+        "answer": "Manufacturing issue",
+        "explanation": "A說包裝完好，因此判斷是製造端的問題。",
+        "requiresChart": false,
+        "category": "細節"
+      },
+      {
+        "id": "L3-T730-008-Q2",
+        "question": "What does the man suggest doing?",
+        "options": [
+          "Ignore the complaints",
+          "Issue a product recall",
+          "Contact a lawyer immediately",
+          "Replace the defective products only"
+        ],
+        "answer": "Issue a product recall",
+        "explanation": "B說與其事態擴大，不如主動召回，並說召回總比日後被告好。",
+        "requiresChart": false,
+        "category": "推論意圖"
+      },
+      {
+        "id": "L3-T730-008-Q3",
+        "question": "How will the company compensate affected customers?",
+        "options": [
+          "Replacement product only",
+          "Partial refund",
+          "Full refund and future discount",
+          "Store credit only"
+        ],
+        "answer": "Full refund and future discount",
+        "explanation": "A說要提供全額退款加上未來購買的折扣。",
+        "requiresChart": false,
+        "category": "細節"
+      }
     ]
   },
   {
@@ -164,18 +695,75 @@
     "part": 3,
     "track": "T730",
     "conversation": [
-      {"speaker": "A", "line": "Did you hear? The CEO just announced that we're acquiring Horizon Tech."},
-      {"speaker": "B", "line": "I saw the internal memo. It's supposed to close by the end of the quarter."},
-      {"speaker": "A", "line": "I'm a bit nervous, to be honest. Mergers usually mean restructuring."},
-      {"speaker": "B", "line": "The memo specifically mentioned that both companies' R&D teams will be kept intact."},
-      {"speaker": "A", "line": "That's reassuring. But what about the administrative staff? There's bound to be overlap."},
-      {"speaker": "B", "line": "They haven't addressed that yet. I suppose we'll find out at the town hall meeting next week."}
+      {
+        "speaker": "A",
+        "line": "Did you hear? The CEO just announced that we're acquiring Horizon Tech."
+      },
+      {
+        "speaker": "B",
+        "line": "I saw the internal memo. It's supposed to close by the end of the quarter."
+      },
+      {
+        "speaker": "A",
+        "line": "I'm a bit nervous, to be honest. Mergers usually mean restructuring."
+      },
+      {
+        "speaker": "B",
+        "line": "The memo specifically mentioned that both companies' R&D teams will be kept intact."
+      },
+      {
+        "speaker": "A",
+        "line": "That's reassuring. But what about the administrative staff? There's bound to be overlap."
+      },
+      {
+        "speaker": "B",
+        "line": "They haven't addressed that yet. I suppose we'll find out at the town hall meeting next week."
+      }
     ],
     "chartData": null,
     "questions": [
-      {"id": "L3-T730-009-Q1", "question": "What is the company planning to do?", "options": ["Launch a new product", "Acquire another company", "Close a department", "Move to a new office"], "answer": "Acquire another company", "explanation": "A說執行長宣布要收購Horizon Tech。", "requiresChart": false},
-      {"id": "L3-T730-009-Q2", "question": "Which department is confirmed safe from restructuring?", "options": ["Administration", "Marketing", "Sales", "Research and Development"], "answer": "Research and Development", "explanation": "B說備忘錄明確表示雙方的研發團隊都會保留。", "requiresChart": false},
-      {"id": "L3-T730-009-Q3", "question": "How does the woman feel about the acquisition?", "options": ["Excited", "Nervous about restructuring", "Indifferent", "Angry about the decision"], "answer": "Nervous about restructuring", "explanation": "A說有點緊張，因為併購通常意味著組織重整。", "requiresChart": false}
+      {
+        "id": "L3-T730-009-Q1",
+        "question": "What is the company planning to do?",
+        "options": [
+          "Launch a new product",
+          "Acquire another company",
+          "Close a department",
+          "Move to a new office"
+        ],
+        "answer": "Acquire another company",
+        "explanation": "A說執行長宣布要收購Horizon Tech。",
+        "requiresChart": false,
+        "category": "細節"
+      },
+      {
+        "id": "L3-T730-009-Q2",
+        "question": "Which department is confirmed safe from restructuring?",
+        "options": [
+          "Administration",
+          "Marketing",
+          "Sales",
+          "Research and Development"
+        ],
+        "answer": "Research and Development",
+        "explanation": "B說備忘錄明確表示雙方的研發團隊都會保留。",
+        "requiresChart": false,
+        "category": "細節"
+      },
+      {
+        "id": "L3-T730-009-Q3",
+        "question": "How does the woman feel about the acquisition?",
+        "options": [
+          "Excited",
+          "Nervous about restructuring",
+          "Indifferent",
+          "Angry about the decision"
+        ],
+        "answer": "Nervous about restructuring",
+        "explanation": "A說有點緊張，因為併購通常意味著組織重整。",
+        "requiresChart": false,
+        "category": "細節"
+      }
     ]
   },
   {
@@ -183,19 +771,114 @@
     "part": 3,
     "track": "T730",
     "conversation": [
-      {"speaker": "A", "line": "Sarah from the evening shift just called in sick. We need someone to cover her station."},
-      {"speaker": "B", "line": "Let me check the schedule. She was assigned to the front desk tonight."},
-      {"speaker": "A", "line": "Who else is working tonight who could fill in?"},
-      {"speaker": "B", "line": "David is on inventory, but he's trained for front desk. The problem is, who covers inventory then?"},
-      {"speaker": "A", "line": "Is there anyone from the afternoon shift who could stay late?"},
-      {"speaker": "B", "line": "Lisa finishes at six. She might be willing to do an extra two hours if we ask nicely."},
-      {"speaker": "A", "line": "Call her. If she says yes, David can move to front desk and Lisa can handle the remaining inventory count."}
+      {
+        "speaker": "A",
+        "line": "Sarah from the evening shift just called in sick. We need someone to cover her station."
+      },
+      {
+        "speaker": "B",
+        "line": "Let me check the schedule. She was assigned to the front desk tonight."
+      },
+      {
+        "speaker": "A",
+        "line": "Who else is working tonight who could fill in?"
+      },
+      {
+        "speaker": "B",
+        "line": "David is on inventory, but he's trained for front desk. The problem is, who covers inventory then?"
+      },
+      {
+        "speaker": "A",
+        "line": "Is there anyone from the afternoon shift who could stay late?"
+      },
+      {
+        "speaker": "B",
+        "line": "Lisa finishes at six. She might be willing to do an extra two hours if we ask nicely."
+      },
+      {
+        "speaker": "A",
+        "line": "Call her. If she says yes, David can move to front desk and Lisa can handle the remaining inventory count."
+      }
     ],
-    "chartData": {"type": "table", "title": "Wednesday Shift Schedule", "rows": [["Employee", "Shift", "Time", "Station"], ["David Chen", "Evening", "4 PM - 10 PM", "Inventory"], ["Sarah Kim", "Evening", "4 PM - 10 PM", "Front Desk"], ["Lisa Park", "Afternoon", "12 PM - 6 PM", "Customer Support"], ["Mark Wu", "Evening", "4 PM - 10 PM", "Shipping"]]},
+    "chartData": {
+      "type": "table",
+      "title": "Wednesday Shift Schedule",
+      "rows": [
+        [
+          "Employee",
+          "Shift",
+          "Time",
+          "Station"
+        ],
+        [
+          "David Chen",
+          "Evening",
+          "4 PM - 10 PM",
+          "Inventory"
+        ],
+        [
+          "Sarah Kim",
+          "Evening",
+          "4 PM - 10 PM",
+          "Front Desk"
+        ],
+        [
+          "Lisa Park",
+          "Afternoon",
+          "12 PM - 6 PM",
+          "Customer Support"
+        ],
+        [
+          "Mark Wu",
+          "Evening",
+          "4 PM - 10 PM",
+          "Shipping"
+        ]
+      ]
+    },
     "questions": [
-      {"id": "L3-T730-010-Q1", "question": "Who is originally scheduled to work at the front desk tonight?", "options": ["David Chen", "Sarah Kim", "Lisa Park", "Mark Wu"], "answer": "Sarah Kim", "explanation": "對話中B確認Sarah被安排在前台，對照chartData中Sarah Kim的Station確實是Front Desk。", "requiresChart": true},
-      {"id": "L3-T730-010-Q2", "question": "Why can David not simply move to the front desk?", "options": ["He is not trained for it", "No one would cover inventory", "He is also sick", "He finishes at 6 PM"], "answer": "No one would cover inventory", "explanation": "B說David受過前台訓練但能調動，問題是這樣就沒人做庫存盤點了。", "requiresChart": false},
-      {"id": "L3-T730-010-Q3", "question": "What is the proposed solution to the staffing problem?", "options": ["Ask Mark to do double duty", "Close the front desk early", "Have Lisa stay late and David move to front desk", "Call a temporary worker"], "answer": "Have Lisa stay late and David move to front desk", "explanation": "A的計畫是讓Lisa加班兩小時做庫存，David調去前台代Sarah的班。", "requiresChart": false}
+      {
+        "id": "L3-T730-010-Q1",
+        "question": "Who is originally scheduled to work at the front desk tonight?",
+        "options": [
+          "David Chen",
+          "Sarah Kim",
+          "Lisa Park",
+          "Mark Wu"
+        ],
+        "answer": "Sarah Kim",
+        "explanation": "對話中B確認Sarah被安排在前台，對照chartData中Sarah Kim的Station確實是Front Desk。",
+        "requiresChart": true,
+        "category": "圖表整合"
+      },
+      {
+        "id": "L3-T730-010-Q2",
+        "question": "Why can David not simply move to the front desk?",
+        "options": [
+          "He is not trained for it",
+          "No one would cover inventory",
+          "He is also sick",
+          "He finishes at 6 PM"
+        ],
+        "answer": "No one would cover inventory",
+        "explanation": "B說David受過前台訓練但能調動，問題是這樣就沒人做庫存盤點了。",
+        "requiresChart": false,
+        "category": "推論意圖"
+      },
+      {
+        "id": "L3-T730-010-Q3",
+        "question": "What is the proposed solution to the staffing problem?",
+        "options": [
+          "Ask Mark to do double duty",
+          "Close the front desk early",
+          "Have Lisa stay late and David move to front desk",
+          "Call a temporary worker"
+        ],
+        "answer": "Have Lisa stay late and David move to front desk",
+        "explanation": "A的計畫是讓Lisa加班兩小時做庫存，David調去前台代Sarah的班。",
+        "requiresChart": false,
+        "category": "推論意圖"
+      }
     ]
   },
   {
@@ -203,19 +886,79 @@
     "part": 3,
     "track": "T730",
     "conversation": [
-      {"speaker": "A", "line": "I wanted to discuss my compensation. I've been with the company for three years now."},
-      {"speaker": "B", "line": "Your performance this year has been strong, especially on the Parker account."},
-      {"speaker": "A", "line": "Thank you. I was hoping for a salary adjustment that reflects my current responsibilities."},
-      {"speaker": "B", "line": "I understand. The annual review cycle is in two months, but I can put in a special request."},
-      {"speaker": "A", "line": "That would mean a lot. I've received an offer from another firm, but I'd prefer to stay here."},
-      {"speaker": "B", "line": "I see. Let me talk to HR tomorrow. I can't make promises, but I'll advocate for you."},
-      {"speaker": "A", "line": "I appreciate that. I'll wait to hear back before making any decisions."}
+      {
+        "speaker": "A",
+        "line": "I wanted to discuss my compensation. I've been with the company for three years now."
+      },
+      {
+        "speaker": "B",
+        "line": "Your performance this year has been strong, especially on the Parker account."
+      },
+      {
+        "speaker": "A",
+        "line": "Thank you. I was hoping for a salary adjustment that reflects my current responsibilities."
+      },
+      {
+        "speaker": "B",
+        "line": "I understand. The annual review cycle is in two months, but I can put in a special request."
+      },
+      {
+        "speaker": "A",
+        "line": "That would mean a lot. I've received an offer from another firm, but I'd prefer to stay here."
+      },
+      {
+        "speaker": "B",
+        "line": "I see. Let me talk to HR tomorrow. I can't make promises, but I'll advocate for you."
+      },
+      {
+        "speaker": "A",
+        "line": "I appreciate that. I'll wait to hear back before making any decisions."
+      }
     ],
     "chartData": null,
     "questions": [
-      {"id": "L3-T730-011-Q1", "question": "What is the main topic of the conversation?", "options": ["A project deadline", "A salary increase", "A job offer", "A vacation request"], "answer": "A salary increase", "explanation": "A希望討論薪資調整以反映目前的工作職責。", "requiresChart": false},
-      {"id": "L3-T730-011-Q2", "question": "What does the man imply by mentioning another job offer?", "options": ["He is definitely leaving", "He wants to negotiate better terms", "He is unhappy with the work", "He is asking for a reference letter"], "answer": "He wants to negotiate better terms", "explanation": "A說有別家公司的offer但寧願留下來，這是一種委婉的談判策略。", "requiresChart": false},
-      {"id": "L3-T730-011-Q3", "question": "What will the woman do next?", "options": ["Grant the raise immediately", "Schedule the annual review", "Talk to HR on the man's behalf", "Help the man write a resignation letter"], "answer": "Talk to HR on the man's behalf", "explanation": "B說明天會跟HR談，會為A爭取。", "requiresChart": false}
+      {
+        "id": "L3-T730-011-Q1",
+        "question": "What is the main topic of the conversation?",
+        "options": [
+          "A project deadline",
+          "A salary increase",
+          "A job offer",
+          "A vacation request"
+        ],
+        "answer": "A salary increase",
+        "explanation": "A希望討論薪資調整以反映目前的工作職責。",
+        "requiresChart": false,
+        "category": "主旨"
+      },
+      {
+        "id": "L3-T730-011-Q2",
+        "question": "What does the man imply by mentioning another job offer?",
+        "options": [
+          "He is definitely leaving",
+          "He wants to negotiate better terms",
+          "He is unhappy with the work",
+          "He is asking for a reference letter"
+        ],
+        "answer": "He wants to negotiate better terms",
+        "explanation": "A說有別家公司的offer但寧願留下來，這是一種委婉的談判策略。",
+        "requiresChart": false,
+        "category": "推論意圖"
+      },
+      {
+        "id": "L3-T730-011-Q3",
+        "question": "What will the woman do next?",
+        "options": [
+          "Grant the raise immediately",
+          "Schedule the annual review",
+          "Talk to HR on the man's behalf",
+          "Help the man write a resignation letter"
+        ],
+        "answer": "Talk to HR on the man's behalf",
+        "explanation": "B說明天會跟HR談，會為A爭取。",
+        "requiresChart": false,
+        "category": "推論意圖"
+      }
     ]
   },
   {
@@ -223,19 +966,79 @@
     "part": 3,
     "track": "T730",
     "conversation": [
-      {"speaker": "A", "line": "Management is considering you for the new branch manager position in Kuala Lumpur."},
-      {"speaker": "B", "line": "That's quite an opportunity. How long is the assignment?"},
-      {"speaker": "A", "line": "It's a two-year commitment, with the option to extend. The package includes housing and relocation."},
-      {"speaker": "B", "line": "I'm honored, but I have young children. Moving overseas for two years is a big decision."},
-      {"speaker": "A", "line": "We could structure it as a rotation. Your family could stay here, and you'd fly back every six weeks."},
-      {"speaker": "B", "line": "That might work. Can I have a few days to discuss it with my family?"},
-      {"speaker": "A", "line": "Of course. Take the rest of the week. We need an answer by next Monday though."}
+      {
+        "speaker": "A",
+        "line": "Management is considering you for the new branch manager position in Kuala Lumpur."
+      },
+      {
+        "speaker": "B",
+        "line": "That's quite an opportunity. How long is the assignment?"
+      },
+      {
+        "speaker": "A",
+        "line": "It's a two-year commitment, with the option to extend. The package includes housing and relocation."
+      },
+      {
+        "speaker": "B",
+        "line": "I'm honored, but I have young children. Moving overseas for two years is a big decision."
+      },
+      {
+        "speaker": "A",
+        "line": "We could structure it as a rotation. Your family could stay here, and you'd fly back every six weeks."
+      },
+      {
+        "speaker": "B",
+        "line": "That might work. Can I have a few days to discuss it with my family?"
+      },
+      {
+        "speaker": "A",
+        "line": "Of course. Take the rest of the week. We need an answer by next Monday though."
+      }
     ],
     "chartData": null,
     "questions": [
-      {"id": "L3-T730-012-Q1", "question": "What position is the man being considered for?", "options": ["Senior manager at headquarters", "Branch manager in Kuala Lumpur", "Regional sales director", "Project lead for a new product"], "answer": "Branch manager in Kuala Lumpur", "explanation": "A說管理層考慮派B擔任吉隆坡分公司經理。", "requiresChart": false},
-      {"id": "L3-T730-012-Q2", "question": "What is the man's main concern about the assignment?", "options": ["The salary is too low", "He lacks the qualifications", "He has young children at home", "The location is dangerous"], "answer": "He has young children at home", "explanation": "B說家中有年幼的孩子，舉家搬遷海外兩年是很大的決定。", "requiresChart": false},
-      {"id": "L3-T730-012-Q3", "question": "What alternative arrangement does the woman suggest?", "options": ["A shorter three-month assignment", "A rotation with visits home every six weeks", "Remote work from the current office", "Bringing the family at company expense"], "answer": "A rotation with visits home every six weeks", "explanation": "A提議輪調模式，家人留在原地，B每六週回來一次。", "requiresChart": false}
+      {
+        "id": "L3-T730-012-Q1",
+        "question": "What position is the man being considered for?",
+        "options": [
+          "Senior manager at headquarters",
+          "Branch manager in Kuala Lumpur",
+          "Regional sales director",
+          "Project lead for a new product"
+        ],
+        "answer": "Branch manager in Kuala Lumpur",
+        "explanation": "A說管理層考慮派B擔任吉隆坡分公司經理。",
+        "requiresChart": false,
+        "category": "細節"
+      },
+      {
+        "id": "L3-T730-012-Q2",
+        "question": "What is the man's main concern about the assignment?",
+        "options": [
+          "The salary is too low",
+          "He lacks the qualifications",
+          "He has young children at home",
+          "The location is dangerous"
+        ],
+        "answer": "He has young children at home",
+        "explanation": "B說家中有年幼的孩子，舉家搬遷海外兩年是很大的決定。",
+        "requiresChart": false,
+        "category": "細節"
+      },
+      {
+        "id": "L3-T730-012-Q3",
+        "question": "What alternative arrangement does the woman suggest?",
+        "options": [
+          "A shorter three-month assignment",
+          "A rotation with visits home every six weeks",
+          "Remote work from the current office",
+          "Bringing the family at company expense"
+        ],
+        "answer": "A rotation with visits home every six weeks",
+        "explanation": "A提議輪調模式，家人留在原地，B每六週回來一次。",
+        "requiresChart": false,
+        "category": "推論意圖"
+      }
     ]
   },
   {
@@ -243,20 +1046,93 @@
     "part": 3,
     "track": "T730",
     "conversation": [
-      {"speaker": "A", "line": "The external auditors are coming next Monday. Is your department ready?"},
-      {"speaker": "B", "line": "We've been preparing for weeks. All the financial records from the past year are organized."},
-      {"speaker": "A", "line": "What about the procurement files? They flagged those last year."},
-      {"speaker": "B", "line": "I had my team cross-check every purchase order against the invoices. No discrepancies so far."},
-      {"speaker": "A", "line": "Good. They'll also want to interview some department heads. Have you briefed your staff?"},
-      {"speaker": "B", "line": "Yes, we ran a mock interview session last Friday. Everyone knows what to expect."},
-      {"speaker": "A", "line": "Excellent. Let's do a final walkthrough on Friday to make sure nothing is missed."}
+      {
+        "speaker": "A",
+        "line": "The external auditors are coming next Monday. Is your department ready?"
+      },
+      {
+        "speaker": "B",
+        "line": "We've been preparing for weeks. All the financial records from the past year are organized."
+      },
+      {
+        "speaker": "A",
+        "line": "What about the procurement files? They flagged those last year."
+      },
+      {
+        "speaker": "B",
+        "line": "I had my team cross-check every purchase order against the invoices. No discrepancies so far."
+      },
+      {
+        "speaker": "A",
+        "line": "Good. They'll also want to interview some department heads. Have you briefed your staff?"
+      },
+      {
+        "speaker": "B",
+        "line": "Yes, we ran a mock interview session last Friday. Everyone knows what to expect."
+      },
+      {
+        "speaker": "A",
+        "line": "Excellent. Let's do a final walkthrough on Friday to make sure nothing is missed."
+      }
     ],
     "chartData": null,
     "questions": [
-      {"id": "L3-T730-013-Q1", "question": "When will the auditors arrive?", "options": ["This Friday", "Next Monday", "Next Wednesday", "In two weeks"], "answer": "Next Monday", "explanation": "A說外部審計人員下週一到。", "requiresChart": false},
-      {"id": "L3-T730-013-Q2", "question": "What issue did the auditors flag last year?", "options": ["Missing financial records", "Procurement files", "Staff interviews", "Tax documentation"], "answer": "Procurement files", "explanation": "A提醒B去年審計人員標註了採購文件的問題。", "requiresChart": false},
-      {"id": "L3-T730-013-Q3", "question": "How did the man prepare his staff for auditor interviews?", "options": ["Provided written guidelines", "Conducted a mock interview session", "Hired an external consultant", "Asked them to review old reports"], "answer": "Conducted a mock interview session", "explanation": "B說上週五做了模擬面談，讓團隊知道會遇到什麼狀況。", "requiresChart": false},
-      {"id": "L3-T730-013-Q4", "question": "What will the speakers do on Friday?", "options": ["Meet with the auditors", "Submit the financial records", "Do a final preparation walkthrough", "Take the day off"], "answer": "Do a final preparation walkthrough", "explanation": "A建議週五做最終檢查以確保沒有遺漏。", "requiresChart": false}
+      {
+        "id": "L3-T730-013-Q1",
+        "question": "When will the auditors arrive?",
+        "options": [
+          "This Friday",
+          "Next Monday",
+          "Next Wednesday",
+          "In two weeks"
+        ],
+        "answer": "Next Monday",
+        "explanation": "A說外部審計人員下週一到。",
+        "requiresChart": false,
+        "category": "細節"
+      },
+      {
+        "id": "L3-T730-013-Q2",
+        "question": "What issue did the auditors flag last year?",
+        "options": [
+          "Missing financial records",
+          "Procurement files",
+          "Staff interviews",
+          "Tax documentation"
+        ],
+        "answer": "Procurement files",
+        "explanation": "A提醒B去年審計人員標註了採購文件的問題。",
+        "requiresChart": false,
+        "category": "細節"
+      },
+      {
+        "id": "L3-T730-013-Q3",
+        "question": "How did the man prepare his staff for auditor interviews?",
+        "options": [
+          "Provided written guidelines",
+          "Conducted a mock interview session",
+          "Hired an external consultant",
+          "Asked them to review old reports"
+        ],
+        "answer": "Conducted a mock interview session",
+        "explanation": "B說上週五做了模擬面談，讓團隊知道會遇到什麼狀況。",
+        "requiresChart": false,
+        "category": "細節"
+      },
+      {
+        "id": "L3-T730-013-Q4",
+        "question": "What will the speakers do on Friday?",
+        "options": [
+          "Meet with the auditors",
+          "Submit the financial records",
+          "Do a final preparation walkthrough",
+          "Take the day off"
+        ],
+        "answer": "Do a final preparation walkthrough",
+        "explanation": "A建議週五做最終檢查以確保沒有遺漏。",
+        "requiresChart": false,
+        "category": "推論意圖"
+      }
     ]
   },
   {
@@ -264,19 +1140,79 @@
     "part": 3,
     "track": "T730",
     "conversation": [
-      {"speaker": "A", "line": "GreenLeaf Solutions wants to partner with us on the sustainability project."},
-      {"speaker": "B", "line": "I've heard of them. They have a strong reputation in renewable energy consulting."},
-      {"speaker": "A", "line": "Exactly. They'd bring the technical expertise we're lacking on the solar component."},
-      {"speaker": "B", "line": "What are they asking for in return?"},
-      {"speaker": "A", "line": "A thirty percent share of the project revenue and co-branding on all deliverables."},
-      {"speaker": "B", "line": "Thirty percent seems high for a consulting role. Can we negotiate that down to twenty?"},
-      {"speaker": "A", "line": "I think we can. They seemed flexible during our initial conversation. I'll set up a follow-up call."}
+      {
+        "speaker": "A",
+        "line": "GreenLeaf Solutions wants to partner with us on the sustainability project."
+      },
+      {
+        "speaker": "B",
+        "line": "I've heard of them. They have a strong reputation in renewable energy consulting."
+      },
+      {
+        "speaker": "A",
+        "line": "Exactly. They'd bring the technical expertise we're lacking on the solar component."
+      },
+      {
+        "speaker": "B",
+        "line": "What are they asking for in return?"
+      },
+      {
+        "speaker": "A",
+        "line": "A thirty percent share of the project revenue and co-branding on all deliverables."
+      },
+      {
+        "speaker": "B",
+        "line": "Thirty percent seems high for a consulting role. Can we negotiate that down to twenty?"
+      },
+      {
+        "speaker": "A",
+        "line": "I think we can. They seemed flexible during our initial conversation. I'll set up a follow-up call."
+      }
     ],
     "chartData": null,
     "questions": [
-      {"id": "L3-T730-014-Q1", "question": "What does GreenLeaf Solutions specialize in?", "options": ["Marketing", "Renewable energy consulting", "Software development", "Financial services"], "answer": "Renewable energy consulting", "explanation": "B說GreenLeaf在再生能源顧問領域有很強的口碑。", "requiresChart": false},
-      {"id": "L3-T730-014-Q2", "question": "What gap would GreenLeaf fill in the project?", "options": ["Marketing strategy", "Financial analysis", "Solar technical expertise", "Project management"], "answer": "Solar technical expertise", "explanation": "A說GreenLeaf能提供公司目前欠缺的太陽能技術專業。", "requiresChart": false},
-      {"id": "L3-T730-014-Q3", "question": "What does the man think about GreenLeaf's proposed revenue share?", "options": ["It is too low", "It is generous", "It is too high", "It is standard"], "answer": "It is too high", "explanation": "B認為顧問角色要30%太高了，建議談到20%。", "requiresChart": false}
+      {
+        "id": "L3-T730-014-Q1",
+        "question": "What does GreenLeaf Solutions specialize in?",
+        "options": [
+          "Marketing",
+          "Renewable energy consulting",
+          "Software development",
+          "Financial services"
+        ],
+        "answer": "Renewable energy consulting",
+        "explanation": "B說GreenLeaf在再生能源顧問領域有很強的口碑。",
+        "requiresChart": false,
+        "category": "細節"
+      },
+      {
+        "id": "L3-T730-014-Q2",
+        "question": "What gap would GreenLeaf fill in the project?",
+        "options": [
+          "Marketing strategy",
+          "Financial analysis",
+          "Solar technical expertise",
+          "Project management"
+        ],
+        "answer": "Solar technical expertise",
+        "explanation": "A說GreenLeaf能提供公司目前欠缺的太陽能技術專業。",
+        "requiresChart": false,
+        "category": "細節"
+      },
+      {
+        "id": "L3-T730-014-Q3",
+        "question": "What does the man think about GreenLeaf's proposed revenue share?",
+        "options": [
+          "It is too low",
+          "It is generous",
+          "It is too high",
+          "It is standard"
+        ],
+        "answer": "It is too high",
+        "explanation": "B認為顧問角色要30%太高了，建議談到20%。",
+        "requiresChart": false,
+        "category": "細節"
+      }
     ]
   },
   {
@@ -284,18 +1220,116 @@
     "part": 3,
     "track": "T730",
     "conversation": [
-      {"speaker": "A", "line": "Excuse me, I have a meeting with the legal department. Which floor are they on?"},
-      {"speaker": "B", "line": "Let me look it up. Legal moved recently. They used to be on the fourth floor."},
-      {"speaker": "A", "line": "Yes, I went to the fourth floor but the nameplate was gone."},
-      {"speaker": "B", "line": "That's because they've relocated. They're now one floor below the executive suite."},
-      {"speaker": "A", "line": "And the executive suite is on the top floor, right?"},
-      {"speaker": "B", "line": "Correct. So you'll want to take the elevator to the seventh floor. The legal department is right across from the elevator."}
+      {
+        "speaker": "A",
+        "line": "Excuse me, I have a meeting with the legal department. Which floor are they on?"
+      },
+      {
+        "speaker": "B",
+        "line": "Let me look it up. Legal moved recently. They used to be on the fourth floor."
+      },
+      {
+        "speaker": "A",
+        "line": "Yes, I went to the fourth floor but the nameplate was gone."
+      },
+      {
+        "speaker": "B",
+        "line": "That's because they've relocated. They're now one floor below the executive suite."
+      },
+      {
+        "speaker": "A",
+        "line": "And the executive suite is on the top floor, right?"
+      },
+      {
+        "speaker": "B",
+        "line": "Correct. So you'll want to take the elevator to the seventh floor. The legal department is right across from the elevator."
+      }
     ],
-    "chartData": {"type": "table", "title": "Office Building Floor Directory", "rows": [["Floor", "Department / Tenant"], ["8F", "Executive Suite & Boardroom"], ["7F", "Legal Department & Compliance"], ["6F", "Information Technology"], ["5F", "Marketing & Public Relations"], ["4F", "Human Resources"], ["3F", "Finance & Accounting"], ["2F", "Customer Support"], ["1F", "Reception & Lobby"]]},
+    "chartData": {
+      "type": "table",
+      "title": "Office Building Floor Directory",
+      "rows": [
+        [
+          "Floor",
+          "Department / Tenant"
+        ],
+        [
+          "8F",
+          "Executive Suite & Boardroom"
+        ],
+        [
+          "7F",
+          "Legal Department & Compliance"
+        ],
+        [
+          "6F",
+          "Information Technology"
+        ],
+        [
+          "5F",
+          "Marketing & Public Relations"
+        ],
+        [
+          "4F",
+          "Human Resources"
+        ],
+        [
+          "3F",
+          "Finance & Accounting"
+        ],
+        [
+          "2F",
+          "Customer Support"
+        ],
+        [
+          "1F",
+          "Reception & Lobby"
+        ]
+      ]
+    },
     "questions": [
-      {"id": "L3-T730-015-Q1", "question": "On which floor is the legal department now located?", "options": ["4F", "6F", "7F", "8F"], "answer": "7F", "explanation": "對話中B說法務部搬到執行辦公室樓下一層；A確認執行辦公室在頂樓。對照chartData，8F為Executive Suite，其下一層7F為Legal Department & Compliance，必須同時參考對話線索與chartData才能確認。", "requiresChart": true},
-      {"id": "L3-T730-015-Q2", "question": "Which department is now on the fourth floor?", "options": ["Legal Department", "Information Technology", "Marketing", "Human Resources"], "answer": "Human Resources", "explanation": "A說四樓名牌已不見，代表法務部不再位於該處。對照chartData，4F為Human Resources。", "requiresChart": true},
-      {"id": "L3-T730-015-Q3", "question": "How many floors does the building have according to the directory?", "options": ["Six", "Seven", "Eight", "Nine"], "answer": "Eight", "explanation": "chartData列出1F到8F共八層樓，A也說頂樓是執行辦公室對應8F。", "requiresChart": true}
+      {
+        "id": "L3-T730-015-Q1",
+        "question": "On which floor is the legal department now located?",
+        "options": [
+          "4F",
+          "6F",
+          "7F",
+          "8F"
+        ],
+        "answer": "7F",
+        "explanation": "對話中B說法務部搬到執行辦公室樓下一層；A確認執行辦公室在頂樓。對照chartData，8F為Executive Suite，其下一層7F為Legal Department & Compliance，必須同時參考對話線索與chartData才能確認。",
+        "requiresChart": true,
+        "category": "圖表整合"
+      },
+      {
+        "id": "L3-T730-015-Q2",
+        "question": "Which department is now on the fourth floor?",
+        "options": [
+          "Legal Department",
+          "Information Technology",
+          "Marketing",
+          "Human Resources"
+        ],
+        "answer": "Human Resources",
+        "explanation": "A說四樓名牌已不見，代表法務部不再位於該處。對照chartData，4F為Human Resources。",
+        "requiresChart": true,
+        "category": "圖表整合"
+      },
+      {
+        "id": "L3-T730-015-Q3",
+        "question": "How many floors does the building have according to the directory?",
+        "options": [
+          "Six",
+          "Seven",
+          "Eight",
+          "Nine"
+        ],
+        "answer": "Eight",
+        "explanation": "chartData列出1F到8F共八層樓，A也說頂樓是執行辦公室對應8F。",
+        "requiresChart": true,
+        "category": "圖表整合"
+      }
     ]
   }
 ]

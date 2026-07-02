@@ -1,0 +1,605 @@
+[
+  {
+    "id": "P7T-T600-004",
+    "part": 7,
+    "type": "triple",
+    "track": "T600",
+    "documents": [
+      {
+        "title": "Job Posting: HR Specialist",
+        "body": "Pacific Coast Healthcare is hiring a Human Resources Specialist for our San Diego headquarters.\n\nKey Responsibilities:\n- Manage the full recruitment cycle for clinical and administrative positions\n- Administer employee benefits programs and handle enrollment\n- Conduct new hire orientations (twice monthly)\n- Maintain HR records and ensure compliance with healthcare labor regulations\n\nRequirements:\n- Bachelor's degree in Human Resources or related field\n- Minimum 3 years of HR experience\n- SHRM-CP or PHR certification preferred\n- Experience in healthcare HR is a strong plus\n\nBenefits:\n- Salary: $58,000 - $65,000\n- Medical, dental, and vision coverage starting day one\n- 403(b) retirement plan with employer match\n- Tuition reimbursement up to $4,000 per year\n- Free on-site fitness center\n\nApply by January 25, 2026 at careers.pch.org. Reference job ID: HR-2026-012."
+      },
+      {
+        "title": "Resume: Emily Sanders",
+        "body": "EMILY SANDERS, SHRM-CP\nemily.sanders@email.com | (619) 555-0182 | San Diego, CA\n\nPROFESSIONAL SUMMARY\nCertified HR professional with 4 years of experience in healthcare human resources. Proven track record in talent acquisition, benefits administration, and employee relations.\n\nCERTIFICATIONS\n- SHRM-CP (Society for Human Resource Management - Certified Professional), 2024\n\nWORK EXPERIENCE\n\nHR Coordinator - Mercy General Hospital, San Diego, CA\nMarch 2022 - Present (3 years, 10 months)\n- Managed recruitment for 25+ clinical positions annually, reducing average time-to-hire by 12 days\n- Administered health and retirement benefits for 400+ employees\n- Conducted 24 new hire orientation sessions, receiving 98% positive feedback\n- Maintained compliance with California healthcare labor laws\n\nHR Assistant - San Diego Medical Group, San Diego, CA\nJune 2020 - February 2022 (1 year, 8 months)\n- Processed benefits enrollment for 150+ employees\n- Coordinated interview scheduling for hiring managers\n- Updated employee records in HRIS system\n\nEDUCATION\nBachelor of Science in Human Resources Management - San Diego State University, 2020\n\nSKILLS\n- HRIS: Workday, ADP\n- California and federal labor law compliance\n- Bilingual: English and Spanish"
+      },
+      {
+        "title": "Interview Schedule Email",
+        "body": "From: careers@pch.org\nTo: emily.sanders@email.com\nSubject: Interview Invitation - HR Specialist (HR-2026-012)\n\nDear Ms. Sanders,\n\nThank you for applying for the HR Specialist position at Pacific Coast Healthcare. After reviewing your application, we are pleased to invite you for an interview.\n\nInterview Details:\nDate: Tuesday, February 4, 2026\nTime: 10:00 AM - 11:30 AM (90 minutes)\nLocation: Pacific Coast Healthcare, 5200 Health Center Drive, Building C, 3rd Floor, San Diego, CA 92108\n\nInterview Panel:\n- Dr. Sarah Williams, Chief Human Resources Officer\n- Mark Davis, Director of Talent Acquisition\n- Linda Park, Senior HR Business Partner\n\nFormat: The interview will consist of three segments:\n1. Panel interview (45 minutes)\n2. Case study exercise (30 minutes): You will be given a recruitment scenario to analyze\n3. Q&A session (15 minutes)\n\nPlease bring three copies of your resume and a list of professional references. Business professional attire is recommended.\n\nPlease confirm your attendance by replying to this email by January 31.\n\nWe look forward to meeting you!\n\nPacific Coast Healthcare Recruitment Team"
+      }
+    ],
+    "questions": [
+      {
+        "id": "P7T-T600-004-Q1",
+        "question": "What is the salary range for the HR Specialist position?",
+        "options": ["$52,000 - $58,000", "$58,000 - $65,000", "$62,000 - $70,000", "$65,000 - $72,000"],
+        "answer": "$58,000 - $65,000",
+        "category": "細節",
+        "explanation": "招聘廣告列出「Salary: $58,000 - $65,000」。",
+        "crossReference": false
+      },
+      {
+        "id": "P7T-T600-004-Q2",
+        "question": "What certification does Emily Sanders hold?",
+        "options": ["PHR", "SHRM-CP", "SPHR", "GPHR"],
+        "answer": "SHRM-CP",
+        "category": "細節",
+        "explanation": "履歷中明確列出「SHRM-CP (Society for Human Resource Management - Certified Professional), 2024」。",
+        "crossReference": false
+      },
+      {
+        "id": "P7T-T600-004-Q3",
+        "question": "How long will the interview last?",
+        "options": ["45 minutes", "60 minutes", "90 minutes", "120 minutes"],
+        "answer": "90 minutes",
+        "category": "細節",
+        "explanation": "面試通知標明「Time: 10:00 AM - 11:30 AM (90 minutes)」。",
+        "crossReference": false
+      },
+      {
+        "id": "P7T-T600-004-Q4",
+        "question": "What is the deadline to confirm interview attendance?",
+        "options": ["January 25", "January 31", "February 1", "February 4"],
+        "answer": "January 31",
+        "category": "細節",
+        "explanation": "面試通知要求「confirm your attendance by replying to this email by January 31」。",
+        "crossReference": false
+      },
+      {
+        "id": "P7T-T600-004-Q5",
+        "question": "Based on all three documents, which of Emily's qualifications most directly matches the preferred requirement in the job posting?",
+        "options": ["Her bachelor's degree", "Her healthcare HR experience", "Her SHRM-CP certification", "Her bilingual ability"],
+        "answer": "Her SHRM-CP certification",
+        "category": "跨篇比對",
+        "explanation": "此題須同時參照三篇文件：招聘廣告將「SHRM-CP or PHR certification preferred」列為加分項；Emily的履歷顯示她持有SHRM-CP認證；面試邀請信證實她的資格受到認可。比對三份文件可知SHRM-CP認證為最直接的加分條件匹配。",
+        "crossReference": true
+      }
+    ]
+  },
+  {
+    "id": "P7T-T600-005",
+    "part": 7,
+    "type": "triple",
+    "track": "T600",
+    "documents": [
+      {
+        "title": "Conference Invitation",
+        "body": "INTERNATIONAL BUSINESS FORUM 2026 - INVITATION\n\nYou are cordially invited to attend the International Business Forum 2026, the premier gathering of global business leaders and entrepreneurs.\n\nEvent Details:\nDates: June 8-10, 2026\nVenue: World Trade Center, 500 Convention Way, Miami, Florida\nTheme: \"Sustainable Growth in a Digital World\"\n\nFeatured Speakers:\n- Dr. Maria Santos, CEO of GreenEnergy Global\n- James O'Brien, Chief Economist at Pacific Rim Bank\n- Prof. Linda Zhao, MIT Sloan School of Management\n\nRegistration Fees:\n- Early Bird (by April 15): $795\n- Standard (after April 15): $995\n- Group rate (5+ from same organization): $695 each\n\nRegistration includes access to all keynote sessions, panel discussions, networking events, and lunch on all three days.\n\nRegister at www.ibf2026.com. For questions, contact info@ibf2026.com."
+      },
+      {
+        "title": "Registration Form",
+        "body": "INTERNATIONAL BUSINESS FORUM 2026 - REGISTRATION FORM\n\nRegistrant Information:\nName: David Park\nCompany: Horizon Trading Group\nPosition: Director of International Sales\nEmail: david.park@horizontrading.com\nPhone: (305) 555-0142\n\nRegistration Type: Group (5 attendees from Horizon Trading Group)\nFee per person: $695\n\nAttendees (Group):\n1. David Park - Director of International Sales\n2. Susan Chen - VP of Operations\n3. Robert Kim - Senior Trade Analyst\n4. Maria Lopez - Marketing Manager\n5. James Wright - Supply Chain Director\n\nWorkshop Selections:\n- David Park: Workshop A (Global Supply Chain Strategies)\n- Susan Chen: Workshop B (Digital Marketing for B2B)\n- Robert Kim: Workshop C (Data Analytics in Trade)\n- Maria Lopez: Workshop B (Digital Marketing for B2B)\n- James Wright: Workshop A (Global Supply Chain Strategies)\n\nDietary Requirements:\n- David Park: Vegetarian\n- Maria Lopez: Gluten-free\n- Others: No special requirements\n\nPayment: Credit card ending in 4582 - $3,475 charged on March 28, 2026"
+      },
+      {
+        "title": "Confirmation Email",
+        "body": "From: registration@ibf2026.com\nTo: david.park@horizontrading.com\nSubject: Registration Confirmed - IBF 2026 (Group #GR-128)\n\nDear David,\n\nThank you for registering your group for the International Business Forum 2026. Your registration is confirmed.\n\nGroup Registration Summary:\n- Group ID: GR-128\n- Number of attendees: 5\n- Total paid: $3,475 ($695 per person)\n- Registration type: Group (Early Bird rate applied)\n\nBadge pick-up: All attendees can collect their name badges at the express check-in desk starting June 7 from 4:00 PM to 7:00 PM, or on June 8 from 7:00 AM.\n\nWorkshop confirmations:\n- Workshop A (June 9, 10:00 AM): David Park, James Wright - Confirmed\n- Workshop B (June 9, 2:00 PM): Susan Chen, Maria Lopez - Confirmed\n- Workshop C (June 9, 10:00 AM): Robert Kim - Confirmed\n\nDietary notes: Vegetarian meals will be provided for David Park at all lunches. Gluten-free meals will be provided for Maria Lopez.\n\nHotel recommendation: A block of rooms has been reserved at the Marriott Biscayne Bay at a discounted rate of $189/night. Use booking code IBF2026 when reserving.\n\nFor any changes to your registration, please contact us by May 20. After that date, changes cannot be guaranteed.\n\nWe look forward to welcoming you in Miami!\n\nIBF 2026 Registration Team"
+      }
+    ],
+    "questions": [
+      {
+        "id": "P7T-T600-005-Q1",
+        "question": "What is the Early Bird registration fee per person?",
+        "options": ["$695", "$795", "$895", "$995"],
+        "answer": "$795",
+        "category": "細節",
+        "explanation": "大會邀請函列出「Early Bird (by April 15): $795」。",
+        "crossReference": false
+      },
+      {
+        "id": "P7T-T600-005-Q2",
+        "question": "How much did Horizon Trading Group pay in total?",
+        "options": ["$3,475", "$3,975", "$4,475", "$4,975"],
+        "answer": "$3,475",
+        "category": "細節",
+        "explanation": "確認信顯示「Total paid: $3,475 ($695 per person)」。",
+        "crossReference": false
+      },
+      {
+        "id": "P7T-T600-005-Q3",
+        "question": "Which workshop did Robert Kim select?",
+        "options": ["Workshop A", "Workshop B", "Workshop C", "None"],
+        "answer": "Workshop C",
+        "category": "細節",
+        "explanation": "報名表顯示「Robert Kim: Workshop C (Data Analytics in Trade)」。",
+        "crossReference": false
+      },
+      {
+        "id": "P7T-T600-005-Q4",
+        "question": "When can attendees pick up their badges early?",
+        "options": ["June 7 from 4:00 PM to 7:00 PM", "June 8 from 7:00 AM", "June 7 from 7:00 AM to 9:00 AM", "June 6 at 5:00 PM"],
+        "answer": "June 7 from 4:00 PM to 7:00 PM",
+        "category": "細節",
+        "explanation": "確認信說明「collect their name badges...starting June 7 from 4:00 PM to 7:00 PM」。",
+        "crossReference": false
+      },
+      {
+        "id": "P7T-T600-005-Q5",
+        "question": "Why did Horizon Trading Group pay $695 per person instead of $795?",
+        "options": ["They received a government subsidy", "They used a discount code", "They registered as a group of 5", "They registered after the deadline"],
+        "answer": "They registered as a group of 5",
+        "category": "跨篇比對",
+        "explanation": "此題須同時參照兩篇以上文件：邀請函中團體價為「Group rate (5+ from same organization): $695 each」；報名表顯示Horizon Trading Group五位與會者以團體名義報名；確認信總額$3,475即為$695×5人。比對可知團體數量符合5人以上的優惠條件。",
+        "crossReference": true
+      }
+    ]
+  },
+  {
+    "id": "P7T-T600-006",
+    "part": 7,
+    "type": "triple",
+    "track": "T600",
+    "documents": [
+      {
+        "title": "Policy Update Memo",
+        "body": "MEMORANDUM\n\nTo: All Employees\nFrom: IT Security Department\nDate: October 1, 2026\nSubject: Updated Password and Data Security Policy\n\nEffective November 1, 2026, the following changes to our IT security policy will take effect:\n\n1. Password Requirements:\n- Minimum password length increased from 8 to 12 characters\n- Must include at least one uppercase letter, one lowercase letter, one number, and one special character\n- Passwords must be changed every 90 days (previously 180 days)\n- Cannot reuse any of the last 5 passwords (previously 3)\n\n2. Two-Factor Authentication (2FA):\n- 2FA will become mandatory for all employees accessing company systems remotely\n- The authenticator app must be installed on your company-issued phone by October 15\n\n3. Data Storage:\n- All work files must be stored on the company cloud drive. Local storage of sensitive data is prohibited.\n- USB drives may no longer be used to transfer company data without prior IT approval.\n\nTraining sessions on the new policy will be offered:\n- Session A: October 10, 2:00 PM - 3:00 PM (Conference Room A)\n- Session B: October 17, 10:00 AM - 11:00 AM (Online via Teams)\n\nAttendance at one session is mandatory.\n\nIT Security Department"
+      },
+      {
+        "title": "Training Session Confirmation",
+        "body": "TRAINING SESSION CONFIRMATION\n\nEmployee: Carlos Mendez, Accounting Department\nSession selected: Session A - October 10, 2:00 PM - 3:00 PM\nLocation: Conference Room A\n\nTopics covered:\n- New password requirements\n- How to set up the two-factor authentication app\n- Cloud storage migration steps\n- Reporting a security incident\n\nWhat to bring:\n- Your company-issued laptop and phone\n- Your current login credentials\n\nNote: After the training, you will be asked to change your password immediately. Please think of a new password that meets the updated requirements before the session to save time.\n\nFor questions, contact IT Security at itsecurity@companyname.com."
+      },
+      {
+        "title": "Security Quiz Results Email",
+        "body": "From: itsecurity@companyname.com\nTo: carlos.mendez@companyname.com\nSubject: Security Policy Quiz Results\n\nDear Carlos,\n\nThank you for attending the security policy training on October 10. Here are your results from the post-training quiz:\n\nQuiz Score: 9/10 (90%)\nPassing Score: 8/10 (80%)\nStatus: PASSED\n\nQuestion you missed:\nQuestion 7: \"How often must passwords be changed under the new policy?\"\nYour answer: Every 180 days\nCorrect answer: Every 90 days\n\nThis is a common mistake because the previous policy required changes every 180 days. Please note the updated requirement of 90 days and set a reminder to change your password by January 8, 2027 (90 days from November 1).\n\nYour 2FA setup has been verified, and your cloud storage migration was completed successfully during the training session.\n\nThank you for taking security seriously.\n\nIT Security Department"
+      }
+    ],
+    "questions": [
+      {
+        "id": "P7T-T600-006-Q1",
+        "question": "What is the new minimum password length?",
+        "options": ["8 characters", "10 characters", "12 characters", "14 characters"],
+        "answer": "12 characters",
+        "category": "細節",
+        "explanation": "政策備忘錄寫明「Minimum password length increased from 8 to 12 characters」。",
+        "crossReference": false
+      },
+      {
+        "id": "P7T-T600-006-Q2",
+        "question": "When does the new policy take effect?",
+        "options": ["October 1", "October 10", "October 17", "November 1"],
+        "answer": "November 1",
+        "category": "細節",
+        "explanation": "備忘錄寫明「Effective November 1, 2026」。",
+        "crossReference": false
+      },
+      {
+        "id": "P7T-T600-006-Q3",
+        "question": "Which training session did Carlos attend?",
+        "options": ["Session A on October 10", "Session B on October 17", "Session A on October 17", "Session B on October 10"],
+        "answer": "Session A on October 10",
+        "category": "細節",
+        "explanation": "訓練確認書顯示「Session selected: Session A - October 10, 2:00 PM - 3:00 PM」。",
+        "crossReference": false
+      },
+      {
+        "id": "P7T-T600-006-Q4",
+        "question": "What question did Carlos answer incorrectly on the quiz?",
+        "options": ["Password length requirement", "Password change frequency", "2FA setup steps", "Cloud storage policy"],
+        "answer": "Password change frequency",
+        "category": "細節",
+        "explanation": "測驗結果顯示他答錯「How often must passwords be changed under the new policy?」，誤答為180天。",
+        "crossReference": false
+      },
+      {
+        "id": "P7T-T600-006-Q5",
+        "question": "By what date must Carlos change his password according to the new policy?",
+        "options": ["December 1, 2026", "January 1, 2027", "January 8, 2027", "February 1, 2027"],
+        "answer": "January 8, 2027",
+        "category": "跨篇比對",
+        "explanation": "此題須同時參照兩篇以上文件：備忘錄規定密碼每90天更換且政策11月1日生效；測驗結果郵件提醒「set a reminder to change your password by January 8, 2027 (90 days from November 1)」。比對可知從生效日推算90天後為1月8日。",
+        "crossReference": true
+      }
+    ]
+  },
+  {
+    "id": "P7T-T600-007",
+    "part": 7,
+    "type": "triple",
+    "track": "T600",
+    "documents": [
+      {
+        "title": "Request for Proposal: Office Furniture",
+        "body": "REQUEST FOR PROPOSAL (RFP) #OF-2026-005\n\nIssued by: ClearView Media Group\nDate: May 5, 2026\nProposal Deadline: May 26, 2026\n\nProject: Supply and installation of office furniture for our new 15,000 sq. ft. office space at 340 Broadcast Avenue, Atlanta, GA.\n\nRequirements:\n- 120 ergonomic workstations with adjustable standing desks\n- 8 executive office furniture sets\n- 6 conference room tables with 8 chairs each\n- Reception area furniture (sofa, coffee table, reception desk)\n- Break room tables and chairs (seating for 30)\n\nSelection Criteria:\n1. Price (40%)\n2. Product quality and warranty (25%)\n3. Installation timeline (20%)\n4. Past client references (15%)\n\nInstallation must be completed by August 1, 2026. The office will open on August 15.\n\nSubmit proposals to procurement@clearviewmedia.com. Include a detailed price breakdown, product specifications, and at least three client references."
+      },
+      {
+        "title": "Vendor Proposal Summary",
+        "body": "PROPOSAL SUMMARY - RFP #OF-2026-005\n\nSubmitted by: ModernSpace Office Solutions\nDate: May 22, 2026\n\nProposed Solution:\n\n1. Workstations (120 units):\n- Model: ErgoFlex Pro standing desks - $850 each\n- Includes cable management trays and monitor arms\n- 10-year warranty on desk frame, 5-year on surface\n\n2. Executive Office Sets (8 units):\n- Model: Executive Select Series - $3,200 each\n- Includes desk, credenza, bookcase, and ergonomic chair\n- 5-year warranty\n\n3. Conference Room Packages (6 sets):\n- Table (Model: BoardRoom XL) - $2,100 each\n- Chairs (Model: ConferPlus) - $280 each × 8 = $2,240 per room\n- 3-year warranty\n\n4. Reception Area: $6,500 (custom design)\n5. Break Room (seating for 30): $8,200\n\nTotal Project Cost: $199,260\n\nInstallation Timeline:\n- Delivery: July 15-17, 2026\n- Assembly and installation: July 18-28, 2026\n- Final inspection and adjustments: July 29-30, 2026\n\nReferences: We have provided furniture for Atlanta News Network, PeachTree Financial, and MetroHub Co-working Space. Contact details attached.\n\nContact: Angela Foster, Senior Account Manager, angela@modernspace.com"
+      },
+      {
+        "title": "Email: Proposal Evaluation Results",
+        "body": "From: procurement@clearviewmedia.com\nTo: evaluation-committee@clearviewmedia.com\nSubject: RFP #OF-2026-005 - Evaluation Results and Recommendation\n\nDear Committee Members,\n\nThank you for reviewing the three proposals we received for our office furniture project. After evaluating all submissions against our criteria, here are the results:\n\nScoring Summary:\n\nModernSpace Office Solutions:\n- Price: 38/40 ($199,260 - middle range)\n- Quality/Warranty: 23/25 (excellent warranties, good reviews)\n- Installation Timeline: 18/20 (completes by July 30, before our deadline)\n- References: 14/15 (all three references were very positive)\nTotal: 93/100\n\nOfficeFurniture Direct:\n- Price: 40/40 ($185,400 - lowest)\n- Quality/Warranty: 18/25 (shorter warranties, mixed reviews)\n- Installation Timeline: 15/20 (completes August 5, past deadline)\n- References: 11/15 (two references, one neutral)\nTotal: 84/100\n\nPremier Office Interiors:\n- Price: 28/40 ($225,000 - highest)\n- Quality/Warranty: 24/25 (top materials, best warranty)\n- Installation Timeline: 16/20 (completes August 3, slightly past deadline)\n- References: 15/15 (all excellent)\nTotal: 83/100\n\nRecommendation: We recommend awarding the contract to ModernSpace Office Solutions. They offer the best combination of competitive pricing, strong quality, on-time delivery, and excellent client references.\n\nPlease reply with your approval by May 30 so we can issue the contract.\n\nBest regards,\nRichard Tanaka\nProcurement Director"
+      }
+    ],
+    "questions": [
+      {
+        "id": "P7T-T600-007-Q1",
+        "question": "What is the proposal submission deadline?",
+        "options": ["May 15", "May 22", "May 26", "May 30"],
+        "answer": "May 26",
+        "category": "細節",
+        "explanation": "RFP文件寫明「Proposal Deadline: May 26, 2026」。",
+        "crossReference": false
+      },
+      {
+        "id": "P7T-T600-007-Q2",
+        "question": "What is the total cost of ModernSpace's proposal?",
+        "options": ["$185,400", "$199,260", "$210,000", "$225,000"],
+        "answer": "$199,260",
+        "category": "細節",
+        "explanation": "ModernSpace提案書列出「Total Project Cost: $199,260」。",
+        "crossReference": false
+      },
+      {
+        "id": "P7T-T600-007-Q3",
+        "question": "Which vendor scored highest on quality and warranty?",
+        "options": ["ModernSpace Office Solutions", "OfficeFurniture Direct", "Premier Office Interiors", "All scored equally"],
+        "answer": "Premier Office Interiors",
+        "category": "細節",
+        "explanation": "評分表顯示Premier Office Interiors在品質/保固項目得分為24/25，為三家最高。",
+        "crossReference": false
+      },
+      {
+        "id": "P7T-T600-007-Q4",
+        "question": "When must the furniture installation be completed by?",
+        "options": ["July 30", "August 1", "August 5", "August 15"],
+        "answer": "August 1",
+        "category": "細節",
+        "explanation": "RFP明確要求「Installation must be completed by August 1, 2026」。",
+        "crossReference": false
+      },
+      {
+        "id": "P7T-T600-007-Q5",
+        "question": "Why was OfficeFurniture Direct not recommended despite having the lowest price?",
+        "options": ["They had the worst references", "Their installation timeline missed the August 1 deadline", "Their warranty was the shortest", "They failed to submit all required documents"],
+        "answer": "Their installation timeline missed the August 1 deadline",
+        "category": "跨篇比對",
+        "explanation": "此題須同時參照三篇文件：RFP要求安裝於8月1日前完成；OfficeFurniture Direct的安裝完成日為8月5日，超出了RFP的截止日；評分表中該公司安裝時程僅得15/20分即因無法如期完成。比對可知未達期限是其失去推薦的關鍵因素。",
+        "crossReference": true
+      }
+    ]
+  },
+  {
+    "id": "P7T-T600-008",
+    "part": 7,
+    "type": "triple",
+    "track": "T600",
+    "documents": [
+      {
+        "title": "Incident Report",
+        "body": "INCIDENT REPORT #IR-2026-0421\n\nDate of Incident: March 12, 2026\nTime: 3:45 PM\nLocation: Warehouse B, Aisle 7\nReported by: Frank Delgado, Warehouse Supervisor\n\nDescription of Incident:\nAt approximately 3:45 PM, a stack of three pallets containing boxed electronics fell from a storage rack in Aisle 7. No employees were injured, but an estimated $4,200 worth of merchandise was damaged. The pallets were stored on the third level of the rack (approximately 15 feet high).\n\nInitial Findings:\n- The rack appeared to be leaning slightly to the right before the incident.\n- Two of the four anchor bolts securing the rack to the floor were found to be loose.\n- The weight limit for the third shelf level is 1,800 lbs. The combined estimated weight of the three pallets was approximately 2,100 lbs.\n\nImmediate Actions Taken:\n- Aisle 7 was closed and cordoned off at 4:00 PM.\n- All employees were instructed to move pallets from the top shelves of nearby racks as a precaution.\n- The damaged merchandise was documented and moved to the disposal area.\n\nWitnesses: Miguel Santos (Forklift Operator), Jenna Lee (Inventory Clerk)"
+      },
+      {
+        "title": "Investigation Summary",
+        "body": "INVESTIGATION SUMMARY - INCIDENT #IR-2026-0421\n\nConducted by: Patricia Moore, Safety Officer\nDate of Investigation: March 13-14, 2026\n\nRoot Causes Identified:\n\n1. Overloading: The pallets on the third shelf weighed approximately 2,100 lbs, exceeding the rated capacity of 1,800 lbs by 300 lbs (17%). The warehouse inventory system showed a maximum pallet count of 2 per shelf level for this product category, but 3 were stacked.\n\n2. Equipment Failure: Two of four anchor bolts on Rack B-07 were loose, reducing the rack's stability. Maintenance records show the last rack inspection was on September 15, 2025 - nearly 6 months ago. Company policy requires quarterly inspections (every 3 months).\n\n3. Human Error: The forklift operator who loaded the third pallet (Miguel Santos) stated he was not aware of the shelf weight limit. No weight limit labels were visible on Rack B-07. A review of training records shows Santos completed rack safety training in January 2026, but the weight limit section was not included in the updated curriculum.\n\nRecommended Corrective Actions:\n- Repair or replace Rack B-07 immediately\n- Install clear weight limit labels on all storage racks\n- Update forklift operator training to include weight limit awareness\n- Reinstate quarterly rack inspections without exception"
+      },
+      {
+        "title": "Memo: New Warehouse Safety Measures",
+        "body": "MEMORANDUM\n\nTo: All Warehouse Staff\nFrom: Patricia Moore, Safety Officer\nDate: March 20, 2026\nSubject: New Warehouse Safety Measures Effective Immediately\n\nFollowing the incident in Warehouse B on March 12, we are implementing the following safety measures:\n\n1. Weight Limit Labels: Every storage rack in all three warehouses will be fitted with highly visible weight limit labels by March 31. These labels will indicate the maximum weight for each shelf level.\n\n2. Rack Inspections: All storage racks will be inspected immediately. Going forward, rack inspections will occur monthly (previously quarterly). The first round of inspections begins March 24.\n\n3. Updated Training: All forklift operators must attend a mandatory safety refresher course on March 27 from 8:00 AM to 12:00 PM in the Training Room. The course will include a new module on weight limits and load distribution.\n\n4. New Loading Rule: No more than 2 pallets may be placed on any shelf level above the second tier. Pallets on third-tier shelves and above must not exceed 1,500 lbs combined weight.\n\n5. Pre-Shift Check: At the start of each shift, warehouse supervisors must inspect their assigned aisles for any visible rack damage or loose bolts and report issues immediately.\n\nThese measures are mandatory. Non-compliance will result in disciplinary action.\n\nThank you for your cooperation in keeping our workplace safe."
+      }
+    ],
+    "questions": [
+      {
+        "id": "P7T-T600-008-Q1",
+        "question": "What was the rated weight capacity of the third shelf level?",
+        "options": ["1,500 lbs", "1,800 lbs", "2,100 lbs", "2,500 lbs"],
+        "answer": "1,800 lbs",
+        "category": "細節",
+        "explanation": "事故報告指出「The weight limit for the third shelf level is 1,800 lbs」。",
+        "crossReference": false
+      },
+      {
+        "id": "P7T-T600-008-Q2",
+        "question": "When was the last rack inspection before the incident?",
+        "options": ["January 2026", "March 2025", "September 2025", "December 2025"],
+        "answer": "September 2025",
+        "category": "細節",
+        "explanation": "調查摘要記錄「the last rack inspection was on September 15, 2025」。",
+        "crossReference": false
+      },
+      {
+        "id": "P7T-T600-008-Q3",
+        "question": "What is the new inspection frequency for storage racks?",
+        "options": ["Weekly", "Monthly", "Quarterly", "Annually"],
+        "answer": "Monthly",
+        "category": "細節",
+        "explanation": "安全公告寫明「rack inspections will occur monthly (previously quarterly)」。",
+        "crossReference": false
+      },
+      {
+        "id": "P7T-T600-008-Q4",
+        "question": "When is the mandatory safety refresher course for forklift operators?",
+        "options": ["March 24", "March 27", "March 31", "April 1"],
+        "answer": "March 27",
+        "category": "細節",
+        "explanation": "安全公告列出「All forklift operators must attend a mandatory safety refresher course on March 27」。",
+        "crossReference": false
+      },
+      {
+        "id": "P7T-T600-008-Q5",
+        "question": "Which finding from the investigation directly led to the new rule limiting pallets on upper shelves?",
+        "options": ["Loose anchor bolts", "Overloaded shelf causing the collapse", "Missed quarterly inspection", "Lack of weight limit labels"],
+        "answer": "Overloaded shelf causing the collapse",
+        "category": "跨篇比對",
+        "explanation": "此題須同時參照三篇文件：事故報告指出三個棧板總重約2,100磅超出1,800磅限制；調查摘要確認超載為事故根本原因之一；安全公告中新增規定「No more than 2 pallets may be placed on any shelf level above the second tier」並設定1,500磅上限，直接因應超載問題。比對可知超載是促成新規則的關鍵發現。",
+        "crossReference": true
+      }
+    ]
+  },
+  {
+    "id": "P7T-T600-009",
+    "part": 7,
+    "type": "triple",
+    "track": "T600",
+    "documents": [
+      {
+        "title": "New Hire Announcement",
+        "body": "STAFF ANNOUNCEMENT\n\nDate: July 7, 2026\n\nWe are pleased to welcome Amanda Foster to the team as our new Senior Product Manager. Amanda will lead the product development team for our consumer mobile app division starting July 21, 2026.\n\nAmanda joins us from TechVantage Inc., where she was a Product Manager for their flagship project management software. She has over 8 years of experience in product development, with expertise in user experience design and agile methodologies.\n\nShe holds an MBA from the University of Washington and a Bachelor's degree in Computer Science from UC Berkeley.\n\nAmanda will report directly to Jennifer Walsh, VP of Product, and will be based at our Seattle headquarters. Her initial focus will be the Q4 product roadmap and the upcoming app redesign project.\n\nPlease join us in giving Amanda a warm welcome!\n\nHR Department"
+      },
+      {
+        "title": "Welcome Email from Manager",
+        "body": "From: jennifer.walsh@companyname.com\nTo: amanda.foster@companyname.com\nCc: product-team@companyname.com\nSubject: Welcome to the Team, Amanda!\n\nDear Amanda,\n\nI am very excited that you will be joining us on July 21. I wanted to share some information to help you prepare for your first week.\n\nYour first week schedule:\n\nMonday, July 21:\n- 9:00 AM: Meet with HR for onboarding paperwork (Room 204)\n- 10:30 AM: IT setup - you will receive your laptop, phone, and access badges\n- 2:00 PM: Meet with me to discuss your 90-day goals\n\nTuesday, July 22:\n- 10:00 AM: Product team weekly stand-up meeting (Conference Room 3A)\n- 11:00 AM: Tour of the UX lab with the design team\n- 3:00 PM: Introduction to our engineering leads\n\nWednesday, July 23 - Friday, July 25:\n- Individual meetings with each member of the product team\n- Review of current projects and the Q4 roadmap\n- Lunch with the executive team on Thursday\n\nI have also scheduled a team welcome lunch for Monday at 12:30 PM at The Oak Table restaurant. The product team is really looking forward to meeting you.\n\nIf you have any questions before your start date, please do not hesitate to reach out.\n\nWelcome aboard!\n\nJennifer Walsh\nVP of Product"
+      },
+      {
+        "title": "Onboarding Checklist Email",
+        "body": "From: hr@companyname.com\nTo: amanda.foster@companyname.com\nSubject: New Hire Onboarding Checklist - Please Complete Before July 21\n\nDear Amanda,\n\nCongratulations again on your new role! To ensure a smooth start on July 21, please complete the following items before your first day:\n\nDocuments to bring:\n- Government-issued photo ID (for your security badge)\n- Void check for direct deposit setup\n- Completed tax withholding forms (W-4)\n\nOnline forms to complete (by July 18):\n- Emergency contact information (HR portal)\n- Benefits enrollment (medical, dental, vision)\n- 401(k) plan enrollment\n- Employee handbook acknowledgment\n\nWhat will be provided on your first day:\n- Company laptop (MacBook Pro)\n- Company phone (iPhone)\n- Building access badge\n- Parking pass (Level 2, spot #45)\n\nDress code: Business casual. On your first day, please arrive at the main lobby by 8:45 AM. The receptionist will direct you to HR in Room 204.\n\nIf you have questions about benefits or paperwork, contact HR Specialist Karen Liu at ext. 3321.\n\nWe look forward to having you on board!\n\nHR Department"
+      }
+    ],
+    "questions": [
+      {
+        "id": "P7T-T600-009-Q1",
+        "question": "When is Amanda's first day of work?",
+        "options": ["July 7", "July 18", "July 21", "July 25"],
+        "answer": "July 21",
+        "category": "細節",
+        "explanation": "新進員工公告寫明「starting July 21, 2026」，所有文件皆反覆確認此日期。",
+        "crossReference": false
+      },
+      {
+        "id": "P7T-T600-009-Q2",
+        "question": "What is Amanda's educational background?",
+        "options": ["MBA and Bachelor's in Computer Science", "MBA and Bachelor's in Design", "Master's in Engineering", "PhD in Computer Science"],
+        "answer": "MBA and Bachelor's in Computer Science",
+        "category": "細節",
+        "explanation": "公告中寫明「MBA from the University of Washington and a Bachelor's degree in Computer Science from UC Berkeley」。",
+        "crossReference": false
+      },
+      {
+        "id": "P7T-T600-009-Q3",
+        "question": "What time is the team welcome lunch scheduled for?",
+        "options": ["11:00 AM", "12:00 PM", "12:30 PM", "1:00 PM"],
+        "answer": "12:30 PM",
+        "category": "細節",
+        "explanation": "主管歡迎郵件寫道「a team welcome lunch for Monday at 12:30 PM」。",
+        "crossReference": false
+      },
+      {
+        "id": "P7T-T600-009-Q4",
+        "question": "What parking spot has been assigned to Amanda?",
+        "options": ["Level 1, spot #32", "Level 2, spot #45", "Level 2, spot #50", "Level 3, spot #21"],
+        "answer": "Level 2, spot #45",
+        "category": "細節",
+        "explanation": "入職清單郵件列出「Parking pass (Level 2, spot #45)」。",
+        "crossReference": false
+      },
+      {
+        "id": "P7T-T600-009-Q5",
+        "question": "Based on all three documents, where should Amanda go first upon arriving at the office?",
+        "options": ["To her manager's office", "To the IT department", "To the main lobby", "To Room 204 for HR onboarding"],
+        "answer": "To Room 204 for HR onboarding",
+        "category": "跨篇比對",
+        "explanation": "此題須同時參照三篇文件：主管歡迎郵件排定9:00 AM在Room 204進行HR入職手續；入職清單郵件也指示8:45到主大廳後由接待員引導至HR Room 204。比對兩份文件一致指向報到第一站為Room 204。",
+        "crossReference": true
+      }
+    ]
+  },
+  {
+    "id": "P7T-T600-010",
+    "part": 7,
+    "type": "triple",
+    "track": "T600",
+    "documents": [
+      {
+        "title": "Contract Renewal Notice",
+        "body": "CONTRACT RENEWAL NOTICE\n\nTo: Westfield Office Tower\nAttn: Building Manager\nFrom: CleanPro Janitorial Services\nDate: August 15, 2026\n\nSubject: Renewal of Janitorial Services Contract #JC-2024-088\n\nOur current contract for janitorial services at Westfield Office Tower will expire on September 30, 2026. We would like to propose a renewal for an additional two-year term (October 1, 2026 - September 30, 2028).\n\nCurrent Services Provided:\n- Daily cleaning of all common areas (lobbies, hallways, restrooms)\n- Trash removal from all floors (Monday - Friday)\n- Window cleaning (quarterly)\n- Floor waxing and carpet shampooing (semi-annually)\n- Restroom supply restocking (daily)\n\nProposed Changes for Renewal:\n- Monthly fee increase from $8,500 to $9,200 (8.2% increase) due to rising supply costs and staff wage adjustments\n- Addition of weekend trash removal service (Saturdays) at no extra charge\n- Upgrade to eco-friendly cleaning products at no extra charge\n\nWe value our three-year partnership with Westfield Office Tower and look forward to continuing to serve you. Please let us know by September 10 if you wish to renew.\n\nSincerely,\nMaria Gonzalez\nAccount Manager, CleanPro Janitorial Services"
+      },
+      {
+        "title": "Email: Counter-Proposal Request",
+        "body": "From: bm@westfieldtower.com\nTo: maria.gonzalez@cleanpro.com\nSubject: RE: Renewal of Janitorial Services Contract #JC-2024-088\n\nDear Maria,\n\nThank you for the renewal proposal. We are generally satisfied with CleanPro's services and would like to continue our partnership. However, the proposed 8.2% increase is higher than our budget allows for the upcoming year.\n\nI have reviewed our budget and would like to propose the following adjustments:\n\n1. Monthly fee: We can accept an increase up to $8,850 (approximately 4.1%). This is in line with the annual inflation adjustment our finance department has approved.\n\n2. Semi-annual floor services: We can reduce the floor waxing and carpet shampooing from twice per year to once per year, which should lower your costs and help offset the remaining gap.\n\n3. We appreciate the offer of weekend trash removal. However, Saturday service is not necessary for our building as most tenants are closed on weekends. Could we instead apply that value toward keeping the monthly fee closer to our budget?\n\nPlease let me know if these terms are acceptable. I would like to finalize the renewal by September 1.\n\nBest regards,\nRobert Chen\nBuilding Manager, Westfield Office Tower"
+      },
+      {
+        "title": "Renewal Contract Summary",
+        "body": "CONTRACT RENEWAL SUMMARY\n\nContract #JC-2024-088R (Renewal)\nParties: Westfield Office Tower & CleanPro Janitorial Services\nTerm: October 1, 2026 - September 30, 2028 (2 years)\n\nAgreed Terms:\n\n1. Monthly Service Fee: $8,850 per month\n   - Payment due by the 5th of each month\n   - 2% late fee applies after 15 days\n\n2. Services Included:\n   - Daily cleaning of all common areas (unchanged)\n   - Trash removal Monday - Friday (unchanged)\n   - Window cleaning: quarterly (unchanged)\n   - Floor waxing: once per year (March)\n   - Carpet shampooing: once per year (September)\n   - Restroom supply restocking: daily (unchanged)\n   - All cleaning products upgraded to eco-friendly formulas\n\n3. Changes from Original Proposal:\n   - Saturday trash removal: not included\n   - Semi-annual floor services reduced to annual\n\nThis contract becomes effective upon signature by both parties. Please sign and return by September 25, 2026.\n\n_________________________\nRobert Chen, Building Manager\n\n_________________________\nMaria Gonzalez, CleanPro Account Manager"
+      }
+    ],
+    "questions": [
+      {
+        "id": "P7T-T600-010-Q1",
+        "question": "What was the original monthly fee under the current contract?",
+        "options": ["$8,500", "$8,850", "$9,000", "$9,200"],
+        "answer": "$8,500",
+        "category": "細節",
+        "explanation": "續約通知書寫明「Monthly fee increase from $8,500 to $9,200」。",
+        "crossReference": false
+      },
+      {
+        "id": "P7T-T600-010-Q2",
+        "question": "What was the final agreed monthly fee?",
+        "options": ["$8,500", "$8,850", "$9,000", "$9,200"],
+        "answer": "$8,850",
+        "category": "細節",
+        "explanation": "續約摘要中寫明「Monthly Service Fee: $8,850 per month」。",
+        "crossReference": false
+      },
+      {
+        "id": "P7T-T600-010-Q3",
+        "question": "What new feature did CleanPro offer at no extra charge?",
+        "options": ["Daily window cleaning", "Eco-friendly cleaning products", "24-hour service", "Free supply delivery"],
+        "answer": "Eco-friendly cleaning products",
+        "category": "細節",
+        "explanation": "續約通知書列出「Upgrade to eco-friendly cleaning products at no extra charge」。",
+        "crossReference": false
+      },
+      {
+        "id": "P7T-T600-010-Q4",
+        "question": "How often will floor waxing be performed under the new contract?",
+        "options": ["Monthly", "Quarterly", "Twice per year", "Once per year"],
+        "answer": "Once per year",
+        "category": "細節",
+        "explanation": "續約摘要寫明「Floor waxing: once per year (March)」。",
+        "crossReference": false
+      },
+      {
+        "id": "P7T-T600-010-Q5",
+        "question": "Which of CleanPro's original proposed additions was removed from the final contract and why?",
+        "options": ["Eco-friendly products, because they cost too much", "Saturday trash removal, because the building is mostly closed on weekends", "Quarterly window cleaning, because it was unnecessary", "Daily restroom restocking, because the building has fewer tenants"],
+        "answer": "Saturday trash removal, because the building is mostly closed on weekends",
+        "category": "跨篇比對",
+        "explanation": "此題須同時參照三篇文件：CleanPro原提案包含「Addition of weekend trash removal service (Saturdays) at no extra charge」；Robert的回信中解釋「Saturday service is not necessary for our building as most tenants are closed on weekends」並建議取消以換取較低月費；最終合約確認「Saturday trash removal: not included」。比對三份文件可知週六垃圾清運因需求不足而被取消。",
+        "crossReference": true
+      }
+    ]
+  },
+  {
+    "id": "P7T-T600-011",
+    "part": 7,
+    "type": "triple",
+    "track": "T600",
+    "documents": [
+      {
+        "title": "Budget Request Memo",
+        "body": "MEMORANDUM\n\nTo: Finance Committee\nFrom: Dr. Lisa Park, Research Director\nDate: April 2, 2026\nSubject: Budget Request - Q3 Laboratory Equipment Upgrade\n\nI am requesting a budget allocation of $45,000 for upgrading equipment in our materials testing laboratory. The current equipment was purchased in 2018 and has become increasingly unreliable, causing delays in three client projects this year.\n\nProposed Equipment Purchases:\n1. Universal Testing Machine (Model UTM-5000): $22,000\n   - Replaces our 10-year-old UTM-3000 which requires frequent repairs\n2. Spectrometer (Model SpecPro X2): $15,000\n   - New technology that reduces analysis time by 40%\n3. Sample Preparation Station (Model SPS-200): $8,000\n   - Automates sample cutting and polishing, reducing manual labor\n\nBenefits:\n- Reduce equipment downtime by an estimated 60%\n- Increase testing capacity by 25%\n- Reduce overtime costs by approximately $12,000 annually\n\nI have attached quotes from three vendors for your review. I request that this budget be approved by April 20 so we can place orders in time for Q3 project schedules.\n\nDr. Lisa Park"
+      },
+      {
+        "title": "Finance Committee Approval",
+        "body": "FINANCE COMMITTEE - BUDGET DECISION\n\nRequest ID: BQ-2026-0042\nDate: April 16, 2026\n\nDecision: APPROVED WITH MODIFICATIONS\n\nAfter reviewing Dr. Park's budget request, the Finance Committee has approved the following:\n\nApproved Allocations:\n1. Universal Testing Machine (UTM-5000): $22,000 - FULLY APPROVED\n   Rationale: This is a critical replacement; the current machine's repairs are costing more than the new purchase.\n\n2. Spectrometer (SpecPro X2): $12,000 - PARTIALLY APPROVED\n   Rationale: The committee found a comparable model (SpecPro X1) available for $12,000. While it has slightly fewer features, it still reduces analysis time by 30% and meets current project requirements. The X2 model can be reconsidered in the Q1 2027 budget.\n\n3. Sample Preparation Station (SPS-200): $8,000 - FULLY APPROVED\n   Rationale: The labor savings justify the cost.\n\nTotal Approved: $42,000\n\nConditions:\n- All purchases must be completed by May 15, 2026.\n- A quarterly report on equipment usage and project turnaround times must be submitted to the Finance Committee for the first year.\n\nFinance Committee Chair: Thomas Blackwell"
+      },
+      {
+        "title": "Purchase Order Confirmation",
+        "body": "PURCHASE ORDER CONFIRMATION\n\nPO Number: PO-2026-0571\nDate: April 22, 2026\nRequested by: Dr. Lisa Park\nApproved by: Finance Committee (BQ-2026-0042)\n\nVendor: LabEquip Solutions Inc.\n\nItems Ordered:\n\n1. Universal Testing Machine UTM-5000\n   Quantity: 1\n   Unit Price: $22,000\n   Estimated delivery: May 5, 2026\n\n2. Spectrometer SpecPro X1\n   Quantity: 1\n   Unit Price: $12,000\n   Estimated delivery: May 8, 2026\n\n3. Sample Preparation Station SPS-200\n   Quantity: 1\n   Unit Price: $8,000\n   Estimated delivery: April 30, 2026\n\nSubtotal: $42,000\nShipping: No charge (vendor promotion)\nInstallation & Training: Included (1 day on-site, scheduled after delivery)\nTotal: $42,000\n\nPayment Terms: Net 30 days from invoice\n\nNote: Installation for all three units will be coordinated for May 12-13 to minimize lab downtime. Please ensure the lab is accessible on these dates.\n\nFor order inquiries, contact LabEquip Solutions at orders@labequip.com or call 1-800-555-0291."
+      }
+    ],
+    "questions": [
+      {
+        "id": "P7T-T600-011-Q1",
+        "question": "What was Dr. Park's original total budget request?",
+        "options": ["$38,000", "$42,000", "$45,000", "$48,000"],
+        "answer": "$45,000",
+        "category": "細節",
+        "explanation": "預算請求備忘錄寫明「requesting a budget allocation of $45,000」。",
+        "crossReference": false
+      },
+      {
+        "id": "P7T-T600-011-Q2",
+        "question": "Why was the Spectrometer X2 not fully approved?",
+        "options": ["It was too expensive for the features offered", "A cheaper model met current project requirements", "The vendor could not deliver on time", "The lab did not need a spectrometer"],
+        "answer": "A cheaper model met current project requirements",
+        "category": "細節",
+        "explanation": "財務委員會說明找到「a comparable model (SpecPro X1) available for $12,000」且「meets current project requirements」。",
+        "crossReference": false
+      },
+      {
+        "id": "P7T-T600-011-Q3",
+        "question": "What is the estimated delivery date for the Sample Preparation Station?",
+        "options": ["April 22", "April 30", "May 5", "May 8"],
+        "answer": "April 30",
+        "category": "細節",
+        "explanation": "採購單確認顯示SPS-200的「Estimated delivery: April 30, 2026」。",
+        "crossReference": false
+      },
+      {
+        "id": "P7T-T600-011-Q4",
+        "question": "When will all three units be installed?",
+        "options": ["April 30 - May 5", "May 5 - May 10", "May 12 - May 13", "May 15 - May 16"],
+        "answer": "May 12 - May 13",
+        "category": "細節",
+        "explanation": "採購單寫明「Installation for all three units will be coordinated for May 12-13」。",
+        "crossReference": false
+      },
+      {
+        "id": "P7T-T600-011-Q5",
+        "question": "What financial justification ultimately supported both the approved items and the committee's decision on the spectrometer?",
+        "options": ["The lab's client projects were all canceled", "The new equipment would reduce overtime costs and was already justified in the original request", "The finance committee had extra budget to spend", "The vendor offered a free trial"],
+        "answer": "The new equipment would reduce overtime costs and was already justified in the original request",
+        "category": "跨篇比對",
+        "explanation": "此題須同時參照三篇文件：Dr. Park的原始請求中列出效益包括「Reduce overtime costs by approximately $12,000 annually」；財務委員會核准了SPS-200並說明「The labor savings justify the cost」，對UTM-5000的理由為「repairs are costing more than the new purchase」；最終採購單總額$42,000低於原始請求$45,000。比對可知成本效益分析在核准決策中扮演關鍵角色。",
+        "crossReference": true
+      }
+    ]
+  },
+  {
+    "id": "P7T-T600-012",
+    "part": 7,
+    "type": "triple",
+    "track": "T600",
+    "documents": [
+      {
+        "title": "Press Release: Product Launch",
+        "body": "PRESS RELEASE\n\nFOR IMMEDIATE RELEASE - August 1, 2026\n\nFreshBrew Coffee Company Announces the Launch of Cold Brew Concentrate\n\nPORTLAND, OR - FreshBrew Coffee Company today announced the launch of its new Cold Brew Concentrate, a ready-to-drink product designed for home and office use. The product will be available in retail stores nationwide starting September 15, 2026.\n\nThe Cold Brew Concentrate is made from 100% Arabica beans sourced from Colombia and Ethiopia, steeped in cold water for 20 hours. One bottle makes up to 8 servings, and the concentrate stays fresh for up to two weeks after opening.\n\n\"We are excited to bring the coffee shop experience into people's homes and workplaces,\" said Sarah Lin, CEO of FreshBrew. \"This product reflects our commitment to quality and convenience.\"\n\nThe concentrate will be available in two varieties: Classic Black and Vanilla. Suggested retail price: $12.99 per 16-ounce bottle.\n\nThe launch will be supported by a national marketing campaign including social media promotions, in-store sampling events, and a partnership with several co-working space chains.\n\nAbout FreshBrew: Founded in 2012, FreshBrew is a specialty coffee company based in Portland, Oregon, with products sold in over 5,000 retail locations across the United States.\n\nMedia Contact: James Keller, PR Director, james.keller@freshbrew.com"
+      },
+      {
+        "title": "Internal Memo: Launch Preparation",
+        "body": "MEMORANDUM\n\nTo: All Department Heads\nFrom: Sarah Lin, CEO\nDate: August 5, 2026\nSubject: Cold Brew Concentrate Launch - Action Items\n\nTeam,\n\nWith the public announcement now made, I want to ensure every department is fully prepared for the September 15 launch. Below are the key action items and deadlines:\n\nMarketing Department (Lead: David Park):\n- Finalize social media campaign content by August 20\n- Confirm in-store sampling schedule with retail partners by August 25\n- Launch digital ads on September 1\n\nSales Department (Lead: Jennifer Walsh):\n- Complete distribution agreements with all major retailers by August 30\n- Ensure product shipments arrive at distribution centers by September 5\n- Confirm shelf placement and promotional displays\n\nProduction Department (Lead: Michael Torres):\n- Complete first production run of 50,000 bottles by September 1\n- Quality testing on all batches: August 15-25\n- Reserve 20% of production capacity for potential restock orders in September\n\nCustomer Service (Lead: Rachel Chen):\n- Train team on product details and FAQ by September 1\n- Prepare response templates for common customer inquiries\n\nWe will have weekly check-in meetings every Monday at 10:00 AM starting August 11. Please come prepared with a status update.\n\nThis is a major product launch for our company. Let's make it a success."
+      },
+      {
+        "title": "Distributor Notice",
+        "body": "DISTRIBUTOR BULLETIN\n\nFrom: FreshBrew Coffee Company - Distribution Team\nDate: August 25, 2026\nTo: All FreshBrew Retail Partners\n\nSubject: Cold Brew Concentrate - Shipping and Display Details\n\nDear Partners,\n\nWe are pleased to confirm that FreshBrew Cold Brew Concentrate shipments will begin departing our Portland warehouse on September 5, 2026, with expected delivery to your distribution centers by September 8.\n\nProduct Details for Your Records:\n- UPC Code (Classic Black): 8-50234-00121-0\n- UPC Code (Vanilla): 8-50234-00122-7\n- Case pack: 12 bottles per case\n- Shelf life: 12 months from production date (unopened)\n- Storage: Refrigerated section recommended but not required before opening\n\nPromotional Support:\n- Free standing display unit provided with initial orders of 5+ cases\n- \"Try Me\" sampling cups available upon request (limited supply)\n- Co-branded social media posts available for your store's marketing channels\n\nOrdering: To place a restock order or request promotional materials, please contact your FreshBrew sales representative or email orders@freshbrew.com.\n\nPlease note: Due to high demand, our initial production run is limited. We recommend placing your first restock order by September 10 to ensure availability.\n\nThank you for your partnership in this exciting launch.\n\nFreshBrew Distribution Team"
+      }
+    ],
+    "questions": [
+      {
+        "id": "P7T-T600-012-Q1",
+        "question": "When will Cold Brew Concentrate be available in stores?",
+        "options": ["August 25", "September 1", "September 15", "September 30"],
+        "answer": "September 15",
+        "category": "細節",
+        "explanation": "新聞稿寫明「available in retail stores nationwide starting September 15, 2026」。",
+        "crossReference": false
+      },
+      {
+        "id": "P7T-T600-012-Q2",
+        "question": "What is the suggested retail price per bottle?",
+        "options": ["$9.99", "$12.99", "$14.99", "$16.99"],
+        "answer": "$12.99",
+        "category": "細節",
+        "explanation": "新聞稿列出「Suggested retail price: $12.99 per 16-ounce bottle」。",
+        "crossReference": false
+      },
+      {
+        "id": "P7T-T600-012-Q3",
+        "question": "How many bottles will the first production run produce?",
+        "options": ["25,000", "40,000", "50,000", "75,000"],
+        "answer": "50,000",
+        "category": "細節",
+        "explanation": "內部備忘錄要求「Complete first production run of 50,000 bottles by September 1」。",
+        "crossReference": false
+      },
+      {
+        "id": "P7T-T600-012-Q4",
+        "question": "When is the deadline for marketing to finalize social media content?",
+        "options": ["August 15", "August 20", "August 25", "September 1"],
+        "answer": "August 20",
+        "category": "細節",
+        "explanation": "內部備忘錄行銷部門項目「Finalize social media campaign content by August 20」。",
+        "crossReference": false
+      },
+      {
+        "id": "P7T-T600-012-Q5",
+        "question": "What incentive is offered to retailers who place initial orders of 5 or more cases?",
+        "options": ["A 10% discount", "Free shipping", "A free standing display unit", "Extended payment terms"],
+        "answer": "A free standing display unit",
+        "category": "跨篇比對",
+        "explanation": "此題須同時參照兩篇以上文件：經銷商公告中「Promotional Support」列出「Free standing display unit provided with initial orders of 5+ cases」；此資訊在新聞稿和內部備忘錄中未提及。比對各文件可知此為針對經銷商的專屬優惠。",
+        "crossReference": true
+      }
+    ]
+  }
+]

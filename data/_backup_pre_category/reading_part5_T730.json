@@ -1,0 +1,497 @@
+[
+  {
+    "id": "P5-T730-001",
+    "part": 5,
+    "track": "T730",
+    "question": "The board of directors will ____ the merger proposal at the next quarterly meeting.",
+    "options": ["deliberate", "deliberation", "deliberative", "deliberately"],
+    "answer": "deliberate",
+    "explanation": "will後接原形動詞deliberate（審議）；deliberation為名詞，deliberative為形容詞，deliberately為副詞。"
+  },
+  {
+    "id": "P5-T730-002",
+    "part": 5,
+    "track": "T730",
+    "question": "The management has decided to ____ the implementation of the new policy until next fiscal year.",
+    "options": ["put off", "take over", "carry out", "bring about"],
+    "answer": "put off",
+    "explanation": "put off（延後）符合推遲政策實施的語境；take over接管，carry out執行，bring about導致。"
+  },
+  {
+    "id": "P5-T730-003",
+    "part": 5,
+    "track": "T730",
+    "question": "Applicants are required to ____ all supporting documents by the application deadline.",
+    "options": ["submit", "commit", "transfer", "transmit"],
+    "answer": "submit",
+    "explanation": "submit documents（提交文件）為最直接搭配；commit承諾/犯，transfer轉移，transmit傳輸，語意不完全符合。"
+  },
+  {
+    "id": "P5-T730-004",
+    "part": 5,
+    "track": "T730",
+    "question": "Had we been informed earlier, we ____ the necessary arrangements in time.",
+    "options": ["would make", "would have made", "made", "had made"],
+    "answer": "would have made",
+    "explanation": "「Had + 主詞 + 過去分詞」為與過去事實相反的假設句，主要子句用would have + 過去分詞。"
+  },
+  {
+    "id": "P5-T730-005",
+    "part": 5,
+    "track": "T730",
+    "question": "The consultant's recommendations were ____ by the majority of the committee members.",
+    "options": ["endorsed", "enforced", "enhanced", "engaged"],
+    "answer": "endorsed",
+    "explanation": "endorse（背書/贊同）符合被委員會多數接受的語境；enforce執行，enhance提升，engage參與。"
+  },
+  {
+    "id": "P5-T730-006",
+    "part": 5,
+    "track": "T730",
+    "question": "The discrepancy in the financial report ____ a thorough investigation by the auditors.",
+    "options": ["gave rise to", "took part in", "made up for", "put up with"],
+    "answer": "gave rise to",
+    "explanation": "gave rise to（導致/引起）指差異引起調查；took part in參與，made up for彌補，put up with忍受。"
+  },
+  {
+    "id": "P5-T730-007",
+    "part": 5,
+    "track": "T730",
+    "question": "The terms outlined in the contract are ____ to negotiation before the final signing.",
+    "options": ["subject", "subjective", "subjected", "subjecting"],
+    "answer": "subject",
+    "explanation": "be subject to + 名詞（受制於/可經由）為固定片語；subjective主觀的，subjected to遭受，subjecting動名詞。"
+  },
+  {
+    "id": "P5-T730-008",
+    "part": 5,
+    "track": "T730",
+    "question": "It is essential that every department ____ its budget proposal by the end of the month.",
+    "options": ["submits", "submit", "submitted", "will submit"],
+    "answer": "submit",
+    "explanation": "It is essential that + 主詞 + 原形動詞（should省略）為假設語氣用法。"
+  },
+  {
+    "id": "P5-T730-009",
+    "part": 5,
+    "track": "T730",
+    "question": "The company's reputation has been ____ damaged by the recent data breach incident.",
+    "options": ["severely", "serious", "severity", "severe"],
+    "answer": "severely",
+    "explanation": "副詞severely修飾形容詞damaged；serious/severe為形容詞，severity為名詞。"
+  },
+  {
+    "id": "P5-T730-010",
+    "part": 5,
+    "track": "T730",
+    "question": "The marketing campaign was ____ to increase brand awareness among younger consumers.",
+    "options": ["designed", "designing", "designate", "designation"],
+    "answer": "designed",
+    "explanation": "be designed to + 原形（旨在/被設計用來）為被動語態固定用法。"
+  },
+  {
+    "id": "P5-T730-011",
+    "part": 5,
+    "track": "T730",
+    "question": "The rise in operational costs has ____ a significant impact on the company's profit margins.",
+    "options": ["had", "taken", "given", "brought"],
+    "answer": "had",
+    "explanation": "have/has a significant impact on（對...有重大影響）為固定搭配，完成式為has had。"
+  },
+  {
+    "id": "P5-T730-012",
+    "part": 5,
+    "track": "T730",
+    "question": "The construction of the new facility is expected to be completed ____ schedule despite the labor shortage.",
+    "options": ["ahead of", "in light of", "by means of", "on account of"],
+    "answer": "ahead of",
+    "explanation": "ahead of schedule（提前）符合雖缺工仍預計按時完成的語境；其他片語語意不合。"
+  },
+  {
+    "id": "P5-T730-013",
+    "part": 5,
+    "track": "T730",
+    "question": "Employees are encouraged to ____ themselves of the professional development opportunities provided by the company.",
+    "options": ["avail", "benefit", "take", "use"],
+    "answer": "avail",
+    "explanation": "avail oneself of + 事物（善用/利用）為正式書面固定用法。"
+  },
+  {
+    "id": "P5-T730-014",
+    "part": 5,
+    "track": "T730",
+    "question": "The shipment was held up at customs ____ a discrepancy in the documentation.",
+    "options": ["due to", "because", "since", "as a result"],
+    "answer": "due to",
+    "explanation": "due to + 名詞片語表示原因；because/since/as a result後需接完整子句。"
+  },
+  {
+    "id": "P5-T730-015",
+    "part": 5,
+    "track": "T730",
+    "question": "Neither the CEO nor the board members ____ aware of the irregularities in the accounting department.",
+    "options": ["was", "were", "has", "have"],
+    "answer": "were",
+    "explanation": "neither A nor B的主詞就近原則配合B（board members複數），過去式用were。"
+  },
+  {
+    "id": "P5-T730-016",
+    "part": 5,
+    "track": "T730",
+    "question": "The client insisted that the project manager ____ present at the negotiation table.",
+    "options": ["be", "is", "was", "will be"],
+    "answer": "be",
+    "explanation": "insist that + 原形動詞（should省略）表主張的假設語氣。"
+  },
+  {
+    "id": "P5-T730-017",
+    "part": 5,
+    "track": "T730",
+    "question": "The newly appointed director is well known ____ her expertise in supply chain management.",
+    "options": ["for", "as", "by", "with"],
+    "answer": "for",
+    "explanation": "be well known for + 特質（以...聞名）為正確介係詞搭配。"
+  },
+  {
+    "id": "P5-T730-018",
+    "part": 5,
+    "track": "T730",
+    "question": "The proposal was rejected on the ____ that it exceeded the allocated budget.",
+    "options": ["grounds", "reasons", "basis", "premises"],
+    "answer": "grounds",
+    "explanation": "on the grounds that（基於...理由）為正式書面固定片語；reasons需搭配for，basis常用on the basis of，premises指建築物/前提。"
+  },
+  {
+    "id": "P5-T730-019",
+    "part": 5,
+    "track": "T730",
+    "question": "The sudden resignation of the CFO came as a ____ to everyone in the company.",
+    "options": ["surprise", "surprising", "surprised", "surprisingly"],
+    "answer": "surprise",
+    "explanation": "came as a surprise（令人意外）中a後需接名詞surprise。"
+  },
+  {
+    "id": "P5-T730-020",
+    "part": 5,
+    "track": "T730",
+    "question": "Under no circumstances ____ the confidential information to unauthorized personnel.",
+    "options": ["should employees disclose", "employees should disclose", "employees disclose", "do employees should disclose"],
+    "answer": "should employees disclose",
+    "explanation": "否定副詞置於句首需倒裝，主詞與助動詞should對調。"
+  },
+  {
+    "id": "P5-T730-021",
+    "part": 5,
+    "track": "T730",
+    "question": "The new software is expected to ____ the efficiency of our data processing operations.",
+    "options": ["enhance", "enlarge", "enrich", "ensure"],
+    "answer": "enhance",
+    "explanation": "enhance efficiency（提升效率）為常見搭配；enlarge放大，enrich豐富，ensure確保。"
+  },
+  {
+    "id": "P5-T730-022",
+    "part": 5,
+    "track": "T730",
+    "question": "Not only ____ the deadline, but the team also delivered exceptional quality.",
+    "options": ["did the team meet", "the team met", "the team did meet", "met the team"],
+    "answer": "did the team meet",
+    "explanation": "Not only置於句首需倒裝，助動詞did提前。"
+  },
+  {
+    "id": "P5-T730-023",
+    "part": 5,
+    "track": "T730",
+    "question": "The proposal warrants careful ____ before any final decision is made.",
+    "options": ["consideration", "consider", "considerable", "considerate"],
+    "answer": "consideration",
+    "explanation": "形容詞careful修飾名詞consideration（考慮）；consider為動詞，considerable大量的，considerate體貼的。"
+  },
+  {
+    "id": "P5-T730-024",
+    "part": 5,
+    "track": "T730",
+    "question": "The company is committed ____ the highest standards of customer service.",
+    "options": ["to maintaining", "maintain", "maintaining", "for maintaining"],
+    "answer": "to maintaining",
+    "explanation": "be committed to + V-ing（致力於）為固定搭配，to在此為介係詞。"
+  },
+  {
+    "id": "P5-T730-025",
+    "part": 5,
+    "track": "T730",
+    "question": "The quarterly earnings report fell short ____ analysts' expectations.",
+    "options": ["of", "from", "off", "in"],
+    "answer": "of",
+    "explanation": "fall short of（未達到）為固定片語；其他介係詞不搭配。"
+  },
+  {
+    "id": "P5-T730-026",
+    "part": 5,
+    "track": "T730",
+    "question": "The training session was designed to ____ employees with the skills needed for the new system.",
+    "options": ["equip", "supply", "provide", "offer"],
+    "answer": "equip",
+    "explanation": "equip someone with something（以...裝備某人）為正確搭配；supply/提供需用supply someone with或provide someone with，但equip最貼切。"
+  },
+  {
+    "id": "P5-T730-027",
+    "part": 5,
+    "track": "T730",
+    "question": "The company is being ____ for damages by several former clients.",
+    "options": ["sued", "charged", "accused", "prosecuted"],
+    "answer": "sued",
+    "explanation": "sue for damages（提起損害賠償訴訟）為法律商務術語；charged with/accused of（刑事指控），prosecuted檢方起訴。"
+  },
+  {
+    "id": "P5-T730-028",
+    "part": 5,
+    "track": "T730",
+    "question": "The success of the project hinges ____ the cooperation of all departments involved.",
+    "options": ["on", "upon", "at", "over"],
+    "answer": "on",
+    "explanation": "hinge on/upon（取決於）為固定搭配，on與upon在此可互換，但on更常見；at/over不正確。"
+  },
+  {
+    "id": "P5-T730-029",
+    "part": 5,
+    "track": "T730",
+    "question": "The consultant suggested that the company ____ its distribution channels to reach a wider audience.",
+    "options": ["expand", "expands", "expanded", "would expand"],
+    "answer": "expand",
+    "explanation": "suggest that + 原形動詞（should省略）表建議的假設語氣。"
+  },
+  {
+    "id": "P5-T730-030",
+    "part": 5,
+    "track": "T730",
+    "question": "All things ____, the board decided to proceed with the acquisition.",
+    "options": ["considered", "considering", "consider", "consideration"],
+    "answer": "considered",
+    "explanation": "All things considered（權衡所有因素後）為獨立分詞構句固定片語。"
+  },
+  {
+    "id": "P5-T730-031",
+    "part": 5,
+    "track": "T730",
+    "question": "The company is ____ the process of restructuring its entire sales division.",
+    "options": ["in", "on", "at", "under"],
+    "answer": "in",
+    "explanation": "in the process of + V-ing（正在...的過程中）為固定片語。"
+  },
+  {
+    "id": "P5-T730-032",
+    "part": 5,
+    "track": "T730",
+    "question": "Despite ____ numerous challenges, the team managed to complete the project on time.",
+    "options": ["facing", "faced", "having faced", "to face"],
+    "answer": "facing",
+    "explanation": "Despite + V-ing（儘管面對），facing在此為動名詞。having faced強調已面對過但此處無先後必要。"
+  },
+  {
+    "id": "P5-T730-033",
+    "part": 5,
+    "track": "T730",
+    "question": "The outcome of the negotiations will ____ greatly on the willingness of both parties to compromise.",
+    "options": ["depend", "depends", "dependent", "dependence"],
+    "answer": "depend",
+    "explanation": "will後接原形動詞depend，depend on為片語動詞。"
+  },
+  {
+    "id": "P5-T730-034",
+    "part": 5,
+    "track": "T730",
+    "question": "It is imperative that all safety protocols ____ followed at all times.",
+    "options": ["be", "are", "will be", "have been"],
+    "answer": "be",
+    "explanation": "It is imperative that + 原形動詞（should省略）表重要性的假設語氣。"
+  },
+  {
+    "id": "P5-T730-035",
+    "part": 5,
+    "track": "T730",
+    "question": "The increase in productivity can be ____ to the implementation of the new management system.",
+    "options": ["attributed", "contributed", "distributed", "tributed"],
+    "answer": "attributed",
+    "explanation": "be attributed to（歸因於）為固定搭配；contributed to貢獻於，distributed分配，tributed非正確詞彙。"
+  },
+  {
+    "id": "P5-T730-036",
+    "part": 5,
+    "track": "T730",
+    "question": "The merger was called off ____ the failure to reach a consensus on the valuation.",
+    "options": ["owing to", "in spite of", "in terms of", "with regard to"],
+    "answer": "owing to",
+    "explanation": "owing to + 名詞（由於）表原因；in spite of儘管，in terms of就...而言，with regard to關於。"
+  },
+  {
+    "id": "P5-T730-037",
+    "part": 5,
+    "track": "T730",
+    "question": "The researcher's findings ____ light on the underlying causes of employee burnout.",
+    "options": ["shed", "gave", "cast", "threw"],
+    "answer": "shed",
+    "explanation": "shed light on（闡明/揭示）為固定搭配；也可用cast/throw light on，但shed是此片語最常見動詞。"
+  },
+  {
+    "id": "P5-T730-038",
+    "part": 5,
+    "track": "T730",
+    "question": "The candidate's qualifications, along with her extensive experience, ____ her the ideal choice for the position.",
+    "options": ["make", "makes", "making", "made"],
+    "answer": "make",
+    "explanation": "主詞為qualifications（複數），along with不影響主詞數，故用make現在式。"
+  },
+  {
+    "id": "P5-T730-039",
+    "part": 5,
+    "track": "T730",
+    "question": "The conference will bring together industry leaders ____ across various sectors.",
+    "options": ["operating", "operated", "operational", "operation"],
+    "answer": "operating",
+    "explanation": "現在分詞operating修飾leaders，表示正在營運的；operated被動，operational形容詞可營運的，operation名詞。"
+  },
+  {
+    "id": "P5-T730-040",
+    "part": 5,
+    "track": "T730",
+    "question": "Should you have any further inquiries, please do not ____ to contact our customer service team.",
+    "options": ["hesitate", "hesitation", "hesitant", "hesitating"],
+    "answer": "hesitate",
+    "explanation": "do not hesitate to + 原形動詞（請儘管）為客套書信固定用法。"
+  },
+  {
+    "id": "P5-T730-041",
+    "part": 5,
+    "track": "T730",
+    "question": "The board is ____ in its commitment to environmental sustainability.",
+    "options": ["unanimous", "unanimously", "unanimity", "unanimousness"],
+    "answer": "unanimous",
+    "explanation": "be動詞後接形容詞unanimous（一致同意）當主詞補語。"
+  },
+  {
+    "id": "P5-T730-042",
+    "part": 5,
+    "track": "T730",
+    "question": "The new regulation will come into ____ on the first of next month.",
+    "options": ["effect", "affect", "effective", "effectively"],
+    "answer": "effect",
+    "explanation": "come into effect（生效）為固定片語名詞；affect為動詞，effective為形容詞，effectively為副詞。"
+  },
+  {
+    "id": "P5-T730-043",
+    "part": 5,
+    "track": "T730",
+    "question": "The company takes ____ in providing high-quality products to its customers.",
+    "options": ["pride", "proud", "prideful", "proudly"],
+    "answer": "pride",
+    "explanation": "take pride in + V-ing（以...為傲）為固定搭配名詞；proud為形容詞，prideful/proudly語法不符。"
+  },
+  {
+    "id": "P5-T730-044",
+    "part": 5,
+    "track": "T730",
+    "question": "The annual audit revealed several ____ in the accounting procedures.",
+    "options": ["discrepancies", "differences", "diversities", "distinctions"],
+    "answer": "discrepancies",
+    "explanation": "discrepancies（差異/不一致）為會計審計中的專業用語；differences泛指不同，diversities多樣性，distinctions區別。"
+  },
+  {
+    "id": "P5-T730-045",
+    "part": 5,
+    "track": "T730",
+    "question": "The company has no choice but ____ its marketing strategy in light of the changing market conditions.",
+    "options": ["to adjust", "adjust", "adjusting", "adjusted"],
+    "answer": "to adjust",
+    "explanation": "have no choice but to + 原形動詞（別無選擇只能）為固定句型。"
+  },
+  {
+    "id": "P5-T730-046",
+    "part": 5,
+    "track": "T730",
+    "question": "The CEO expressed her appreciation for the dedication ____ by the employees during the restructuring period.",
+    "options": ["shown", "showing", "show", "shows"],
+    "answer": "shown",
+    "explanation": "過去分詞shown修飾dedication（所展現的奉獻），表被動含義。"
+  },
+  {
+    "id": "P5-T730-047",
+    "part": 5,
+    "track": "T730",
+    "question": "The demand for eco-friendly packaging has grown ____ in recent years.",
+    "options": ["exponentially", "expensively", "extensively", "exclusively"],
+    "answer": "exponentially",
+    "explanation": "exponentially（指數級增長地）形容需求快速增長；expensively昂貴地，extensively廣泛地，exclusively獨家地。"
+  },
+  {
+    "id": "P5-T730-048",
+    "part": 5,
+    "track": "T730",
+    "question": "The new policy applies ____ all employees, regardless of their position or tenure.",
+    "options": ["to", "for", "with", "on"],
+    "answer": "to",
+    "explanation": "apply to + 對象（適用於）為固定搭配；apply for申請。"
+  },
+  {
+    "id": "P5-T730-049",
+    "part": 5,
+    "track": "T730",
+    "question": "The company is ____ to announce a partnership with a leading technology firm.",
+    "options": ["pleased", "pleasing", "pleasant", "pleasure"],
+    "answer": "pleased",
+    "explanation": "be pleased to + 原形動詞（很榮幸/高興）be pleased表主詞對某事感到開心。"
+  },
+  {
+    "id": "P5-T730-050",
+    "part": 5,
+    "track": "T730",
+    "question": "If the shipment ____ by Friday, we will have to cancel the order.",
+    "options": ["is not delivered", "was not delivered", "will not be delivered", "has not delivered"],
+    "answer": "is not delivered",
+    "explanation": "if條件句用現在式代替未來式，被動態；is not delivered表未來被送達之條件。has not delivered為主動態不符。"
+  },
+  {
+    "id": "P5-T730-051",
+    "part": 5,
+    "track": "T730",
+    "question": "The figures in the report must be ____ against the original data before publication.",
+    "options": ["verified", "validated", "certified", "confirmed"],
+    "answer": "verified",
+    "explanation": "verified against（核對/驗證）強調對照原始資料確認正確性；validated驗證有效性，certified認證，confirmed確認。"
+  },
+  {
+    "id": "P5-T730-052",
+    "part": 5,
+    "track": "T730",
+    "question": "The software upgrade will enable us to ____ the workflow and reduce redundant tasks.",
+    "options": ["streamline", "streaming", "stream", "streamed"],
+    "answer": "streamline",
+    "explanation": "streamline（簡化/使流暢）為商務術語，to後接原形動詞。"
+  },
+  {
+    "id": "P5-T730-053",
+    "part": 5,
+    "track": "T730",
+    "question": "The candidate's presentation was impressive, ____ the board to reconsider their initial decision.",
+    "options": ["prompting", "prompted", "having prompted", "being prompted"],
+    "answer": "prompting",
+    "explanation": "分詞構句prompting表主動且伴隨結果，修飾前面整個主句。"
+  },
+  {
+    "id": "P5-T730-054",
+    "part": 5,
+    "track": "T730",
+    "question": "The downturn in the economy has ____ a decline in consumer spending across the sector.",
+    "options": ["brought about", "brought up", "brought in", "brought out"],
+    "answer": "brought about",
+    "explanation": "brought about（導致/引起）符合經濟衰退導致消費下降的語境；brought up撫養/提出，brought in引入，brought out出版/帶出。"
+  },
+  {
+    "id": "P5-T730-055",
+    "part": 5,
+    "track": "T730",
+    "question": "The employees were ____ for their outstanding contributions to the annual project.",
+    "options": ["commended", "commenced", "commented", "commanded"],
+    "answer": "commended",
+    "explanation": "commended（表揚/讚揚）符合被表揚的語境；commenced開始，commented評論，commanded指揮。"
+  }
+]

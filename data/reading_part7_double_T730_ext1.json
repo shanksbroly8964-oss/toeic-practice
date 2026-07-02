@@ -1,0 +1,1058 @@
+[
+  {
+    "id": "P7D-T730-005",
+    "part": 7,
+    "type": "double",
+    "track": "T730",
+    "documents": [
+      {
+        "title": "Marketing Specialist — Global Brand Division",
+        "body": "POSITION SUMMARY\nMetroVantage Inc., a multinational consumer goods corporation headquartered in Singapore, is seeking a seasoned Marketing Specialist to join our Global Brand Division. The successful candidate will be responsible for conceptualizing and executing integrated marketing campaigns across digital and traditional channels, conducting granular market segmentation analyses, and liaising with external creative agencies to ensure brand consistency.\n\nPRIMARY RESPONSIBILITIES\n• Devise and implement data-driven, omnichannel marketing strategies that optimize customer acquisition costs while maximizing lifetime value.\n• Spearhead A/B testing initiatives and interpret multivariable regression analyses to refine campaign performance.\n• Collaborate cross-functionally with product development, supply chain, and regional sales teams to align brand messaging with commercial objectives.\n• Manage quarterly marketing budgets exceeding $500,000 and produce post-campaign ROI reconciliation reports.\n\nMINIMUM QUALIFICATIONS\n• Bachelor's degree in Marketing, Business Administration, or a cognate discipline; an MBA is highly advantageous.\n• At least five years of progressive experience in brand management or digital marketing within a fast-paced, matrixed organization.\n• Demonstrated proficiency in Google Analytics 4, Salesforce Marketing Cloud, and Tableau.\n• Exceptional written and verbal communication skills in English; working knowledge of Mandarin or Japanese is a distinct asset.\n\nAPPLICATION DEADLINE: November 30. Shortlisted candidates will be contacted for a panel interview and a case-study presentation within two weeks of the closing date."
+      },
+      {
+        "title": "RE: Application for Marketing Specialist (Ref: MV-GBD-2026-047) — Acknowledgment & Next Steps",
+        "body": "Dear Ms. Chen,\n\nThank you for submitting your application for the Marketing Specialist position with our Global Brand Division. We have successfully received all requisite documents, including your curriculum vitae, cover letter, and professional references.\n\nAfter an initial screening of your credentials, the hiring panel has noted that your resume lacks a digital portfolio or a compendium of past campaign deliverables. Given the seniority of this role, could you please furnish a curated portfolio demonstrating quantifiable outcomes from at least three marketing campaigns you have spearheaded? Preferably, include metrics such as ROAS, conversion lift, or engagement rate improvements.\n\nKindly submit the portfolio by November 25 to allow sufficient time for the panel's deliberation before the interview shortlisting phase commences. Please be advised that the application deadline of November 30 remains firm; however, portfolios received after November 25 will not be factored into the pre-screening assessment.\n\nShould you have any inquiries, do not hesitate to contact our Talent Acquisition team.\n\nWarm regards,\nPriya Kapoor\nSenior Talent Acquisition Partner\nMetroVantage Inc."
+      }
+    ],
+    "questions": [
+      {
+        "id": "P7D-T730-005-Q1",
+        "question": "What is the main purpose of the email from Ms. Kapoor?",
+        "options": [
+          "To inform the candidate that she has been shortlisted for an interview",
+          "To request a supplementary portfolio and clarify a revised internal deadline",
+          "To notify the candidate that her application was incomplete and has been rejected",
+          "To extend the application deadline to November 30"
+        ],
+        "answer": "To request a supplementary portfolio and clarify a revised internal deadline",
+        "explanation": "信件主旨為要求候選人補交作品集，並說明內部審查截止日為 11 月 25 日，而非拒絕或通知錄取。",
+        "crossReference": false,
+        "category": "主旨"
+      },
+      {
+        "id": "P7D-T730-005-Q2",
+        "question": "According to the job advertisement, which technical competency is explicitly listed as a requirement?",
+        "options": [
+          "Proficiency in Adobe Creative Suite and Figma",
+          "Experience with Google Analytics 4, Salesforce Marketing Cloud, and Tableau",
+          "Certification in Google Ads and Meta Blueprint",
+          "Fluency in Mandarin and Japanese"
+        ],
+        "answer": "Experience with Google Analytics 4, Salesforce Marketing Cloud, and Tableau",
+        "explanation": "徵才廣告中明確列出須具備 GA4、Salesforce Marketing Cloud 及 Tableau 的操作能力。",
+        "crossReference": false,
+        "category": "細節"
+      },
+      {
+        "id": "P7D-T730-005-Q3",
+        "question": "What is implied about the hiring panel's decision-making process?",
+        "options": [
+          "All applicants will be interviewed regardless of portfolio submission",
+          "Portfolio evaluation is a prerequisite for being considered for an interview",
+          "The panel has already decided to hire Ms. Chen pending the portfolio",
+          "Interviews will be conducted before the application deadline"
+        ],
+        "answer": "Portfolio evaluation is a prerequisite for being considered for an interview",
+        "explanation": "信件指出作品集須在 11 月 25 日前提交以便在面試篩選階段前審查，暗示未提交者可能無法進入面試。",
+        "crossReference": false,
+        "category": "推論"
+      },
+      {
+        "id": "P7D-T730-005-Q4",
+        "question": "In the job advertisement, the word \"cognate\" is closest in meaning to:",
+        "options": [
+          "Unrelated",
+          "Equivalent",
+          "Related",
+          "Advanced"
+        ],
+        "answer": "Related",
+        "explanation": "\"Cognate discipline\" 意指「相關領域」，與 related 意思最接近。",
+        "crossReference": false,
+        "category": "字義"
+      },
+      {
+        "id": "P7D-T730-005-Q5",
+        "question": "How does the portfolio deadline mentioned in the email relate to the application deadline stated in the job posting?",
+        "options": [
+          "Both deadlines are identical and fall on November 30",
+          "The portfolio deadline precedes the application deadline by five days for internal screening purposes",
+          "The portfolio deadline is flexible, while the application deadline is not",
+          "The application deadline was moved forward after the portfolio was requested"
+        ],
+        "answer": "The portfolio deadline precedes the application deadline by five days for internal screening purposes",
+        "explanation": "此題須同時參照兩篇文件：徵才廣告寫明申請截止日為 11 月 30 日，而信件則要求作品集在 11 月 25 日前繳交，比正式截止日提早五天，目的是讓審查小組在篩選面試名單前有足夠時間評估。",
+        "crossReference": true,
+        "category": "跨篇比對"
+      }
+    ]
+  },
+  {
+    "id": "P7D-T730-006",
+    "part": 7,
+    "type": "double",
+    "track": "T730",
+    "documents": [
+      {
+        "title": "MEMORANDUM — Revised Travel & Expense Reimbursement Policy (Effective Q3 2026)",
+        "body": "TO: All Employees\nFROM: Chief Financial Officer, Apexion Dynamics\nSUBJECT: Revised T&E Policy — Mandatory Compliance\n\nIn light of the recent budgetary audit and the board's directive to curtail discretionary spending, the following revisions to the corporate Travel & Expense (T&E) policy take effect on July 1, 2026. Noncompliance will result in reimbursement forfeiture.\n\n1. ACCOMMODATION CAP\nHotel lodging expenses are capped at $220 per night (excluding taxes and surcharges) for domestic travel and $350 per night for international destinations. Any excess must be pre-approved in writing by a director-level signatory at least seven calendar days prior to check-in.\n\n2. MEAL ALLOWANCE\nDaily meal reimbursement is limited to $75 aggregate, with individual meal receipts not exceeding $25 for breakfast, $30 for lunch, and $40 for dinner. Alcohol purchases remain categorically ineligible for reimbursement regardless of amount.\n\n3. RECEIPT SUBMISSION\nOriginal itemized receipts must be uploaded to the ConcurX portal within ten business days of the expense incurrence date. Credit card statements and handwritten notations will not be accepted as substitutes for itemized receipts.\n\n4. RIDESHARE & TRANSPORTATION\nRideshare services (e.g., Uber, Lyft) are reimbursable only when public transit is demonstrably impractical. A written justification must accompany each rideshare claim. Premium ride tiers (Black, Lux, XL) are excluded.\n\n5. CLIENT ENTERTAINMENT\nClient entertainment expenses exceeding $150 per person require prior approval from a VP-level executive. A detailed attendee list and business purpose narrative are mandatory.\n\nEmployees are urged to review the full policy document on the company intranet. Questions may be directed to ap-travel@apexion.com."
+      },
+      {
+        "title": "Re: Your Expense Report ER-2026-0842 — Reimbursement Decision",
+        "body": "Dear Mr. Delgado,\n\nI have completed my review of your expense report (ER-2026-0842) submitted on August 12, 2026, for your business trip to Chicago from August 4–7. Regrettably, I must reject the following line items due to policy violations:\n\n• Hotel: $287.50 per night × 3 nights = $862.50. The nightly rate exceeds the domestic cap of $220, and no director-level pre-approval was on file prior to your check-in.\n\n• Dinner receipt (August 5): $52.80 at The Florentine. This surpasses the $40 dinner allowance by $12.80 and is therefore not reimbursable at the claimed amount.\n\n• Rideshare (August 6): $38.45 — Uber Comfort. Premium ride tiers are explicitly excluded. Moreover, no written justification was provided to demonstrate that public transit was impractical.\n\nAdditionally, your report lacks a client entertainment pre-approval for the August 5 dinner, which the receipt indicates included three external guests.\n\nThe remaining compliant items — airfare ($412.00) and breakfast/lunch receipts ($48.30) — have been approved and will be processed in the next payroll cycle.\n\nYou are welcome to resubmit the rejected items with the requisite documentation within five business days. Please refer to the revised T&E policy memorandum circulated on June 25.\n\nSincerely,\nEleanor Vance\nDirector of Finance Operations"
+      }
+    ],
+    "questions": [
+      {
+        "id": "P7D-T730-006-Q1",
+        "question": "What is the main reason Ms. Vance gives for rejecting the hotel expense?",
+        "options": [
+          "The hotel was located outside the approved business district",
+          "The nightly rate exceeded the domestic cap and no director-level pre-approval was secured",
+          "The employee submitted the receipt after the ten-day submission window",
+          "The hotel invoice did not include an itemized breakdown of charges"
+        ],
+        "answer": "The nightly rate exceeded the domestic cap and no director-level pre-approval was secured",
+        "explanation": "信中指出每晚房價 $287.50 超出國內上限 $220，且事先未取得主管級核准。",
+        "crossReference": false,
+        "category": "細節"
+      },
+      {
+        "id": "P7D-T730-006-Q2",
+        "question": "According to the policy memo, what is required for client entertainment expenses exceeding $150 per person?",
+        "options": [
+          "A director-level signatory approval",
+          "A VP-level pre-approval, attendee list, and business purpose narrative",
+          "An itemized receipt submitted within five business days",
+          "A written justification for using premium services"
+        ],
+        "answer": "A VP-level pre-approval, attendee list, and business purpose narrative",
+        "explanation": "政策第 5 條明確規定超過每人 $150 的客戶招待需 VP 級事先核准、出席者名單及商業目的說明。",
+        "crossReference": false,
+        "category": "細節"
+      },
+      {
+        "id": "P7D-T730-006-Q3",
+        "question": "What can be inferred about Mr. Delgado's understanding of the revised T&E policy?",
+        "options": [
+          "He was fully aware of the revisions but chose to ignore them",
+          "He appears to have been unfamiliar with or disregarded several key provisions of the updated policy",
+          "He had obtained VP-level approval but failed to attach the documentation",
+          "He deliberately falsified the expense report to maximize reimbursement"
+        ],
+        "answer": "He appears to have been unfamiliar with or disregarded several key provisions of the updated policy",
+        "explanation": "Delgado 先生同時違反住宿上限、餐費上限、共乘等級限制及客戶招待核准規定，推論其對修訂後的政策不甚了解或未遵守多項條款。",
+        "crossReference": false,
+        "category": "推論"
+      },
+      {
+        "id": "P7D-T730-006-Q4",
+        "question": "In the policy memo, the phrase \"reimbursement forfeiture\" most likely means:",
+        "options": [
+          "Automatic payroll deduction",
+          "Loss of the right to be repaid for the expense",
+          "A written warning from the finance department",
+          "A mandatory policy review meeting"
+        ],
+        "answer": "Loss of the right to be repaid for the expense",
+        "explanation": "\"Forfeiture\" 意為「喪失、沒收」，此處指違規將導致無法獲得費用核銷。",
+        "crossReference": false,
+        "category": "字義"
+      },
+      {
+        "id": "P7D-T730-006-Q5",
+        "question": "Considering both the policy and the rejection email, which of Mr. Delgado's expenses would have been reimbursed had he provided the proper documentation?",
+        "options": [
+          "The hotel expense, if a partial reimbursement below the cap were allowed",
+          "The dinner at The Florentine, if submitted within the $40 dinner limit",
+          "The rideshare expense, if he had submitted a written justification and used a standard-tier service",
+          "All rejected items, if he had simply resubmitted them without changes"
+        ],
+        "answer": "The rideshare expense, if he had submitted a written justification and used a standard-tier service",
+        "explanation": "此題須同時參照兩篇文件：政策規定共乘服務在證明大眾運輸不可行的情況下可核銷，但排除高階車種。信件指出 Delgado 使用了 Uber Comfort（高階車種）且未附說明。若他改用標準車種並附書面說明，該費用可能符合政策。其他選項仍有根本性違規而無法全額核銷。",
+        "crossReference": true,
+        "category": "跨篇比對"
+      }
+    ]
+  },
+  {
+    "id": "P7D-T730-007",
+    "part": 7,
+    "type": "double",
+    "track": "T730",
+    "documents": [
+      {
+        "title": "FOR IMMEDIATE RELEASE — Veloce Analytics Unveils VeloceIQ 3.0, a Paradigm Shift in Predictive Business Intelligence",
+        "body": "SAN FRANCISCO, CA — October 9, 2026 — Veloce Analytics, a trailblazer in enterprise-grade predictive analytics, today announced the official launch of VeloceIQ 3.0, the latest iteration of its flagship business intelligence platform. This release represents a quantum leap forward, featuring a proprietary neural-symbolic reasoning engine that amalgamates deep learning with rule-based inference to deliver auditable, explainable AI predictions.\n\nKey enhancements in VeloceIQ 3.0 include:\n• Autonomous anomaly detection capable of flagging nascent supply chain disruptions up to 72 hours before conventional threshold-based systems.\n• A revamped natural language query interface that empowers non-technical stakeholders to generate complex multidimensional analyses through conversational prompts.\n• Granular data lineage tracking, ensuring full traceability from raw source ingestion to final dashboard visualization, a feature certified for SOC 2 Type II and ISO 27001 compliance.\n• Real-time cross-source data federation, enabling simultaneous querying across on-premise SQL servers, cloud data lakes, and third-party SaaS APIs without ETL pre-processing.\n\n\"With VeloceIQ 3.0, we are not merely iterating — we are redefining the ontology of enterprise decision-making,\" said Dr. Amara Osei, Chief Product Officer. \"Our clients can now pivot from retrospective reporting to prescriptive action at a velocity previously unattainable.\"\n\nThe platform is available immediately via a tiered subscription model, with an introductory webinar scheduled for October 22."
+      },
+      {
+        "title": "URGENT — VeloceIQ 3.0: Critical Performance Degradation & Data Integrity Concerns",
+        "body": "To: enterprise-support@veloceanalytics.com\nFrom: rsorenson@cortlandlogistics.com\nSubject: Critical Issues — VeloceIQ 3.0 Post-Migration\n\nDear Veloce Support Team,\n\nOur organization, Cortland Logistics, upgraded from VeloceIQ 2.4 to 3.0 on October 11 under the early-adopter incentive program. While the feature set is undeniably ambitious, we have encountered several debilitating issues that are materially impacting our operations:\n\n1. Query Latency: The natural language query interface, though conceptually impressive, exhibits latencies exceeding 45 seconds for even rudimentary aggregations. Our legacy dashboards, which previously rendered in under 3 seconds on version 2.4, now experience chronic timeouts.\n\n2. Data Federation Failures: The cross-source data federation feature fails intermittently when connecting to our Snowflake instance. Approximately 30% of queries return partial datasets, and error messages are vague and unactionable (e.g., \"Source synchronization anomaly — Retry\").\n\n3. Anomaly Detection False Positives: The autonomous anomaly detection has generated 47 false-positive alerts in the past 72 hours alone, leading to unnecessary escalations that have eroded our operations team's confidence in the platform.\n\n4. Dashboard Rendering: Several critical KPI widgets display \"NULL\" values intermittently, despite the underlying datasets being complete and verifiable through direct SQL queries.\n\nWe have delayed our quarterly board reporting as a result of these issues and are now at risk of missing our internal deadlines. I request an urgent escalation to your engineering team and a concrete remediation timeline. If these stability issues persist, we may be compelled to invoke the service-level agreement penalty clause.\n\nRegards,\nRobert Sorenson\nVP of Data & Analytics\nCortland Logistics"
+      }
+    ],
+    "questions": [
+      {
+        "id": "P7D-T730-007-Q1",
+        "question": "What does the press release identify as VeloceIQ 3.0's most distinctive technical innovation?",
+        "options": [
+          "A redesigned user interface with customizable widgets",
+          "A neural-symbolic reasoning engine that combines deep learning with rule-based inference",
+          "An expanded library of pre-built dashboard templates",
+          "A new pricing model based on per-user licensing"
+        ],
+        "answer": "A neural-symbolic reasoning engine that combines deep learning with rule-based inference",
+        "explanation": "新聞稿明確指出 VeloceIQ 3.0 的核心突破是神經符號推理引擎（neural-symbolic reasoning engine），結合深度學習與規則推理。",
+        "crossReference": false,
+        "category": "細節"
+      },
+      {
+        "id": "P7D-T730-007-Q2",
+        "question": "Which of Mr. Sorenson's complaints directly contradicts a specific feature advertised in the press release?",
+        "options": [
+          "The excessive query latency of the natural language interface",
+          "The intermittent dashboard widget display of NULL values",
+          "The vague error messages for data federation failures",
+          "The high volume of false-positive anomaly detection alerts"
+        ],
+        "answer": "The excessive query latency of the natural language interface",
+        "explanation": "新聞稿宣稱自然語言查詢介面可讓非技術人員快速完成複雜分析，但客戶回報即使簡單查詢也需 45 秒以上，與廣告性能直接矛盾。",
+        "crossReference": false,
+        "category": "推論"
+      },
+      {
+        "id": "P7D-T730-007-Q3",
+        "question": "What does \"debilitating\" most likely mean in the context of Mr. Sorenson's email?",
+        "options": [
+          "Minor and easily rectifiable",
+          "Severely impairing normal operations",
+          "Financially advantageous",
+          "Theoretically intriguing but practically irrelevant"
+        ],
+        "answer": "Severely impairing normal operations",
+        "explanation": "\"Debilitating\" 意指「使衰弱的、嚴重損害功能的」，此處形容問題嚴重影響公司營運。",
+        "crossReference": false,
+        "category": "字義"
+      },
+      {
+        "id": "P7D-T730-007-Q4",
+        "question": "What can be inferred about Cortland Logistics' relationship with Veloce Analytics prior to the upgrade?",
+        "options": [
+          "Cortland was a dissatisfied customer already contemplating switching vendors",
+          "Cortland had been using an older version of the platform without significant complaints",
+          "Cortland was a beta tester for VeloceIQ 3.0 and had flagged issues before the launch",
+          "Cortland had never used any Veloce Analytics product before"
+        ],
+        "answer": "Cortland had been using an older version of the platform without significant complaints",
+        "explanation": "Sorenson 提到他們從 2.4 版升級，且指出舊版儀表板三秒內即完成渲染，暗示對舊版無重大不滿。",
+        "crossReference": false,
+        "category": "推論"
+      },
+      {
+        "id": "P7D-T730-007-Q5",
+        "question": "How does the press release's description of the anomaly detection feature contrast with Mr. Sorenson's reported experience?",
+        "options": [
+          "The press release claims it detects disruptions 72 hours early, but Cortland experienced no alerts whatsoever",
+          "The feature was promoted as autonomous and proactive, but Cortland reports it has produced numerous false positives that undermine trust",
+          "The press release describes it as optional, but Cortland was forced to enable it",
+          "Cortland confirms the feature works perfectly, but objects to its pricing"
+        ],
+        "answer": "The feature was promoted as autonomous and proactive, but Cortland reports it has produced numerous false positives that undermine trust",
+        "explanation": "此題須同時參照兩篇文件：新聞稿將異常偵測功能描繪為可提前 72 小時預警供應鏈中斷的自動化利器，但 Cortland 卻回報該功能在 72 小時內產生 47 個假警報，嚴重削弱營運團隊對平台的信任，兩者形成強烈對比。",
+        "crossReference": true,
+        "category": "跨篇比對"
+      }
+    ]
+  },
+  {
+    "id": "P7D-T730-008",
+    "part": 7,
+    "type": "double",
+    "track": "T730",
+    "documents": [
+      {
+        "title": "Ascend Leadership Accelerator — Cohort 12 Program Overview",
+        "body": "ABOUT THE PROGRAM\nThe Ascend Leadership Accelerator is an intensive, 16-week executive development program designed for high-potential mid-level managers poised to transition into senior leadership roles. Now entering its twelfth cohort, Ascend has a demonstrable track record: 78% of alumni have been promoted to director-level positions or above within 24 months of program completion.\n\nCURRICULUM ARCHITECTURE\nThe program is structured around four interdependent pillars:\n\nI. STRATEGIC ACUMEN — Modules on corporate finance for non-finance leaders, competitive foresight methodologies, and scenario-planning frameworks taught by faculty from Kellogg School of Management.\n\nII. ADAPTIVE LEADERSHIP — Immersive simulations addressing crisis communication, stakeholder alignment during organizational restructuring, and leading through ambiguity. Includes a 360-degree emotional intelligence assessment with confidential peer feedback.\n\nIII. CROSS-FUNCTIONAL COLLABORATION — Rotational shadowing assignments across at least three business units, culminating in a capstone project where participants must solve a real, board-relevant business challenge.\n\nIV. EXECUTIVE PRESENCE — Individualized coaching on persuasive communication, boardroom presentation skills, and personal brand articulation. Each participant receives six one-on-one sessions with an executive communications coach.\n\nNOMINATION & SELECTION\nCandidates must be nominated by their department head or a VP-level sponsor with a written endorsement articulating the nominee's leadership trajectory and organizational impact. The selection committee evaluates nominations holistically, weighing demonstrated potential as heavily as past achievements.\n\nPROGRAM FEE: $18,500 per participant. A 15% early-bird discount applies for nominations submitted by September 15."
+      },
+      {
+        "title": "Nomination for Ascend Cohort 12 — Saanvi Krishnamurthy",
+        "body": "TO: Ascend Selection Committee\nFROM: Marcus Templeton, VP of Operations, NovaGen Biotherapeutics\nDATE: September 8, 2026\n\nSUBJECT: Nomination of Saanvi Krishnamurthy — Senior Project Manager, Clinical Portfolio Division\n\nI am writing to nominate Saanvi Krishnamurthy for Cohort 12 of the Ascend Leadership Accelerator with my unequivocal endorsement.\n\nOver the past three years, Saanvi has consistently exceeded performance benchmarks in a division notorious for its volatility and stringent regulatory constraints. Most notably, she orchestrated the turnaround of our flagship oncology trial program when it was six months behind schedule and facing FDA scrutiny. Through deft stakeholder negotiation and meticulous resource reallocation, she brought the program back on track within four months while reducing burn rate by 22%.\n\nHowever, Saanvi's potential is most evident not in her track record but in her latent capacity for strategic thinking. During our quarterly portfolio reviews, she has repeatedly demonstrated an uncanny ability to identify cross-program synergies that senior leadership had overlooked. Her questions often challenge the underlying assumptions of our resource allocation models in ways that reveal a nascent systems-thinking aptitude.\n\nI am confident that the Ascend program — particularly the cross-functional collaboration and strategic acumen pillars — would catalyze Saanvi's transition from a proficient operational manager to a visionary organizational leader. NovaGen is prepared to fund the full program fee and adjust her workload to accommodate the program's demands.\n\nPlease do not hesitate to contact me should the committee require any supplementary information."
+      }
+    ],
+    "questions": [
+      {
+        "id": "P7D-T730-008-Q1",
+        "question": "What is the primary purpose of Mr. Templeton's nomination letter?",
+        "options": [
+          "To request a fee waiver for the Ascend program",
+          "To endorse a candidate by detailing both her proven achievements and her leadership potential",
+          "To complain about the nomination process being too restrictive",
+          "To propose a modification to the program curriculum"
+        ],
+        "answer": "To endorse a candidate by detailing both her proven achievements and her leadership potential",
+        "explanation": "Templeton 的信件既列舉 Krishnamurthy 的過往成就（如挽救腫瘤試驗計畫），也強調她的潛在策略思考能力，是一封全面性的推薦信。",
+        "crossReference": false,
+        "category": "主旨"
+      },
+      {
+        "id": "P7D-T730-008-Q2",
+        "question": "According to the brochure, which program component offers one-on-one coaching sessions?",
+        "options": [
+          "Strategic Acumen",
+          "Adaptive Leadership",
+          "Cross-Functional Collaboration",
+          "Executive Presence"
+        ],
+        "answer": "Executive Presence",
+        "explanation": "手冊明確指出 Executive Presence 包含六次一對一的高管教練課程。",
+        "crossReference": false,
+        "category": "細節"
+      },
+      {
+        "id": "P7D-T730-008-Q3",
+        "question": "In the nomination letter, the word \"nascent\" is closest in meaning to:",
+        "options": [
+          "Declining",
+          "Fully developed",
+          "Emerging",
+          "Specialized"
+        ],
+        "answer": "Emerging",
+        "explanation": "\"Nascent\" 意指「初生的、開始發展的」，與 emerging 意思最接近，此處形容 Krishnamurthy 剛展露的系統思考能力。",
+        "crossReference": false,
+        "category": "字義"
+      },
+      {
+        "id": "P7D-T730-008-Q4",
+        "question": "What can be inferred about NovaGen Biotherapeutics' view of talent development?",
+        "options": [
+          "The company is reluctant to invest in employee development and prefers external hiring",
+          "The company only supports programs that offer immediate operational benefits",
+          "The company values leadership development and is willing to invest both financially and operationally in it",
+          "The company mandates that all senior managers enroll in leadership programs"
+        ],
+        "answer": "The company values leadership development and is willing to invest both financially and operationally in it",
+        "explanation": "Templeton 表示 NovaGen 願意全額負擔 $18,500 的課程費用並調整工作量，顯示公司重視領導力發展。",
+        "crossReference": false,
+        "category": "推論"
+      },
+      {
+        "id": "P7D-T730-008-Q5",
+        "question": "Which pillars of the Ascend program does Mr. Templeton specifically believe will most benefit Ms. Krishnamurthy?",
+        "options": [
+          "Adaptive Leadership and Executive Presence",
+          "Strategic Acumen and Cross-Functional Collaboration",
+          "Strategic Acumen and Adaptive Leadership",
+          "Executive Presence and Cross-Functional Collaboration"
+        ],
+        "answer": "Strategic Acumen and Cross-Functional Collaboration",
+        "explanation": "此題須同時參照兩篇文件：Templeton 在推薦信中明確指出「尤其是跨功能合作和策略洞察力這兩個支柱」最能催化 Krishnamurthy 的成長，須對照手冊中對四個支柱的描述來確認名稱。",
+        "crossReference": true,
+        "category": "跨篇比對"
+      }
+    ]
+  },
+  {
+    "id": "P7D-T730-009",
+    "part": 7,
+    "type": "double",
+    "track": "T730",
+    "documents": [
+      {
+        "title": "Service Incident Notification — NexaCloud Platform Interruption (INC-2026-0914-A)",
+        "body": "INCIDENT CLASSIFICATION: Sev-1 (Critical)\nDATE: September 14, 2026\nTIME OF DETECTION: 14:32 UTC\n\nDear Valued NexaCloud Customers,\n\nWe regret to inform you that NexaCloud's US-East-1 region is experiencing a Sev-1 service interruption affecting the following core services:\n\n• Compute Engine: Virtual machine instances in Availability Zones A and C are unresponsive. Approximately 62% of the provisioned workloads in the affected zones have entered a degraded state.\n• Object Storage: Write operations to bucket repositories are failing with HTTP 503 errors; read operations remain functional but exhibit elevated latency (P99 exceeding 800ms vs. baseline 45ms).\n• Managed Database: Failover mechanisms did not trigger automatically for 11 of the 29 database clusters in the region, necessitating manual intervention by our Site Reliability Engineering (SRE) team.\n\nROOT CAUSE: Preliminary diagnostics indicate that a cascading failure originated from a firmware update to the top-of-rack switches in our primary colocation facility. The update inadvertently introduced a spanning-tree protocol (STP) loop that saturated inter-rack bandwidth, triggering a chain of timeouts across dependent services.\n\nREMEDIATION: Our network engineering and SRE teams are executing a phased rollback of the affected firmware. We anticipate service restoration to commence by 18:00 UTC, with full normalization projected by 21:00 UTC. A post-incident review (PIR) report will be published within five business days.\n\nWe acknowledge the severity of this disruption and the cascading impact on your operations. Our executive team has been fully mobilized and is monitoring the situation in real time."
+      },
+      {
+        "title": "RE: INC-2026-0914-A — Service Credit & Compensation Package",
+        "body": "TO: All Impacted NexaCloud Customers\nFROM: Lena Nakamura, VP of Customer Success, NexaCloud\nDATE: September 16, 2026\n\nDear Customer,\n\nI am writing to personally address the service interruption that occurred on September 14 and to outline the compensation package we are extending to all customers whose workloads were materially affected.\n\nAfter a thorough review of incident telemetry — including per-tenant availability metrics, transaction failure counts, and mean-time-to-recovery (MTTR) data — we have determined that your account was among those that experienced service degradation exceeding our SLA threshold of 99.95% monthly uptime for the month of September.\n\nCOMPENSATION DETAILS:\n\n1. Service Credits: A credit equivalent to 30% of your September invoice will be automatically applied to your account within the next billing cycle. This exceeds our standard SLA remedy of 10% by a factor of three, reflecting our recognition of the extraordinary nature of this outage.\n\n2. Complimentary Professional Services: You are entitled to 20 hours of no-cost consultation with a NexaCloud Solutions Architect to conduct a resilience architecture review of your current deployment. This engagement is designed to identify single points of failure and recommend multi-region failover strategies to mitigate the impact of any future regional disruptions.\n\n3. Extended Trial of Sentinel Monitoring: All impacted accounts will receive a six-month complimentary license for Sentinel, our premium infrastructure observability suite (valued at $4,800 annually), which includes predictive alerting and automated runbook execution.\n\nIf you believe the compensation package does not adequately address the business impact your organization incurred, please contact your dedicated account representative to initiate a case-by-case review.\n\nSincerely,\nLena Nakamura"
+      }
+    ],
+    "questions": [
+      {
+        "id": "P7D-T730-009-Q1",
+        "question": "What was the identified root cause of the service interruption?",
+        "options": [
+          "A distributed denial-of-service attack on the US-East-1 data center",
+          "A firmware update that created a spanning-tree protocol loop saturating inter-rack bandwidth",
+          "A power outage in the primary colocation facility",
+          "Human error during a routine database migration"
+        ],
+        "answer": "A firmware update that created a spanning-tree protocol loop saturating inter-rack bandwidth",
+        "explanation": "事故通知明確指出根本原因為機架頂交換器韌體更新導致的 STP 迴圈，造成跨機架頻寬飽和。",
+        "crossReference": false,
+        "category": "細節"
+      },
+      {
+        "id": "P7D-T730-009-Q2",
+        "question": "According to the compensation letter, how does the 30% service credit compare to the standard SLA remedy?",
+        "options": [
+          "It is identical to the standard remedy",
+          "It is half of the standard remedy",
+          "It is three times the standard remedy of 10%",
+          "It is ten times the standard remedy of 3%"
+        ],
+        "answer": "It is three times the standard remedy of 10%",
+        "explanation": "補償信指出 30% 服務點數超過標準 SLA 補償方案 10% 的三倍。",
+        "crossReference": false,
+        "category": "細節"
+      },
+      {
+        "id": "P7D-T730-009-Q3",
+        "question": "In the incident notification, the phrase \"cascading failure\" most likely refers to:",
+        "options": [
+          "A deliberate system shutdown executed in stages",
+          "A failure that triggered successive failures in dependent systems",
+          "An isolated hardware malfunction with no broader impact",
+          "A security breach that spread across multiple accounts"
+        ],
+        "answer": "A failure that triggered successive failures in dependent systems",
+        "explanation": "\"Cascading failure\"（連鎖故障）指一個系統元件的故障引發相依系統接連失效的現象。",
+        "crossReference": false,
+        "category": "字義"
+      },
+      {
+        "id": "P7D-T730-009-Q4",
+        "question": "What can be inferred about NexaCloud's approach to customer retention following the incident?",
+        "options": [
+          "The company is minimizing the incident and offering only the contractual minimum compensation",
+          "The company is proactively offering compensation above contractual obligations along with preventative services",
+          "The company is shifting blame to the hardware vendor and denying responsibility",
+          "The company is offering compensation only to customers who file formal complaints"
+        ],
+        "answer": "The company is proactively offering compensation above contractual obligations along with preventative services",
+        "explanation": "補償方案不僅超出標準 SLA 三倍，還額外提供架構審查及監控工具試用，顯示 NexaCloud 積極維護客戶關係。",
+        "crossReference": false,
+        "category": "推論"
+      },
+      {
+        "id": "P7D-T730-009-Q5",
+        "question": "How does the compensation package address the specific service failures described in the incident notification?",
+        "options": [
+          "It offers a full refund for all services, regardless of whether they were affected",
+          "The resilience architecture review targets single points of failure, directly addressing the regional concentration risk exposed by the US-East-1 outage",
+          "The compensation only covers the Object Storage service, ignoring Compute and Database failures",
+          "It merely extends the contract term without addressing the root cause"
+        ],
+        "answer": "The resilience architecture review targets single points of failure, directly addressing the regional concentration risk exposed by the US-East-1 outage",
+        "explanation": "此題須同時參照兩篇文件：事故通知說明 US-East-1 單一區域故障即導致計算、儲存及資料庫全面受影響，而補償方案中的架構審查服務聚焦於識別單點故障並建議多區域容錯策略，正是針對此事件暴露的區域集中風險所設計的預防措施。",
+        "crossReference": true,
+        "category": "跨篇比對"
+      }
+    ]
+  },
+  {
+    "id": "P7D-T730-010",
+    "part": 7,
+    "type": "double",
+    "track": "T730",
+    "documents": [
+      {
+        "title": "REQUEST FOR PROPOSAL (RFP) — Office Renovation & Interior Fit-Out",
+        "body": "RFP REFERENCE: PRM-RFP-2026-032\nISSUING ENTITY: Pinnacle Resource Management (PRM)\nISSUE DATE: August 1, 2026\nSUBMISSION DEADLINE: September 15, 2026, 17:00 EST\n\n1. PROJECT SCOPE\nPRM is soliciting competitive proposals from licensed commercial contractors for a comprehensive renovation of its 28,000-square-foot corporate headquarters located at 1400 Meridian Boulevard, Atlanta, GA. The scope of work encompasses:\n\n• Demolition of existing interior partitions and drop ceilings across Floors 3 and 4.\n• Installation of a raised access flooring system with integrated cable management to accommodate a hybrid hot-desking configuration.\n• HVAC ductwork reconfiguration to support zoned climate control in the new open-plan layout.\n• Deployment of a converged building management system (BMS) integrating lighting, HVAC, access control, and occupancy sensing onto a unified IoT platform.\n• All work must comply with ASHRAE Standard 90.1-2026 and the Georgia State Minimum Standard Energy Code.\n\n2. MANDATORY REQUIREMENTS\n• Bidders must hold a valid Georgia General Contractor License with an unrestricted Tier 3 classification.\n• Evidence of completing at least three commercial renovation projects exceeding 20,000 sq. ft. within the past five years.\n• Certification in LEED v4.1 for Interior Design and Construction (ID+C) or equivalent green building accreditation.\n• Bid bond of 5% of the proposed contract value.\n\n3. EVALUATION CRITERIA\nProposals will be weighted as follows: Technical Approach (35%), Relevant Experience (25%), Proposed Timeline (20%), Cost Competitiveness (20%).\n\n4. INQUIRY PROTOCOL\nAll inquiries must be submitted in writing to procurement@pinnacleresource.com no later than August 22, 2026. Responses to all substantive inquiries will be published as addenda on the PRM procurement portal by August 29."
+      },
+      {
+        "title": "RFP Inquiry — Clarification on HVAC & Phased Occupancy Requirements",
+        "body": "TO: procurement@pinnacleresource.com\nFROM: bids@sterlingbuild.com\nDATE: August 19, 2026\n\nSUBJECT: RFP PRM-RFP-2026-032 — Request for Clarification\n\nDear PRM Procurement Team,\n\nSterling Build & Design, a LEED Platinum-certified commercial contractor, is preparing a proposal in response to the above-referenced RFP. We would be grateful for clarification on the following points:\n\n1. HVAC Ductwork Reconfiguration: Section 1 stipulates HVAC reconfiguration to support \"zoned climate control\" but does not specify whether the existing chiller plant has sufficient residual capacity to service the reconfigured layout. Can PRM confirm the capacity rating (in tons) of the current chiller system, and whether supplemental cooling units are within the project's contingency allowance?\n\n2. Phased Occupancy: Will PRM require the contractor to maintain partial occupancy on unaffected floors during construction? If so, we request that the RFP be amended to include specifications for temporary partitions, noise attenuation protocols, and after-hours work windows to minimize disruption to ongoing operations.\n\n3. Converged BMS: Regarding the unified IoT platform, does PRM have a preferred vendor ecosystem (e.g., Siemens Desigo CC, Honeywell Forge, or Schneider Electric EcoStruxure), or will the contractor be permitted to propose a vendor-agnostic solution?\n\n4. Permitting: Has a pre-application conference with the City of Atlanta Department of Buildings been conducted, and have any zoning variances been identified that could impact the construction timeline?\n\nThank you for your attention to these inquiries. We look forward to submitting a competitive proposal.\n\nBest regards,\nDerek Albright, P.E.\nChief Estimator\nSterling Build & Design"
+      }
+    ],
+    "questions": [
+      {
+        "id": "P7D-T730-010-Q1",
+        "question": "What is the primary concern behind Sterling Build's question about phased occupancy?",
+        "options": [
+          "The availability of LEED-certified subcontractors in the Atlanta area",
+          "The need to plan for measures that minimize disruption if employees remain on site during renovation",
+          "The cost of relocating all employees to an alternative office",
+          "The timeline for obtaining city building permits"
+        ],
+        "answer": "The need to plan for measures that minimize disruption if employees remain on site during renovation",
+        "explanation": "Sterling 詢問是否需要維持部分樓層使用，並要求在這種情況下增列臨時隔間、噪音控制及夜間施工時段的規範，顯示其關注施工期間對營運的影響。",
+        "crossReference": false,
+        "category": "推論"
+      },
+      {
+        "id": "P7D-T730-010-Q2",
+        "question": "What professional credential does Sterling Build claim to hold?",
+        "options": [
+          "LEED v4.1 ID+C certification",
+          "Georgia Tier 3 General Contractor License",
+          "LEED Platinum certification",
+          "ASHRAE Standard 90.1 compliance certification"
+        ],
+        "answer": "LEED Platinum certification",
+        "explanation": "Sterling 在信件開頭自稱為「LEED Platinum-certified commercial contractor」。",
+        "crossReference": false,
+        "category": "細節"
+      },
+      {
+        "id": "P7D-T730-010-Q3",
+        "question": "In the RFP document, the term \"converged\" in relation to the building management system most likely means:",
+        "options": [
+          "Physically collocated in a single server room",
+          "Integrated multiple building subsystems onto a unified platform",
+          "Reduced to the simplest possible configuration",
+          "Separated into independent, standalone modules"
+        ],
+        "answer": "Integrated multiple building subsystems onto a unified platform",
+        "explanation": "\"Converged\"（融合的）在此指將照明、空調、門禁及佔用感測等多個子系統整合到單一物聯網平台。",
+        "crossReference": false,
+        "category": "字義"
+      },
+      {
+        "id": "P7D-T730-010-Q4",
+        "question": "What can be inferred about Sterling Build's approach to preparing its proposal?",
+        "options": [
+          "Sterling is submitting a proposal without reviewing the RFP requirements in detail",
+          "Sterling is conducting thorough due diligence to ensure its proposal is both compliant and accurately priced",
+          "Sterling intends to propose a solution that ignores the RFP specifications",
+          "Sterling has already been informally selected as the preferred contractor"
+        ],
+        "answer": "Sterling is conducting thorough due diligence to ensure its proposal is both compliant and accurately priced",
+        "explanation": "Sterling 提出的四個問題涵蓋技術規格、施工條件、供應商偏好及許可風險，顯示其在投標前進行了全面的盡職調查。",
+        "crossReference": false,
+        "category": "推論"
+      },
+      {
+        "id": "P7D-T730-010-Q5",
+        "question": "Which of Sterling's inquiries addresses a requirement mentioned in the RFP that could directly affect cost estimation?",
+        "options": [
+          "The question about the preferred vendor ecosystem for the BMS",
+          "The question about the chiller plant's residual capacity",
+          "The question about pre-application zoning conferences",
+          "The question about LEED certification reciprocity"
+        ],
+        "answer": "The question about the chiller plant's residual capacity",
+        "explanation": "此題須同時參照兩篇文件：RFP 要求重新配置 HVAC 管道以支援分區氣候控制，但未說明現有冰水主機是否有剩餘容量；Sterling 針對此點提問，因為如果需要增設輔助冷卻設備將大幅影響報價。此項直接關聯 RFP 中的工作範圍與成本估算。",
+        "crossReference": true,
+        "category": "跨篇比對"
+      }
+    ]
+  },
+  {
+    "id": "P7D-T730-011",
+    "part": 7,
+    "type": "double",
+    "track": "T730",
+    "documents": [
+      {
+        "title": "2026 Annual Employee Engagement Survey — Executive Summary",
+        "body": "CONFIDENTIAL — FOR INTERNAL DISTRIBUTION ONLY\nSURVEY PERIOD: October 5–19, 2026\nRESPONSE RATE: 84% (N=2,147 out of 2,556 eligible employees)\nSURVEY ADMINISTRATOR: Gallup in partnership with Zenith HR Analytics\n\nOVERALL ENGAGEMENT INDEX: 61.4% (down from 68.7% in 2025; industry benchmark: 72%)\n\nTOP-LINE FINDINGS:\n\n1. CAREER DEVELOPMENT & MOBILITY (Score: 52/100, lowest-rated dimension)\nOnly 37% of respondents agreed with the statement \"I see a clear pathway for advancement within this organization.\" Mid-tenure employees (3–7 years) registered the sharpest decline in this metric, with 48% indicating they were \"passively or actively\" exploring external opportunities.\n\n2. COMPENSATION & REWARDS (Score: 58/100)\nWhile 71% rated base salary as competitive, only 34% expressed satisfaction with the bonus structure. Transparency concerns were prevalent: 62% characterized the criteria for performance-based bonuses as \"opaque.\"\n\n3. WORKPLACE FLEXIBILITY & HYBRID POLICY (Score: 79/100, highest-rated dimension)\nThe current hybrid model (3 days in-office, 2 days remote) received strong endorsement. However, qualitative comments suggest growing friction around the perceived inequity of remote-work eligibility across departments.\n\n4. PSYCHOLOGICAL SAFETY & INCLUSION (Score: 63/100)\nA troubling 28% of respondents reported experiencing or witnessing behavior they characterized as \"subtle exclusion\" in team settings. This figure rises to 41% among employees from underrepresented demographics.\n\n5. LEADERSHIP COMMUNICATION (Score: 54/100)\nOnly 40% of non-managerial staff agreed that leadership \"transparently communicates the rationale behind major decisions.\" Town hall attendance declined to 31%, down from 52% in 2024."
+      },
+      {
+        "title": "A Message from the CEO — Our Commitment to Meaningful Change",
+        "body": "TO: All Employees\nFROM: Dr. Cedric Holloway, Chief Executive Officer\nDATE: November 3, 2026\n\nColleagues,\n\nI have spent the past two weeks carefully digesting the 2026 Engagement Survey results, including reading hundreds of anonymized verbatim comments. I will not mince words: the findings are sobering, and the downward trajectory from last year's already-modest scores is unacceptable to me personally and to the executive leadership team.\n\nToday, I am announcing three concrete initiatives that will be implemented effective Q1 2027:\n\nFIRST, we are overhauling our career architecture. By January 15, every department will publish a transparent skills matrix and promotion rubric. Additionally, we are allocating $2.4 million to an internal mobility fund that will sponsor cross-departmental project rotations, professional certifications, and executive coaching for employees who have been in the same role for three or more years.\n\nSECOND, we are redesigning our compensation framework. Starting with the 2027 performance cycle, bonus criteria will be published in advance at the beginning of each quarter, and managers will be required to conduct quarterly compensation conversations — not just annual reviews — to provide line-of-sight between individual contributions and reward outcomes.\n\nTHIRD, I am commissioning an independent Inclusion & Belonging Task Force, co-chaired by our Chief People Officer and an external DEI expert. This task force will have a direct reporting line to the board and a mandate to conduct focus groups, review policies, and deliver actionable recommendations within 90 days.\n\nI recognize that these measures will not remedy every concern overnight. However, I want to be unequivocal: I hold myself accountable for the organizational culture we co-create, and I will provide quarterly progress updates at our town halls — which, I should add, will now include pre-submitted anonymous questions to encourage candid dialogue.\n\nLet us build the workplace we all deserve.\n\nCedric"
+      }
+    ],
+    "questions": [
+      {
+        "id": "P7D-T730-011-Q1",
+        "question": "According to the survey executive summary, which dimension received the lowest satisfaction score?",
+        "options": [
+          "Compensation & Rewards",
+          "Leadership Communication",
+          "Career Development & Mobility",
+          "Psychological Safety & Inclusion"
+        ],
+        "answer": "Career Development & Mobility",
+        "explanation": "調查摘要顯示 Career Development & Mobility 得分為 52/100，是所有面向中最低的。",
+        "crossReference": false,
+        "category": "細節"
+      },
+      {
+        "id": "P7D-T730-011-Q2",
+        "question": "What is the CEO's stated purpose for introducing pre-submitted anonymous questions at town halls?",
+        "options": [
+          "To reduce the length of town hall meetings",
+          "To replace the annual engagement survey entirely",
+          "To encourage candid dialogue and increase participation",
+          "To comply with new corporate governance regulations"
+        ],
+        "answer": "To encourage candid dialogue and increase participation",
+        "explanation": "CEO 在信件結尾表示此舉旨在鼓勵坦誠對話（candid dialogue）。",
+        "crossReference": false,
+        "category": "細節"
+      },
+      {
+        "id": "P7D-T730-011-Q3",
+        "question": "In the survey summary, the term \"opaque\" most nearly means:",
+        "options": [
+          "Generous",
+          "Transparent",
+          "Unclear",
+          "Competitive"
+        ],
+        "answer": "Unclear",
+        "explanation": "\"Opaque\"（不透明的）在文中用來形容獎金標準不明確、難以理解，與 unclear 最接近。",
+        "crossReference": false,
+        "category": "字義"
+      },
+      {
+        "id": "P7D-T730-011-Q4",
+        "question": "What can be inferred about the relationship between the survey results and the CEO's proposed initiatives?",
+        "options": [
+          "The CEO's initiatives address completely unrelated business priorities",
+          "The CEO's three initiatives are direct responses to the three lowest-scoring survey dimensions",
+          "The CEO dismissed the survey results and proposed no changes",
+          "The CEO blamed middle management for the poor results"
+        ],
+        "answer": "The CEO's three initiatives are direct responses to the three lowest-scoring survey dimensions",
+        "explanation": "CEO 的三項措施（職涯架構改革、薪酬框架重新設計、包容性任務小組）分別對應調查中三個最低分面向（職涯發展、薪酬、心理安全與包容），顯示其政策直接回應調查結果。",
+        "crossReference": false,
+        "category": "推論"
+      },
+      {
+        "id": "P7D-T730-011-Q5",
+        "question": "How does the CEO's internal mobility fund specifically address the survey finding about mid-tenure employees?",
+        "options": [
+          "It offers salary increases to all employees with three or more years of service",
+          "It sponsors rotations, certifications, and coaching targeted at employees who have stagnated in the same role, directly addressing the career pathway concerns of mid-tenure staff",
+          "It provides relocation assistance for employees willing to transfer to international offices",
+          "It funds team-building retreats for entire departments"
+        ],
+        "answer": "It sponsors rotations, certifications, and coaching targeted at employees who have stagnated in the same role, directly addressing the career pathway concerns of mid-tenure staff",
+        "explanation": "此題須同時參照兩篇文件：調查摘要指出年資三至七年的員工在職涯發展方面分數下滑最嚴重，且 48% 正在尋找外部機會；CEO 的內部流動基金則專門針對在同一職位三年以上的員工提供輪調、證照及教練資源，恰好回應了這群人的核心痛點。",
+        "crossReference": true,
+        "category": "跨篇比對"
+      }
+    ]
+  },
+  {
+    "id": "P7D-T730-012",
+    "part": 7,
+    "type": "double",
+    "track": "T730",
+    "documents": [
+      {
+        "title": "Group Medical Insurance — Claim Submission Instructions (Plan: Aetna Select Premier PPO)",
+        "body": "IMPORTANT: Please retain this document for your records.\n\nFILING A CLAIM\nTo ensure expeditious processing of your medical claims, adhere strictly to the following submission protocols:\n\n1. TIMELINESS: Claims must be filed within 180 calendar days from the date of service. Claims submitted beyond this window will be summarily denied, with no provision for appeal except in cases of documented incapacitation.\n\n2. REQUIRED DOCUMENTATION:\n   a. A fully completed and signed CMS-1500 claim form (or UB-04 for facility charges).\n   b. An itemized statement from the provider detailing CPT/HCPCS codes, diagnosis codes (ICD-11), date of service, and charges for each line item.\n   c. For out-of-network providers: a letter of medical necessity (LMN) from the treating physician explaining why an in-network provider could not render the service.\n   d. If another insurance plan is the primary payer (coordination of benefits), an Explanation of Benefits (EOB) from the primary insurer.\n\n3. EXCLUSIONS & LIMITATIONS:\n   • Experimental or investigational treatments not approved by the Aetna Clinical Policy Bulletin are categorically excluded.\n   • Out-of-network outpatient physical therapy is capped at 30 visits per calendar year.\n   • Durable Medical Equipment (DME) purchases exceeding $1,500 require prior authorization and a certificate of medical necessity.\n\n4. SUBMISSION CHANNELS:\n   • Electronic: Upload via the Aetna member portal (preferred method).\n   • Postal Mail: Aetna Claims Processing, P.O. Box 981704, El Paso, TX 79998.\n\n5. REIMBURSEMENT TIMELINE: Clean claims (those requiring no additional documentation) are processed within 15 business days. Complex claims may take up to 45 business days."
+      },
+      {
+        "title": "Explanation of Benefits — Partial Denial Notification (Claim #: AET-2026-11587-K)",
+        "body": "IMPORTANT: THIS IS NOT A BILL\nMember Name: Deborah Whitfield\nMember ID: WHT8846291\nClaim Number: AET-2026-11587-K\nDate of Service: August 22, 2026\nProvider: NeuroRestorative Institute (Out-of-Network)\n\nCLAIM SUMMARY:\n\nService/CPT Code | Amount Billed | Plan Allowance | Deductible Applied | Coinsurance | Plan Paid | Member Responsibility\nCognitive Rehabilitation Therapy (97129) × 8 sessions | $3,840.00 | $0.00 | $0.00 | $0.00 | $0.00 | $3,840.00\n\nDENIAL RATIONALE:\nThe above claim has been partially adjudicated. The cognitive rehabilitation therapy sessions have been denied based on the following determinations:\n\n1. Out-of-Network Provision: NeuroRestorative Institute is not a participating provider in the Aetna Select Premier PPO network. While the plan does offer out-of-network benefits, these are contingent upon the submission of a Letter of Medical Necessity (LMN) from the treating physician. Our records indicate no LMN was appended to this claim.\n\n2. Medical Necessity Review: Even if an LMN had been submitted, cognitive rehabilitation therapy exceeding 6 consecutive sessions is subject to prospective medical necessity review under Aetna Clinical Policy Bulletin 0188. The eight sessions claimed exceed this threshold, and no prior authorization was requested.\n\nAPPEAL RIGHTS:\nYou have the right to appeal this determination within 180 calendar days. An appeal must include: (a) a written statement explaining why you believe the denial was in error, (b) the missing LMN from your treating physician, and (c) any supplementary clinical documentation supporting the medical necessity of the additional sessions.\n\nPlease direct appeal correspondence to: Aetna Appeals Unit, 450 Columbus Blvd., Hartford, CT 06103, Attn: Clinical Review Panel."
+      }
+    ],
+    "questions": [
+      {
+        "id": "P7D-T730-012-Q1",
+        "question": "What is the primary reason cited for the denial of the cognitive rehabilitation therapy claim?",
+        "options": [
+          "The claim was submitted after the 180-day filing deadline",
+          "The provider is out-of-network and no Letter of Medical Necessity was included",
+          "The CPT code used was invalid for the service rendered",
+          "The patient had exceeded her annual deductible limit"
+        ],
+        "answer": "The provider is out-of-network and no Letter of Medical Necessity was included",
+        "explanation": "理賠部分拒絕通知列舉的第一項理由即為 NeuroRestorative Institute 非網內醫療提供者，且未附醫療必要性證明信。",
+        "crossReference": false,
+        "category": "細節"
+      },
+      {
+        "id": "P7D-T730-012-Q2",
+        "question": "According to the claim instructions, what is the visit limit for out-of-network outpatient physical therapy?",
+        "options": [
+          "15 visits per calendar year",
+          "30 visits per calendar year",
+          "45 visits per calendar year",
+          "No limit applies"
+        ],
+        "answer": "30 visits per calendar year",
+        "explanation": "申請指南明確規定網外門診物理治療每年上限為 30 次。",
+        "crossReference": false,
+        "category": "細節"
+      },
+      {
+        "id": "P7D-T730-012-Q3",
+        "question": "In the denial letter, the word \"adjudicated\" is closest in meaning to:",
+        "options": [
+          "Ignored",
+          "Judged and settled",
+          "Accelerated",
+          "Rejected summarily"
+        ],
+        "answer": "Judged and settled",
+        "explanation": "\"Adjudicated\"（裁決、判定）指理賠已經過審理並作出決定，與 judged and settled 最接近。",
+        "crossReference": false,
+        "category": "字義"
+      },
+      {
+        "id": "P7D-T730-012-Q4",
+        "question": "What can be inferred about the likelihood of Ms. Whitfield successfully appealing the denial?",
+        "options": [
+          "She cannot appeal because the denial is final and binding",
+          "She could potentially succeed if she submits the missing LMN and clinical documentation supporting medical necessity",
+          "She will automatically win the appeal regardless of documentation",
+          "She must re-file the claim with an in-network provider to receive any reimbursement"
+        ],
+        "answer": "She could potentially succeed if she submits the missing LMN and clinical documentation supporting medical necessity",
+        "explanation": "拒絕信的申訴部分明確列出補交 LMN 及臨床文件為申訴條件，暗示若補齊文件，理賠決定可能被推翻。",
+        "crossReference": false,
+        "category": "推論"
+      },
+      {
+        "id": "P7D-T730-012-Q5",
+        "question": "How do the claim instructions' documentation requirements for out-of-network services relate to the specific reason for Ms. Whitfield's claim denial?",
+        "options": [
+          "The instructions do not require any special documentation for out-of-network providers",
+          "The instructions explicitly require an LMN for out-of-network providers, and the denial was issued precisely because this document was missing from her claim",
+          "The instructions require pre-authorization for all services, which Ms. Whitfield obtained but was still denied",
+          "The instructions cap out-of-network therapy at 8 sessions, which Ms. Whitfield exceeded"
+        ],
+        "answer": "The instructions explicitly require an LMN for out-of-network providers, and the denial was issued precisely because this document was missing from her claim",
+        "explanation": "此題須同時參照兩篇文件：申請指南第 2(c) 條明確規定網外醫療提供者須附醫療必要性證明信 (LMN)，而拒絕通知書的第一項理由正是「未附 LMN」，兩者直接對應。",
+        "crossReference": true,
+        "category": "跨篇比對"
+      }
+    ]
+  },
+  {
+    "id": "P7D-T730-013",
+    "part": 7,
+    "type": "double",
+    "track": "T730",
+    "documents": [
+      {
+        "title": "CALL FOR SPEAKERS — Global Supply Chain Innovation Summit 2027",
+        "body": "SUMMIT DATES: March 15–17, 2027\nVENUE: Marina Bay Sands Expo & Convention Centre, Singapore\nORGANIZER: International Supply Chain Council (ISCC)\n\nTHE OPPORTUNITY\nThe ISCC cordially invites subject-matter experts, industry practitioners, and academic researchers to submit proposals for speaking engagements at the Global Supply Chain Innovation Summit 2027, the preeminent gathering of supply chain thought leaders worldwide. Last year's summit drew 3,800 delegates from 54 countries.\n\nTRACKS & THEMES\nProposals must align with one of the following thematic tracks:\n\nTrack A — Digital Transformation: AI-driven demand forecasting, blockchain for provenance tracking, digital twin simulation of logistics networks.\n\nTrack B — Sustainability & Circular Supply Chains: Scope 3 emissions accounting, reverse logistics optimization, supplier decarbonization partnerships.\n\nTrack C — Geopolitical Risk & Resilience: Nearshoring and friend-shoring strategies, tariff mitigation frameworks, supply chain stress-testing methodologies.\n\nSUBMISSION GUIDELINES\n• Submit an abstract of no more than 500 words, accompanied by a 150-word speaker biography and a headshot (minimum 300 dpi).\n• Proposals must be submitted via the ISCC online portal no later than October 31, 2026.\n• Accepted speakers will receive complimentary summit registration (valued at $1,200), three nights' accommodation at the Marina Bay Sands, and a travel stipend of up to $1,500 for intercontinental flights.\n\nSELECTION CRITERIA\nProposals will be evaluated on: originality of content (30%), practical applicability (25%), speaker credentials (25%), and audience engagement potential (20%).\n\nNOTIFICATION: All applicants will be notified of the committee's decision by December 15, 2026."
+      },
+      {
+        "title": "Proposal Acceptance Notification — ISCC Summit 2027, Track C",
+        "body": "TO: jacob.wen@sourceguardtech.com\nFROM: speaker-committee@iscc.org\nDATE: December 12, 2026\n\nSUBJECT: Congratulations — Your Proposal Has Been Accepted\n\nDear Mr. Wen,\n\nOn behalf of the ISCC Program Committee, it is my distinct pleasure to inform you that your proposal, \"Tariff-Induced Supply Chain Reconfiguration: A Multi-Echelon Inventory Optimization Framework,\" has been accepted for presentation at the Global Supply Chain Innovation Summit 2027 under Track C — Geopolitical Risk & Resilience.\n\nSESSION DETAILS:\n• Format: 45-minute solo presentation, inclusive of a 10-minute Q&A segment.\n• Scheduled Date & Time: March 16, 2027, 14:00–14:45 (SGT), in the Roselle Ballroom (Level 4).\n• Your presentation has been designated as a \"Featured Session,\" which includes amplification through ISCC's official social media channels and an invitation to a private speaker's dinner on March 15.\n\nPREPARATION REQUIREMENTS:\n• Final slide decks must be uploaded to the speaker portal in both PowerPoint (.pptx) and PDF formats by February 28, 2027.\n• Due to the technical depth of your topic, the committee recommends integrating at least one interactive element — such as a live polling segment or a scenario-based decision exercise — to enhance audience engagement.\n• A mandatory speaker orientation webinar will be held on January 20, 2027, at 10:00 SGT. A calendar invitation will follow shortly.\n\nYour complimentary registration and accommodation have been processed. Please contact speaker-support@iscc.org to coordinate your travel stipend reimbursement.\n\nWe eagerly anticipate your contribution to what promises to be a landmark summit.\n\nWarm regards,\nDr. Helena Forsythe\nChair, ISCC Program Committee"
+      }
+    ],
+    "questions": [
+      {
+        "id": "P7D-T730-013-Q1",
+        "question": "Under which thematic track was Mr. Wen's proposal accepted?",
+        "options": [
+          "Track A — Digital Transformation",
+          "Track B — Sustainability & Circular Supply Chains",
+          "Track C — Geopolitical Risk & Resilience",
+          "A special interdisciplinary track not listed in the call for speakers"
+        ],
+        "answer": "Track C — Geopolitical Risk & Resilience",
+        "explanation": "接受通知信中明確指出 Wen 先生的提案被納入 Track C（地緣政治風險與韌性）。",
+        "crossReference": false,
+        "category": "細節"
+      },
+      {
+        "id": "P7D-T730-013-Q2",
+        "question": "According to the acceptance letter, what specific suggestion did the committee make to enhance Mr. Wen's presentation?",
+        "options": [
+          "Shortening the presentation to 30 minutes to allow more Q&A time",
+          "Including an interactive element such as live polling or a scenario exercise",
+          "Translating the slides into Mandarin for the Singapore audience",
+          "Focusing exclusively on theoretical frameworks rather than practical applications"
+        ],
+        "answer": "Including an interactive element such as live polling or a scenario exercise",
+        "explanation": "信件中建議因主題技術深度較高，應整合互動元素如即時投票或情境決策練習。",
+        "crossReference": false,
+        "category": "細節"
+      },
+      {
+        "id": "P7D-T730-013-Q3",
+        "question": "In the call for speakers, the word \"preeminent\" is closest in meaning to:",
+        "options": [
+          "Relatively obscure",
+          "Recently established",
+          "Foremost and most distinguished",
+          "Geographically restricted"
+        ],
+        "answer": "Foremost and most distinguished",
+        "explanation": "\"Preeminent\"（卓越的、頂尖的）意指最傑出、最具影響力的，與 foremost and most distinguished 最接近。",
+        "crossReference": false,
+        "category": "字義"
+      },
+      {
+        "id": "P7D-T730-013-Q4",
+        "question": "What can be inferred about the ISCC's level of interest in Mr. Wen's topic?",
+        "options": [
+          "The committee accepted it reluctantly as a last-minute filler",
+          "The committee considers it highly valuable, as evidenced by its Featured Session designation and social media amplification",
+          "The committee accepted it but downgraded it to a poster presentation",
+          "The committee rejected it and suggested he apply for the next summit"
+        ],
+        "answer": "The committee considers it highly valuable, as evidenced by its Featured Session designation and social media amplification",
+        "explanation": "Wen 的演講被指定為「精選場次」，並獲社群媒體推廣及演講者晚宴邀請，顯示 ISCC 高度重視其主題。",
+        "crossReference": false,
+        "category": "推論"
+      },
+      {
+        "id": "P7D-T730-013-Q5",
+        "question": "How does Mr. Wen's compensation as an accepted speaker compare to the benefits advertised in the call for speakers?",
+        "options": [
+          "He receives more benefits than advertised, including a private dinner invitation",
+          "He receives only partial benefits because his proposal was in Track C",
+          "The call for speakers advertised benefits that were later revoked",
+          "He receives no benefits because speakers must pay their own expenses"
+        ],
+        "answer": "He receives more benefits than advertised, including a private dinner invitation",
+        "explanation": "此題須同時參照兩篇文件：徵稿公告列出的福利包括免費註冊、三晚住宿及最高 $1,500 的機票補貼；而接受通知信除了這些標準福利外，還額外提供了精選場次的社群媒體推廣及演講者私人晚宴邀請，超出原公告範圍。",
+        "crossReference": true,
+        "category": "跨篇比對"
+      }
+    ]
+  },
+  {
+    "id": "P7D-T730-014",
+    "part": 7,
+    "type": "double",
+    "track": "T730",
+    "documents": [
+      {
+        "title": "Supplier Quality Audit Report — Helix Precision Components (Audit #QA-2026-078)",
+        "body": "AUDIT DATE: June 22–24, 2026\nAUDITORS: Clara Mwangi (Lead Auditor), Ravi Chandrasekhar\nSTANDARD REFERENCE: ISO 9001:2015, ISO 13485:2016 (Medical Devices)\nSUPPLIER: Helix Precision Components, Penang, Malaysia\nSUPPLIER CODE: HPC-MY-042\n\nEXECUTIVE SUMMARY\nHelix Precision Components has been a Tier-1 supplier of micro-machined titanium alloy components for our cardiovascular device division for six years. This periodic audit — the first since Helix expanded its manufacturing footprint by 40% in Q3 2025 — yielded a mixed assessment.\n\nFINDINGS\n\nNonconformity NC-01 (Major): Calibration records for 7 of 23 coordinate measuring machines (CMMs) on the production floor had expired, with the most recent calibration dating back 16 months. Per ISO 13485 Section 7.6, measuring equipment shall be calibrated at defined intervals. This finding was observed during a walkthrough of Building D.\n\nNonconformity NC-02 (Minor): The corrective and preventive action (CAPA) log contained 14 open items older than 90 days, none of which had an assigned root cause investigation. While the log was properly formatted, the backlog indicates a systemic deficiency in CAPA execution cadence.\n\nNonconformity NC-03 (Major): In the batch record for Lot HPC-2604-881G (shipment received by our organization on May 18), the tensile strength test results were recorded as 1,180 MPa — within the specification range of 1,100–1,350 MPa. However, our independent retesting of retain samples revealed an average tensile strength of 1,042 MPa across 12 specimens, falling below the minimum threshold. This discrepancy suggests either a testing error or a data integrity concern.\n\nObservation OBS-01: The supplier has invested in a state-of-the-art plasma electrolytic oxidation (PEO) surface treatment line that, once validated, could reduce lead times by 25%. This is not a nonconformity but a noteworthy process improvement.\n\nCONCLUSION: Helix's quality management system requires a corrective action plan addressing NC-01 and NC-03 within 30 calendar days. Failure to remediate these major nonconformities will result in a downgrade from Approved to Probationary supplier status."
+      },
+      {
+        "title": "Corrective Action Plan — Response to Audit #QA-2026-078",
+        "body": "TO: Clara Mwangi, Lead Auditor\nFROM: Dr. Azman Hashim, VP of Quality Assurance, Helix Precision Components\nDATE: July 18, 2026\n\nDear Ms. Mwangi,\n\nThank you for the comprehensive audit report. We acknowledge the gravity of the findings and have mobilized a cross-functional remediation team under my direct supervision. Our corrective action plan is outlined below:\n\nNC-01 — CMM Calibration Backlog\nRoot Cause: Our calibration schedule was managed through a legacy spreadsheet that was not migrated to our new enterprise asset management (EAM) system after the Building D expansion. The gap in data migration went undetected during the transition.\nImmediate Action: All 23 CMMs underwent emergency recalibration by an ISO 17025-accredited external laboratory on July 2–4. Updated certificates have been uploaded to the shared supplier portal.\nPreventive Action: We have decommissioned the spreadsheet-based system and completed migration of all calibration records to the EAM platform with automated 90-day and 30-day pre-expiry alerts.\n\nNC-03 — Tensile Strength Discrepancy (Lot HPC-2604-881G)\nRoot Cause: Our investigation traced the discrepancy to a faulty extensometer on Testing Station 4 (serial #TS4-0037). The extensometer was under-reading elongation by approximately 11%, causing the tensile strength calculation to be inflated. The CMM for dimensional verification was not implicated.\nImmediate Action: Testing Station 4 was immediately quarantined and the extensometer was replaced and recalibrated. We have quarantined all production lots tested on that station since January 2026 and are conducting 100% retain-sample retesting. Preliminary results for 17 of 34 lots show no additional anomalies.\nPreventive Action: A dual-extensometer cross-verification protocol will be implemented by August 15, requiring every tensile test to be validated against a secondary instrument. Additionally, we will increase the frequency of inter-laboratory comparison testing from annually to quarterly.\n\nWe respectfully request a follow-up audit within 60 days to verify the effectiveness of these measures. We value our partnership with your organization and are committed to restoring full confidence in our quality systems.\n\nSincerely,\nDr. Azman Hashim"
+      }
+    ],
+    "questions": [
+      {
+        "id": "P7D-T730-014-Q1",
+        "question": "What was the root cause identified for the tensile strength discrepancy in Lot HPC-2604-881G?",
+        "options": [
+          "Operator error during the testing procedure",
+          "A faulty extensometer on Testing Station 4 that under-read elongation",
+          "Substandard raw titanium alloy from the supplier's upstream vendor",
+          "A software bug in the batch record management system"
+        ],
+        "answer": "A faulty extensometer on Testing Station 4 that under-read elongation",
+        "explanation": "矯正計畫明確指出根本原因為第 4 測試站的伸長計故障，導致伸長量讀數偏低約 11%。",
+        "crossReference": false,
+        "category": "細節"
+      },
+      {
+        "id": "P7D-T730-014-Q2",
+        "question": "According to the audit report, what is the consequence if Helix fails to remediate the major nonconformities within 30 days?",
+        "options": [
+          "Immediate contract termination",
+          "A financial penalty of 5% of the contract value",
+          "Downgrade from Approved to Probationary supplier status",
+          "Mandatory re-audit by a different auditing firm"
+        ],
+        "answer": "Downgrade from Approved to Probationary supplier status",
+        "explanation": "審計報告結論明確指出若未在 30 天內改善重大不符合事項，供應商狀態將從「核准」降級為「留校察看」。",
+        "crossReference": false,
+        "category": "細節"
+      },
+      {
+        "id": "P7D-T730-014-Q3",
+        "question": "In the corrective action plan, the term \"quarantined\" most nearly means:",
+        "options": [
+          "Permanently discarded",
+          "Isolated from use pending further investigation",
+          "Upgraded to a higher performance tier",
+          "Moved to a different production facility"
+        ],
+        "answer": "Isolated from use pending further investigation",
+        "explanation": "\"Quarantined\"（隔離）指將測試站暫時停用並隔離，等待進一步檢查和維修，非永久報廢。",
+        "crossReference": false,
+        "category": "字義"
+      },
+      {
+        "id": "P7D-T730-014-Q4",
+        "question": "What can be inferred about Helix's overall approach to quality management based on the audit findings and corrective actions?",
+        "options": [
+          "The company has systemic weaknesses in certain areas but is capable of conducting thorough root cause analysis and implementing robust preventive measures",
+          "The company has no quality management system and operates without procedures",
+          "The company is deliberately falsifying quality records to maintain its supplier status",
+          "The company's quality systems are flawless and the audit findings were erroneous"
+        ],
+        "answer": "The company has systemic weaknesses in certain areas but is capable of conducting thorough root cause analysis and implementing robust preventive measures",
+        "explanation": "審計發現顯示校準管理和 CAPA 執行存在系統性缺陷，但矯正計畫展現了紮實的根因分析（確認伸長計故障）及預防措施（雙伸長計交叉驗證及增加外部比對頻率），顯示其有能力改善。",
+        "crossReference": false,
+        "category": "推論"
+      },
+      {
+        "id": "P7D-T730-014-Q5",
+        "question": "How does Helix's proposed solution for the CMM calibration issue address the specific gap identified in the audit report?",
+        "options": [
+          "Helix simply recalibrated the machines and took no further action",
+          "Helix decommissioned the legacy spreadsheet system that the audit implied was the root cause and implemented an automated EAM platform with alerts",
+          "Helix outsourced all calibration work to an external laboratory permanently",
+          "Helix disputed the finding, arguing that the CMMs were still within tolerance"
+        ],
+        "answer": "Helix decommissioned the legacy spreadsheet system that the audit implied was the root cause and implemented an automated EAM platform with alerts",
+        "explanation": "此題須同時參照兩篇文件：審計報告的 NC-01 指出 7 台 CMM 校準過期，暗示校準管理系統存在缺陷；Helix 的矯正計畫則揭露根因為試算表系統未成功遷移至新資產管理平台，並提出廢除試算表系統、全面遷移至自動化平台及設置預警機制，直接針對審計發現的系統性漏洞進行根本性解決。",
+        "crossReference": true,
+        "category": "跨篇比對"
+      }
+    ]
+  },
+  {
+    "id": "P7D-T730-015",
+    "part": 7,
+    "type": "double",
+    "track": "T730",
+    "documents": [
+      {
+        "title": "IMPORTANT — Enterprise Software License Renewal: Pricing Update for Autodesk Suite",
+        "body": "TO: All Autodesk License Administrators\nFROM: Synergy Tech Solutions (Authorized Autodesk Platinum Partner)\nDATE: October 1, 2026\n\nRE: 2027 License Renewal — Pricing Structure Revision\n\nThis communication serves as formal notification that Autodesk will implement a revised pricing structure for all multi-year enterprise license agreements (ELAs) commencing January 1, 2027. The following material changes will take effect upon renewal:\n\n1. BASE LICENSE FEE ADJUSTMENT\nThe per-seat annual license fee for the Architecture, Engineering & Construction (AEC) Collection will increase from $3,215 to $3,525, representing a 9.6% uplift. The Product Design & Manufacturing (PD&M) Collection will rise from $2,940 to $3,205 (9.0% increase).\n\n2. TIERED DISCOUNT RESTRUCTURING\nThe volume-based discount schedule has been recalibrated:\n• Tier 1 (1–24 seats): 0% discount (no change)\n• Tier 2 (25–99 seats): Reduced from 12% to 8%\n• Tier 3 (100–499 seats): Reduced from 18% to 14%\n• Tier 4 (500+ seats): Reduced from 25% to 20%\n\n3. MANDATORY CLOUD BUNDLE\nAll ELA renewals signed after January 1, 2027, must include the Autodesk Cloud Collaboration Bundle at a flat fee of $480 per seat annually. This bundle was previously optional and priced at $360. Existing customers without the bundle will be required to adopt it upon renewal.\n\n4. EARLY RENEWAL INCENTIVE\nCustomers who execute their renewal agreement by November 15, 2026, will be grandfathered under the current pricing structure and exempt from the mandatory cloud bundle requirement for the 2027 term.\n\nFor a customized renewal quotation, please contact your dedicated account manager at Synergy Tech Solutions."
+      },
+      {
+        "title": "MEMO — Request for Budget Approval: Autodesk License Renewal (FY2027)",
+        "body": "TO: Dr. Patricia Okonkwo, Chief Financial Officer\nFROM: Benjamin Cross, Director of Engineering\nDATE: October 8, 2026\n\nSUBJECT: Urgent Budget Approval — Autodesk ELA Renewal for 142 Seats\n\nPatricia,\n\nI am writing to request expedited approval for an unbudgeted expenditure of $29,820 to capitalize on the early renewal incentive window for our Autodesk ELA, which is due for renewal on March 1, 2027.\n\nCONTEXT: Our engineering division currently maintains 142 seats of the AEC Collection under an ELA that expires on February 28, 2027. The recent pricing notification from Synergy Tech Solutions (attached) has introduced two developments that necessitate immediate action:\n\n1. If we renew after January 1, 2027, our annual cost will escalate to $500,550 (142 seats × $3,525) plus the mandatory cloud bundle costing $68,160 (142 × $480), totaling $568,710. Furthermore, under the recalibrated tiered discounts, we would drop from Tier 3 (18% discount) to the new Tier 3 rate of 14%, adding further cost pressure.\n\n2. If we execute the renewal by November 15, we can lock in the current rate of $3,215 per seat at the existing 18% volume discount, yielding a net cost of $374,294 (142 × $3,215 × 0.82). The $29,820 I am requesting covers the balance between our already-allocated budget of $344,474 and the early renewal total.\n\nRISK OF INACTION: Delaying beyond November 15 would result in an incremental cost of approximately $194,416 for FY2027, or $1,370 per seat — funds that would otherwise be allocated to three critical R&D initiatives scheduled for Q2.\n\nI urge the finance committee to approve this reallocation. The long-term cost avoidance far outweighs the short-term budget variance.\n\nRespectfully,\nBenjamin Cross"
+      }
+    ],
+    "questions": [
+      {
+        "id": "P7D-T730-015-Q1",
+        "question": "According to the pricing notice, what change will affect customers with 100 or more seats?",
+        "options": [
+          "They will receive a larger volume discount than before",
+          "Their volume-based discount will decrease from 18% to 14%",
+          "They will be exempt from the cloud bundle requirement",
+          "Their per-seat price will remain unchanged from the previous year"
+        ],
+        "answer": "Their volume-based discount will decrease from 18% to 14%",
+        "explanation": "定價通知顯示 Tier 3（100–499 個授權）的折扣從 18% 降至 14%。",
+        "crossReference": false,
+        "category": "細節"
+      },
+      {
+        "id": "P7D-T730-015-Q2",
+        "question": "What is the primary financial justification Mr. Cross provides for requesting the unbudgeted $29,820?",
+        "options": [
+          "The money is needed to purchase additional software licenses for new hires",
+          "Spending $29,820 now avoids a projected $194,416 in additional costs next year",
+          "The funds will be used to switch to a competitor's software platform",
+          "The expenditure is required by a regulatory compliance mandate"
+        ],
+        "answer": "Spending $29,820 now avoids a projected $194,416 in additional costs next year",
+        "explanation": "Cross 明確指出若不行動將在 FY2027 增加約 $194,416 的成本，因此用 $29,820 的短期支出換取長期節省。",
+        "crossReference": false,
+        "category": "細節"
+      },
+      {
+        "id": "P7D-T730-015-Q3",
+        "question": "In the pricing notice, the term \"grandfathered\" most likely means:",
+        "options": [
+          "Penalized with a surcharge",
+          "Exempted from new rules due to prior commitment",
+          "Required to migrate to a new platform",
+          "Subject to additional compliance audits"
+        ],
+        "answer": "Exempted from new rules due to prior commitment",
+        "explanation": "\"Grandfathered\"（不溯既往、豁免）指在期限前續約的客戶可沿襲舊有定價結構，不受新規範約束。",
+        "crossReference": false,
+        "category": "字義"
+      },
+      {
+        "id": "P7D-T730-015-Q4",
+        "question": "What can be inferred about Mr. Cross's budgeting process for his division?",
+        "options": [
+          "He had already anticipated the price increase and included it in his annual budget",
+          "He maintains a contingency reserve that can absorb unbudgeted expenses without CFO approval",
+          "He had allocated a budget based on the prior pricing structure and is now seeking supplementary funds to respond to the pricing change",
+          "He deliberately underestimated his budget to create a negotiating advantage"
+        ],
+        "answer": "He had allocated a budget based on the prior pricing structure and is now seeking supplementary funds to respond to the pricing change",
+        "explanation": "Cross 說明已分配預算 $344,474（基於舊定價），現僅需額外 $29,820 趕上早期續約窗口，顯示原預算基於舊有價格結構編列。",
+        "crossReference": false,
+        "category": "推論"
+      },
+      {
+        "id": "P7D-T730-015-Q5",
+        "question": "How does Mr. Cross's cost calculation of early renewal ($374,294) derive from the pricing details in the vendor's notice?",
+        "options": [
+          "He applied the current per-seat price of $3,215, the existing 18% Tier 3 discount, and the optional cloud bundle fee",
+          "He applied the new per-seat price of $3,525 with the reduced 14% discount",
+          "He calculated the cost using the mandatory cloud bundle and the new per-seat price",
+          "He applied the current per-seat price of $3,215 and the existing Tier 3 discount of 18%, without the cloud bundle since it remains optional under early renewal"
+        ],
+        "answer": "He applied the current per-seat price of $3,215 and the existing Tier 3 discount of 18%, without the cloud bundle since it remains optional under early renewal",
+        "explanation": "此題須同時參照兩篇文件：Cross 的計算公式為 142 × $3,215 × 0.82 = $374,294，其中 $3,215 為定價通知中的現行價格、18% 折扣對應現行 Tier 3、且未計入雲端套裝費用，因為早期續約激勵方案豁免強制雲端套裝要求。本文中 $3,215、18% 折扣及早期續約豁免雲端套裝的政策全部來自定價通知。",
+        "crossReference": true,
+        "category": "跨篇比對"
+      }
+    ]
+  },
+  {
+    "id": "P7D-T730-016",
+    "part": 7,
+    "type": "double",
+    "track": "T730",
+    "documents": [
+      {
+        "title": "Apexion Dynamics — Summer Internship Program 2026: Overview & Expectations",
+        "body": "PROGRAM DURATION: June 2 – August 22, 2026 (12 weeks)\nELIGIBILITY: Enrolled in an accredited undergraduate or graduate program with a minimum GPA of 3.2.\n\nPROGRAM STRUCTURE\nThe Apexion Dynamics Summer Internship Program is not a peripheral enrichment activity — it is a rigorous, immersive talent pipeline designed to identify and cultivate future organizational leaders. Interns are embedded within functional teams and assigned substantive projects with measurable deliverables.\n\nKEY COMPONENTS:\n\n1. Mentor Assignment: Each intern is paired with a senior-level mentor who provides weekly one-on-one coaching sessions. Mentors are responsible for conducting a midpoint competency assessment at Week 6 and a summative evaluation at Week 12.\n\n2. Capstone Project: All interns must complete a cross-functional capstone project addressing a real business challenge. Projects are presented to a panel of directors and VPs during the final week.\n\n3. Professional Development Workshops: A curated series of eight mandatory workshops covering: business writing & executive communication, financial acumen for non-finance professionals, data storytelling, and navigating organizational politics.\n\n4. Networking: Structured networking events including a biweekly \"Lunch & Learn\" series with C-suite executives and an end-of-program networking gala.\n\nPERFORMANCE EVALUATION:\nInterns are evaluated on a five-point rubric: Technical Competence, Intellectual Curiosity, Collaborative Aptitude, Initiative & Ownership, and Communication Clarity. Candidates who score an average of 4.0 or above across all dimensions are eligible for a full-time return offer upon graduation.\n\nCOMPENSATION: $28.50 per hour. Housing stipend of $3,500 for interns relocating from outside a 50-mile radius."
+      },
+      {
+        "title": "End-of-Internship Summative Evaluation — Intern: Lena Okonkwo, Supply Chain Analytics",
+        "body": "INTERN NAME: Lena Okonkwo\nDEPARTMENT: Supply Chain Analytics\nMENTOR: Dr. Harold Whitfield, Senior Director of Supply Chain Strategy\nEVALUATION PERIOD: June 2 – August 22, 2026\n\nRATINGS (Scale 1–5):\n\n• Technical Competence: 4.5\nLena demonstrated exceptional proficiency in Python-based predictive modeling and SQL. Her demand forecasting algorithm for our Southeast Asian distribution network reduced mean absolute percentage error (MAPE) from 14.2% to 7.8% — a result that rivals outcomes produced by our full-time data scientists.\n\n• Intellectual Curiosity: 5.0\nOn multiple occasions, Lena independently identified relevant academic papers and industry whitepapers that informed our team's approach to a warehousing bottleneck problem. She possesses an insatiable appetite for domain knowledge that is rare even among seasoned professionals.\n\n• Collaborative Aptitude: 3.5\nWhile Lena's analytical contributions were unimpeachable, her tendency to work in isolation occasionally created friction. During the Week 7 sprint review, two team members expressed that they felt marginalized in the decision-making process for the demand forecasting tool's feature prioritization. Lena acknowledged this feedback constructively and made a conscientious effort to improve in the second half of the program.\n\n• Initiative & Ownership: 4.5\nLena proactively proposed a vendor managed inventory (VMI) pilot that was not part of her original scope of work. She built a business case, secured buy-in from the procurement team, and delivered a proof of concept within five weeks.\n\n• Communication Clarity: 4.0\nLena's written communication is concise and well-structured. Her midpoint presentation was notably polished. However, during the capstone presentation, she occasionally defaulted to technical jargon that obscured her key points for non-technical stakeholders.\n\nOVERALL AVERAGE: 4.3\n\nMENTOR COMMENTS:\nLena is an extraordinary analytical talent with genuine leadership potential. Her collaborative challenges are developmental rather than dispositional, and she has already demonstrated responsiveness to feedback. I recommend her for a full-time return offer upon graduation, ideally on a rotational program that exposes her to cross-functional leadership early in her career.\n\n— Dr. Harold Whitfield"
+      }
+    ],
+    "questions": [
+      {
+        "id": "P7D-T730-016-Q1",
+        "question": "What overall score did Lena Okonkwo receive on her summative evaluation?",
+        "options": [
+          "3.8",
+          "4.0",
+          "4.3",
+          "4.8"
+        ],
+        "answer": "4.3",
+        "explanation": "評估表顯示 Lena 的五個面向平均分數為 4.3。",
+        "crossReference": false,
+        "category": "細節"
+      },
+      {
+        "id": "P7D-T730-016-Q2",
+        "question": "According to the program overview, what is the minimum average evaluation score required for a full-time return offer?",
+        "options": [
+          "3.5",
+          "4.0",
+          "4.5",
+          "5.0"
+        ],
+        "answer": "4.0",
+        "explanation": "實習計畫說明明確指出各面向平均 4.0 分以上者具備全職回聘資格。",
+        "crossReference": false,
+        "category": "細節"
+      },
+      {
+        "id": "P7D-T730-016-Q3",
+        "question": "In the evaluation, the word \"unimpeachable\" is closest in meaning to:",
+        "options": [
+          "Questionable",
+          "Irrelevant",
+          "Beyond reproach",
+          "Incomplete"
+        ],
+        "answer": "Beyond reproach",
+        "explanation": "\"Unimpeachable\"（無可指責的）意指無可挑剔、不容置疑，與 beyond reproach 最接近。",
+        "crossReference": false,
+        "category": "字義"
+      },
+      {
+        "id": "P7D-T730-016-Q4",
+        "question": "What can be inferred about Lena's collaborative aptitude score of 3.5?",
+        "options": [
+          "It indicates a fundamental inability to work with others that will likely preclude her from receiving a return offer",
+          "It reflects a developmental area that her mentor believes is improvable and does not outweigh her other strengths",
+          "It was the highest score she received across all evaluation dimensions",
+          "It was calculated incorrectly and should have been higher"
+        ],
+        "answer": "It reflects a developmental area that her mentor believes is improvable and does not outweigh her other strengths",
+        "explanation": "Whitfield 博士在評語中明確指出協作問題是「發展性的而非性格上的」，且 Lena 已對回饋作出回應，並仍推薦她獲得全職回聘。",
+        "crossReference": false,
+        "category": "推論"
+      },
+      {
+        "id": "P7D-T730-016-Q5",
+        "question": "Based on both the program guidelines and the evaluation, is Lena eligible for a full-time return offer?",
+        "options": [
+          "No, because her Collaborative Aptitude score was below 4.0",
+          "No, because she did not complete the mandatory capstone project",
+          "Yes, because her overall average of 4.3 meets or exceeds the 4.0 eligibility threshold, and her mentor endorsed her",
+          "Yes, but only if she agrees to work in a different department"
+        ],
+        "answer": "Yes, because her overall average of 4.3 meets or exceeds the 4.0 eligibility threshold, and her mentor endorsed her",
+        "explanation": "此題須同時參照兩篇文件：實習計畫說明規定各面向平均 4.0 分以上者可獲全職回聘資格，而 Lena 的總平均為 4.3（超過門檻），且導師明確推薦她獲得回聘。須同時對照計畫文件中的評分門檻與評估表中的實際分數。",
+        "crossReference": true,
+        "category": "跨篇比對"
+      }
+    ]
+  }
+]

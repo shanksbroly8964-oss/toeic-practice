@@ -1,0 +1,284 @@
+[
+  {
+    "id": "P7S-T600-001",
+    "part": 7,
+    "type": "single",
+    "track": "T600",
+    "documents": [
+      {
+        "title": "Office Renovation Notice",
+        "body": "To all employees:\n\nStarting Monday, October 16, the company will begin renovation work on Floors 2 and 3. The project is expected to take three weeks. During this period, all staff on those floors will be temporarily relocated to Floor 5, where temporary workstations have been set up. The elevators in the west wing will be unavailable from 8:00 AM to 5:00 PM, so please use the east wing elevators instead. The renovation includes installing five new meeting rooms and upgrading the air conditioning system. We apologize for any inconvenience and thank you for your cooperation.\n\nFacilities Management"
+      }
+    ],
+    "questions": [
+      {
+        "id": "P7S-T600-001-Q1",
+        "question": "When does the renovation start?",
+        "options": ["October 10", "October 16", "October 20", "October 23"],
+        "answer": "October 16",
+        "explanation": "公告第一句明確指出「Starting Monday, October 16」為施工開始日。",
+        "crossReference": false
+      },
+      {
+        "id": "P7S-T600-001-Q2",
+        "question": "Which floors will be affected by the renovation?",
+        "options": ["Floors 1 and 2", "Floors 2 and 3", "Floors 3 and 4", "Floors 4 and 5"],
+        "answer": "Floors 2 and 3",
+        "explanation": "公告第一句寫明「Floors 2 and 3」為施工範圍。",
+        "crossReference": false
+      },
+      {
+        "id": "P7S-T600-001-Q3",
+        "question": "Where will the affected employees work during the renovation?",
+        "options": ["At home", "On Floor 5", "In the east wing", "On Floor 1"],
+        "answer": "On Floor 5",
+        "explanation": "公告說明受影響員工「will be temporarily relocated to Floor 5」。",
+        "crossReference": false
+      },
+      {
+        "id": "P7S-T600-001-Q4",
+        "question": "What new facility will be installed?",
+        "options": ["A new cafeteria", "Five new meeting rooms", "A new parking lot", "A new gym"],
+        "answer": "Five new meeting rooms",
+        "explanation": "公告提到「installing five new meeting rooms」為新設施之一。",
+        "crossReference": false
+      }
+    ]
+  },
+  {
+    "id": "P7S-T600-002",
+    "part": 7,
+    "type": "single",
+    "track": "T600",
+    "documents": [
+      {
+        "title": "Job Advertisement: Sales Representative",
+        "body": "GlobalTech Solutions is looking for a full-time Sales Representative to join our regional office in Chicago. The ideal candidate should have at least two years of sales experience in the software industry and be fluent in both English and one additional language. Responsibilities include meeting with clients, preparing sales reports, and attending trade shows. We offer a competitive salary, health insurance, a travel allowance, and paid vacation. To apply, send your resume and cover letter to hr@globaltech.com by May 31. Interviews will be conducted in early June."
+      }
+    ],
+    "questions": [
+      {
+        "id": "P7S-T600-002-Q1",
+        "question": "What position is being advertised?",
+        "options": ["Software Engineer", "Sales Representative", "Marketing Manager", "Office Assistant"],
+        "answer": "Sales Representative",
+        "explanation": "廣告標題和第一句即說明職位為「Sales Representative」。",
+        "crossReference": false
+      },
+      {
+        "id": "P7S-T600-002-Q2",
+        "question": "What is the minimum experience required?",
+        "options": ["One year", "Two years", "Three years", "Five years"],
+        "answer": "Two years",
+        "explanation": "廣告明確要求「at least two years of sales experience」。",
+        "crossReference": false
+      },
+      {
+        "id": "P7S-T600-002-Q3",
+        "question": "What is the application deadline?",
+        "options": ["May 15", "May 20", "May 31", "June 5"],
+        "answer": "May 31",
+        "explanation": "廣告寫明「send your resume and cover letter to hr@globaltech.com by May 31」。",
+        "crossReference": false
+      },
+      {
+        "id": "P7S-T600-002-Q4",
+        "question": "Which benefit is mentioned in the advertisement?",
+        "options": ["Free lunch", "Health insurance", "Company car", "Stock options"],
+        "answer": "Health insurance",
+        "explanation": "廣告列出的福利中包含「health insurance」。",
+        "crossReference": false
+      }
+    ]
+  },
+  {
+    "id": "P7S-T600-003",
+    "part": 7,
+    "type": "single",
+    "track": "T600",
+    "documents": [
+      {
+        "title": "Email: Shipment Delay Notification",
+        "body": "From: orders@marinemanufacturing.com\nTo: david.chen@tradealliance.com\nSubject: Order #24589 - Shipment Update\n\nDear Mr. Chen,\n\nWe are writing to inform you that your order #24589 for 500 units of model XC-200 has been delayed. The delay is due to port congestion at the Los Angeles terminal. Our logistics team estimates that the shipment will now arrive on March 25 instead of the original date of March 18. We sincerely apologize for the inconvenience and would like to offer a 5% discount on your next order. If you have any questions, please contact our customer service team at 1-800-555-0199.\n\nBest regards,\nKaren Walsh\nMarine Manufacturing"
+      }
+    ],
+    "questions": [
+      {
+        "id": "P7S-T600-003-Q1",
+        "question": "What is the reason for the delay?",
+        "options": ["Bad weather", "Port congestion", "Equipment failure", "Labor strike"],
+        "answer": "Port congestion",
+        "explanation": "郵件中明確寫道「The delay is due to port congestion at the Los Angeles terminal」。",
+        "crossReference": false
+      },
+      {
+        "id": "P7S-T600-003-Q2",
+        "question": "When is the new estimated arrival date?",
+        "options": ["March 18", "March 20", "March 25", "March 30"],
+        "answer": "March 25",
+        "explanation": "郵件說明「the shipment will now arrive on March 25 instead of the original date of March 18」。",
+        "crossReference": false
+      },
+      {
+        "id": "P7S-T600-003-Q3",
+        "question": "What compensation does the supplier offer?",
+        "options": ["Free shipping", "A 5% discount on the next order", "A full refund", "Express delivery"],
+        "answer": "A 5% discount on the next order",
+        "explanation": "郵件提到「offer a 5% discount on your next order」作為補償。",
+        "crossReference": false
+      }
+    ]
+  },
+  {
+    "id": "P7S-T600-004",
+    "part": 7,
+    "type": "single",
+    "track": "T600",
+    "documents": [
+      {
+        "title": "Annual Company Picnic Invitation",
+        "body": "You are invited to the 2025 Annual Company Picnic!\n\nDate: Saturday, June 15\nTime: 11:00 AM to 4:00 PM\nLocation: Riverside Park, Pavilion A (1200 Riverside Drive)\n\nJoin us for a day of fun with barbecue, team sports, and a raffle with exciting prizes. All employees and their immediate family members are welcome. Food and drinks will be provided free of charge. Please note that parking at the park is limited, so carpooling is encouraged. A shuttle bus will run between the office and the park every 30 minutes starting at 10:30 AM.\n\nPlease RSVP by June 8 to hr@companyname.com. Indicate the number of guests you will bring."
+      }
+    ],
+    "questions": [
+      {
+        "id": "P7S-T600-004-Q1",
+        "question": "When will the picnic take place?",
+        "options": ["June 8", "June 12", "June 15", "June 18"],
+        "answer": "June 15",
+        "explanation": "邀請函中日期欄位寫明「Date: Saturday, June 15」。",
+        "crossReference": false
+      },
+      {
+        "id": "P7S-T600-004-Q2",
+        "question": "What is the deadline for RSVP?",
+        "options": ["June 5", "June 8", "June 10", "June 15"],
+        "answer": "June 8",
+        "explanation": "邀請函要求「RSVP by June 8」。",
+        "crossReference": false
+      },
+      {
+        "id": "P7S-T600-004-Q3",
+        "question": "What transportation option is provided?",
+        "options": ["Free taxi vouchers", "A shuttle bus", "Bicycle rentals", "Subway passes"],
+        "answer": "A shuttle bus",
+        "explanation": "邀請函提到「A shuttle bus will run between the office and the park every 30 minutes」。",
+        "crossReference": false
+      }
+    ]
+  },
+  {
+    "id": "P7S-T600-005",
+    "part": 7,
+    "type": "single",
+    "track": "T600",
+    "documents": [
+      {
+        "title": "Product Description: ErgoPro Office Chair",
+        "body": "ErgoPro Office Chair - Model EP-500\n\nDesigned for professionals who spend long hours at their desk, the ErgoPro EP-500 offers superior comfort and support. Key features include adjustable lumbar support, a breathable mesh backrest, height-adjustable armrests, and a tilt mechanism with tension control. The seat cushion is made of high-density foam for lasting comfort. Available in two colors: black and gray. The chair comes with a 3-year manufacturer warranty covering all parts and labor. Dimensions: 26\" W x 26\" D x 42\" H. Weight capacity: 300 lbs. Price: $349. Free shipping on orders over $200 within the continental United States."
+      }
+    ],
+    "questions": [
+      {
+        "id": "P7S-T600-005-Q1",
+        "question": "What material is the backrest made of?",
+        "options": ["Leather", "Plastic", "Mesh fabric", "Wood"],
+        "answer": "Mesh fabric",
+        "explanation": "產品說明中寫明「breathable mesh backrest」。",
+        "crossReference": false
+      },
+      {
+        "id": "P7S-T600-005-Q2",
+        "question": "How long is the warranty period?",
+        "options": ["One year", "Two years", "Three years", "Five years"],
+        "answer": "Three years",
+        "explanation": "產品說明提到「a 3-year manufacturer warranty」。",
+        "crossReference": false
+      },
+      {
+        "id": "P7S-T600-005-Q3",
+        "question": "What is the price of the chair?",
+        "options": ["$249", "$299", "$349", "$399"],
+        "answer": "$349",
+        "explanation": "產品說明中「Price: $349」清楚標示價格。",
+        "crossReference": false
+      }
+    ]
+  },
+  {
+    "id": "P7S-T600-006",
+    "part": 7,
+    "type": "single",
+    "track": "T600",
+    "documents": [
+      {
+        "title": "Memo: New Parking Policy",
+        "body": "MEMORANDUM\n\nTo: All Staff\nFrom: Human Resources Department\nDate: August 1, 2025\nSubject: New Parking Policy Effective September 1\n\nStarting September 1, 2025, all employees who wish to use the company parking lot must register their vehicle at the HR office. Registration requires your employee ID number, license plate number, and a valid driver's license. The parking lot will operate on a first-come, first-served basis. Reserved parking spots near the main entrance will be available for employees with disabilities and visitors with prior approval. There is no charge for parking; however, vehicles without a valid parking permit after September 15 will be towed at the owner's expense. Please visit the HR office on the 2nd floor between 9:00 AM and 5:00 PM to complete your registration."
+      }
+    ],
+    "questions": [
+      {
+        "id": "P7S-T600-006-Q1",
+        "question": "When does the new parking policy take effect?",
+        "options": ["August 1", "August 15", "September 1", "September 15"],
+        "answer": "September 1",
+        "explanation": "備忘錄標題和第一句均指出「Effective September 1」。",
+        "crossReference": false
+      },
+      {
+        "id": "P7S-T600-006-Q2",
+        "question": "What must employees provide to register their vehicle?",
+        "options": ["A parking fee", "Their employee ID number", "A letter from their manager", "A vehicle insurance document"],
+        "answer": "Their employee ID number",
+        "explanation": "備忘錄要求提交「employee ID number, license plate number, and a valid driver's license」。",
+        "crossReference": false
+      },
+      {
+        "id": "P7S-T600-006-Q3",
+        "question": "What happens if a vehicle does not have a valid permit after September 15?",
+        "options": ["The driver receives a warning", "The vehicle will be towed", "A fine of $50 is charged", "The driver loses parking privileges for a month"],
+        "answer": "The vehicle will be towed",
+        "explanation": "備忘錄指出「vehicles without a valid parking permit after September 15 will be towed」。",
+        "crossReference": false
+      }
+    ]
+  },
+  {
+    "id": "P7S-T600-007",
+    "part": 7,
+    "type": "single",
+    "track": "T600",
+    "documents": [
+      {
+        "title": "Email: Training Session Announcement",
+        "body": "From: training@datacorp.com\nTo: all-staff@datacorp.com\nSubject: Required IT Security Training\n\nAll employees are required to attend an IT security training session this month. The training will cover password management, phishing detection, and safe data handling practices. There are three available sessions:\n\nSession A: Thursday, November 7, 10:00 AM - 12:00 PM (Conference Room A)\nSession B: Tuesday, November 12, 2:00 PM - 4:00 PM (Conference Room B)\nSession C: Friday, November 15, 9:00 AM - 11:00 AM (Conference Room A)\n\nPlease email training@datacorp.com with your preferred session by November 4. Each session is limited to 30 participants. If you cannot attend any of these dates, please contact your department manager immediately.\n\nTraining Department"
+      }
+    ],
+    "questions": [
+      {
+        "id": "P7S-T600-007-Q1",
+        "question": "What is the deadline for selecting a training session?",
+        "options": ["November 1", "November 4", "November 7", "November 15"],
+        "answer": "November 4",
+        "explanation": "郵件要求「Please email training@datacorp.com with your preferred session by November 4」。",
+        "crossReference": false
+      },
+      {
+        "id": "P7S-T600-007-Q2",
+        "question": "How many participants can each session accommodate?",
+        "options": ["20", "25", "30", "35"],
+        "answer": "30",
+        "explanation": "郵件寫明「Each session is limited to 30 participants」。",
+        "crossReference": false
+      },
+      {
+        "id": "P7S-T600-007-Q3",
+        "question": "Which session takes place in the morning?",
+        "options": ["Session A only", "Session B only", "Session C only", "Session A and Session C"],
+        "answer": "Session A and Session C",
+        "explanation": "Session A 時間為 10:00 AM - 12:00 PM，Session C 時間為 9:00 AM - 11:00 AM，兩者皆在早上時段。",
+        "crossReference": false
+      }
+    ]
+  }
+]

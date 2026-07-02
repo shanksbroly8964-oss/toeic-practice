@@ -1,0 +1,2054 @@
+[
+  {
+    "id": "P6-T600-013",
+    "part": 6,
+    "track": "T600",
+    "passageTitle": "Email: New Employee Welcome",
+    "passageTemplate": "Dear Jason,\n\nWelcome to the team! We are very pleased to have you (1)___ us starting next Monday. Your workstation has been set up on the 3rd floor, and your computer login credentials will be (2)___ to you by the IT department on your first day.\n\nPlease arrive at 9:00 a.m. and report to the HR office, (3)___ a staff member will give you a brief orientation. Also, remember to bring a photo ID for your security badge. (4)___ any questions before your start date, feel free to contact me directly.\n\nBest regards,\nRebecca Tan\nHR Manager",
+    "blanks": [
+      {
+        "index": 1,
+        "options": [
+          "join",
+          "joining",
+          "joined",
+          "joins"
+        ],
+        "answer": "join",
+        "category": "搭配詞",
+        "explanation": "have someone + 原形動詞表示「讓某人做某事」，為固定搭配。"
+      },
+      {
+        "index": 2,
+        "options": [
+          "provided",
+          "providing",
+          "provide",
+          "provides"
+        ],
+        "answer": "provided",
+        "category": "時態",
+        "explanation": "will be + 過去分詞構成未來被動語態，表示「將會被提供」。"
+      },
+      {
+        "index": 3,
+        "options": [
+          "where",
+          "which",
+          "when",
+          "who"
+        ],
+        "answer": "where",
+        "category": "關係代名詞",
+        "explanation": "關係副詞where修飾先行詞HR office（地點），引導非限定子句。"
+      },
+      {
+        "index": 4,
+        "options": [
+          "If you have",
+          "Having",
+          "You have",
+          "To have"
+        ],
+        "answer": "If you have",
+        "category": "句子插入",
+        "explanation": "If you have...為條件句引導，為email中常見的禮貌說法。"
+      }
+    ]
+  },
+  {
+    "id": "P6-T600-014",
+    "part": 6,
+    "track": "T600",
+    "passageTitle": "Memo: Overtime Policy Update",
+    "passageTemplate": "To: All Department Managers\nFrom: Human Resources\nDate: March 3\n\nThis memo serves to remind all managers of the updated overtime policy, (1)___ took effect on February 1. All overtime hours must be approved by the department head (2)___ advance. Employees are required to submit their overtime requests through the online portal at least 48 hours before the intended overtime period.\n\nPlease note that any overtime not approved in advance will not be (3)___ for compensation. (4)___ ensure compliance, the HR department will conduct random audits starting next month.\n\nThank you for your cooperation.",
+    "blanks": [
+      {
+        "index": 1,
+        "options": [
+          "which",
+          "who",
+          "what",
+          "where"
+        ],
+        "answer": "which",
+        "category": "關係代名詞",
+        "explanation": "which引導非限定關係子句，修飾先行詞policy（事物）。"
+      },
+      {
+        "index": 2,
+        "options": [
+          "in",
+          "on",
+          "at",
+          "by"
+        ],
+        "answer": "in",
+        "category": "搭配詞",
+        "explanation": "in advance（事先）為固定搭配片語。"
+      },
+      {
+        "index": 3,
+        "options": [
+          "eligible",
+          "eligibly",
+          "eligibility",
+          "entitled"
+        ],
+        "answer": "eligible",
+        "category": "詞性",
+        "explanation": "形容詞eligible修飾主詞補語，表示「有資格的」；eligibility為名詞。"
+      },
+      {
+        "index": 4,
+        "options": [
+          "In order to",
+          "Because of",
+          "Despite",
+          "As a result"
+        ],
+        "answer": "In order to",
+        "category": "句子插入",
+        "explanation": "In order to引導目的，表示「為了確保合規」，為公告常見寫法。"
+      }
+    ]
+  },
+  {
+    "id": "P6-T600-015",
+    "part": 6,
+    "track": "T600",
+    "passageTitle": "Announcement: Annual Health Checkup",
+    "passageTemplate": "ANNOUNCEMENT: Annual Health Checkup\n\nAll full-time employees are required to (1)___ in the annual health checkup scheduled for the week of April 8-12. Appointments can be booked online through the employee wellness portal. Please select a time slot that is (2)___ for your schedule.\n\nThe health checkup includes basic blood tests, vision screening, and a physical (3)___. Results will be sent directly to each employee's personal email within two weeks. (4)___ have specific health concerns you would like the doctor to address, please indicate this when booking your appointment.\n\n— Employee Wellness Committee",
+    "blanks": [
+      {
+        "index": 1,
+        "options": [
+          "participate",
+          "participating",
+          "participated",
+          "participation"
+        ],
+        "answer": "participate",
+        "category": "詞性",
+        "explanation": "are required to + 原形動詞不定詞，participate為動詞；participation為名詞。"
+      },
+      {
+        "index": 2,
+        "options": [
+          "convenient",
+          "convenience",
+          "conveniently",
+          "more convenience"
+        ],
+        "answer": "convenient",
+        "category": "詞性",
+        "explanation": "形容詞convenient作主詞補語，表示「方便的」；convenience為名詞。"
+      },
+      {
+        "index": 3,
+        "options": [
+          "examination",
+          "examine",
+          "examined",
+          "examining"
+        ],
+        "answer": "examination",
+        "category": "詞性",
+        "explanation": "名詞examination作physical（形容詞）的受修飾名詞，為完整名詞片語。"
+      },
+      {
+        "index": 4,
+        "options": [
+          "Should you",
+          "You should",
+          "If you should",
+          "Do you"
+        ],
+        "answer": "Should you",
+        "category": "句子插入",
+        "explanation": "Should you...為倒裝條件句，相當於If you have...，為正式公告語氣。"
+      }
+    ]
+  },
+  {
+    "id": "P6-T600-016",
+    "part": 6,
+    "track": "T600",
+    "passageTitle": "Advertisement: Office Furniture Clearance",
+    "passageTemplate": "OFFICE FURNITURE CLEARANCE SALE — Up to 50% Off!\n\nOfficePro is clearing out last year's inventory to make room (1)___ new arrivals. We offer a wide selection of desks, chairs, filing cabinets, and conference tables at (2)___ prices. All items come with a one-year warranty and free delivery for orders over $500.\n\nVisit our showroom at 285 Nanjing East Road, or shop online at www.officepro.com. (3)___ to place an order by phone, call our customer service hotline at 0800-123-456.\n\n(4)___ you are setting up a new office or upgrading your current workspace, OfficePro has everything you need.\n\nSale ends March 31.",
+    "blanks": [
+      {
+        "index": 1,
+        "options": [
+          "for",
+          "to",
+          "with",
+          "of"
+        ],
+        "answer": "for",
+        "category": "介系詞",
+        "explanation": "make room for（為...騰出空間）為固定搭配，for表示目的或對象。"
+      },
+      {
+        "index": 2,
+        "options": [
+          "unbeatable",
+          "unbeaten",
+          "unbeatably",
+          "unbeating"
+        ],
+        "answer": "unbeatable",
+        "category": "詞性",
+        "explanation": "形容詞unbeatable修飾名詞prices，表示「無法擊敗的（超低）價格」。"
+      },
+      {
+        "index": 3,
+        "options": [
+          "If you prefer",
+          "You prefer",
+          "Preferring",
+          "Prefer"
+        ],
+        "answer": "If you prefer",
+        "category": "句子插入",
+        "explanation": "If you prefer...為條件引導句，承接前文線上購物選項，提供電話替代方案。"
+      },
+      {
+        "index": 4,
+        "options": [
+          "Whether",
+          "Even though",
+          "As if",
+          "So that"
+        ],
+        "answer": "Whether",
+        "category": "連接詞",
+        "explanation": "Whether...or...表示「無論是...還是...」，為廣告中涵蓋所有情境的寫法。"
+      }
+    ]
+  },
+  {
+    "id": "P6-T600-017",
+    "part": 6,
+    "track": "T600",
+    "passageTitle": "Email: Supplier Payment Reminder",
+    "passageTemplate": "Dear Mr. Huang,\n\nWe are writing to remind you that the payment for invoice #INV-2405 is now (1)___ by 15 days. According to our records, the amount due is NT$48,500, which was originally scheduled for payment on May 10.\n\nWe understand that delays can happen, but we would (2)___ appreciate it if you could process the payment at your earliest convenience. Continued late payments may result (3)___ a temporary suspension of your account.\n\nPlease (4)___ this matter promptly to avoid any disruption to your service.\n\nSincerely,\nAccounts Receivable Department",
+    "blanks": [
+      {
+        "index": 1,
+        "options": [
+          "overdue",
+          "overdueing",
+          "overdued",
+          "overdues"
+        ],
+        "answer": "overdue",
+        "category": "近義字彙",
+        "explanation": "overdue（過期的、逾期未付的）為形容詞，是帳款催收的標準用語。"
+      },
+      {
+        "index": 2,
+        "options": [
+          "greatly",
+          "great",
+          "greatness",
+          "greater"
+        ],
+        "answer": "greatly",
+        "category": "詞性",
+        "explanation": "副詞greatly修飾動詞appreciate，表示「非常感謝」；great為形容詞。"
+      },
+      {
+        "index": 3,
+        "options": [
+          "in",
+          "to",
+          "from",
+          "with"
+        ],
+        "answer": "in",
+        "category": "片語動詞",
+        "explanation": "result in（導致）為片語動詞固定搭配；result from表示「起因於」。"
+      },
+      {
+        "index": 4,
+        "options": [
+          "please",
+          "we recommend",
+          "it is advised",
+          "you should"
+        ],
+        "answer": "please",
+        "category": "句子插入",
+        "explanation": "Please開頭的祈使句最為直接自然，為催款email的標準禮貌語氣。"
+      }
+    ]
+  },
+  {
+    "id": "P6-T600-018",
+    "part": 6,
+    "track": "T600",
+    "passageTitle": "Memo: Dress Code Reminder",
+    "passageTemplate": "To: All Staff\nFrom: Administration\nDate: July 1\n\nAs the summer season begins, we would like to remind everyone of the company's dress code policy. While casual attire is permitted on Fridays, business casual is (1)___ from Monday through Thursday. Employees are expected to dress in a professional (2)___ that reflects positively on the company.\n\nPlease note that the following items are not acceptable at any time: flip-flops, tank tops, and shorts. (3)___ you are attending a client meeting, a more formal dress code is required. If you are unsure (4)___ what is appropriate, please consult the employee handbook.\n\n— Administration",
+    "blanks": [
+      {
+        "index": 1,
+        "options": [
+          "required",
+          "requiring",
+          "require",
+          "requires"
+        ],
+        "answer": "required",
+        "category": "時態",
+        "explanation": "is required構成被動語態，表示「被要求」穿著商務便服。"
+      },
+      {
+        "index": 2,
+        "options": [
+          "manner",
+          "manners",
+          "mannerly",
+          "mannered"
+        ],
+        "answer": "manner",
+        "category": "搭配詞",
+        "explanation": "in a professional manner（以專業的態度）為固定片語；manners指禮貌。"
+      },
+      {
+        "index": 3,
+        "options": [
+          "If",
+          "Unless",
+          "Although",
+          "Whereas"
+        ],
+        "answer": "If",
+        "category": "連接詞",
+        "explanation": "If引導條件子句，表示「如果參加客戶會議」，承接前文說明。"
+      },
+      {
+        "index": 4,
+        "options": [
+          "If you are unsure",
+          "Are unsure",
+          "To be unsure",
+          "Being unsure"
+        ],
+        "answer": "If you are unsure",
+        "category": "句子插入",
+        "explanation": "If you are unsure引導條件子句，為公告中提供查詢方式的完整句型。"
+      }
+    ]
+  },
+  {
+    "id": "P6-T600-019",
+    "part": 6,
+    "track": "T600",
+    "passageTitle": "Notice: Elevator Out of Service",
+    "passageTemplate": "BUILDING NOTICE\n\nPlease be advised that the south wing elevator (1)___ be out of service from Monday, June 24 to Wednesday, June 26, due to scheduled maintenance. During this period, please use the north wing elevator or the stairs.\n\nWe (2)___ for any inconvenience this may cause and appreciate your patience. The maintenance work is necessary to (3)___ the safety and reliability of the elevator system. If you require assistance with transporting heavy items, (4)___ contact the building management office at extension 300.\n\n— Building Management",
+    "blanks": [
+      {
+        "index": 1,
+        "options": [
+          "will",
+          "has",
+          "was",
+          "is"
+        ],
+        "answer": "will",
+        "category": "時態",
+        "explanation": "will be out of service表示未來期間的狀態，用未來式will。"
+      },
+      {
+        "index": 2,
+        "options": [
+          "apologize",
+          "apologizing",
+          "apologized",
+          "apology"
+        ],
+        "answer": "apologize",
+        "category": "詞性",
+        "explanation": "We + 原形動詞apologize構成主動句；apology為名詞形式。"
+      },
+      {
+        "index": 3,
+        "options": [
+          "ensure",
+          "ensuring",
+          "ensured",
+          "ensures"
+        ],
+        "answer": "ensure",
+        "category": "搭配詞",
+        "explanation": "is necessary to + 原形動詞，ensure safety（確保安全）為商務常見搭配。"
+      },
+      {
+        "index": 4,
+        "options": [
+          "please",
+          "you can",
+          "it is recommended that",
+          "we hope you"
+        ],
+        "answer": "please",
+        "category": "句子插入",
+        "explanation": "if條件子句後接祈使句please為公告標準語氣，最簡潔自然。"
+      }
+    ]
+  },
+  {
+    "id": "P6-T600-020",
+    "part": 6,
+    "track": "T600",
+    "passageTitle": "Email: Client Visit Confirmation",
+    "passageTemplate": "Dear Ms. Nakamura,\n\nThank you for confirming your visit to our headquarters on September 12. We have arranged a conference room for the morning session, and lunch (1)___ at a nearby restaurant at 12:30 p.m.\n\n(2)___ your convenience, we have also prepared a detailed agenda, which is attached to this email. Please review the agenda and let us know if there are any items you would like to add. If you need transportation from your hotel, our driver will (3)___ you up at 9:00 a.m.\n\nWe look (4)___ to meeting you and discussing potential areas of collaboration.\n\nBest regards,\nJames Wang\nBusiness Development Manager",
+    "blanks": [
+      {
+        "index": 1,
+        "options": [
+          "will be served",
+          "serves",
+          "served",
+          "is serving"
+        ],
+        "answer": "will be served",
+        "category": "時態",
+        "explanation": "未來式被動will be served表示午餐「將被安排提供」。"
+      },
+      {
+        "index": 2,
+        "options": [
+          "For your convenience",
+          "Your convenience",
+          "Conveniently",
+          "To convenience"
+        ],
+        "answer": "For your convenience",
+        "category": "句子插入",
+        "explanation": "For your convenience為商務email固定開頭片語，導出附件說明。"
+      },
+      {
+        "index": 3,
+        "options": [
+          "pick",
+          "pickup",
+          "picking",
+          "picked"
+        ],
+        "answer": "pick",
+        "category": "片語動詞",
+        "explanation": "will + 原形動詞pick；pick up（接送/搭載）為片語動詞。"
+      },
+      {
+        "index": 4,
+        "options": [
+          "forward",
+          "ahead",
+          "after",
+          "into"
+        ],
+        "answer": "forward",
+        "category": "片語動詞",
+        "explanation": "look forward to（期待）為固定片語動詞搭配。"
+      }
+    ]
+  },
+  {
+    "id": "P6-T600-021",
+    "part": 6,
+    "track": "T600",
+    "passageTitle": "Announcement: Employee of the Month",
+    "passageTemplate": "EMPLOYEE OF THE MONTH — May\n\nWe are delighted to announce that Ms. Sylvia Cheng from the Sales Department has been (1)___ as Employee of the Month for May. Sylvia achieved the highest sales figures last month and received (2)___ positive feedback from several key clients.\n\n(3)___ her outstanding performance, Sylvia will receive a NT$5,000 bonus, a reserved parking spot for one month, and a certificate of recognition. Please join us in congratulating Sylvia on this (4)___ achievement.\n\n— Human Resources Department",
+    "blanks": [
+      {
+        "index": 1,
+        "options": [
+          "selected",
+          "selecting",
+          "select",
+          "selects"
+        ],
+        "answer": "selected",
+        "category": "時態",
+        "explanation": "has been + 過去分詞構成現在完成被動語態，表示「已被選為」。"
+      },
+      {
+        "index": 2,
+        "options": [
+          "numerous",
+          "numerously",
+          "numerosity",
+          "more numerous"
+        ],
+        "answer": "numerous",
+        "category": "詞性",
+        "explanation": "形容詞numerous修飾名詞feedback，表示「大量的」。"
+      },
+      {
+        "index": 3,
+        "options": [
+          "In recognition of",
+          "Recognizing",
+          "To recognize",
+          "Recognized for"
+        ],
+        "answer": "In recognition of",
+        "category": "句子插入",
+        "explanation": "In recognition of（為表彰...）為公告正式開頭片語，比其餘選項更正式。"
+      },
+      {
+        "index": 4,
+        "options": [
+          "well-deserved",
+          "well-deserving",
+          "well-deserve",
+          "well-deservedly"
+        ],
+        "answer": "well-deserved",
+        "category": "詞性",
+        "explanation": "well-deserved（當之無愧的）為複合形容詞修飾名詞achievement。"
+      }
+    ]
+  },
+  {
+    "id": "P6-T600-022",
+    "part": 6,
+    "track": "T600",
+    "passageTitle": "Advertisement: Document Translation Service",
+    "passageTemplate": "PROFESSIONAL DOCUMENT TRANSLATION — Fast and Accurate\n\n(1)___ you need business contracts, marketing materials, or technical manuals translated, LinguaPro has the solution. We offer translation services in over 30 languages, all performed by native-speaking professionals with industry expertise.\n\nOur standard turnaround time is 48 hours, but (2)___ service is available for urgent requests at an additional charge. All translations are (3)___ reviewed by a second linguist to ensure accuracy and consistency.\n\n(4)___ a free quote, simply upload your document at www.linguapro.com or call us at 02-8765-4321.\n\nQuality guaranteed or your money back!",
+    "blanks": [
+      {
+        "index": 1,
+        "options": [
+          "Whether",
+          "Despite",
+          "Because",
+          "Unless"
+        ],
+        "answer": "Whether",
+        "category": "連接詞",
+        "explanation": "Whether引導讓步子句，表示「無論是...」，涵蓋所有文件類型。"
+      },
+      {
+        "index": 2,
+        "options": [
+          "express",
+          "expressing",
+          "expressed",
+          "expression"
+        ],
+        "answer": "express",
+        "category": "近義字彙",
+        "explanation": "express service（快遞/快速服務）為形容詞，表示「快速的」服務選項。"
+      },
+      {
+        "index": 3,
+        "options": [
+          "carefully",
+          "careful",
+          "care",
+          "caring"
+        ],
+        "answer": "carefully",
+        "category": "詞性",
+        "explanation": "副詞carefully修飾動詞reviewed，表示「仔細地審閱」。"
+      },
+      {
+        "index": 4,
+        "options": [
+          "To request",
+          "Requesting",
+          "You request",
+          "Request"
+        ],
+        "answer": "To request",
+        "category": "句子插入",
+        "explanation": "To request引導不定詞片語表目的，為廣告中號召行動的常見寫法。"
+      }
+    ]
+  },
+  {
+    "id": "P6-T600-023",
+    "part": 6,
+    "track": "T600",
+    "passageTitle": "Email: Internship Application",
+    "passageTemplate": "Dear Mr. Lee,\n\nThank you for your interest in the summer internship program at TechForward Inc. We have received your application and would like to invite you (1)___ an interview on June 20 at 10:00 a.m. The interview will last approximately 45 minutes and will be (2)___ by two members of our marketing team.\n\nPlease bring a copy of your resume and any relevant work samples. The interview will take place at our main office (3)___ 15F, No. 100, Section 2, Dunhua South Road.\n\n(4)___ unable to attend the scheduled interview, please notify us at least 24 hours in advance so that we can reschedule.\n\nBest regards,\nKelly Wu\nHR Internship Coordinator",
+    "blanks": [
+      {
+        "index": 1,
+        "options": [
+          "to",
+          "for",
+          "at",
+          "with"
+        ],
+        "answer": "to",
+        "category": "介系詞",
+        "explanation": "invite someone to（邀請某人參加...）為固定介系詞搭配。"
+      },
+      {
+        "index": 2,
+        "options": [
+          "conducted",
+          "conducting",
+          "conduct",
+          "conducts"
+        ],
+        "answer": "conducted",
+        "category": "時態",
+        "explanation": "will be + 過去分詞構成未來被動，表示面試「將由...主持」。"
+      },
+      {
+        "index": 3,
+        "options": [
+          "on",
+          "in",
+          "at",
+          "by"
+        ],
+        "answer": "on",
+        "category": "介系詞",
+        "explanation": "on 15F（在15樓）為地址中樓層的介系詞用法。"
+      },
+      {
+        "index": 4,
+        "options": [
+          "If you are",
+          "You are",
+          "Being",
+          "To be"
+        ],
+        "answer": "If you are",
+        "category": "句子插入",
+        "explanation": "If you are unable to...為條件句引導，表示「若無法參加」，為email標準句型。"
+      }
+    ]
+  },
+  {
+    "id": "P6-T600-024",
+    "part": 6,
+    "track": "T600",
+    "passageTitle": "Memo: Paperless Initiative",
+    "passageTemplate": "To: All Employees\nFrom: Office of Sustainability\nDate: August 5\n\nAs part of our company's green initiative, we are encouraging all departments to (1)___ paper usage by at least 30% this quarter. Please think twice before printing documents and use digital alternatives whenever (2)___.\n\nThe IT department will provide training on how to (3)___ electronic signatures and cloud-based document sharing. Together, we can make a (4)___ impact on the environment while also reducing office supply costs.\n\n— Sustainability Office",
+    "blanks": [
+      {
+        "index": 1,
+        "options": [
+          "reduce",
+          "reducing",
+          "reduced",
+          "reduces"
+        ],
+        "answer": "reduce",
+        "category": "搭配詞",
+        "explanation": "encourage to + 原形動詞，reduce usage（減少用量）為搭配。"
+      },
+      {
+        "index": 2,
+        "options": [
+          "whenever possible",
+          "when possible",
+          "if it is possible",
+          "whenever possibly"
+        ],
+        "answer": "whenever possible",
+        "category": "句子插入",
+        "explanation": "whenever possible為簡略條件片語，表示「只要可行」，為公告常見說法。"
+      },
+      {
+        "index": 3,
+        "options": [
+          "use",
+          "using",
+          "used",
+          "usage"
+        ],
+        "answer": "use",
+        "category": "詞性",
+        "explanation": "how to + 原形動詞use；usage為名詞，不可直接接在此處。"
+      },
+      {
+        "index": 4,
+        "options": [
+          "significant",
+          "significantly",
+          "significance",
+          "signify"
+        ],
+        "answer": "significant",
+        "category": "詞性",
+        "explanation": "形容詞significant修飾名詞impact，表示「顯著的」影響。"
+      }
+    ]
+  },
+  {
+    "id": "P6-T600-025",
+    "part": 6,
+    "track": "T600",
+    "passageTitle": "Notice: Scheduled Power Outage",
+    "passageTemplate": "TENANT NOTICE: Scheduled Power Outage\n\nPlease be informed that there will be a scheduled power outage on Saturday, October 19, (1)___ 8:00 a.m. to 2:00 p.m. The outage is necessary to allow the power company to upgrade electrical equipment in the building.\n\n(2)___ this period, the elevators, air conditioning, and office lighting will not function. We strongly recommend that you turn off all computers and electronic devices (3)___ leaving the office on Friday evening. Emergency lighting will be available in all stairwells and hallways.\n\n(4)___ have any questions or concerns, please contact the building management office.\n\n— Property Management Team",
+    "blanks": [
+      {
+        "index": 1,
+        "options": [
+          "from",
+          "on",
+          "between",
+          "during"
+        ],
+        "answer": "from",
+        "category": "介系詞",
+        "explanation": "from...to...表示時間範圍起迄，為公告標準寫法。"
+      },
+      {
+        "index": 2,
+        "options": [
+          "During",
+          "While",
+          "For",
+          "Since"
+        ],
+        "answer": "During",
+        "category": "介系詞",
+        "explanation": "During + 名詞（this period）表示「在此期間」；while需接子句。"
+      },
+      {
+        "index": 3,
+        "options": [
+          "before",
+          "after",
+          "while",
+          "until"
+        ],
+        "answer": "before",
+        "category": "連接詞",
+        "explanation": "before leaving表示「在離開前」，時間邏輯上在停電前關機才合理。"
+      },
+      {
+        "index": 4,
+        "options": [
+          "Should you",
+          "Do you have",
+          "If you had",
+          "You should"
+        ],
+        "answer": "Should you",
+        "category": "句子插入",
+        "explanation": "Should you have...為倒裝條件句，正式公告語氣，相當於If you have..."
+      }
+    ]
+  },
+  {
+    "id": "P6-T600-026",
+    "part": 6,
+    "track": "T600",
+    "passageTitle": "Email: Contract Renewal Notice",
+    "passageTemplate": "Dear Mr. Tanaka,\n\nThis email is to inform you that your current service agreement with us will (1)___ on November 30. We value your business and would like to offer you the opportunity to renew the contract (2)___ the same terms and conditions.\n\nHowever, please note that there will be a 5% price adjustment starting from the next billing cycle (3)___ to rising operational costs. If you wish to renew, please sign and return the attached agreement by November 15.\n\n(4)___ not hear from you by the deadline, we will assume that you do not wish to continue the service.\n\nSincerely,\nCustomer Retention Team",
+    "blanks": [
+      {
+        "index": 1,
+        "options": [
+          "expire",
+          "expiring",
+          "expired",
+          "expires"
+        ],
+        "answer": "expire",
+        "category": "搭配詞",
+        "explanation": "will + 原形動詞expire，表示「將到期」。"
+      },
+      {
+        "index": 2,
+        "options": [
+          "under",
+          "with",
+          "by",
+          "for"
+        ],
+        "answer": "under",
+        "category": "介系詞",
+        "explanation": "under the same terms（依相同條款）為法律/合約固定搭配。"
+      },
+      {
+        "index": 3,
+        "options": [
+          "due",
+          "because",
+          "since",
+          "owing"
+        ],
+        "answer": "due",
+        "category": "搭配詞",
+        "explanation": "due to（由於）為固定片語；此處due to rising costs表示原因。"
+      },
+      {
+        "index": 4,
+        "options": [
+          "Should we",
+          "We should",
+          "If we should",
+          "Do we"
+        ],
+        "answer": "Should we",
+        "category": "句子插入",
+        "explanation": "Should we not hear...為倒裝條件句，正式商業email語氣。"
+      }
+    ]
+  },
+  {
+    "id": "P6-T600-027",
+    "part": 6,
+    "track": "T600",
+    "passageTitle": "Announcement: Charity Fundraising Event",
+    "passageTemplate": "CHARITY EVENT ANNOUNCEMENT\n\nWe are proud to announce that our company will be hosting a charity bake sale on Friday, December 6, in the main lobby. All (1)___ from the sale will be donated to the Children's Education Fund, a local nonprofit organization that supports underprivileged students.\n\nEmployees are encouraged to (2)___ homemade baked goods or to simply stop by and make a purchase. Every contribution, no (3)___ how small, makes a difference. Last year, we raised over NT$30,000, and we hope to exceed that amount this year.\n\n(4)___ would like to volunteer to help with the event, please sign up at the reception desk by December 1.\n\n— Corporate Social Responsibility Committee",
+    "blanks": [
+      {
+        "index": 1,
+        "options": [
+          "proceeds",
+          "proceed",
+          "proceeding",
+          "proceeded"
+        ],
+        "answer": "proceeds",
+        "category": "近義字彙",
+        "explanation": "proceeds（收益/所得）為名詞複數，特指義賣所得；proceed為動詞。"
+      },
+      {
+        "index": 2,
+        "options": [
+          "donate",
+          "donating",
+          "donated",
+          "donation"
+        ],
+        "answer": "donate",
+        "category": "詞性",
+        "explanation": "encourage to + 原形動詞donate；donation為名詞形式。"
+      },
+      {
+        "index": 3,
+        "options": [
+          "matter",
+          "matters",
+          "mattering",
+          "mattered"
+        ],
+        "answer": "matter",
+        "category": "搭配詞",
+        "explanation": "no matter how small（無論多麼微小）為固定搭配，matter用原形。"
+      },
+      {
+        "index": 4,
+        "options": [
+          "If you",
+          "You",
+          "Should",
+          "Anyone"
+        ],
+        "answer": "If you",
+        "category": "句子插入",
+        "explanation": "If you would like to...為條件句引導，表示邀請志願者。"
+      }
+    ]
+  },
+  {
+    "id": "P6-T600-028",
+    "part": 6,
+    "track": "T600",
+    "passageTitle": "Advertisement: Office Cleaning Service",
+    "passageTemplate": "KEEP YOUR WORKPLACE SPOTLESS — Hire CleanPro Today!\n\nA clean office not only looks professional but also (1)___ employee productivity and health. CleanPro offers daily, weekly, and monthly cleaning packages (2)___ to your needs and budget.\n\nOur trained staff uses eco-friendly cleaning products that are safe for both people and the environment. We are fully insured and have been (3)___ businesses in the Taipei area for over 10 years.\n\n(4)___ a free estimate, call us at 02-3456-7890 or visit www.cleanpro.tw. First-time customers receive a 20% discount!\n\nCleanPro — Because a clean office is good business.",
+    "blanks": [
+      {
+        "index": 1,
+        "options": [
+          "boosts",
+          "boosting",
+          "boost",
+          "boosted"
+        ],
+        "answer": "boosts",
+        "category": "時態",
+        "explanation": "主詞a clean office為第三人稱單數，現在簡單式動詞加s。"
+      },
+      {
+        "index": 2,
+        "options": [
+          "tailored",
+          "tailoring",
+          "tailor",
+          "tailors"
+        ],
+        "answer": "tailored",
+        "category": "時態",
+        "explanation": "tailored to（為...量身打造）為過去分詞形容詞片語修飾packages。"
+      },
+      {
+        "index": 3,
+        "options": [
+          "serving",
+          "served",
+          "serve",
+          "serves"
+        ],
+        "answer": "serving",
+        "category": "時態",
+        "explanation": "have been + 現在分詞構成現在完成進行式，表示「持續服務中」。"
+      },
+      {
+        "index": 4,
+        "options": [
+          "To schedule",
+          "Scheduling",
+          "Schedule",
+          "You schedule"
+        ],
+        "answer": "To schedule",
+        "category": "句子插入",
+        "explanation": "To schedule...為不定詞引導目的，廣告中常見的號召行動句型。"
+      }
+    ]
+  },
+  {
+    "id": "P6-T600-029",
+    "part": 6,
+    "track": "T600",
+    "passageTitle": "Email: Performance Review Schedule",
+    "passageTemplate": "Dear Team Members,\n\nThis is a reminder that the mid-year performance reviews will take place (1)___ the week of July 15-19. Each team member will have a 30-minute one-on-one meeting with their direct supervisor. The schedule has been posted on the company intranet, (2)___ you can check your assigned time slot.\n\nPlease prepare a brief self-assessment before your meeting, (3)___ on your achievements and areas for improvement over the past six months. (4)___ any scheduling conflicts, please notify your supervisor at least one week in advance.\n\nThank you for your cooperation.\n\n— HR Department",
+    "blanks": [
+      {
+        "index": 1,
+        "options": [
+          "during",
+          "on",
+          "at",
+          "for"
+        ],
+        "answer": "during",
+        "category": "介系詞",
+        "explanation": "during + 時間範圍（the week of...）表示「在...期間」。"
+      },
+      {
+        "index": 2,
+        "options": [
+          "where",
+          "which",
+          "when",
+          "that"
+        ],
+        "answer": "where",
+        "category": "關係代名詞",
+        "explanation": "where修飾先行詞intranet（視為地點），引導非限定子句。"
+      },
+      {
+        "index": 3,
+        "options": [
+          "focusing",
+          "focus",
+          "focused",
+          "focuses"
+        ],
+        "answer": "focusing",
+        "category": "詞性",
+        "explanation": "分詞構句focusing on...（聚焦於）補充說明self-assessment內容。"
+      },
+      {
+        "index": 4,
+        "options": [
+          "If you have",
+          "Having",
+          "You have",
+          "To have"
+        ],
+        "answer": "If you have",
+        "category": "句子插入",
+        "explanation": "If you have...為條件句引導，表示「若有衝突」，email常見寫法。"
+      }
+    ]
+  },
+  {
+    "id": "P6-T600-030",
+    "part": 6,
+    "track": "T600",
+    "passageTitle": "Memo: Security Badge Replacement",
+    "passageTemplate": "To: All Employees\nFrom: Security Department\nDate: March 15\n\nAs part of our security upgrade, all employees are required to replace their current security badges with new (1)___. The new badges use advanced RFID technology and will provide (2)___ access control throughout the building.\n\nThe replacement process takes less than five minutes. Please visit the security office on the 1st floor between 9:00 a.m. and 5:00 p.m., Monday through Friday. You must bring your old badge and a valid photo ID. (3)___ fail to replace your badge by March 31, your current badge will be deactivated.\n\n(4)___ any questions, please contact the security office at extension 555.",
+    "blanks": [
+      {
+        "index": 1,
+        "options": [
+          "ones",
+          "one",
+          "that",
+          "this"
+        ],
+        "answer": "ones",
+        "category": "近義字彙",
+        "explanation": "ones為複數代名詞，代替前面提到的badges，避免重複。"
+      },
+      {
+        "index": 2,
+        "options": [
+          "enhanced",
+          "enhancing",
+          "enhance",
+          "enhances"
+        ],
+        "answer": "enhanced",
+        "category": "詞性",
+        "explanation": "形容詞enhanced修飾名詞片語access control，表示「增強的/升級的」。"
+      },
+      {
+        "index": 3,
+        "options": [
+          "If you",
+          "Unless you",
+          "Because you",
+          "Although you"
+        ],
+        "answer": "If you",
+        "category": "連接詞",
+        "explanation": "If條件句表示「如果你未在期限前更換」，承接後果說明。"
+      },
+      {
+        "index": 4,
+        "options": [
+          "For any questions",
+          "Any questions",
+          "If any question",
+          "Questions"
+        ],
+        "answer": "For any questions",
+        "category": "句子插入",
+        "explanation": "For any questions為公告結尾提供聯絡方式的固定起頭片語。"
+      }
+    ]
+  },
+  {
+    "id": "P6-T600-031",
+    "part": 6,
+    "track": "T600",
+    "passageTitle": "Notice: Air Conditioning Maintenance",
+    "passageTemplate": "FACILITY NOTICE\n\nThis notice is to inform all tenants that the air conditioning system on floors 5 through 8 will be shut (1)___ for maintenance on Wednesday, August 14, from 9:00 a.m. to 1:00 p.m. During this period, the affected areas may become (2)___ warm. We recommend that employees on these floors dress accordingly or work from a different area if possible.\n\nThe maintenance is part of our (3)___ effort to ensure a comfortable working environment during the summer months. We apologize for the inconvenience and thank you for your understanding.\n\n(4)___ the maintenance takes longer than expected, we will notify you immediately.\n\n— Facilities Department",
+    "blanks": [
+      {
+        "index": 1,
+        "options": [
+          "down",
+          "off",
+          "up",
+          "out"
+        ],
+        "answer": "down",
+        "category": "片語動詞",
+        "explanation": "shut down（停止運轉/關閉）為片語動詞；主詞為空調系統故用down。"
+      },
+      {
+        "index": 2,
+        "options": [
+          "uncomfortably",
+          "uncomfortable",
+          "discomfort",
+          "more uncomfortable"
+        ],
+        "answer": "uncomfortably",
+        "category": "詞性",
+        "explanation": "副詞uncomfortably修飾形容詞warm，表示「令人不舒服地暖和」。"
+      },
+      {
+        "index": 3,
+        "options": [
+          "ongoing",
+          "gone",
+          "going",
+          "goes"
+        ],
+        "answer": "ongoing",
+        "category": "近義字彙",
+        "explanation": "ongoing effort（持續進行的努力）為形容詞修飾名詞的常見搭配。"
+      },
+      {
+        "index": 4,
+        "options": [
+          "In the event that",
+          "Despite",
+          "Unless",
+          "Because"
+        ],
+        "answer": "In the event that",
+        "category": "句子插入",
+        "explanation": "In the event that（萬一/如果）為正式公告中引導條件句的片語。"
+      }
+    ]
+  },
+  {
+    "id": "P6-T600-032",
+    "part": 6,
+    "track": "T600",
+    "passageTitle": "Email: Vendor Registration Request",
+    "passageTemplate": "Dear Sir or Madam,\n\nOur company, GreenTech Solutions, would like to register as a vendor (1)___ your organization. We specialize in solar panel installation and energy-efficient lighting systems for commercial buildings.\n\nPlease find (2)___ our company profile, product catalog, and relevant certifications. We have been in business for over 15 years and have completed more than 200 projects (3)___ Taiwan and Southeast Asia. We are confident that our products and services can add value to your operations.\n\n(4)___ require any additional information or would like to schedule a meeting, please do not hesitate to contact us.\n\nSincerely,\nDavid Chang\nSales Director, GreenTech Solutions",
+    "blanks": [
+      {
+        "index": 1,
+        "options": [
+          "with",
+          "for",
+          "to",
+          "on"
+        ],
+        "answer": "with",
+        "category": "介系詞",
+        "explanation": "register with（向...註冊/登記）為固定介系詞搭配。"
+      },
+      {
+        "index": 2,
+        "options": [
+          "attached",
+          "attaching",
+          "attach",
+          "attachment"
+        ],
+        "answer": "attached",
+        "category": "搭配詞",
+        "explanation": "Please find attached（請查收附件）為商務email固定用法。"
+      },
+      {
+        "index": 3,
+        "options": [
+          "across",
+          "acrossing",
+          "cross",
+          "crossed"
+        ],
+        "answer": "across",
+        "category": "介系詞",
+        "explanation": "across Taiwan and Southeast Asia表示「遍及台灣與東南亞」，為介系詞。"
+      },
+      {
+        "index": 4,
+        "options": [
+          "Should you",
+          "You should",
+          "If you should",
+          "Do you"
+        ],
+        "answer": "Should you",
+        "category": "句子插入",
+        "explanation": "Should you...為倒裝條件句，為正式商業書信中的禮貌句型。"
+      }
+    ]
+  },
+  {
+    "id": "P6-T600-033",
+    "part": 6,
+    "track": "T600",
+    "passageTitle": "Announcement: Year-End Party",
+    "passageTemplate": "YEAR-END PARTY INVITATION\n\nYou are cordially invited to this year's year-end celebration party! The event will be (1)___ on Saturday, December 21, at the Grand Ballroom of the Royal Hotel, starting at 6:30 p.m.\n\nThe evening will feature a buffet dinner, live music, a lucky draw with (2)___ prizes, and an awards ceremony to recognize outstanding employees. Dress code for the evening is semi-formal.\n\nEach employee (3)___ bring one guest. Please RSVP via the online registration form by December 10. (4)___ have any dietary restrictions, please include this information when you register.\n\nWe look forward to celebrating a successful year with all of you!\n\n— Events Planning Committee",
+    "blanks": [
+      {
+        "index": 1,
+        "options": [
+          "held",
+          "holding",
+          "hold",
+          "holds"
+        ],
+        "answer": "held",
+        "category": "時態",
+        "explanation": "will be + 過去分詞held構成未來被動語態，表示「將被舉辦」。"
+      },
+      {
+        "index": 2,
+        "options": [
+          "exciting",
+          "excite",
+          "excited",
+          "excitement"
+        ],
+        "answer": "exciting",
+        "category": "詞性",
+        "explanation": "形容詞exciting修飾名詞prizes，表示「令人興奮的」獎品。"
+      },
+      {
+        "index": 3,
+        "options": [
+          "may",
+          "must",
+          "should",
+          "has to"
+        ],
+        "answer": "may",
+        "category": "近義字彙",
+        "explanation": "may表示「可以/允許」，為公告中較溫和的允許語氣；must太強硬。"
+      },
+      {
+        "index": 4,
+        "options": [
+          "If you",
+          "You",
+          "Should",
+          "Because you"
+        ],
+        "answer": "If you",
+        "category": "句子插入",
+        "explanation": "If you have...引導條件句，表示「若有飲食限制請告知」。"
+      }
+    ]
+  },
+  {
+    "id": "P6-T600-034",
+    "part": 6,
+    "track": "T600",
+    "passageTitle": "Memo: New Printer Policy",
+    "passageTemplate": "To: All Staff\nFrom: Administration\nDate: September 20\n\nTo reduce printing costs and support our sustainability goals, the following changes to the printer usage policy will take effect (1)___ October 1. Each employee will be given a monthly printing allowance of 100 pages. Once the limit is reached, additional printing must be (2)___ by the department manager.\n\nPlease be reminded that color printing should only be used for client-facing documents. Black-and-white printing is (3)___ for all internal use. (4)___ of the new policy can be found on the company intranet.\n\n— Administration",
+    "blanks": [
+      {
+        "index": 1,
+        "options": [
+          "on",
+          "in",
+          "at",
+          "from"
+        ],
+        "answer": "on",
+        "category": "介系詞",
+        "explanation": "on + 特定日期（October 1）為正確介系詞。"
+      },
+      {
+        "index": 2,
+        "options": [
+          "approved",
+          "approving",
+          "approve",
+          "approves"
+        ],
+        "answer": "approved",
+        "category": "時態",
+        "explanation": "must be + 過去分詞構成被動語態，表示「必須被批准」。"
+      },
+      {
+        "index": 3,
+        "options": [
+          "sufficient",
+          "sufficiently",
+          "sufficiency",
+          "suffice"
+        ],
+        "answer": "sufficient",
+        "category": "詞性",
+        "explanation": "形容詞sufficient作主詞補語，表示「足夠的」。"
+      },
+      {
+        "index": 4,
+        "options": [
+          "A detailed explanation",
+          "A detail explanation",
+          "Detailed explaining",
+          "Explaining detailed"
+        ],
+        "answer": "A detailed explanation",
+        "category": "句子插入",
+        "explanation": "A detailed explanation...為名詞片語作主詞，引導整句，為公告常見句型。"
+      }
+    ]
+  },
+  {
+    "id": "P6-T600-035",
+    "part": 6,
+    "track": "T600",
+    "passageTitle": "Notice: Water Supply Interruption",
+    "passageTemplate": "URGENT NOTICE: Water Supply Interruption\n\nPlease be advised that the water supply to the building will be temporarily (1)___ on Thursday, November 7, from 10:00 a.m. to 3:00 p.m. This is due to essential pipe repair work being (2)___ out by the city water department.\n\n(3)___ this period, restrooms and kitchen facilities on all floors will be unavailable. We strongly recommend that employees fill water bottles and use the restrooms before 10:00 a.m. Drinking water dispensers will be refilled in advance.\n\nWe understand this may cause (4)___, and we appreciate your patience and cooperation.\n\n— Building Management",
+    "blanks": [
+      {
+        "index": 1,
+        "options": [
+          "cut off",
+          "cutting off",
+          "cutting out",
+          "cut down"
+        ],
+        "answer": "cut off",
+        "category": "片語動詞",
+        "explanation": "will be cut off（將被切斷）為被動語態的片語動詞，cut off指中斷供應。"
+      },
+      {
+        "index": 2,
+        "options": [
+          "carried",
+          "carrying",
+          "carry",
+          "carries"
+        ],
+        "answer": "carried",
+        "category": "片語動詞",
+        "explanation": "being carried out（正在被執行）為被動進行式；carry out = 執行。"
+      },
+      {
+        "index": 3,
+        "options": [
+          "During",
+          "While",
+          "For",
+          "Since"
+        ],
+        "answer": "During",
+        "category": "介系詞",
+        "explanation": "During + 名詞（this period）表示「在此期間」。"
+      },
+      {
+        "index": 4,
+        "options": [
+          "inconvenience",
+          "you may experience inconvenience",
+          "it is inconvenient",
+          "being inconvenient"
+        ],
+        "answer": "inconvenience",
+        "category": "句子插入",
+        "explanation": "This may cause inconvenience為完整句結構，inconvenience為cause的受詞名詞，整句合邏輯。"
+      }
+    ]
+  },
+  {
+    "id": "P6-T600-036",
+    "part": 6,
+    "track": "T600",
+    "passageTitle": "Email: Reference Check Request",
+    "passageTemplate": "Dear Ms. Chen,\n\nYour name has been provided as a reference by Mr. Kevin Chang, who has applied for the position of Senior Accountant at our firm. We would greatly appreciate it if you could (1)___ a few minutes to complete a brief reference form regarding his work performance.\n\nThe form is attached to this email and should take no more than 10 minutes to fill (2)___. All information provided will be kept strictly (3)___. Your honest assessment will help us make an informed hiring decision.\n\n(4)___ any questions about the reference process, please feel free to contact me.\n\nThank you for your time and assistance.\n\nSincerely,\nLaura Peng\nRecruitment Specialist",
+    "blanks": [
+      {
+        "index": 1,
+        "options": [
+          "take",
+          "taking",
+          "taken",
+          "took"
+        ],
+        "answer": "take",
+        "category": "搭配詞",
+        "explanation": "could + 原形動詞take；take a few minutes（花幾分鐘）為固定搭配。"
+      },
+      {
+        "index": 2,
+        "options": [
+          "out",
+          "up",
+          "in",
+          "off"
+        ],
+        "answer": "out",
+        "category": "片語動詞",
+        "explanation": "fill out（填寫表格）為片語動詞；fill up指裝滿容器。"
+      },
+      {
+        "index": 3,
+        "options": [
+          "confidential",
+          "confidentially",
+          "confident",
+          "confidence"
+        ],
+        "answer": "confidential",
+        "category": "近義字彙",
+        "explanation": "confidential（保密）為形容詞作主詞補語；confident指有自信的。"
+      },
+      {
+        "index": 4,
+        "options": [
+          "If you have",
+          "Having",
+          "You have",
+          "To have"
+        ],
+        "answer": "If you have",
+        "category": "句子插入",
+        "explanation": "If you have...引導條件句，為email中提供聯絡方式的禮貌句型。"
+      }
+    ]
+  },
+  {
+    "id": "P6-T600-037",
+    "part": 6,
+    "track": "T600",
+    "passageTitle": "Announcement: Company Sports Day",
+    "passageTemplate": "COMPANY SPORTS DAY 2026\n\nMark your calendars! The annual Company Sports Day will be (1)___ on Saturday, May 16, at the Riverside Sports Complex. This year's event will feature basketball, relay races, tug-of-war, and a new badminton tournament. Teams will be organized by department, and all skill levels are (2)___.\n\n(3)___ participating, you not only have fun but also get to know your colleagues outside of work. Medals and prizes will be awarded to the winning teams. Lunch and beverages will be provided for all participants.\n\nPlease register your team by May 5 via the HR portal. (4)___ you are unable to participate in sports activities, you are still welcome to come and cheer for your colleagues!\n\n— Employee Activities Committee",
+    "blanks": [
+      {
+        "index": 1,
+        "options": [
+          "held",
+          "holding",
+          "hold",
+          "holds"
+        ],
+        "answer": "held",
+        "category": "時態",
+        "explanation": "will be + 過去分詞held構成未來被動語態，表示「將被舉辦」。"
+      },
+      {
+        "index": 2,
+        "options": [
+          "welcome",
+          "welcomed",
+          "welcoming",
+          "welcomes"
+        ],
+        "answer": "welcome",
+        "category": "詞性",
+        "explanation": "are welcome（受歡迎的）為形容詞welcome的固定搭配。"
+      },
+      {
+        "index": 3,
+        "options": [
+          "By participating",
+          "Participating",
+          "To participate",
+          "You participate"
+        ],
+        "answer": "By participating",
+        "category": "句子插入",
+        "explanation": "By participating引出方式片語，說明參加運動會的好處。"
+      },
+      {
+        "index": 4,
+        "options": [
+          "Even if",
+          "Because",
+          "Unless",
+          "As though"
+        ],
+        "answer": "Even if",
+        "category": "連接詞",
+        "explanation": "Even if（即使）引導讓步子句，表示「即使無法參賽也歡迎來加油」。"
+      }
+    ]
+  },
+  {
+    "id": "P6-T600-038",
+    "part": 6,
+    "track": "T600",
+    "passageTitle": "Advertisement: Professional Website Design",
+    "passageTemplate": "GET A PROFESSIONAL WEBSITE FOR YOUR BUSINESS — Starting at NT$15,000!\n\nIn today's digital world, having a professional website is no (1)___ optional — it is essential. WebCraft Studio specializes in creating custom, mobile-friendly websites for small and medium-sized businesses.\n\nOur services include web design, domain registration, SEO optimization, and ongoing technical (2)___. We work closely with each client to ensure the final product reflects their brand identity and meets their (3)___ business needs.\n\n(4)___ a free consultation, visit www.webcraft.tw or call 02-4567-8901. Let us help your business grow online!\n\nWebCraft Studio — Your Partner in Digital Success.",
+    "blanks": [
+      {
+        "index": 1,
+        "options": [
+          "longer",
+          "more",
+          "sooner",
+          "further"
+        ],
+        "answer": "longer",
+        "category": "搭配詞",
+        "explanation": "no longer（不再）為固定搭配，表示狀況已改變。"
+      },
+      {
+        "index": 2,
+        "options": [
+          "support",
+          "supportive",
+          "supporting",
+          "supported"
+        ],
+        "answer": "support",
+        "category": "詞性",
+        "explanation": "technical support（技術支援）為名詞片語，support在此為名詞。"
+      },
+      {
+        "index": 3,
+        "options": [
+          "specific",
+          "specifically",
+          "specify",
+          "specification"
+        ],
+        "answer": "specific",
+        "category": "詞性",
+        "explanation": "形容詞specific修飾名詞片語business needs，表示「特定的」需求。"
+      },
+      {
+        "index": 4,
+        "options": [
+          "To schedule",
+          "Scheduling",
+          "You schedule",
+          "Schedule"
+        ],
+        "answer": "To schedule",
+        "category": "句子插入",
+        "explanation": "To schedule...為不定詞引導目的，廣告常見號召行動句型。"
+      }
+    ]
+  },
+  {
+    "id": "P6-T600-039",
+    "part": 6,
+    "track": "T600",
+    "passageTitle": "Email: Remote Work Request",
+    "passageTemplate": "Dear Mr. Huang,\n\nI am writing to formally (1)___ permission to work remotely two days per week, on Tuesdays and Thursdays, starting next month. I believe this arrangement will allow me to focus better on tasks that require deep concentration while still being (2)___ for team meetings and collaborative work on my in-office days.\n\nI have already discussed this with my team, and we have agreed on communication protocols to ensure smooth (3)___. I will remain fully reachable during office hours via email, phone, and instant messaging.\n\n(4)___ approve this request, I would be happy to start with a one-month trial period to demonstrate that it works effectively for both the team and me.\n\nThank you for your consideration.\n\nBest regards,\nEmma Lin\nSenior Graphic Designer",
+    "blanks": [
+      {
+        "index": 1,
+        "options": [
+          "request",
+          "requesting",
+          "requested",
+          "requests"
+        ],
+        "answer": "request",
+        "category": "詞性",
+        "explanation": "to formally + 原形動詞request；不定詞表示目的。"
+      },
+      {
+        "index": 2,
+        "options": [
+          "available",
+          "availably",
+          "availability",
+          "avail"
+        ],
+        "answer": "available",
+        "category": "詞性",
+        "explanation": "形容詞available作主詞補語，表示「可出席的/有空的」。"
+      },
+      {
+        "index": 3,
+        "options": [
+          "collaboration",
+          "collaborate",
+          "collaborating",
+          "collaborated"
+        ],
+        "answer": "collaboration",
+        "category": "詞性",
+        "explanation": "smooth collaboration（順暢的合作）為名詞片語，作ensure的受詞。"
+      },
+      {
+        "index": 4,
+        "options": [
+          "Should you",
+          "You should",
+          "If you should",
+          "Unless you"
+        ],
+        "answer": "Should you",
+        "category": "句子插入",
+        "explanation": "Should you approve...為倒裝條件句，正式email中的禮貌請求句型。"
+      }
+    ]
+  },
+  {
+    "id": "P6-T600-040",
+    "part": 6,
+    "track": "T600",
+    "passageTitle": "Memo: Expense Report Reminder",
+    "passageTemplate": "To: All Staff\nFrom: Finance Department\nDate: January 22\n\nThis is a reminder that all expense reports for the previous quarter must be (1)___ by January 31. Please ensure that all receipts are attached and that each expense is properly (2)___ with the correct project code.\n\nLate submissions will not be processed until the following month, (3)___ may cause delays in reimbursement. If you have any expenses that are still pending approval from your manager, please follow up (4)___ them as soon as possible.\n\nThank you for your prompt attention to this matter.\n\n— Finance Department",
+    "blanks": [
+      {
+        "index": 1,
+        "options": [
+          "submitted",
+          "submitting",
+          "submit",
+          "submits"
+        ],
+        "answer": "submitted",
+        "category": "時態",
+        "explanation": "must be + 過去分詞構成被動語態，表示「必須被提交」。"
+      },
+      {
+        "index": 2,
+        "options": [
+          "labeled",
+          "labeling",
+          "label",
+          "labels"
+        ],
+        "answer": "labeled",
+        "category": "時態",
+        "explanation": "is + 過去分詞labeled構成被動，表示「被標註正確代碼」。"
+      },
+      {
+        "index": 3,
+        "options": [
+          "which",
+          "that",
+          "what",
+          "where"
+        ],
+        "answer": "which",
+        "category": "關係代名詞",
+        "explanation": "which引導非限定關係子句，修飾前面整個子句的內容。"
+      },
+      {
+        "index": 4,
+        "options": [
+          "on them",
+          "If they are pending",
+          "pending on",
+          "up on"
+        ],
+        "answer": "on them",
+        "category": "句子插入",
+        "explanation": "follow up on them構成完整動詞片語，表示「跟進這些待批款項」。"
+      }
+    ]
+  },
+  {
+    "id": "P6-T600-041",
+    "part": 6,
+    "track": "T600",
+    "passageTitle": "Notice: Building Access Hours Change",
+    "passageTemplate": "BUILDING ACCESS NOTICE\n\nBeginning February 1, the building's main entrance will be (1)___ from 7:00 a.m. to 8:00 p.m., Monday through Friday. After 8:00 p.m. and on weekends, access will only be (2)___ through the side entrance using your security badge.\n\nThis change is being implemented to (3)___ the overall security of the building. If you need to access the building outside of regular hours, please make sure you have your badge with you at all times. Visitors must be accompanied by an employee after hours.\n\n(4)___ any concerns about the new access policy, please contact the security office.\n\n— Building Security",
+    "blanks": [
+      {
+        "index": 1,
+        "options": [
+          "open",
+          "opened",
+          "opening",
+          "opens"
+        ],
+        "answer": "open",
+        "category": "近義字彙",
+        "explanation": "open（開放的）在此為形容詞作主詞補語；opened強調開的動作。"
+      },
+      {
+        "index": 2,
+        "options": [
+          "available",
+          "availably",
+          "availability",
+          "availed"
+        ],
+        "answer": "available",
+        "category": "詞性",
+        "explanation": "形容詞available作主詞補語，表示「可使用的/開放的」。"
+      },
+      {
+        "index": 3,
+        "options": [
+          "enhance",
+          "enhancing",
+          "enhanced",
+          "enhances"
+        ],
+        "answer": "enhance",
+        "category": "搭配詞",
+        "explanation": "to + 原形動詞enhance；enhance security（加強安全）為常見搭配。"
+      },
+      {
+        "index": 4,
+        "options": [
+          "If you have",
+          "Having",
+          "You have",
+          "To have"
+        ],
+        "answer": "If you have",
+        "category": "句子插入",
+        "explanation": "If you have...引導條件句，為公告常見聯繫語句。"
+      }
+    ]
+  },
+  {
+    "id": "P6-T600-042",
+    "part": 6,
+    "track": "T600",
+    "passageTitle": "Email: Product Return Authorization",
+    "passageTemplate": "Dear Ms. Wu,\n\nWe received your request to return item #SP-882, which was purchased on September 5. We are happy to inform you that your return (1)___ been authorized. Please follow the instructions below to complete the return process.\n\nPack the item securely in its original packaging and include a copy of this email (2)___ proof of authorization. Ship the package to the address listed below. Please note that the return must be (3)___ within 14 days of this authorization.\n\n(4)___ receive the item in acceptable condition, a full refund will be issued to your original payment method within 5-7 business days.\n\nSincerely,\nReturns Department",
+    "blanks": [
+      {
+        "index": 1,
+        "options": [
+          "has",
+          "have",
+          "had",
+          "having"
+        ],
+        "answer": "has",
+        "category": "時態",
+        "explanation": "your return為第三人稱單數主詞，現在完成式has been authorized。"
+      },
+      {
+        "index": 2,
+        "options": [
+          "as",
+          "for",
+          "with",
+          "by"
+        ],
+        "answer": "as",
+        "category": "介系詞",
+        "explanation": "as proof of（作為...的證明）為固定介系詞搭配。"
+      },
+      {
+        "index": 3,
+        "options": [
+          "postmarked",
+          "postmarking",
+          "postmark",
+          "postmarks"
+        ],
+        "answer": "postmarked",
+        "category": "時態",
+        "explanation": "must be + 過去分詞構成被動語態，表示「必須被郵戳標記日期」。"
+      },
+      {
+        "index": 4,
+        "options": [
+          "Once we",
+          "We once",
+          "After once",
+          "Since we"
+        ],
+        "answer": "Once we",
+        "category": "句子插入",
+        "explanation": "Once we receive...（一旦我們收到）為時間條件句，引導退貨流程說明。"
+      }
+    ]
+  },
+  {
+    "id": "P6-T600-043",
+    "part": 6,
+    "track": "T600",
+    "passageTitle": "Announcement: Professional Development Scholarship",
+    "passageTemplate": "PROFESSIONAL DEVELOPMENT SCHOLARSHIP — APPLY NOW!\n\nThe company is pleased to announce the 2026 Professional Development Scholarship Program. Full-time employees who have been with the company for at least one year are (1)___ to apply. The scholarship covers up to NT$30,000 for approved courses, conferences, or certification programs.\n\n(2)___ for the scholarship must be submitted online by March 15. Applicants are required to submit a brief proposal explaining how the training will benefit their work (3)___ the company's goals. A committee will review all applications and announce the results by April 1.\n\nThis is a great opportunity to (4)___ your skills and advance your career. Don't miss out!\n\n— Training and Development Department",
+    "blanks": [
+      {
+        "index": 1,
+        "options": [
+          "eligible",
+          "eligibly",
+          "eligibility",
+          "entitled"
+        ],
+        "answer": "eligible",
+        "category": "近義字彙",
+        "explanation": "eligible（有資格的）為形容詞；entitled雖也可接to但意義不同（有權）。"
+      },
+      {
+        "index": 2,
+        "options": [
+          "Applications for the scholarship",
+          "Applying scholarship",
+          "To apply scholarship",
+          "Apply for scholarship"
+        ],
+        "answer": "Applications for the scholarship",
+        "category": "句子插入",
+        "explanation": "Applications for the scholarship為完整名詞片語主詞，開頭需要名詞非動詞。"
+      },
+      {
+        "index": 3,
+        "options": [
+          "and",
+          "or",
+          "but",
+          "nor"
+        ],
+        "answer": "and",
+        "category": "連接詞",
+        "explanation": "and連接work與company's goals兩個並列名詞片語，表示「工作與公司目標」。"
+      },
+      {
+        "index": 4,
+        "options": [
+          "upgrade",
+          "upgrading",
+          "upgraded",
+          "upgrades"
+        ],
+        "answer": "upgrade",
+        "category": "搭配詞",
+        "explanation": "to + 原形動詞upgrade；upgrade skills（提升技能）為常見商務搭配。"
+      }
+    ]
+  },
+  {
+    "id": "P6-T600-044",
+    "part": 6,
+    "track": "T600",
+    "passageTitle": "Advertisement: Corporate Tax Filing Service",
+    "passageTemplate": "TAX SEASON STRESS? Let TaxWise Handle It for You!\n\nWith the tax filing deadline approaching, now is the time to ensure your corporate taxes are prepared accurately and on time. TaxWise offers comprehensive tax preparation services (1)___ to small and medium-sized enterprises.\n\nOur certified accountants have extensive experience with Taiwan's tax laws and can help you (2)___ deductions while ensuring full compliance. We offer competitive (3)___ and a satisfaction guarantee.\n\n(4)___ received your documents by April 30, we guarantee on-time filing. Call 02-5678-1234 or visit www.taxwise.tw to get started today!\n\nTaxWise — Your Taxes, Our Priority.",
+    "blanks": [
+      {
+        "index": 1,
+        "options": [
+          "tailored",
+          "tailoring",
+          "tailor",
+          "tailors"
+        ],
+        "answer": "tailored",
+        "category": "時態",
+        "explanation": "過去分詞tailored作形容詞修飾services，表示「量身打造的」。"
+      },
+      {
+        "index": 2,
+        "options": [
+          "maximize",
+          "maximizing",
+          "maximized",
+          "maximum"
+        ],
+        "answer": "maximize",
+        "category": "詞性",
+        "explanation": "help + 原形動詞maximize，表示「幫助最大化...」。"
+      },
+      {
+        "index": 3,
+        "options": [
+          "rates",
+          "rating",
+          "rated",
+          "rate"
+        ],
+        "answer": "rates",
+        "category": "近義字彙",
+        "explanation": "competitive rates（有競爭力的費率）為名詞複數，指計費標準。"
+      },
+      {
+        "index": 4,
+        "options": [
+          "If we have",
+          "Having we",
+          "We having",
+          "To have"
+        ],
+        "answer": "If we have",
+        "category": "句子插入",
+        "explanation": "If we have received...為條件句引導保證條款，廣告常見句型。"
+      }
+    ]
+  },
+  {
+    "id": "P6-T600-045",
+    "part": 6,
+    "track": "T600",
+    "passageTitle": "Email: Meeting Minutes Distribution",
+    "passageTemplate": "Dear Committee Members,\n\nPlease find attached the minutes from last Friday's project review meeting. I have highlighted the key decisions and action items for your (1)___. Please review the minutes and let me know if there are any corrections or additions by this Wednesday.\n\n(2)___ particular importance is the decision to extend the project deadline by two weeks. All team leads are requested to update their timelines (3)___ and submit revised schedules by Friday. The next meeting is scheduled for July 12 at 2:00 p.m.\n\n(4)___ any points you would like to add to the next meeting's agenda, please send them to me by July 10.\n\nBest regards,\nTina Chen\nProject Coordinator",
+    "blanks": [
+      {
+        "index": 1,
+        "options": [
+          "reference",
+          "referring",
+          "refer",
+          "referred"
+        ],
+        "answer": "reference",
+        "category": "詞性",
+        "explanation": "for your reference（供您參考）為名詞reference的固定片語搭配。"
+      },
+      {
+        "index": 2,
+        "options": [
+          "Of",
+          "For",
+          "With",
+          "In"
+        ],
+        "answer": "Of",
+        "category": "搭配詞",
+        "explanation": "Of particular importance is...（特別重要的是...）為倒裝強調句型。"
+      },
+      {
+        "index": 3,
+        "options": [
+          "accordingly",
+          "according",
+          "accord",
+          "accordance"
+        ],
+        "answer": "accordingly",
+        "category": "詞性",
+        "explanation": "副詞accordingly（相應地）修飾動詞update；according為分詞。"
+      },
+      {
+        "index": 4,
+        "options": [
+          "If you have",
+          "Having",
+          "You have",
+          "To have"
+        ],
+        "answer": "If you have",
+        "category": "句子插入",
+        "explanation": "If you have...引導條件句徵求議題，為email中常見句型。"
+      }
+    ]
+  },
+  {
+    "id": "P6-T600-046",
+    "part": 6,
+    "track": "T600",
+    "passageTitle": "Memo: Flexible Work Hours Policy",
+    "passageTemplate": "To: All Employees\nFrom: Human Resources\nDate: May 5\n\nWe are pleased to introduce a new flexible work hours policy, effective June 1. Under this policy, employees may choose to start their workday anytime between 7:30 a.m. and 9:30 a.m., provided that they (1)___ the required eight hours per day.\n\nCore hours, during which all employees must be present, are from 10:00 a.m. to 3:00 p.m. This policy (2)___ designed to help employees achieve a better work-life balance while maintaining productivity. Please discuss your preferred schedule with your direct supervisor before (3)___ any changes.\n\n(4)___ will be reviewed after a three-month trial period to assess its effectiveness.\n\n— Human Resources Department",
+    "blanks": [
+      {
+        "index": 1,
+        "options": [
+          "complete",
+          "completing",
+          "completed",
+          "completes"
+        ],
+        "answer": "complete",
+        "category": "假設語氣",
+        "explanation": "provided that引導條件子句，其主詞they後接原形動詞complete。"
+      },
+      {
+        "index": 2,
+        "options": [
+          "is",
+          "was",
+          "has",
+          "had"
+        ],
+        "answer": "is",
+        "category": "時態",
+        "explanation": "is designed為現在簡單式被動語態，表示當下政策的目的。"
+      },
+      {
+        "index": 3,
+        "options": [
+          "making",
+          "make",
+          "made",
+          "makes"
+        ],
+        "answer": "making",
+        "category": "搭配詞",
+        "explanation": "before + 動名詞making，表示「在做任何更動之前」。"
+      },
+      {
+        "index": 4,
+        "options": [
+          "The policy",
+          "A policy",
+          "These policy",
+          "Policy"
+        ],
+        "answer": "The policy",
+        "category": "句子插入",
+        "explanation": "The policy...為定指主詞開頭，承接前段說明新政策，為完整句子。"
+      }
+    ]
+  },
+  {
+    "id": "P6-T600-047",
+    "part": 6,
+    "track": "T600",
+    "passageTitle": "Notice: Emergency Contact Update",
+    "passageTemplate": "IMPORTANT: Update Your Emergency Contact Information\n\nAll employees are required to verify and update their emergency contact information in the HR system (1)___ July 31. In the event of a workplace accident or medical emergency, having (2)___ contact information is critical for your safety.\n\nTo update your information, log in to the employee portal and navigate to the Personal Information section. Please ensure that you provide at least two emergency contacts, (3)___ their full names, phone numbers, and relationships to you.\n\n(4)___ not update your information by the deadline, HR will use your existing records on file.\n\n— Human Resources Department",
+    "blanks": [
+      {
+        "index": 1,
+        "options": [
+          "by",
+          "until",
+          "on",
+          "for"
+        ],
+        "answer": "by",
+        "category": "介系詞",
+        "explanation": "by + 期限表示「在...之前」，為公告中常見的截止日期用法。"
+      },
+      {
+        "index": 2,
+        "options": [
+          "accurate",
+          "accurately",
+          "accuracy",
+          "more accurate"
+        ],
+        "answer": "accurate",
+        "category": "詞性",
+        "explanation": "形容詞accurate修飾名詞片語contact information，表示「準確的」。"
+      },
+      {
+        "index": 3,
+        "options": [
+          "including",
+          "include",
+          "included",
+          "includes"
+        ],
+        "answer": "including",
+        "category": "詞性",
+        "explanation": "分詞including引導補充說明，表示「包括...」。"
+      },
+      {
+        "index": 4,
+        "options": [
+          "Should you",
+          "You should",
+          "If you should",
+          "Unless you"
+        ],
+        "answer": "Should you",
+        "category": "句子插入",
+        "explanation": "Should you not update...為倒裝條件句，正式公告語氣。"
+      }
+    ]
+  },
+  {
+    "id": "P6-T600-048",
+    "part": 6,
+    "track": "T600",
+    "passageTitle": "Email: Business Trip Itinerary",
+    "passageTemplate": "Dear Ms. Yang,\n\nBelow is your confirmed travel itinerary for the upcoming business trip to Tokyo next week. Your flight departs from Taoyuan International Airport at 8:30 a.m. on Monday, and you are (1)___ to arrive at Narita Airport at 12:45 p.m. local time.\n\nHotel accommodations have been booked at the Tokyo Grand Hotel for three nights. All meetings have been (2)___ and are listed in the attached schedule. Please review the itinerary and confirm that everything is (3)___ order.\n\n(4)___ any changes need to be made, please let me know by this Thursday at the latest.\n\nSafe travels!\n\nRegards,\nJessica Tsai\nTravel Coordinator",
+    "blanks": [
+      {
+        "index": 1,
+        "options": [
+          "scheduled",
+          "scheduling",
+          "schedule",
+          "schedules"
+        ],
+        "answer": "scheduled",
+        "category": "時態",
+        "explanation": "are + 過去分詞scheduled構成被動，表示「被安排預計抵達」。"
+      },
+      {
+        "index": 2,
+        "options": [
+          "confirmed",
+          "confirming",
+          "confirm",
+          "confirms"
+        ],
+        "answer": "confirmed",
+        "category": "時態",
+        "explanation": "have been + 過去分詞confirmed為現在完成被動語態。"
+      },
+      {
+        "index": 3,
+        "options": [
+          "in",
+          "on",
+          "at",
+          "with"
+        ],
+        "answer": "in",
+        "category": "搭配詞",
+        "explanation": "in order（就緒/妥當）為固定搭配；everything is in order = 一切妥當。"
+      },
+      {
+        "index": 4,
+        "options": [
+          "If",
+          "Unless",
+          "Because",
+          "Although"
+        ],
+        "answer": "If",
+        "category": "句子插入",
+        "explanation": "If引導條件句，表示「若有變更需要」。"
+      }
+    ]
+  }
+]

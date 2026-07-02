@@ -1,0 +1,1694 @@
+[
+  {
+    "id": "L4-T600-013",
+    "part": 4,
+    "track": "T600",
+    "talk": "Hello everyone, this is a reminder from the administrative office. Our monthly department meeting has been rescheduled from this Thursday to this Friday at 2 PM. The meeting will be held in the second-floor conference room instead of the usual meeting room on the fourth floor. We will be discussing the quarterly sales results and the upcoming product launch. Please bring your sales reports and any feedback from your clients. If you cannot attend, please notify your team leader in advance. Thank you for your cooperation.",
+    "questions": [
+      {
+        "id": "L4-T600-013-Q1",
+        "question": "What is the purpose of this announcement?",
+        "options": [
+          "To introduce a new product",
+          "To announce a meeting schedule change",
+          "To report quarterly earnings",
+          "To request vacation approvals"
+        ],
+        "answer": "To announce a meeting schedule change",
+        "explanation": "行政辦公室通知部門會議從週四改到週五，屬於行程變更。",
+        "category": "主旨"
+      },
+      {
+        "id": "L4-T600-013-Q2",
+        "question": "Where will the meeting take place?",
+        "options": [
+          "The fourth-floor meeting room",
+          "The second-floor conference room",
+          "The main auditorium",
+          "The HR office"
+        ],
+        "answer": "The second-floor conference room",
+        "explanation": "會議改在二樓會議室舉行，而非原本的四樓。",
+        "category": "細節"
+      },
+      {
+        "id": "L4-T600-013-Q3",
+        "question": "What are staff members asked to bring?",
+        "options": [
+          "Their laptops and notebooks",
+          "Their sales reports and client feedback",
+          "Their employee ID cards",
+          "Their training certificates"
+        ],
+        "answer": "Their sales reports and client feedback",
+        "explanation": "員工需要攜帶銷售報告和客戶回饋參加會議。",
+        "category": "細節"
+      }
+    ]
+  },
+  {
+    "id": "L4-T600-014",
+    "part": 4,
+    "track": "T600",
+    "talk": "Hi, this is Mark from Omega Logistics. I am calling about your recent order number 8842 placed on Monday. I want to let you know that there has been a delay due to a shortage of raw materials from our supplier. Your shipment will now be delivered on Friday instead of Wednesday. We have upgraded your shipping to express delivery at no extra cost. You can track your package using the same tracking number on our website. We apologize for any inconvenience this may cause.",
+    "questions": [
+      {
+        "id": "L4-T600-014-Q1",
+        "question": "Why is the shipment delayed?",
+        "options": [
+          "The order was placed too late",
+          "There is a shortage of raw materials",
+          "The shipping address was incorrect",
+          "The package was damaged in transit"
+        ],
+        "answer": "There is a shortage of raw materials",
+        "explanation": "延遲原因是供應商原料短缺（shortage of raw materials）。",
+        "category": "細節"
+      },
+      {
+        "id": "L4-T600-014-Q2",
+        "question": "When will the shipment now arrive?",
+        "options": [
+          "Monday",
+          "Wednesday",
+          "Friday",
+          "Saturday"
+        ],
+        "answer": "Friday",
+        "explanation": "Mark告知貨物將改為週五送達，而非原訂的週三。",
+        "category": "數字時間"
+      },
+      {
+        "id": "L4-T600-014-Q3",
+        "question": "What compensation is being offered for the delay?",
+        "options": [
+          "A full refund",
+          "A discount on the next order",
+          "Free express delivery",
+          "An extra product sample"
+        ],
+        "answer": "Free express delivery",
+        "explanation": "物流公司將運送升級為快遞且不另外收費作為補償。",
+        "category": "細節"
+      }
+    ]
+  },
+  {
+    "id": "L4-T600-015",
+    "part": 4,
+    "track": "T600",
+    "talk": "Welcome to the City Art Museum. We are open from 9 AM to 6 PM every day except Mondays. Currently, we are featuring a special exhibition on modern Japanese art in the east wing. General admission is twelve dollars for adults and eight dollars for students and seniors. Audio guides are available at the information desk for five dollars. On the first Sunday of every month, admission is free for all visitors. We hope you enjoy your visit today.",
+    "questions": [
+      {
+        "id": "L4-T600-015-Q1",
+        "question": "On which day is the museum closed?",
+        "options": [
+          "Sundays",
+          "Mondays",
+          "Tuesdays",
+          "Wednesdays"
+        ],
+        "answer": "Mondays",
+        "explanation": "博物館每週一休館，其他日營業時間為早上9點到下午6點。",
+        "category": "細節"
+      },
+      {
+        "id": "L4-T600-015-Q2",
+        "question": "How much is the student admission fee?",
+        "options": [
+          "Five dollars",
+          "Eight dollars",
+          "Ten dollars",
+          "Twelve dollars"
+        ],
+        "answer": "Eight dollars",
+        "explanation": "學生票為8美元，成人票12美元。",
+        "category": "數字時間"
+      },
+      {
+        "id": "L4-T600-015-Q3",
+        "question": "What is available at the information desk?",
+        "options": [
+          "Free maps",
+          "Audio guides",
+          "Snacks and drinks",
+          "Souvenir tickets"
+        ],
+        "answer": "Audio guides",
+        "explanation": "服務台提供語音導覽租借，費用5美元。",
+        "category": "細節"
+      }
+    ]
+  },
+  {
+    "id": "L4-T600-016",
+    "part": 4,
+    "track": "T600",
+    "talk": "Good morning, ladies and gentlemen. It is my great pleasure to welcome you to the 2026 International Business Summit. My name is Amanda Torres, and I am the director of the Global Trade Association. Over the next three days, we will explore key trends in international trade, digital transformation, and sustainable business practices. Our first keynote speaker, Mr. Robert Kim, will begin his talk at 9:30 AM in the main hall. Please make sure your mobile phones are set to silent mode. I hope you have a productive conference.",
+    "questions": [
+      {
+        "id": "L4-T600-016-Q1",
+        "question": "What event is taking place?",
+        "options": [
+          "A product launch event",
+          "An international business summit",
+          "A university graduation ceremony",
+          "A job recruitment fair"
+        ],
+        "answer": "An international business summit",
+        "explanation": "Amanda Torres歡迎與會者參加2026 International Business Summit。",
+        "category": "主旨"
+      },
+      {
+        "id": "L4-T600-016-Q2",
+        "question": "When will the first keynote speech begin?",
+        "options": [
+          "8:30 AM",
+          "9:00 AM",
+          "9:30 AM",
+          "10:00 AM"
+        ],
+        "answer": "9:30 AM",
+        "explanation": "第一位主題演講者Robert Kim將在9:30於主廳開始演講。",
+        "category": "數字時間"
+      },
+      {
+        "id": "L4-T600-016-Q3",
+        "question": "What are attendees asked to do?",
+        "options": [
+          "Register at the front desk",
+          "Turn off their mobile phones",
+          "Set phones to silent mode",
+          "Fill out a feedback form"
+        ],
+        "answer": "Set phones to silent mode",
+        "explanation": "與會者被要求將手機調成靜音模式。",
+        "category": "細節"
+      }
+    ]
+  },
+  {
+    "id": "L4-T600-017",
+    "part": 4,
+    "track": "T600",
+    "talk": "Good morning, this is a weather update from the events coordination team. As you may know, our company picnic is scheduled for this Saturday at Riverside Park. The latest weather forecast shows possible rain showers in the afternoon. We have decided to move the event indoors to the Grand Ballroom at the City Convention Center. The schedule remains the same, starting at 11 AM. Lunch will be served at noon, and games will begin at 1:30 PM. Please check your email for the updated location details.",
+    "questions": [
+      {
+        "id": "L4-T600-017-Q1",
+        "question": "Why was the picnic location changed?",
+        "options": [
+          "The park is under renovation",
+          "Rain is expected in the afternoon",
+          "The park was already booked",
+          "The convention center offered a discount"
+        ],
+        "answer": "Rain is expected in the afternoon",
+        "explanation": "因為天氣預報顯示週六下午可能有陣雨，所以改到室內場地。",
+        "category": "細節"
+      },
+      {
+        "id": "L4-T600-017-Q2",
+        "question": "Where will the event now be held?",
+        "options": [
+          "Riverside Park",
+          "The City Convention Center",
+          "The company cafeteria",
+          "The main office building"
+        ],
+        "answer": "The City Convention Center",
+        "explanation": "活動改到City Convention Center的Grand Ballroom舉行。",
+        "category": "細節"
+      },
+      {
+        "id": "L4-T600-017-Q3",
+        "question": "What time will lunch be served?",
+        "options": [
+          "11:00 AM",
+          "12:00 PM",
+          "1:00 PM",
+          "1:30 PM"
+        ],
+        "answer": "12:00 PM",
+        "explanation": "午餐將在中午12點供應。",
+        "category": "數字時間"
+      }
+    ]
+  },
+  {
+    "id": "L4-T600-018",
+    "part": 4,
+    "track": "T600",
+    "talk": "Hello, this is Bella's Italian Restaurant. I am calling to confirm your dinner reservation for tonight at 7 PM for a party of four. We have reserved a table by the window as you requested. Please note that we will hold your table for fifteen minutes. If you arrive later than that, we may need to give your table to other guests. You can park in the garage behind the restaurant for free. Please call us if you need to make any changes. We look forward to serving you.",
+    "questions": [
+      {
+        "id": "L4-T600-018-Q1",
+        "question": "What is the purpose of this call?",
+        "options": [
+          "To promote a new menu item",
+          "To confirm a dinner reservation",
+          "To announce a special discount",
+          "To invite a customer to an event"
+        ],
+        "answer": "To confirm a dinner reservation",
+        "explanation": "餐廳來電確認今晚7點4位客人的晚餐訂位。",
+        "category": "主旨"
+      },
+      {
+        "id": "L4-T600-018-Q2",
+        "question": "How long will the restaurant hold the table?",
+        "options": [
+          "Five minutes",
+          "Ten minutes",
+          "Fifteen minutes",
+          "Thirty minutes"
+        ],
+        "answer": "Fifteen minutes",
+        "explanation": "餐廳保留訂位15分鐘，超過時間可能將桌子讓給其他客人。",
+        "category": "數字時間"
+      },
+      {
+        "id": "L4-T600-018-Q3",
+        "question": "Where can customers park?",
+        "options": [
+          "In front of the restaurant",
+          "In the garage behind the restaurant",
+          "At the nearby shopping mall",
+          "On the street outside"
+        ],
+        "answer": "In the garage behind the restaurant",
+        "explanation": "顧客可免費停在餐廳後方的停車場。",
+        "category": "細節"
+      }
+    ]
+  },
+  {
+    "id": "L4-T600-019",
+    "part": 4,
+    "track": "T600",
+    "talk": "Attention, all staff. This is an important announcement from the management team regarding our office relocation. As you know, our lease at the current building will expire at the end of next month. We have secured a new office space at the Riverside Business Center on Park Avenue. The move will take place over the weekend of June 10th and 11th. All employees are asked to pack their personal belongings by June 9th. Moving boxes and labels will be provided by the administration from tomorrow. Thank you for your cooperation during this transition.",
+    "questions": [
+      {
+        "id": "L4-T600-019-Q1",
+        "question": "Why is the company moving to a new office?",
+        "options": [
+          "The current building is being sold",
+          "The lease is expiring soon",
+          "The new office is larger",
+          "The rent has become too expensive"
+        ],
+        "answer": "The lease is expiring soon",
+        "explanation": "目前大樓的租約將在下個月底到期，因此需要搬遷。",
+        "category": "細節"
+      },
+      {
+        "id": "L4-T600-019-Q2",
+        "question": "When will the move take place?",
+        "options": [
+          "June 1st and 2nd",
+          "June 10th and 11th",
+          "June 15th and 16th",
+          "June 20th and 21st"
+        ],
+        "answer": "June 10th and 11th",
+        "explanation": "搬遷將在6月10日至11日的週末進行。",
+        "category": "數字時間"
+      },
+      {
+        "id": "L4-T600-019-Q3",
+        "question": "What will the administration provide starting tomorrow?",
+        "options": [
+          "New office keys",
+          "Moving boxes and labels",
+          "Transportation vouchers",
+          "Updated phone directories"
+        ],
+        "answer": "Moving boxes and labels",
+        "explanation": "行政部門從明天開始提供搬運箱和標籤給員工。",
+        "category": "細節"
+      }
+    ]
+  },
+  {
+    "id": "L4-T600-020",
+    "part": 4,
+    "track": "T600",
+    "talk": "Good morning, everyone. Before we start today's shift, I would like to go over a few safety reminders. Please make sure you are wearing your safety helmets and protective gloves at all times while on the warehouse floor. Forklift operators must check their equipment before use. If you notice any damaged goods or spills, report them to the safety supervisor immediately. The emergency exit is located at the back of the building near the loading dock. Let us all work safely today.",
+    "questions": [
+      {
+        "id": "L4-T600-020-Q1",
+        "question": "What is the main topic of this talk?",
+        "options": [
+          "Daily production targets",
+          "Safety reminders for warehouse staff",
+          "New inventory management software",
+          "Weekly work schedule"
+        ],
+        "answer": "Safety reminders for warehouse staff",
+        "explanation": "這段談話主要是關於倉庫工作人員的安全注意事項。",
+        "category": "主旨"
+      },
+      {
+        "id": "L4-T600-020-Q2",
+        "question": "What must forklift operators do before using their equipment?",
+        "options": [
+          "Fill out a logbook",
+          "Check their equipment",
+          "Attend a training session",
+          "Wear additional safety gear"
+        ],
+        "answer": "Check their equipment",
+        "explanation": "堆高機操作員在使用前必須檢查設備。",
+        "category": "細節"
+      },
+      {
+        "id": "L4-T600-020-Q3",
+        "question": "Where is the emergency exit located?",
+        "options": [
+          "Near the front entrance",
+          "Near the loading dock at the back",
+          "Next to the supervisor's office",
+          "On the second floor"
+        ],
+        "answer": "Near the loading dock at the back",
+        "explanation": "緊急出口位於建築物後方靠近裝卸碼頭處。",
+        "category": "細節"
+      }
+    ]
+  },
+  {
+    "id": "L4-T600-021",
+    "part": 4,
+    "track": "T600",
+    "talk": "Attention, passengers of Flight AC 176 to Vancouver. We regret to inform you that your flight has been delayed due to adverse weather conditions at the Vancouver airport. The new estimated departure time is 4:30 PM, which is approximately two hours later than the original schedule. We suggest that passengers wait in the lounge area near gate 22. Meal vouchers will be distributed at the customer service counter. We will provide further updates as soon as we have more information. Thank you for your patience.",
+    "questions": [
+      {
+        "id": "L4-T600-021-Q1",
+        "question": "Why is the flight delayed?",
+        "options": [
+          "A mechanical issue",
+          "Bad weather at the destination",
+          "Staff shortage",
+          "Air traffic control problems"
+        ],
+        "answer": "Bad weather at the destination",
+        "explanation": "航班因溫哥華機場天氣不佳而延誤。",
+        "category": "細節"
+      },
+      {
+        "id": "L4-T600-021-Q2",
+        "question": "What will be given to passengers?",
+        "options": [
+          "Free hotel accommodation",
+          "Meal vouchers",
+          "Discount tickets",
+          "Upgrade certificates"
+        ],
+        "answer": "Meal vouchers",
+        "explanation": "服務櫃檯將發放餐券給受影響的旅客。",
+        "category": "細節"
+      },
+      {
+        "id": "L4-T600-021-Q3",
+        "question": "Where should passengers wait?",
+        "options": [
+          "At the check-in counter",
+          "At the baggage claim area",
+          "In the lounge near gate 22",
+          "At the airport restaurant"
+        ],
+        "answer": "In the lounge near gate 22",
+        "explanation": "建議旅客在22號登機門附近的休息區等候。",
+        "category": "細節"
+      }
+    ]
+  },
+  {
+    "id": "L4-T600-022",
+    "part": 4,
+    "track": "T600",
+    "talk": "Hello, this is a message from the customer service department at National Bank. We are calling to inform you that your new debit card has been issued and is ready for pickup at your nearest branch. Please bring a valid government-issued ID to collect the card. You will also need to set a new personal identification number at the bank. If you would prefer to have the card mailed to your registered address, please contact us at 1-800-555-0199. Our branches are open Monday through Friday from 9 AM to 5 PM.",
+    "questions": [
+      {
+        "id": "L4-T600-022-Q1",
+        "question": "What is the message about?",
+        "options": [
+          "A loan approval notice",
+          "A new debit card ready for pickup",
+          "An account security alert",
+          "A change in bank interest rates"
+        ],
+        "answer": "A new debit card ready for pickup",
+        "explanation": "銀行通知客戶新發行的簽帳卡已可到分行領取。",
+        "category": "主旨"
+      },
+      {
+        "id": "L4-T600-022-Q2",
+        "question": "What must the customer bring to collect the card?",
+        "options": [
+          "A copy of the bank statement",
+          "A valid government-issued ID",
+          "The old debit card",
+          "A signed application form"
+        ],
+        "answer": "A valid government-issued ID",
+        "explanation": "領取新卡時需要攜帶有效的政府核發身分證件。",
+        "category": "細節"
+      },
+      {
+        "id": "L4-T600-022-Q3",
+        "question": "How can the customer have the card mailed instead?",
+        "options": [
+          "By filling out an online form",
+          "By calling the bank",
+          "By sending an email",
+          "By visiting the head office"
+        ],
+        "answer": "By calling the bank",
+        "explanation": "如果想改為郵寄，需致電1-800-555-0199聯繫銀行。",
+        "category": "細節"
+      }
+    ]
+  },
+  {
+    "id": "L4-T600-023",
+    "part": 4,
+    "track": "T600",
+    "talk": "Welcome to the Oceanview Hotel. We are delighted to have you with us. Your room is on the eighth floor and can be accessed with the key card provided at check-in. Complimentary breakfast is served daily from 6:30 to 10 AM in the Harbor Restaurant on the ground floor. The gym and indoor pool are located on the third floor and are open from 6 AM to 10 PM. If you need additional towels or toiletries, please dial 0 to reach the front desk. We hope you enjoy your stay.",
+    "questions": [
+      {
+        "id": "L4-T600-023-Q1",
+        "question": "Where is the breakfast served?",
+        "options": [
+          "In the guest rooms",
+          "In the Harbor Restaurant",
+          "In the lobby lounge",
+          "On the rooftop terrace"
+        ],
+        "answer": "In the Harbor Restaurant",
+        "explanation": "免費早餐在一樓的Harbor Restaurant供應。",
+        "category": "細節"
+      },
+      {
+        "id": "L4-T600-023-Q2",
+        "question": "What are the gym and pool hours?",
+        "options": [
+          "5 AM to 9 PM",
+          "6 AM to 10 PM",
+          "7 AM to 9 PM",
+          "8 AM to 11 PM"
+        ],
+        "answer": "6 AM to 10 PM",
+        "explanation": "健身房和室內游泳池的營業時間為早上6點到晚上10點。",
+        "category": "數字時間"
+      },
+      {
+        "id": "L4-T600-023-Q3",
+        "question": "How can guests request additional towels?",
+        "options": [
+          "Press the service button in the room",
+          "Dial 0 to reach the front desk",
+          "Visit the hotel website",
+          "Speak to the housekeeping staff in person"
+        ],
+        "answer": "Dial 0 to reach the front desk",
+        "explanation": "如需額外毛巾或衛浴用品，請撥0聯絡櫃檯。",
+        "category": "細節"
+      }
+    ]
+  },
+  {
+    "id": "L4-T600-024",
+    "part": 4,
+    "track": "T600",
+    "talk": "Good afternoon, team. I would like to remind everyone about our updated dress code policy that will take effect starting next Monday. All employees are required to wear business casual attire from Monday to Thursday. On Fridays, we now have a casual dress day, so you may wear jeans and company polo shirts. Please note that sandals, shorts, and clothing with logos from other companies are not permitted at any time. If you have questions about what is appropriate, please refer to the employee handbook or speak to your manager.",
+    "questions": [
+      {
+        "id": "L4-T600-024-Q1",
+        "question": "What is the main purpose of this announcement?",
+        "options": [
+          "To introduce a new uniform policy",
+          "To remind staff about dress code rules",
+          "To announce a company holiday",
+          "To inform about a dress code violation"
+        ],
+        "answer": "To remind staff about dress code rules",
+        "explanation": "主管提醒員工更新後的服裝規範將於下週一開始實施。",
+        "category": "主旨"
+      },
+      {
+        "id": "L4-T600-024-Q2",
+        "question": "What can employees wear on Fridays?",
+        "options": [
+          "Formal business suits",
+          "Jeans and company polo shirts",
+          "Casual t-shirts and sandals",
+          " Sports uniforms"
+        ],
+        "answer": "Jeans and company polo shirts",
+        "explanation": "週五為便服日，員工可穿牛仔褲和公司POLO衫。",
+        "category": "細節"
+      },
+      {
+        "id": "L4-T600-024-Q3",
+        "question": "What type of clothing is never allowed?",
+        "options": [
+          "Dark-colored suits",
+          "Sandals and shorts",
+          "Knit sweaters",
+          "Dress shoes"
+        ],
+        "answer": "Sandals and shorts",
+        "explanation": "涼鞋和短褲無論何時都不允許穿著。",
+        "category": "細節"
+      }
+    ]
+  },
+  {
+    "id": "L4-T600-025",
+    "part": 4,
+    "track": "T600",
+    "talk": "Attention, passengers. This is a service announcement for the Metro system. Due to scheduled maintenance work, the Blue Line will not be running between Central Station and Eastside Station this weekend. Free shuttle buses will operate between those two stations every ten minutes from 6 AM to midnight. Regular train service will resume on Monday morning at 5 AM. We recommend allowing an extra twenty minutes for your journey. We apologize for the inconvenience and thank you for your understanding.",
+    "questions": [
+      {
+        "id": "L4-T600-025-Q1",
+        "question": "Why will the Blue Line not be running this weekend?",
+        "options": [
+          "A power outage in the area",
+          "Scheduled maintenance work",
+          "A staff shortage",
+          "Emergency repairs"
+        ],
+        "answer": "Scheduled maintenance work",
+        "explanation": "藍線因計畫性維修工程，週末期間Central到Eastside站之間停駛。",
+        "category": "細節"
+      },
+      {
+        "id": "L4-T600-025-Q2",
+        "question": "What alternative transportation is provided?",
+        "options": [
+          "Free taxi service",
+          "Free shuttle buses",
+          "Express trains",
+          " Ferry boats"
+        ],
+        "answer": "Free shuttle buses",
+        "explanation": "兩站之間將提供免費接駁公車，每10分鐘一班。",
+        "category": "細節"
+      },
+      {
+        "id": "L4-T600-025-Q3",
+        "question": "How often do the shuttle buses run?",
+        "options": [
+          "Every 5 minutes",
+          "Every 10 minutes",
+          "Every 15 minutes",
+          "Every 20 minutes"
+        ],
+        "answer": "Every 10 minutes",
+        "explanation": "接駁公車每10分鐘一班，營運時間為早上6點到午夜。",
+        "category": "數字時間"
+      }
+    ]
+  },
+  {
+    "id": "L4-T600-026",
+    "part": 4,
+    "track": "T600",
+    "talk": "Hello everyone and welcome to today's workshop on effective email communication. My name is Jennifer Park, and I will be your trainer for this session. During the next two hours, we will cover how to write clear subject lines, structure your emails professionally, and avoid common grammar mistakes. You will also have the opportunity to practice rewriting sample emails. Please turn to page three in your handouts. Let us begin with the first topic.",
+    "questions": [
+      {
+        "id": "L4-T600-026-Q1",
+        "question": "What is the topic of this workshop?",
+        "options": [
+          "Public speaking skills",
+          "Effective email communication",
+          "Time management strategies",
+          "Customer service techniques"
+        ],
+        "answer": "Effective email communication",
+        "explanation": "本次工作坊的主題是有效的電子郵件溝通技巧。",
+        "category": "主旨"
+      },
+      {
+        "id": "L4-T600-026-Q2",
+        "question": "How long is the workshop?",
+        "options": [
+          "One hour",
+          "Two hours",
+          "Three hours",
+          "Half a day"
+        ],
+        "answer": "Two hours",
+        "explanation": "Jennifer表示課程時間為兩個小時。",
+        "category": "數字時間"
+      },
+      {
+        "id": "L4-T600-026-Q3",
+        "question": "What are participants asked to do first?",
+        "options": [
+          "Introduce themselves",
+          "Turn to page three in their handouts",
+          "Open their laptops",
+          "Form small groups"
+        ],
+        "answer": "Turn to page three in their handouts",
+        "explanation": "講師請學員翻開講義第三頁開始上課。",
+        "category": "細節"
+      }
+    ]
+  },
+  {
+    "id": "L4-T600-027",
+    "part": 4,
+    "track": "T600",
+    "talk": "Hi, this is a message from FastShip Couriers. We attempted to deliver a package to your address today at 11 AM, but nobody was home to receive it. The package has been taken to our local distribution center at 88 Industrial Road. You can pick it up any day between 9 AM and 7 PM. Please bring a photo ID and your tracking number to collect the package. If you would like to schedule a redelivery, please visit our website or call our customer service line. The package will be held for seven business days before being returned to the sender.",
+    "questions": [
+      {
+        "id": "L4-T600-027-Q1",
+        "question": "Why was the package not delivered?",
+        "options": [
+          "The address was incorrect",
+          "Nobody was home to receive it",
+          "The package was damaged",
+          "The delivery fee was not paid"
+        ],
+        "answer": "Nobody was home to receive it",
+        "explanation": "配送員嘗試送貨時無人在家，因此未能完成投遞。",
+        "category": "細節"
+      },
+      {
+        "id": "L4-T600-027-Q2",
+        "question": "What does the recipient need to collect the package?",
+        "options": [
+          "A signature and a form",
+          "A photo ID and tracking number",
+          "A delivery notice card",
+          "A credit card for fees"
+        ],
+        "answer": "A photo ID and tracking number",
+        "explanation": "領取包裹時需攜帶附照片的身分證件和追蹤號碼。",
+        "category": "細節"
+      },
+      {
+        "id": "L4-T600-027-Q3",
+        "question": "How long will the package be held before being returned?",
+        "options": [
+          "Three business days",
+          "Five business days",
+          "Seven business days",
+          "Ten business days"
+        ],
+        "answer": "Seven business days",
+        "explanation": "包裹將保留7個工作日，之後將退回給寄件人。",
+        "category": "數字時間"
+      }
+    ]
+  },
+  {
+    "id": "L4-T600-028",
+    "part": 4,
+    "track": "T600",
+    "talk": "Good morning, everyone. I have an exciting announcement to make. This year's annual company dinner will be held on December 15th at the Grand Plaza Hotel. The theme this year is A Night in Paris, so we encourage everyone to dress formally. There will be a three-course dinner, live music, and a raffle draw with great prizes. Each employee may bring one guest. Please RSVP to the HR department by November 30th so we can confirm the final headcount. We are looking forward to celebrating the year's achievements together.",
+    "questions": [
+      {
+        "id": "L4-T600-028-Q1",
+        "question": "What event is being announced?",
+        "options": [
+          "A holiday party",
+          "The annual company dinner",
+          "A team-building retreat",
+          "A company anniversary celebration"
+        ],
+        "answer": "The annual company dinner",
+        "explanation": "宣布今年度的公司晚宴將在12月15日舉行。",
+        "category": "主旨"
+      },
+      {
+        "id": "L4-T600-028-Q2",
+        "question": "What is the dress code for the event?",
+        "options": [
+          "Business casual",
+          "Formal attire",
+          "Casual wear",
+          "Costume party"
+        ],
+        "answer": "Formal attire",
+        "explanation": "晚宴主題是A Night in Paris，鼓勵正式服裝出席。",
+        "category": "細節"
+      },
+      {
+        "id": "L4-T600-028-Q3",
+        "question": "By when must employees RSVP?",
+        "options": [
+          "December 1st",
+          "November 30th",
+          "December 15th",
+          "November 15th"
+        ],
+        "answer": "November 30th",
+        "explanation": "員工需在11月30日前向人力資源部門回覆出席意願。",
+        "category": "數字時間"
+      }
+    ]
+  },
+  {
+    "id": "L4-T600-029",
+    "part": 4,
+    "track": "T600",
+    "talk": "Attention, all employees. The management would like to inform you that the main parking lot will be closed for resurfacing work from this Friday at 6 PM until Monday morning at 8 AM. During this time, please use the temporary parking area on Cedar Street, which is a five-minute walk from the office. A shuttle van will also operate between the temporary lot and the main entrance every fifteen minutes during peak hours. Employees with disability permits may park in the side lot behind Building B. We appreciate your patience during this improvement.",
+    "questions": [
+      {
+        "id": "L4-T600-029-Q1",
+        "question": "Why is the main parking lot closing?",
+        "options": [
+          "For a company event",
+          "For resurfacing work",
+          "For security upgrades",
+          "For construction of a new building"
+        ],
+        "answer": "For resurfacing work",
+        "explanation": "主停車場因重新鋪設工程暫時關閉。",
+        "category": "細節"
+      },
+      {
+        "id": "L4-T600-029-Q2",
+        "question": "When will the parking lot reopen?",
+        "options": [
+          "Friday at 6 PM",
+          "Saturday at 8 AM",
+          "Monday at 8 AM",
+          "Monday at 6 PM"
+        ],
+        "answer": "Monday at 8 AM",
+        "explanation": "停車場將於週一早上8點重新開放。",
+        "category": "數字時間"
+      },
+      {
+        "id": "L4-T600-029-Q3",
+        "question": "Where can employees with disability permits park?",
+        "options": [
+          "On Cedar Street",
+          "In the side lot behind Building B",
+          "At the visitor parking area",
+          "In front of the main entrance"
+        ],
+        "answer": "In the side lot behind Building B",
+        "explanation": "持有身心障礙許可證的員工可停在B棟後方的側邊停車場。",
+        "category": "細節"
+      }
+    ]
+  },
+  {
+    "id": "L4-T600-030",
+    "part": 4,
+    "track": "T600",
+    "talk": "Welcome to the City Central Library. We would like to remind all visitors that our summer reading program for children begins next Monday. Children aged six to twelve can participate and earn prizes for every ten books they read. Registration is free and available at the front desk or on our website. The library is open from 9 AM to 8 PM on weekdays and from 10 AM to 5 PM on weekends. Please keep your voice low and turn off your mobile phones while inside the library. Thank you for your cooperation.",
+    "questions": [
+      {
+        "id": "L4-T600-030-Q1",
+        "question": "What program is being promoted?",
+        "options": [
+          "A book donation drive",
+          "A summer reading program for children",
+          "A writing competition for adults",
+          "A storytelling workshop"
+        ],
+        "answer": "A summer reading program for children",
+        "explanation": "圖書館推廣的是兒童暑期閱讀計畫。",
+        "category": "主旨"
+      },
+      {
+        "id": "L4-T600-030-Q2",
+        "question": "How can children earn prizes?",
+        "options": [
+          "By attending library events",
+          "By reading every ten books",
+          "By writing book reviews",
+          "By volunteering at the library"
+        ],
+        "answer": "By reading every ten books",
+        "explanation": "孩子每讀完10本書即可獲得獎品。",
+        "category": "細節"
+      },
+      {
+        "id": "L4-T600-030-Q3",
+        "question": "What are the weekend hours of the library?",
+        "options": [
+          "9 AM to 8 PM",
+          "9 AM to 5 PM",
+          "10 AM to 5 PM",
+          "10 AM to 8 PM"
+        ],
+        "answer": "10 AM to 5 PM",
+        "explanation": "圖書館週末營業時間為早上10點到下午5點。",
+        "category": "數字時間"
+      }
+    ]
+  },
+  {
+    "id": "L4-T600-031",
+    "part": 4,
+    "track": "T600",
+    "talk": "Hello, this is Susan from TechZone Customer Support. I am returning your call regarding the technical issue you reported with your laptop. Our technician has reviewed your case and determined that the hard drive needs to be replaced. Since your device is still under warranty, the repair will be completely free of charge. You can bring your laptop to our service center at 450 Market Street. The repair will take approximately three to five business days. Please back up your data before bringing it in.",
+    "questions": [
+      {
+        "id": "L4-T600-031-Q1",
+        "question": "What is the problem with the customer's laptop?",
+        "options": [
+          "The screen is broken",
+          "The battery needs to be replaced",
+          "The hard drive needs replacement",
+          "The keyboard is not working"
+        ],
+        "answer": "The hard drive needs replacement",
+        "explanation": "技術人員判斷筆電的硬碟需要更換。",
+        "category": "細節"
+      },
+      {
+        "id": "L4-T600-031-Q2",
+        "question": "Why is the repair free?",
+        "options": [
+          "The customer has a service plan",
+          "The laptop is still under warranty",
+          "It is a promotion period",
+          "The technician made a mistake"
+        ],
+        "answer": "The laptop is still under warranty",
+        "explanation": "因為設備仍在保固期內，所以維修完全免費。",
+        "category": "細節"
+      },
+      {
+        "id": "L4-T600-031-Q3",
+        "question": "What should the customer do before bringing the laptop in?",
+        "options": [
+          "Uninstall all programs",
+          "Back up their data",
+          "Remove the battery",
+          "Reset to factory settings"
+        ],
+        "answer": "Back up their data",
+        "explanation": "客服建議客戶在送修前先備份資料。",
+        "category": "推論"
+      }
+    ]
+  },
+  {
+    "id": "L4-T600-032",
+    "part": 4,
+    "track": "T600",
+    "talk": "Good afternoon, everyone. This is a quick update regarding the Asia-Pacific Sales Conference. Due to a scheduling conflict with the keynote speaker, the afternoon workshop sessions have been rearranged. The Digital Marketing workshop will now take place from 1 PM to 2:30 PM, followed by the Supply Chain workshop from 2:45 PM to 4 PM. The Location for all workshops remains the same in Hall C. The updated conference schedule has been posted on the event app. Please check your personal agenda for the changes.",
+    "questions": [
+      {
+        "id": "L4-T600-032-Q1",
+        "question": "Why were the workshop schedules changed?",
+        "options": [
+          "The venue was not available",
+          "A scheduling conflict with the keynote speaker",
+          "Too few attendees registered",
+          "The workshops were too long"
+        ],
+        "answer": "A scheduling conflict with the keynote speaker",
+        "explanation": "因為主題演講者的時間衝突，下午的工作坊時段進行了調整。",
+        "category": "細節"
+      },
+      {
+        "id": "L4-T600-032-Q2",
+        "question": "What time will the Supply Chain workshop begin?",
+        "options": [
+          "1:00 PM",
+          "2:30 PM",
+          "2:45 PM",
+          "4:00 PM"
+        ],
+        "answer": "2:45 PM",
+        "explanation": "供應鏈工作坊將在下午2:45開始。",
+        "category": "數字時間"
+      },
+      {
+        "id": "L4-T600-032-Q3",
+        "question": "Where can attendees find the updated schedule?",
+        "options": [
+          "On the notice board in Hall C",
+          "On the event app",
+          "In the conference booklet",
+          "From the front desk"
+        ],
+        "answer": "On the event app",
+        "explanation": "更新的會議行程表已公布在活動應用程式上。",
+        "category": "細節"
+      }
+    ]
+  },
+  {
+    "id": "L4-T600-033",
+    "part": 4,
+    "track": "T600",
+    "talk": "Hello, members and guests. This is an announcement from the Downtown Fitness Center. We would like to inform you that our Zumba class scheduled for this Wednesday evening has been canceled due to the instructor being ill. A replacement class will be offered on Saturday morning at 10 AM instead. All current class passes will be honored for the replacement class. Additionally, the sauna area will be closed for cleaning this Thursday from 2 PM to 5 PM. We apologize for any inconvenience.",
+    "questions": [
+      {
+        "id": "L4-T600-033-Q1",
+        "question": "Why was the Zumba class canceled?",
+        "options": [
+          "Not enough participants signed up",
+          "The instructor is ill",
+          "The room is being renovated",
+          "The class time has permanently changed"
+        ],
+        "answer": "The instructor is ill",
+        "explanation": "Zumba課程因教練身體不適而取消。",
+        "category": "細節"
+      },
+      {
+        "id": "L4-T600-033-Q2",
+        "question": "When will the replacement class be held?",
+        "options": [
+          "Wednesday morning",
+          "Thursday evening",
+          "Saturday morning",
+          "Saturday evening"
+        ],
+        "answer": "Saturday morning",
+        "explanation": "補課將在週六上午10點舉行。",
+        "category": "數字時間"
+      },
+      {
+        "id": "L4-T600-033-Q3",
+        "question": "What other facility will be temporarily unavailable?",
+        "options": [
+          "The swimming pool",
+          "The sauna area",
+          "The weight room",
+          "The yoga studio"
+        ],
+        "answer": "The sauna area",
+        "explanation": "桑拿區將於週四下午2點至5點關閉進行清潔。",
+        "category": "細節"
+      }
+    ]
+  },
+  {
+    "id": "L4-T600-034",
+    "part": 4,
+    "track": "T600",
+    "talk": "Attention, all employees. This is a fire drill announcement. A fire drill will be conducted this afternoon at 3 PM. When you hear the alarm, please stop what you are doing and proceed calmly to the nearest emergency exit. Do not use the elevators. Gather at the assembly point in the main parking lot. Please do not return to the building until you receive the all-clear signal from the safety officer. This drill is mandatory for all staff. Your cooperation is greatly appreciated.",
+    "questions": [
+      {
+        "id": "L4-T600-034-Q1",
+        "question": "What will happen at 3 PM?",
+        "options": [
+          "A team meeting",
+          "A fire drill",
+          "A building inspection",
+          "A safety training class"
+        ],
+        "answer": "A fire drill",
+        "explanation": "公告宣布下午3點將進行消防演習。",
+        "category": "主旨"
+      },
+      {
+        "id": "L4-T600-034-Q2",
+        "question": "What should employees NOT do during the drill?",
+        "options": [
+          "Walk to the parking lot",
+          "Use the elevators",
+          "Follow the emergency signs",
+          "Stop working"
+        ],
+        "answer": "Use the elevators",
+        "explanation": "演習期間禁止使用電梯，應使用最近的緊急出口。",
+        "category": "細節"
+      },
+      {
+        "id": "L4-T600-034-Q3",
+        "question": "Where is the assembly point?",
+        "options": [
+          "In the main lobby",
+          "In the main parking lot",
+          "In the cafeteria",
+          "In the conference room"
+        ],
+        "answer": "In the main parking lot",
+        "explanation": "員工需在主停車場的集合點集合。",
+        "category": "細節"
+      }
+    ]
+  },
+  {
+    "id": "L4-T600-035",
+    "part": 4,
+    "track": "T600",
+    "talk": "Hi, this is Amy calling from Sunshine Travel Agency. I am calling to confirm the details of your upcoming trip to Tokyo. Your flight departs from Los Angeles International Airport on August 20th at 11:30 PM and arrives in Tokyo Narita at 4 AM the following day. You have a window seat confirmed in row 18. Please check in online at least 24 hours before departure. A hotel room has been booked at the Sakura Inn from August 21st to 25th. If you have any questions, please call me back at 555-0234.",
+    "questions": [
+      {
+        "id": "L4-T600-035-Q1",
+        "question": "What is the purpose of this call?",
+        "options": [
+          "To promote a travel discount",
+          "To confirm trip details",
+          "To reschedule a flight",
+          "To request a payment"
+        ],
+        "answer": "To confirm trip details",
+        "explanation": "旅行社來電確認客戶即將出發的東京行程細節。",
+        "category": "主旨"
+      },
+      {
+        "id": "L4-T600-035-Q2",
+        "question": "What seat has been assigned to the customer?",
+        "options": [
+          "An aisle seat in row 15",
+          "A window seat in row 18",
+          "A middle seat in row 20",
+          "An exit row seat"
+        ],
+        "answer": "A window seat in row 18",
+        "explanation": "客戶被安排在18排的靠窗座位。",
+        "category": "細節"
+      },
+      {
+        "id": "L4-T600-035-Q3",
+        "question": "When should the customer check in online?",
+        "options": [
+          "At least 12 hours before departure",
+          "At least 24 hours before departure",
+          "At least 48 hours before departure",
+          "On the day of departure"
+        ],
+        "answer": "At least 24 hours before departure",
+        "explanation": "旅行社提醒客戶至少在出發前24小時辦理線上報到。",
+        "category": "數字時間"
+      }
+    ]
+  },
+  {
+    "id": "L4-T600-036",
+    "part": 4,
+    "track": "T600",
+    "talk": "Good afternoon, everyone. I have a special announcement to make. After 35 years of dedicated service, our colleague Mr. James Wong from the Finance Department will be retiring at the end of this month. We will be holding a farewell party for him on Friday, June 28th, at 4 PM in the staff lounge. There will be cake, coffee, and a small gift presentation. Everyone is welcome to attend and share their memories of working with James. If you would like to contribute to a group gift, please see Susan in HR by June 25th.",
+    "questions": [
+      {
+        "id": "L4-T600-036-Q1",
+        "question": "Why is a farewell party being held?",
+        "options": [
+          "A colleague is being promoted",
+          "A colleague is retiring",
+          "A colleague is transferring offices",
+          "A colleague won an award"
+        ],
+        "answer": "A colleague is retiring",
+        "explanation": "James Wong在財務部門服務35年後將於本月退休。",
+        "category": "主旨"
+      },
+      {
+        "id": "L4-T600-036-Q2",
+        "question": "When will the party take place?",
+        "options": [
+          "Friday, June 21st",
+          "Friday, June 28th",
+          "Monday, June 30th",
+          "Saturday, June 29th"
+        ],
+        "answer": "Friday, June 28th",
+        "explanation": "歡送會將在6月28日週五下午4點舉行。",
+        "category": "數字時間"
+      },
+      {
+        "id": "L4-T600-036-Q3",
+        "question": "What should employees do if they want to join a group gift?",
+        "options": [
+          "Contact James directly",
+          "See Susan in HR by June 25th",
+          "Send an email to the CEO",
+          "Leave money on the manager's desk"
+        ],
+        "answer": "See Susan in HR by June 25th",
+        "explanation": "想參加合送禮物的員工請在6月25日前洽詢人力資源部的Susan。",
+        "category": "細節"
+      }
+    ]
+  },
+  {
+    "id": "L4-T600-037",
+    "part": 4,
+    "track": "T600",
+    "talk": "Attention, all staff. This is a notification from the IT department. Our company's accounting software will be updated to version 4.2 this Friday evening. The system will be offline from 6 PM Friday until 8 AM Monday. During this time, you will not be able to access the financial reporting module or submit expense claims. Please make sure you have completed any pending transactions before Friday at 5 PM. A training session on the new features will be held next Tuesday at 10 AM in the training room.",
+    "questions": [
+      {
+        "id": "L4-T600-037-Q1",
+        "question": "What is the main reason for this announcement?",
+        "options": [
+          "A new employee hire",
+          "A software system update",
+          "A change in company policy",
+          "An upcoming office closure"
+        ],
+        "answer": "A software system update",
+        "explanation": "IT部門通知公司的會計軟體將升級至4.2版本。",
+        "category": "主旨"
+      },
+      {
+        "id": "L4-T600-037-Q2",
+        "question": "How long will the system be unavailable?",
+        "options": [
+          "From Friday 6 PM to Saturday 8 AM",
+          "From Friday 6 PM to Monday 8 AM",
+          "From Friday 5 PM to Monday 8 AM",
+          "From Saturday 8 AM to Monday 6 PM"
+        ],
+        "answer": "From Friday 6 PM to Monday 8 AM",
+        "explanation": "系統將從週五晚上6點離線至週一早上8點。",
+        "category": "數字時間"
+      },
+      {
+        "id": "L4-T600-037-Q3",
+        "question": "What should employees do before Friday at 5 PM?",
+        "options": [
+          "Back up their personal files",
+          "Complete pending transactions",
+          "Update their passwords",
+          "Submit IT support tickets"
+        ],
+        "answer": "Complete pending transactions",
+        "explanation": "員工需在週五下午5點前完成所有未完成的交易。",
+        "category": "細節"
+      }
+    ]
+  },
+  {
+    "id": "L4-T600-038",
+    "part": 4,
+    "track": "T600",
+    "talk": "Hello, this is a message from Business Weekly magazine. We are writing to let you know that your annual subscription is about to expire in two weeks. To continue receiving your weekly issues without interruption, please renew your subscription by visiting our website. If you renew today, you will receive a special discount of thirty percent off the regular price. You can also choose to subscribe to our digital edition, which includes access to our online archive. Thank you for being a loyal reader.",
+    "questions": [
+      {
+        "id": "L4-T600-038-Q1",
+        "question": "Why is this call being made?",
+        "options": [
+          "To promote a new magazine",
+          "To remind about subscription renewal",
+          "To invite the customer to an event",
+          "To apologize for a delivery issue"
+        ],
+        "answer": "To remind about subscription renewal",
+        "explanation": "Business Weekly通知客戶年訂閱即將到期，提醒續訂。",
+        "category": "主旨"
+      },
+      {
+        "id": "L4-T600-038-Q2",
+        "question": "What discount is being offered for renewing today?",
+        "options": [
+          "Fifteen percent off",
+          "Twenty percent off",
+          "Thirty percent off",
+          "Fifty percent off"
+        ],
+        "answer": "Thirty percent off",
+        "explanation": "今日續訂可享定價七折優惠。",
+        "category": "細節"
+      },
+      {
+        "id": "L4-T600-038-Q3",
+        "question": "What additional feature does the digital edition include?",
+        "options": [
+          "Free shipping",
+          "Access to the online archive",
+          "A gift subscription for a friend",
+          "Exclusive video interviews"
+        ],
+        "answer": "Access to the online archive",
+        "explanation": "數位版訂閱包含線上資料庫的存取權限。",
+        "category": "細節"
+      }
+    ]
+  },
+  {
+    "id": "L4-T600-039",
+    "part": 4,
+    "track": "T600",
+    "talk": "Good morning, everyone. I am pleased to announce that our company will be participating in the annual City Charity Run this year. The event will take place on October 10th at Riverside Park. All employees are welcome to join either as runners or volunteers. The registration fee is twenty dollars per person, which will be donated entirely to the local children's hospital. The company will provide transportation to and from the event. If you are interested, please sign up at the front desk by September 20th. Let us run for a good cause.",
+    "questions": [
+      {
+        "id": "L4-T600-039-Q1",
+        "question": "What event is the company participating in?",
+        "options": [
+          "A marathon competition",
+          "A charity run",
+          "A sports tournament",
+          "A health fair"
+        ],
+        "answer": "A charity run",
+        "explanation": "公司將參加年度City Charity Run慈善路跑活動。",
+        "category": "主旨"
+      },
+      {
+        "id": "L4-T600-039-Q2",
+        "question": "Where does the registration fee go?",
+        "options": [
+          "To the company's charity fund",
+          "To the local children's hospital",
+          "To the event organizers",
+          "To the runners' expenses"
+        ],
+        "answer": "To the local children's hospital",
+        "explanation": "報名費將全數捐給當地兒童醫院。",
+        "category": "細節"
+      },
+      {
+        "id": "L4-T600-039-Q3",
+        "question": "What is the deadline to sign up?",
+        "options": [
+          "October 1st",
+          "September 20th",
+          "September 30th",
+          "October 10th"
+        ],
+        "answer": "September 20th",
+        "explanation": "有興趣的員工請在9月20日前於櫃檯報名。",
+        "category": "數字時間"
+      }
+    ]
+  },
+  {
+    "id": "L4-T600-040",
+    "part": 4,
+    "track": "T600",
+    "talk": "Hello, and welcome to the Sunshine Food Processing Plant. My name is Tom, and I will be your tour guide today. Before we begin our tour, I need to go over a few safety rules. Please wear the hairnet and protective coat provided at the entrance. Do not touch any of the machinery or products during the tour. Photography is not allowed inside the production area. The tour will last approximately forty-five minutes. If you have any questions, please feel free to ask at any time. Let us get started.",
+    "questions": [
+      {
+        "id": "L4-T600-040-Q1",
+        "question": "What is the speaker's role?",
+        "options": [
+          "A factory manager",
+          "A tour guide",
+          "A safety inspector",
+          "A product developer"
+        ],
+        "answer": "A tour guide",
+        "explanation": "Tom自我介紹是今天的工廠參觀導覽員。",
+        "category": "細節"
+      },
+      {
+        "id": "L4-T600-040-Q2",
+        "question": "What are visitors required to wear?",
+        "options": [
+          "Safety goggles and boots",
+          "A hairnet and protective coat",
+          "A hard hat and gloves",
+          "A name badge and uniform"
+        ],
+        "answer": "A hairnet and protective coat",
+        "explanation": "參觀者需在入口處佩戴髮網和防護衣。",
+        "category": "細節"
+      },
+      {
+        "id": "L4-T600-040-Q3",
+        "question": "How long will the tour last?",
+        "options": [
+          "Thirty minutes",
+          "Forty-five minutes",
+          "One hour",
+          "One hour and a half"
+        ],
+        "answer": "Forty-five minutes",
+        "explanation": "導覽行程約45分鐘。",
+        "category": "數字時間"
+      }
+    ]
+  },
+  {
+    "id": "L4-T600-041",
+    "part": 4,
+    "track": "T600",
+    "talk": "Attention, all staff. Please be advised that the office will be closed on Monday, September 5th, in observance of Labor Day. Normal business hours will resume on Tuesday at 8:30 AM. For any urgent matters during the holiday, please contact the duty manager at 555-0191. Additionally, the deadline for submitting your quarterly expense reports has been extended to Wednesday, September 7th, to account for the holiday. Please make sure your reports are submitted by the new deadline. Have a safe and enjoyable long weekend.",
+    "questions": [
+      {
+        "id": "L4-T600-041-Q1",
+        "question": "Why will the office be closed on Monday?",
+        "options": [
+          "For a company retreat",
+          "In observance of Labor Day",
+          "For building maintenance",
+          "Due to a public transport strike"
+        ],
+        "answer": "In observance of Labor Day",
+        "explanation": "辦公室因勞動節休假而關閉。",
+        "category": "細節"
+      },
+      {
+        "id": "L4-T600-041-Q2",
+        "question": "Who should be contacted for urgent matters?",
+        "options": [
+          "The HR director",
+          "The office manager",
+          "The duty manager",
+          "The IT support team"
+        ],
+        "answer": "The duty manager",
+        "explanation": "休假期間如有緊急事務請聯絡值班經理，電話555-0191。",
+        "category": "細節"
+      },
+      {
+        "id": "L4-T600-041-Q3",
+        "question": "What is the new deadline for expense reports?",
+        "options": [
+          "Monday, September 5th",
+          "Tuesday, September 6th",
+          "Wednesday, September 7th",
+          "Friday, September 9th"
+        ],
+        "answer": "Wednesday, September 7th",
+        "explanation": "季度費用報表的截止日期延長至9月7日週三。",
+        "category": "數字時間"
+      }
+    ]
+  },
+  {
+    "id": "L4-T600-042",
+    "part": 4,
+    "track": "T600",
+    "talk": "Hello, this is a message from your insurance agent, Michael Chen, at SafeGuard Insurance. I am writing to inform you about an important update to your auto insurance policy. Starting next month, your monthly premium will decrease by eight percent because of your accident-free driving record. Also, we have added roadside assistance to your policy at no additional charge. Your new policy documents will be mailed to you within the next seven days. If you have any questions, please give me a call at 555-0177.",
+    "questions": [
+      {
+        "id": "L4-T600-042-Q1",
+        "question": "What is the main reason for this message?",
+        "options": [
+          "To announce a policy cancellation",
+          "To inform about a policy update",
+          "To request a payment",
+          "To schedule a meeting"
+        ],
+        "answer": "To inform about a policy update",
+        "explanation": "保險專員來電通知汽車保險保單的重要更新。",
+        "category": "主旨"
+      },
+      {
+        "id": "L4-T600-042-Q2",
+        "question": "Why will the premium decrease?",
+        "options": [
+          "The customer filed fewer claims",
+          "The customer has an accident-free record",
+          "The insurance company lowered rates",
+          "The coverage was reduced"
+        ],
+        "answer": "The customer has an accident-free record",
+        "explanation": "因為客戶的無事故駕駛記錄，月保費將調降8%。",
+        "category": "細節"
+      },
+      {
+        "id": "L4-T600-042-Q3",
+        "question": "What new service has been added to the policy?",
+        "options": [
+          "Free car wash service",
+          "Roadside assistance",
+          "Towing insurance",
+          "Rental car coverage"
+        ],
+        "answer": "Roadside assistance",
+        "explanation": "保單新增了道路救援服務，無需額外費用。",
+        "category": "細節"
+      }
+    ]
+  },
+  {
+    "id": "L4-T600-043",
+    "part": 4,
+    "track": "T600",
+    "talk": "Good evening, ladies and gentlemen. Welcome to the 2026 Excellence in Business Awards ceremony. I am honored to be here tonight to celebrate the achievements of outstanding companies in our community. We have received over two hundred nominations this year, which is a record number. The winners in each category will be announced after dinner. Before we begin, I would like to thank our sponsors for making this event possible. Please enjoy the reception and congratulations to all the nominees.",
+    "questions": [
+      {
+        "id": "L4-T600-043-Q1",
+        "question": "What event is taking place?",
+        "options": [
+          "A business conference",
+          "An awards ceremony",
+          "A company product launch",
+          "A charity gala dinner"
+        ],
+        "answer": "An awards ceremony",
+        "explanation": "這是2026 Excellence in Business Awards頒獎典禮。",
+        "category": "主旨"
+      },
+      {
+        "id": "L4-T600-043-Q2",
+        "question": "How many nominations were received this year?",
+        "options": [
+          "Over one hundred",
+          "Over two hundred",
+          "Over three hundred",
+          "Over five hundred"
+        ],
+        "answer": "Over two hundred",
+        "explanation": "今年收到超過200件提名，創下新高。",
+        "category": "細節"
+      },
+      {
+        "id": "L4-T600-043-Q3",
+        "question": "When will the winners be announced?",
+        "options": [
+          "Before dinner",
+          "After dinner",
+          "Tomorrow morning",
+          "Next week"
+        ],
+        "answer": "After dinner",
+        "explanation": "各類別的得獎者將在晚宴後公布。",
+        "category": "細節"
+      }
+    ]
+  },
+  {
+    "id": "L4-T600-044",
+    "part": 4,
+    "track": "T600",
+    "talk": "Attention, shoppers. The City Mall would like to inform you of our special holiday operating hours. On Christmas Eve, December 24th, the mall will be open from 9 AM to 6 PM. On Christmas Day, we will be closed for the holiday. On December 26th, our Boxing Day sale will begin at 7 AM, two hours earlier than our regular opening time. Many stores will offer discounts of up to fifty percent. Free gift-wrapping services will be available at the customer service counter on the ground floor. Happy holidays from all of us at City Mall.",
+    "questions": [
+      {
+        "id": "L4-T600-044-Q1",
+        "question": "What are the operating hours on Christmas Eve?",
+        "options": [
+          "9 AM to 6 PM",
+          "9 AM to 9 PM",
+          "7 AM to 10 PM",
+          "10 AM to 6 PM"
+        ],
+        "answer": "9 AM to 6 PM",
+        "explanation": "聖誕夜（12月24日）購物中心營業時間為早上9點到下午6點。",
+        "category": "數字時間"
+      },
+      {
+        "id": "L4-T600-044-Q2",
+        "question": "What is special about December 26th?",
+        "options": [
+          "The mall will be closed",
+          "A special sale with early opening",
+          "Santa will visit the mall",
+          "Free parking all day"
+        ],
+        "answer": "A special sale with early opening",
+        "explanation": "節禮日促銷將於早上7點開始，比平常早2小時開門。",
+        "category": "細節"
+      },
+      {
+        "id": "L4-T600-044-Q3",
+        "question": "Where is the gift-wrapping service located?",
+        "options": [
+          "On the second floor",
+          "At the customer service counter",
+          "At the mall entrance",
+          "In the food court"
+        ],
+        "answer": "At the customer service counter",
+        "explanation": "免費禮品包裝服務位於一樓的顧客服務櫃檯。",
+        "category": "細節"
+      }
+    ]
+  },
+  {
+    "id": "L4-T600-045",
+    "part": 4,
+    "track": "T600",
+    "talk": "Hello, this is a reminder from the professional development team. This is a friendly reminder that the online training webinar titled Effective Negotiation Skills will take place this Thursday at 2 PM. The webinar will be conducted via Zoom, and the link has been sent to your company email. The session will last approximately ninety minutes, including a Q and A segment at the end. Please log in five minutes early to test your audio and video. Participants who complete the session will receive a certificate of completion.",
+    "questions": [
+      {
+        "id": "L4-T600-045-Q1",
+        "question": "What is the training webinar about?",
+        "options": [
+          "Public speaking techniques",
+          "Effective negotiation skills",
+          "Project management basics",
+          "Customer service excellence"
+        ],
+        "answer": "Effective negotiation skills",
+        "explanation": "線上培訓網路研討會的主題是Effective Negotiation Skills。",
+        "category": "主旨"
+      },
+      {
+        "id": "L4-T600-045-Q2",
+        "question": "How long will the webinar last?",
+        "options": [
+          "Sixty minutes",
+          "Ninety minutes",
+          "Two hours",
+          "One hundred twenty minutes"
+        ],
+        "answer": "Ninety minutes",
+        "explanation": "研討會約90分鐘，最後有問答環節。",
+        "category": "數字時間"
+      },
+      {
+        "id": "L4-T600-045-Q3",
+        "question": "What are participants advised to do before the session?",
+        "options": [
+          "Prepare a presentation",
+          "Read the training materials",
+          "Log in five minutes early",
+          "Submit their questions in advance"
+        ],
+        "answer": "Log in five minutes early",
+        "explanation": "建議參與者提前5分鐘登入以測試音訊和視訊設備。",
+        "category": "細節"
+      }
+    ]
+  },
+  {
+    "id": "L4-T600-046",
+    "part": 4,
+    "track": "T600",
+    "talk": "Attention, all monthly parking permit holders. This is an important notice from the building management regarding the parking garage rates. Starting November 1st, the monthly parking fee will increase from one hundred twenty dollars to one hundred forty dollars. This is the first rate increase in three years. The hourly rate will remain unchanged at five dollars per hour. If you have an auto-pay setup, the new rate will be applied automatically. If you have any concerns, please visit the management office on the ground floor. Thank you for your understanding.",
+    "questions": [
+      {
+        "id": "L4-T600-046-Q1",
+        "question": "What is the purpose of this notice?",
+        "options": [
+          "To announce a parking rate increase",
+          "To introduce a new parking system",
+          "To remind about parking rules",
+          "To report garage maintenance"
+        ],
+        "answer": "To announce a parking rate increase",
+        "explanation": "管理處通知月租停車費將從120美元調漲至140美元。",
+        "category": "主旨"
+      },
+      {
+        "id": "L4-T600-046-Q2",
+        "question": "What will the new monthly parking fee be?",
+        "options": [
+          "One hundred dollars",
+          "One hundred twenty dollars",
+          "One hundred forty dollars",
+          "One hundred fifty dollars"
+        ],
+        "answer": "One hundred forty dollars",
+        "explanation": "新月租費用為140美元，從11月1日起生效。",
+        "category": "細節"
+      },
+      {
+        "id": "L4-T600-046-Q3",
+        "question": "What will stay the same?",
+        "options": [
+          "The monthly rate",
+          "The hourly rate",
+          "The overnight rate",
+          "The weekend rate"
+        ],
+        "answer": "The hourly rate",
+        "explanation": "每小時收費維持不變，仍為5美元。",
+        "category": "細節"
+      }
+    ]
+  },
+  {
+    "id": "L4-T600-047",
+    "part": 4,
+    "track": "T600",
+    "talk": "Hello, team. I have an exciting announcement from the human resources department. We are organizing a team-building activity for all staff next month. This year, we will go to Adventure Valley for a day of outdoor challenges, including a rope course, a treasure hunt, and a barbecue lunch. The activity will take place on Saturday, July 22nd, from 9 AM to 4 PM. Transportation and meals will be provided by the company. Please sign up through the company portal by July 10th. Spouses and partners are also welcome to join for an additional fee.",
+    "questions": [
+      {
+        "id": "L4-T600-047-Q1",
+        "question": "What activity is being organized?",
+        "options": [
+          "A department meeting",
+          "A team-building event",
+          "A training workshop",
+          "A company picnic"
+        ],
+        "answer": "A team-building event",
+        "explanation": "人資部門正在籌劃一場團隊建立活動。",
+        "category": "主旨"
+      },
+      {
+        "id": "L4-T600-047-Q2",
+        "question": "What is included in the company-provided benefits?",
+        "options": [
+          "Hotel accommodation",
+          "Transportation and meals",
+          "Activity souvenirs",
+          "Cash bonuses"
+        ],
+        "answer": "Transportation and meals",
+        "explanation": "公司將提供交通和餐飲。",
+        "category": "細節"
+      },
+      {
+        "id": "L4-T600-047-Q3",
+        "question": "How can employees sign up for the event?",
+        "options": [
+          "By calling HR",
+          "Through the company portal",
+          "By emailing their manager",
+          "By visiting the front desk"
+        ],
+        "answer": "Through the company portal",
+        "explanation": "員工需透過公司入口網站報名，截止日為7月10日。",
+        "category": "細節"
+      }
+    ]
+  },
+  {
+    "id": "L4-T600-048",
+    "part": 4,
+    "track": "T600",
+    "talk": "Good afternoon, everyone. Thank you for joining today's year-end review meeting. I am pleased to report that our company achieved a fifteen percent increase in overall sales compared to last year. Our customer satisfaction rating also improved to 92 percent, which is the highest in our company's history. Looking ahead to next year, we plan to expand into three new markets in Southeast Asia. I would like to thank each and every one of you for your hard work and dedication. Let us continue to build on this success together in the coming year.",
+    "questions": [
+      {
+        "id": "L4-T600-048-Q1",
+        "question": "What is the speaker doing?",
+        "options": [
+          "Introducing a new product line",
+          "Presenting the year-end review",
+          "Announcing a company restructuring",
+          "Welcoming new employees"
+        ],
+        "answer": "Presenting the year-end review",
+        "explanation": "主講人在年終檢討會議上報告公司今年的業績表現。",
+        "category": "主旨"
+      },
+      {
+        "id": "L4-T600-048-Q2",
+        "question": "What was this year's customer satisfaction rating?",
+        "options": [
+          "85 percent",
+          "90 percent",
+          "92 percent",
+          "95 percent"
+        ],
+        "answer": "92 percent",
+        "explanation": "客戶滿意度提升至92%，創下公司歷史新高。",
+        "category": "細節"
+      },
+      {
+        "id": "L4-T600-048-Q3",
+        "question": "What are the company's plans for next year?",
+        "options": [
+          "To reduce operational costs",
+          "To expand into Southeast Asia",
+          "To launch a new product",
+          "To hire more staff"
+        ],
+        "answer": "To expand into Southeast Asia",
+        "explanation": "公司計劃明年進軍東南亞三個新市場。",
+        "category": "細節"
+      }
+    ]
+  }
+]

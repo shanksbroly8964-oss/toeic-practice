@@ -1,0 +1,212 @@
+[
+  {
+    "id": "L1-T600-001",
+    "part": 1,
+    "track": "T600",
+    "imageDescription": "A woman is typing on a laptop at a desk near a window.",
+    "options": [
+      "She is typing on a laptop.",
+      "She is answering the phone.",
+      "She is watering plants.",
+      "She is closing the window."
+    ],
+    "answer": "She is typing on a laptop.",
+    "explanation": "描述中女子正在用筆電打字，與此選項相符；其餘選項描述的動作在情境中未發生。"
+  },
+  {
+    "id": "L1-T600-002",
+    "part": 1,
+    "track": "T600",
+    "imageDescription": "Two men are shaking hands in a conference room while a woman watches.",
+    "options": [
+      "Two men are shaking hands.",
+      "A woman is leaving the room.",
+      "The men are reading documents.",
+      "Everyone is sitting at the table."
+    ],
+    "answer": "Two men are shaking hands.",
+    "explanation": "描述中兩位男士正在握手，與此選項相符；其他選項描述的動作未在情境中發生。"
+  },
+  {
+    "id": "L1-T600-003",
+    "part": 1,
+    "track": "T600",
+    "imageDescription": "A man is serving food to customers in a crowded restaurant kitchen.",
+    "options": [
+      "A man is serving food.",
+      "The customers are cooking.",
+      "The kitchen is empty.",
+      "A man is washing dishes."
+    ],
+    "answer": "A man is serving food.",
+    "explanation": "描述中男士正在上菜，與此選項相符；顧客在用餐而非烹飪，廚房擁擠非空無一人，洗碗未被提及。"
+  },
+  {
+    "id": "L1-T600-004",
+    "part": 1,
+    "track": "T600",
+    "imageDescription": "A flight attendant is demonstrating safety procedures to passengers on an airplane.",
+    "options": [
+      "Passengers are boarding the plane.",
+      "A flight attendant is demonstrating safety procedures.",
+      "The pilot is serving drinks.",
+      "Luggage is being unloaded from the plane."
+    ],
+    "answer": "A flight attendant is demonstrating safety procedures.",
+    "explanation": "空服員正在演示安全程序，與描述完全一致；其他選項描述的情境與畫面不符。"
+  },
+  {
+    "id": "L1-T600-005",
+    "part": 1,
+    "track": "T600",
+    "imageDescription": "Workers are loading boxes onto a truck near a warehouse loading dock.",
+    "options": [
+      "Workers are unloading a truck.",
+      "The warehouse is closed for the day.",
+      "Workers are loading boxes onto a truck.",
+      "A truck is being repaired."
+    ],
+    "answer": "Workers are loading boxes onto a truck.",
+    "explanation": "工人正在將箱子裝上卡車，與描述相符；卸貨、倉庫關閉、修車皆未提及。"
+  },
+  {
+    "id": "L1-T600-006",
+    "part": 1,
+    "track": "T600",
+    "imageDescription": "A receptionist is greeting a visitor at the front desk of an office building.",
+    "options": [
+      "A visitor is cleaning the front desk.",
+      "The receptionist is greeting a visitor.",
+      "A meeting is taking place in the lobby.",
+      "The receptionist is making phone calls."
+    ],
+    "answer": "The receptionist is greeting a visitor.",
+    "explanation": "接待員正在打招呼迎接訪客，與描述相符；其他選項描述的動作均未發生。"
+  },
+  {
+    "id": "L1-T600-007",
+    "part": 1,
+    "track": "T600",
+    "imageDescription": "An engineer is inspecting a machine on a factory production line.",
+    "options": [
+      "The factory workers are on a break.",
+      "An engineer is inspecting a machine.",
+      "A machine is being assembled.",
+      "The production line is stopped."
+    ],
+    "answer": "An engineer is inspecting a machine.",
+    "explanation": "工程師正在檢查機器，與描述相符；生產線仍在運轉，未停止也未提到裝配。"
+  },
+  {
+    "id": "L1-T600-008",
+    "part": 1,
+    "track": "T600",
+    "imageDescription": "People are waiting in line at a coffee shop counter to place their orders.",
+    "options": [
+      "People are sitting at tables drinking coffee.",
+      "The coffee shop is closed.",
+      "People are waiting in line to order.",
+      "A barista is cleaning the counter."
+    ],
+    "answer": "People are waiting in line to order.",
+    "explanation": "人們正在排隊點餐，與描述相符；坐著喝咖啡、關店、清潔櫃檯均非畫面內容。"
+  },
+  {
+    "id": "L1-T600-009",
+    "part": 1,
+    "track": "T600",
+    "imageDescription": "A businesswoman is giving a presentation to a group of colleagues in a meeting room.",
+    "options": [
+      "The colleagues are leaving the meeting.",
+      "A businesswoman is giving a presentation.",
+      "The presentation screen is blank.",
+      "Everyone is eating lunch."
+    ],
+    "answer": "A businesswoman is giving a presentation.",
+    "explanation": "女主管正在進行簡報，與描述一致；其他選項與畫面描述不符。"
+  },
+  {
+    "id": "L1-T600-010",
+    "part": 1,
+    "track": "T600",
+    "imageDescription": "A cleaner is vacuuming the carpet in an empty office hallway.",
+    "options": [
+      "Employees are working at their desks.",
+      "A cleaner is vacuuming the carpet.",
+      "The hallway is being painted.",
+      "A cleaner is emptying trash bins."
+    ],
+    "answer": "A cleaner is vacuuming the carpet.",
+    "explanation": "清潔人員正在吸地毯，與描述相符；辦公室無人上班，走廊未在油漆，倒垃圾未提及。"
+  },
+  {
+    "id": "L1-T600-011",
+    "part": 1,
+    "track": "T600",
+    "imageDescription": "A librarian is placing books on a shelf while a student reads at a table nearby.",
+    "options": [
+      "A librarian is placing books on a shelf.",
+      "The student is checking out books.",
+      "The library is under construction.",
+      "A librarian is helping a student at the counter."
+    ],
+    "answer": "A librarian is placing books on a shelf.",
+    "explanation": "圖書館員正在將書放上書架，與描述相符；學生在閱讀而非借書，圖書館正常營業。"
+  },
+  {
+    "id": "L1-T600-012",
+    "part": 1,
+    "track": "T600",
+    "imageDescription": "A delivery driver is carrying a package toward the entrance of an office building.",
+    "options": [
+      "A delivery driver is carrying a package.",
+      "A package is being opened by the receptionist.",
+      "The driver is parking a truck.",
+      "An employee is signing for a delivery."
+    ],
+    "answer": "A delivery driver is carrying a package.",
+    "explanation": "快遞員正拿著包裹走向入口，與描述一致；包裹尚未被打開，司機未在停車，員工未簽收。"
+  },
+  {
+    "id": "L1-T600-013",
+    "part": 1,
+    "track": "T600",
+    "imageDescription": "A man is checking the tire pressure of a car at a gas station.",
+    "options": [
+      "A man is filling gas into a car.",
+      "A man is checking the tire pressure.",
+      "The car is being washed.",
+      "The gas station is closed."
+    ],
+    "answer": "A man is checking the tire pressure.",
+    "explanation": "男子正在檢查輪胎胎壓，與描述相符；加油、洗車、關閉均未在描述中出現。"
+  },
+  {
+    "id": "L1-T600-014",
+    "part": 1,
+    "track": "T600",
+    "imageDescription": "Several employees are looking at a computer monitor together in an open-plan office.",
+    "options": [
+      "Employees are using a computer together.",
+      "An employee is sleeping at the desk.",
+      "The office lights are turned off.",
+      "Employees are having a video call."
+    ],
+    "answer": "Employees are using a computer together.",
+    "explanation": "幾位員工正一起看著電腦螢幕，與描述相符；睡覺、關燈、視訊通話均未提及。"
+  },
+  {
+    "id": "L1-T600-015",
+    "part": 1,
+    "track": "T600",
+    "imageDescription": "A chef is slicing vegetables on a cutting board in a busy hotel kitchen.",
+    "options": [
+      "A chef is slicing vegetables.",
+      "The kitchen is empty.",
+      "A waiter is taking orders.",
+      "The chef is tasting the soup."
+    ],
+    "answer": "A chef is slicing vegetables.",
+    "explanation": "主廚正在切蔬菜，與描述一致；廚房繁忙非空無一人，服務生點餐和嚐湯均未提及。"
+  }
+]

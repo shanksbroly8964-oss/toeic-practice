@@ -7,6 +7,7 @@ TOEIC.Storage = {
 
   setTrack(track) {
     localStorage.setItem('toeic_track', track);
+    localStorage.setItem('toeic_track_ts', String(Date.now()));
   },
 
   addWrongItem(item) {
@@ -16,6 +17,7 @@ TOEIC.Storage = {
       part: item.part,
       track: item.track,
       questionId: item.questionId,
+      category: item.category || '',
       question: item.question,
       options: item.options,
       userAnswer: item.userAnswer,

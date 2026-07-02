@@ -1,0 +1,1707 @@
+[
+  {
+    "id": "L4-T730-013",
+    "part": 4,
+    "track": "T730",
+    "talk": "Attention all warehouse staff. This is a message from the logistics manager regarding the upcoming inventory management system upgrade. Starting next Monday, we will be transitioning from the current barcode scanning system to an RFID-based tracking platform. All team members are required to attend a mandatory training session on Friday afternoon at 2 PM in the main conference room. Please bring your employee ID badges, as you will need them to log into the new system for the first time. While the new system is expected to reduce manual counting errors by approximately forty percent, there will be a temporary slowdown during the first week of implementation as everyone gets accustomed to the new workflow. The IT department has set up a help desk in the break room for any technical issues. Also, please note that all handheld scanners must be returned to the equipment office by Thursday, as they will be replaced with RFID readers next week.",
+    "questions": [
+      {
+        "id": "L4-T730-013-Q1",
+        "question": "What is the main reason for upgrading the inventory system?",
+        "options": [
+          "To reduce labor costs",
+          "To improve counting accuracy",
+          "To comply with new regulations",
+          "To increase storage capacity"
+        ],
+        "answer": "To improve counting accuracy",
+        "explanation": "新系統預計可減少約40%的人工盤點錯誤，主要目的是提升準確性。",
+        "category": "主旨"
+      },
+      {
+        "id": "L4-T730-013-Q2",
+        "question": "What must employees bring to the training session?",
+        "options": [
+          "Their RFID readers",
+          "Their employee ID badges",
+          "A signed permission form",
+          "Their personal laptops"
+        ],
+        "answer": "Their employee ID badges",
+        "explanation": "員工需攜帶員工證，首次登入新系統時需要使用。",
+        "category": "細節"
+      },
+      {
+        "id": "L4-T730-013-Q3",
+        "question": "What can be inferred about the current barcode system?",
+        "options": [
+          "It is still under warranty",
+          "It will be phased out soon",
+          "It was recently upgraded",
+          "It is more efficient than RFID"
+        ],
+        "answer": "It will be phased out soon",
+        "explanation": "現有條碼掃描器需在週四前歸還，並將被RFID讀取器取代，暗示舊系統即將淘汰。",
+        "category": "推論"
+      }
+    ]
+  },
+  {
+    "id": "L4-T730-014",
+    "part": 4,
+    "track": "T730",
+    "talk": "Good morning, everyone. I am excited to announce the launch of our company's cross-training initiative, designed to help employees develop skills outside their primary departments. The program will run for twelve weeks, starting on the first of next month. Each participant will spend two days per week in a different department, working on real projects under the guidance of a mentor. There are three tracks available: digital marketing fundamentals, data analysis essentials, and customer experience design. However, spaces are limited to twenty participants per track, and enrollment will be confirmed on a first-come, first-served basis. To apply, please submit a brief statement of interest to HR by this Friday, indicating your preferred track and why you believe it will benefit your career growth. Please be aware that participants are expected to maintain their regular workload while completing the cross-training, so time management will be crucial. Successful participants will receive a certificate of completion at the end of the program.",
+    "questions": [
+      {
+        "id": "L4-T730-014-Q1",
+        "question": "What is the purpose of the cross-training initiative?",
+        "options": [
+          "To reduce operational costs",
+          "To help employees gain skills in other areas",
+          "To prepare for company expansion",
+          "To replace external training vendors"
+        ],
+        "answer": "To help employees gain skills in other areas",
+        "explanation": "此計畫讓員工跨部門學習技能，目的是拓寬職能發展。",
+        "category": "主旨"
+      },
+      {
+        "id": "L4-T730-014-Q2",
+        "question": "How are participants selected for the program?",
+        "options": [
+          "By seniority level",
+          "By manager nomination",
+          "On a first-come, first-served basis",
+          "By random lottery"
+        ],
+        "answer": "On a first-come, first-served basis",
+        "explanation": "每個track名額有限，依照先到先得原則確認。",
+        "category": "細節"
+      },
+      {
+        "id": "L4-T730-014-Q3",
+        "question": "What potential challenge does the speaker imply participants will face?",
+        "options": [
+          "Lack of mentor support",
+          "Balancing regular work with training",
+          "Insufficient training materials",
+          "Difficulty commuting to training sites"
+        ],
+        "answer": "Balancing regular work with training",
+        "explanation": "說話者提醒參與者需維持原有工作量，暗示時間管理會是一大挑戰。",
+        "category": "推論"
+      }
+    ]
+  },
+  {
+    "id": "L4-T730-015",
+    "part": 4,
+    "track": "T730",
+    "talk": "Your attention, please. This is a customer service announcement for all passengers flying with AeroSky Airlines. Due to ongoing construction at Terminal 3, all AeroSky flights, both domestic and international, will be relocated to Terminal 1 effective this Saturday. We kindly ask passengers to allow an extra forty-five minutes for check-in and security clearance during the transition period. Please note that our premium lounge will temporarily be located near Gate 12 in Terminal 1 until the new lounge construction is completed in December. For passengers requiring wheelchair assistance, please proceed to the special assistance desk located at the entrance of Terminal 1, which is staffed from 5 AM to 11 PM daily. Additionally, the airline apologizes for any inconvenience caused and reminds passengers that those holding non-refundable tickets may request a one-time free date change if their travel plans are affected by this relocation. Please visit our website or speak to a customer service representative for further details.",
+    "questions": [
+      {
+        "id": "L4-T730-015-Q1",
+        "question": "Why are AeroSky flights being moved to Terminal 1?",
+        "options": [
+          "Terminal 3 is under renovation",
+          "Terminal 1 has lower fees",
+          "The airline merged with another carrier",
+          "Security issues were found in Terminal 3"
+        ],
+        "answer": "Terminal 3 is under renovation",
+        "explanation": "因第三航廈正在施工（ongoing construction），所有航班移轉至第一航廈。",
+        "category": "細節"
+      },
+      {
+        "id": "L4-T730-015-Q2",
+        "question": "What accommodation is offered to passengers with non-refundable tickets?",
+        "options": [
+          "A full cash refund",
+          "One free date change",
+          "An upgrade to business class",
+          "Free lounge access"
+        ],
+        "answer": "One free date change",
+        "explanation": "持不可退票的旅客可申請一次免費改期。",
+        "category": "細節"
+      },
+      {
+        "id": "L4-T730-015-Q3",
+        "question": "What can be inferred about the premium lounge in Terminal 1?",
+        "options": [
+          "It has been permanently closed",
+          "It is a temporary facility",
+          "It offers better services than before",
+          "It requires a membership fee"
+        ],
+        "answer": "It is a temporary facility",
+        "explanation": "新貴賓室預計12月完工，目前位於12號登機門附近只是臨時安排。",
+        "category": "推論"
+      }
+    ]
+  },
+  {
+    "id": "L4-T730-016",
+    "part": 4,
+    "track": "T730",
+    "talk": "Hello, this is Sarah from the Grand Horizon Hotel's events department, returning your call regarding the annual conference booking for your organization. I have reviewed the availability for the dates you requested, and unfortunately, our grand ballroom is already reserved for the first weekend of November. However, we do have the Imperial Hall available on the same dates, which can accommodate up to two hundred and fifty guests, though it is slightly smaller than the ballroom. Alternatively, we could offer you the ballroom for the following weekend, November fourteenth and fifteenth, at a ten percent discount on the standard rate. In terms of catering, our executive chef has prepared a special conference menu that includes options for vegetarian, gluten-free, and halal dietary requirements, but we need final headcounts at least five business days before the event to ensure we can accommodate all dietary needs. Also, audio-visual equipment rental is not included in the basic package, but we can arrange it at an additional cost of eight hundred dollars per day. Please let me know your preference at your earliest convenience so I can lock in the reservation.",
+    "questions": [
+      {
+        "id": "L4-T730-016-Q1",
+        "question": "What is the speaker doing in this message?",
+        "options": [
+          "Confirming a booking",
+          "Proposing alternative options",
+          "Canceling a reservation",
+          "Requesting a deposit payment"
+        ],
+        "answer": "Proposing alternative options",
+        "explanation": "原有場地已被預訂，Sarah正在提供其他可用日期和場地的替代方案。",
+        "category": "主旨"
+      },
+      {
+        "id": "L4-T730-016-Q2",
+        "question": "What is required for catering arrangements?",
+        "options": [
+          "A deposit of five hundred dollars",
+          "Final headcounts five days before the event",
+          "A signed contract with the chef",
+          "A minimum of one hundred guests"
+        ],
+        "answer": "Final headcounts five days before the event",
+        "explanation": "主廚需要至少活動前五個工作天確認最終人數以滿足飲食需求。",
+        "category": "細節"
+      },
+      {
+        "id": "L4-T730-016-Q3",
+        "question": "What does the speaker imply about the Imperial Hall?",
+        "options": [
+          "It is more expensive than the ballroom",
+          "It has limited audio-visual equipment",
+          "It can hold fewer people than the ballroom",
+          "It is under renovation"
+        ],
+        "answer": "It can hold fewer people than the ballroom",
+        "explanation": "Imperial Hall可容納250人但比ballroom稍小，暗示ballroom原本容量更大。",
+        "category": "推論"
+      }
+    ]
+  },
+  {
+    "id": "L4-T730-017",
+    "part": 4,
+    "track": "T730",
+    "talk": "Good afternoon, this message is for Mr. Chen from Robert at Pacific Northwest Bank. Regarding your small business loan application, I am pleased to inform you that it has been conditionally approved. The loan amount of one hundred fifty thousand dollars has been authorized, but there are a few conditions that must be satisfied before the funds can be disbursed. First, we require updated financial statements for the last two fiscal years, audited by a certified public accountant. Second, you will need to provide proof of collateral in the form of commercial property deeds or equipment titles. Third, the bank requires that you maintain a minimum cash balance of fifteen thousand dollars in your business checking account throughout the loan term. Please note that once you have submitted all the required documents, the approval process typically takes seven to ten business days. However, if you submit them by the end of this week, we may be able to expedite the process to five business days. I will email you the detailed checklist. Please call me if you have any questions about these requirements.",
+    "questions": [
+      {
+        "id": "L4-T730-017-Q1",
+        "question": "What is the status of Mr. Chen's loan application?",
+        "options": [
+          "It has been rejected",
+          "It has been conditionally approved",
+          "It is still under review",
+          "It requires additional signatures"
+        ],
+        "answer": "It has been conditionally approved",
+        "explanation": "貸款已條件性核准，但須滿足幾項條件才能撥款。",
+        "category": "主旨"
+      },
+      {
+        "id": "L4-T730-017-Q2",
+        "question": "What financial document is required for the loan?",
+        "options": [
+          "A business plan for next year",
+          "Audited financial statements",
+          "Personal tax returns",
+          "Credit history report"
+        ],
+        "answer": "Audited financial statements",
+        "explanation": "銀行要求提供經CPA認證的近兩年財務報表。",
+        "category": "細節"
+      },
+      {
+        "id": "L4-T730-017-Q3",
+        "question": "What is implied about submitting documents by the end of this week?",
+        "options": [
+          "It guarantees loan approval",
+          "It reduces documentation needed",
+          "It may speed up the process",
+          "It waives the collateral requirement"
+        ],
+        "answer": "It may speed up the process",
+        "explanation": "若本週末前提交，審核時間可從7-10天縮短為5天，暗示提早送件可加速流程。",
+        "category": "推論"
+      }
+    ]
+  },
+  {
+    "id": "L4-T730-018",
+    "part": 4,
+    "track": "T730",
+    "talk": "Good morning, team. Thank you for joining this kickoff meeting for the Meridian Health Systems project. As discussed during the proposal stage, this is a twelve-week engagement with three main phases. Phase one involves a comprehensive audit of their current IT infrastructure. We have been given access to their systems, but please be aware that we are only authorized to view operational data from the past eighteen months. Any historical data prior to that requires separate written approval from their compliance officer. Phase two will focus on identifying workflow inefficiencies, and phase three will involve delivering a strategic roadmap. A critical point I want to emphasize is that the client has requested weekly progress reports every Friday by 5 PM, not the biweekly reports we initially proposed. This means our team will need to accelerate our data collection schedule. Also, please remember that all client communications must be copied to the project lead. Let us assign roles now and set our milestones for the first phase.",
+    "questions": [
+      {
+        "id": "L4-T730-018-Q1",
+        "question": "What is the main purpose of this meeting?",
+        "options": [
+          "To review completed work",
+          "To launch a new consulting project",
+          "To discuss budget allocation",
+          "To train new team members"
+        ],
+        "answer": "To launch a new consulting project",
+        "explanation": "這是Meridian Health Systems專案的啟動會議，討論各階段的安排。",
+        "category": "主旨"
+      },
+      {
+        "id": "L4-T730-018-Q2",
+        "question": "What restriction is placed on viewing client data?",
+        "options": [
+          "Only managers can view it",
+          "Data older than eighteen months needs special approval",
+          "All data must be reviewed off-site",
+          "Data can only be viewed during business hours"
+        ],
+        "answer": "Data older than eighteen months needs special approval",
+        "explanation": "18個月前的歷史數據須經客戶法遵主管書面核准才能查看。",
+        "category": "細節"
+      },
+      {
+        "id": "L4-T730-018-Q3",
+        "question": "What can be inferred about the reporting frequency?",
+        "options": [
+          "It has been increased from the original plan",
+          "It is the same as the proposal",
+          "It was reduced at the client's request",
+          "It applies only to phase one"
+        ],
+        "answer": "It has been increased from the original plan",
+        "explanation": "客戶要求週報而非原本提議的雙週報，暗示報告頻率比原計畫更高。",
+        "category": "推論"
+      }
+    ]
+  },
+  {
+    "id": "L4-T730-019",
+    "part": 4,
+    "track": "T730",
+    "talk": "Hello everyone, this is Lisa from the marketing department coordinating our participation at the upcoming International Tech Expo in Chicago. I want to confirm the logistics for our booth setup. Our booth number is 427 in the main exhibition hall, and we have been allocated a thirty-foot by twenty-foot space. The setup time is scheduled for Wednesday evening from 6 PM to 10 PM, but please note that the exhibition hall requires all booth materials to arrive at the loading dock no later than 3 PM on Wednesday for inspection. Any materials arriving after this cutoff will be subject to a late fee of one hundred fifty dollars. For those of you traveling to Chicago, the company has booked rooms at the Downtown Marriott, which is a five-minute walk from the convention center. However, the hotel's complimentary breakfast does not start until 7 AM, so if you have an early morning schedule, I recommend making other arrangements. Also, please wear company-branded polo shirts on all three days of the expo. I will send a final schedule tomorrow.",
+    "questions": [
+      {
+        "id": "L4-T730-019-Q1",
+        "question": "What is the speaker's role in relation to the expo?",
+        "options": [
+          "A vendor representative",
+          "The logistics coordinator",
+          "A keynote speaker",
+          "An event organizer"
+        ],
+        "answer": "The logistics coordinator",
+        "explanation": "Lisa從行銷部協調參展物流，正在確認攤位搭建與行程安排。",
+        "category": "主旨"
+      },
+      {
+        "id": "L4-T730-019-Q2",
+        "question": "What happens if booth materials arrive after the cutoff?",
+        "options": [
+          "They will be refused",
+          "A late fee will apply",
+          "They must be shipped back",
+          "An alternate space will be assigned"
+        ],
+        "answer": "A late fee will apply",
+        "explanation": "下午3點截止後送達的材料需繳150美元的遲到費。",
+        "category": "細節"
+      },
+      {
+        "id": "L4-T730-019-Q3",
+        "question": "What does the speaker imply about the hotel breakfast?",
+        "options": [
+          "It is not included in the booking",
+          "It is served in the lobby",
+          "It may not suit early schedules",
+          "It offers limited options"
+        ],
+        "answer": "It may not suit early schedules",
+        "explanation": "飯店早餐7點才開始，早出門的員工需另行安排，暗示早餐時間對早行程者不方便。",
+        "category": "推論"
+      }
+    ]
+  },
+  {
+    "id": "L4-T730-020",
+    "part": 4,
+    "track": "T730",
+    "talk": "Good afternoon, colleagues. This is Dr. Wei from the research and development division with an update on the Phase 3 clinical trial for our new cardiovascular medication, CardioVex. I am pleased to report that the initial results have been very promising, with a seventy-eight percent efficacy rate among the test group, significantly higher than the sixty percent threshold we had set as a benchmark. However, we have observed some mild side effects, including dizziness and mild nausea, reported by approximately twelve percent of participants. These side effects are consistent with what we anticipated based on earlier trials, and none have been classified as serious. On the timeline front, we are slightly behind schedule due to a slower-than-expected patient recruitment rate at two of our five trial sites. To address this, we are expanding recruitment to three additional hospitals in the southern region. This adjustment will push the final data collection date back by approximately three weeks, but we still expect to submit our findings to the regulatory agency by the end of the first quarter.",
+    "questions": [
+      {
+        "id": "L4-T730-020-Q1",
+        "question": "What is the main topic of this update?",
+        "options": [
+          "A marketing campaign for a new drug",
+          "The progress of a clinical trial",
+          "A budget review for R&D",
+          "A partnership with a hospital"
+        ],
+        "answer": "The progress of a clinical trial",
+        "explanation": "Dr. Wei正在報告新藥CardioVex的第三期臨床試驗進度。",
+        "category": "主旨"
+      },
+      {
+        "id": "L4-T730-020-Q2",
+        "question": "What efficacy rate was originally targeted?",
+        "options": [
+          "Seventy-eight percent",
+          "Sixty percent",
+          "Twelve percent",
+          "Seventy percent"
+        ],
+        "answer": "Sixty percent",
+        "explanation": "團隊原先設定60%為療效基準門檻，實際達到78%。",
+        "category": "數字時間"
+      },
+      {
+        "id": "L4-T730-020-Q3",
+        "question": "What problems are mentioned regarding the trial timeline?",
+        "options": [
+          "Regulatory approval delays",
+          "Slow patient recruitment at some sites",
+          "Insufficient funding from investors",
+          "Adverse reactions in the test group"
+        ],
+        "answer": "Slow patient recruitment at some sites",
+        "explanation": "五個試驗站點中有兩個的患者招募速度慢於預期，導致進度落後。",
+        "category": "細節"
+      },
+      {
+        "id": "L4-T730-020-Q4",
+        "question": "What can be inferred about the side effects observed?",
+        "options": [
+          "They were unexpected",
+          "They are within acceptable expectations",
+          "They caused the trial to stop",
+          "They affect most participants"
+        ],
+        "answer": "They are within acceptable expectations",
+        "explanation": "副作用與早期試驗預期一致，且未列為嚴重，暗示在可接受範圍內。",
+        "category": "推論"
+      }
+    ]
+  },
+  {
+    "id": "L4-T730-021",
+    "part": 4,
+    "track": "T730",
+    "talk": "Good morning, store managers. This is a message from corporate HR regarding our seasonal hiring plan for the upcoming holiday quarter. Based on sales projections, we anticipate a forty percent increase in store traffic starting from mid-November through early January. To handle this surge, each store has been allocated a seasonal staffing budget. Please note that the number of temporary staff you may hire is based on your store's square footage and last year's holiday sales performance. Stores over ten thousand square feet may hire up to eight temporary associates, while smaller stores are capped at four. All seasonal hires must complete the mandatory online training module before their first shift, which covers customer service standards and safety protocols. Additionally, I want to remind you that seasonal employees are not eligible for overtime pay, and their contracts will end on January fifteenth unless extended by regional management. Please submit your hiring requests through the HR portal by October twentieth.",
+    "questions": [
+      {
+        "id": "L4-T730-021-Q1",
+        "question": "What is the purpose of this message?",
+        "options": [
+          "To announce a store closure",
+          "To provide seasonal hiring guidelines",
+          "To report quarterly sales figures",
+          "To introduce a new training system"
+        ],
+        "answer": "To provide seasonal hiring guidelines",
+        "explanation": "HR正在說明假期季節性招聘的預算分配、員額上限與訓練要求。",
+        "category": "主旨"
+      },
+      {
+        "id": "L4-T730-021-Q2",
+        "question": "What determines how many temporary staff a store can hire?",
+        "options": [
+          "The manager's preference",
+          "Store size and past sales performance",
+          "The number of current full-time staff",
+          "Regional population data"
+        ],
+        "answer": "Store size and past sales performance",
+        "explanation": "員額上限依各店坪數及去年假期業績來計算。",
+        "category": "細節"
+      },
+      {
+        "id": "L4-T730-021-Q3",
+        "question": "What can be inferred about seasonal employee contracts?",
+        "options": [
+          "They automatically renew each year",
+          "They may be extended by regional management",
+          "They include overtime benefits",
+          "They are converted to permanent after January"
+        ],
+        "answer": "They may be extended by regional management",
+        "explanation": "合約在1月15日終止，除非區域管理層延長，暗示部分季節性員工有可能留任。",
+        "category": "推論"
+      }
+    ]
+  },
+  {
+    "id": "L4-T730-022",
+    "part": 4,
+    "track": "T730",
+    "talk": "Hello. This is David Chen from the logistics department with an urgent update regarding shipment SH-8842 from our supplier in Vietnam. The shipment, which contains components for our Q2 product line, has been delayed at customs due to a documentation discrepancy. Specifically, the certificate of origin submitted by the supplier does not match the required format under the new bilateral trade agreement that took effect this month. I have already contacted our freight forwarder to submit the corrected paperwork, but the customs clearance process may take an additional three to five business days. In the meantime, our production team will need to use the backup inventory we have in the local warehouse, which should cover approximately two weeks of manufacturing. However, I strongly recommend that we also contact the client about a potential delay in their order fulfillment. Please note that our supplier has been informed and has assured us that future shipments will comply with the new documentation standards. I will monitor the situation closely and provide another update tomorrow.",
+    "questions": [
+      {
+        "id": "L4-T730-022-Q1",
+        "question": "Why is the shipment being held at customs?",
+        "options": [
+          "The goods are prohibited",
+          "The certificate of origin is incorrect",
+          "The shipping fee was unpaid",
+          "The package was damaged"
+        ],
+        "answer": "The certificate of origin is incorrect",
+        "explanation": "供應商的產地證明格式不符合新雙邊貿易協定的要求。",
+        "category": "細節"
+      },
+      {
+        "id": "L4-T730-022-Q2",
+        "question": "How will the company manage during the delay?",
+        "options": [
+          "By stopping production temporarily",
+          "By using backup inventory",
+          "By sourcing from another supplier",
+          "By air-freighting replacement parts"
+        ],
+        "answer": "By using backup inventory",
+        "explanation": "生產團隊將使用本地倉庫的備用庫存，約可支應兩週的製造需求。",
+        "category": "細節"
+      },
+      {
+        "id": "L4-T730-022-Q3",
+        "question": "What can be inferred about the new trade agreement?",
+        "options": [
+          "It has simplified customs procedures",
+          "It introduced new documentation requirements",
+          "It eliminated all tariffs",
+          "It only applies to Vietnamese imports"
+        ],
+        "answer": "It introduced new documentation requirements",
+        "explanation": "新貿易協定本月生效後產地證明格式不符，暗示新協定帶來了新的文書規範。",
+        "category": "推論"
+      }
+    ]
+  },
+  {
+    "id": "L4-T730-023",
+    "part": 4,
+    "track": "T730",
+    "talk": "Dear colleagues, this is a notification from the IT infrastructure team regarding scheduled maintenance for our company's enterprise resource planning system. The maintenance window has been scheduled for this Saturday from 10 PM until 6 AM Sunday. During this period, the ERP system will be completely inaccessible, and all related services, including the payroll module and inventory management portal, will be offline. We strongly advise that you save any pending work and log out of the system before the maintenance begins. Any unsaved data may be lost during the server restart. One important change: the customer relationship management system, which was originally scheduled for the same maintenance window, will now be updated separately next week due to vendor scheduling conflicts. This means the CRM will remain available this weekend as usual. If you encounter any post-maintenance issues on Monday morning, please report them to the IT help desk immediately. A maintenance completion notice will be sent via email once all systems are verified.",
+    "questions": [
+      {
+        "id": "L4-T730-023-Q1",
+        "question": "What is the primary purpose of this message?",
+        "options": [
+          "To report a system failure",
+          "To announce scheduled server maintenance",
+          "To introduce new software features",
+          "To request feedback on IT services"
+        ],
+        "answer": "To announce scheduled server maintenance",
+        "explanation": "IT部門通知ERP系統將進行定期維護，期間系統將完全無法使用。",
+        "category": "主旨"
+      },
+      {
+        "id": "L4-T730-023-Q2",
+        "question": "When will the CRM system be updated?",
+        "options": [
+          "This Saturday as originally planned",
+          "Next week separately",
+          "It has been canceled",
+          "During the same maintenance window"
+        ],
+        "answer": "Next week separately",
+        "explanation": "CRM系統因供應商行程衝突改為下週單獨更新，本週六仍正常運作。",
+        "category": "數字時間"
+      },
+      {
+        "id": "L4-T730-023-Q3",
+        "question": "What does the speaker imply about the ERP and CRM updates?",
+        "options": [
+          "They are handled by different vendors",
+          "They will now occur at different times",
+          "They are both critical for payroll",
+          "They have been postponed indefinitely"
+        ],
+        "answer": "They will now occur at different times",
+        "explanation": "CRM原定與ERP同時維護，但因供應商衝突改期，暗示兩者更新時程已分開處理。",
+        "category": "推論"
+      }
+    ]
+  },
+  {
+    "id": "L4-T730-024",
+    "part": 4,
+    "track": "T730",
+    "talk": "Attention all production floor supervisors. This is Daniel Park, head of facility operations, reporting on the results of last week's quarterly safety inspection conducted by the Occupational Safety and Health Administration. Overall, the factory received a satisfactory rating, which is good news. However, the inspectors identified three areas requiring immediate corrective action. First, emergency exit signs in sections C and D are not adequately illuminated and must be replaced within two weeks. Second, several chemical storage containers in the quality control lab were found without proper secondary containment trays. And third, the ventilation system in the paint shop is operating below the required airflow standard, which poses a potential respiratory hazard for workers in that area. I have assigned corrective actions to the respective department managers. Please ensure that all repairs are completed by the November deadline. A follow-up inspection is scheduled for early December, and any unresolved issues could result in fines of up to ten thousand dollars per violation. Your cooperation is essential to maintaining our compliance standing.",
+    "questions": [
+      {
+        "id": "L4-T730-024-Q1",
+        "question": "What is the overall result of the safety inspection?",
+        "options": [
+          "The factory failed completely",
+          "The factory received a satisfactory rating",
+          "The inspection was postponed",
+          "Only partial areas were inspected"
+        ],
+        "answer": "The factory received a satisfactory rating",
+        "explanation": "工廠整體獲得satisfactory rating，這是好消息。",
+        "category": "細節"
+      },
+      {
+        "id": "L4-T730-024-Q2",
+        "question": "What issue was found in the paint shop?",
+        "options": [
+          "Workers lack protective gear",
+          "The ventilation system is inadequate",
+          "The floor is slippery",
+          "Fire extinguishers are missing"
+        ],
+        "answer": "The ventilation system is inadequate",
+        "explanation": "油漆車間的通風系統運轉低於標準氣流要求，可能造成呼吸道危害。",
+        "category": "細節"
+      },
+      {
+        "id": "L4-T730-024-Q3",
+        "question": "What consequence is implied if issues are not resolved?",
+        "options": [
+          "The factory may be shut down",
+          "The company could face financial penalties",
+          "Production will be suspended",
+          "The inspection team will return monthly"
+        ],
+        "answer": "The company could face financial penalties",
+        "explanation": "未改善的違規事項每次最高可罰1萬美元，暗示公司可能面臨罰款。",
+        "category": "推論"
+      }
+    ]
+  },
+  {
+    "id": "L4-T730-025",
+    "part": 4,
+    "track": "T730",
+    "talk": "Good morning. This is a reminder from the accounting department regarding the upcoming corporate tax filing deadline. As you are aware, the quarterly estimated tax payment is due on March fifteenth. However, I want to draw your attention to an important policy change that was announced by the tax authority last month. Starting this fiscal year, all businesses with annual revenues exceeding five million dollars are required to file their returns electronically through the new online portal. Paper filings will no longer be accepted for these companies. Our company falls into this category, so we must ensure that our digital submission is prepared correctly. The accounting team has already started compiling the necessary documents, but we need each department to submit their expense reports for the previous quarter by the end of this week. Also, please note that there is a new deduction available for companies investing in employee training programs. If your department has conducted any training this quarter, please include the relevant receipts. I will schedule a brief meeting tomorrow to go over the filing checklist.",
+    "questions": [
+      {
+        "id": "L4-T730-025-Q1",
+        "question": "What is the main purpose of this message?",
+        "options": [
+          "To announce a tax rate reduction",
+          "To remind about the tax filing deadline and new requirements",
+          "To report the company's annual revenue",
+          "To introduce a new accounting software"
+        ],
+        "answer": "To remind about the tax filing deadline and new requirements",
+        "explanation": "會計部門提醒納稅截止日，並說明新的電子申報規定。",
+        "category": "主旨"
+      },
+      {
+        "id": "L4-T730-025-Q2",
+        "question": "What new requirement applies to the company this year?",
+        "options": [
+          "A higher tax rate",
+          "Mandatory electronic filing",
+          "Quarterly payments are no longer accepted",
+          "An external audit is required"
+        ],
+        "answer": "Mandatory electronic filing",
+        "explanation": "年營收超過500萬美元的企業必須透過新線上入口網站電子申報，紙本不再受理。",
+        "category": "細節"
+      },
+      {
+        "id": "L4-T730-025-Q3",
+        "question": "What can be inferred about employee training programs?",
+        "options": [
+          "They are no longer funded",
+          "They now offer tax benefits",
+          "They must be approved by the CEO",
+          "They are outsourced to external vendors"
+        ],
+        "answer": "They now offer tax benefits",
+        "explanation": "投資員工訓練的企業可享有新扣抵額，暗示訓練支出可帶來稅務優惠。",
+        "category": "推論"
+      }
+    ]
+  },
+  {
+    "id": "L4-T730-026",
+    "part": 4,
+    "track": "T730",
+    "talk": "Hello, this is Linda from Grand City Realty. Thank you for scheduling a viewing of the commercial property at 88 Riverside Avenue. I want to confirm a few details before our appointment tomorrow at 10 AM. The building is a three-story office space with approximately fifteen thousand square feet of leasable area. Please note that the property is currently occupied by a tenant who is relocating next month, so we will only be able to access the ground floor and the exterior areas during the viewing. The upper floors contain the tenant's active inventory and are not available for viewing at this time. However, I have prepared a virtual tour video that shows the complete layout of all three floors, which I will share with you after our visit. Also, important parking information: visitor parking is available behind the building, but you will need a temporary access code to open the gate. I will send you the code by text message one hour before our appointment. If you decide to submit an offer, please be aware that the seller is also considering another offer and is looking to make a decision within two weeks of the listing date.",
+    "questions": [
+      {
+        "id": "L4-T730-026-Q1",
+        "question": "What is the purpose of this message?",
+        "options": [
+          "To cancel a property viewing",
+          "To confirm details before a showing",
+          "To negotiate the sale price",
+          "To request a rental deposit"
+        ],
+        "answer": "To confirm details before a showing",
+        "explanation": "Linda正在確認明天看房的行程細節及注意事項。",
+        "category": "主旨"
+      },
+      {
+        "id": "L4-T730-026-Q2",
+        "question": "Why will the upper floors not be accessible?",
+        "options": [
+          "They are under renovation",
+          "They contain the current tenant's inventory",
+          "They are structurally unsafe",
+          "They require special permits"
+        ],
+        "answer": "They contain the current tenant's inventory",
+        "explanation": "上層樓層因現有租戶的庫存尚未搬遷，無法參觀。",
+        "category": "細節"
+      },
+      {
+        "id": "L4-T730-026-Q3",
+        "question": "What does the speaker imply about the seller's situation?",
+        "options": [
+          "They are in a hurry to sell",
+          "They have rejected all offers",
+          "They are only accepting cash offers",
+          "They are the original owner"
+        ],
+        "answer": "They are in a hurry to sell",
+        "explanation": "賣方同時在考慮另一報價並預計兩週內決定，暗示賣方有出售時間壓力。",
+        "category": "推論"
+      }
+    ]
+  },
+  {
+    "id": "L4-T730-027",
+    "part": 4,
+    "track": "T730",
+    "talk": "Good afternoon, department heads. This is a message from human resources regarding updates to our recruitment and hiring process. After reviewing feedback from both hiring managers and candidates, we have decided to implement several changes starting next quarter. First, the initial screening stage will now include a brief skills assessment test in addition to the phone interview. This is intended to help us evaluate practical abilities earlier in the process. For technical positions, the assessment will be administered online and should take approximately forty-five minutes to complete. For administrative roles, a written exercise will be conducted during the in-person interview. Second, we are reducing the number of interview rounds from four to a maximum of three to shorten the time-to-hire, which currently averages forty-two days. However, if a hiring manager believes a fourth round is absolutely necessary, they must submit a justification to the HR director for approval. Finally, all offer letters must now be reviewed by the legal department before being sent to candidates. These changes take effect on the first of next month.",
+    "questions": [
+      {
+        "id": "L4-T730-027-Q1",
+        "question": "What is the main reason for adding a skills assessment?",
+        "options": [
+          "To reduce interview costs",
+          "To evaluate candidates' practical abilities earlier",
+          "To replace phone interviews completely",
+          "To comply with new labor laws"
+        ],
+        "answer": "To evaluate candidates' practical abilities earlier",
+        "explanation": "新增技能測驗是為了在流程早期評估求職者的實際能力。",
+        "category": "細節"
+      },
+      {
+        "id": "L4-T730-027-Q2",
+        "question": "What is the current average time-to-hire?",
+        "options": [
+          "Thirty days",
+          "Forty-two days",
+          "Forty-five minutes",
+          "Four weeks"
+        ],
+        "answer": "Forty-two days",
+        "explanation": "目前的平均招募天數為42天，將透過減少面試輪次來縮短。",
+        "category": "數字時間"
+      },
+      {
+        "id": "L4-T730-027-Q3",
+        "question": "What can be inferred about having a fourth interview round?",
+        "options": [
+          "It is standard for all positions",
+          "It requires special approval",
+          "It has been eliminated entirely",
+          "It applies only to senior roles"
+        ],
+        "answer": "It requires special approval",
+        "explanation": "第四輪面試需要向HR總監提交理由說明，暗示這已不再是一般慣例而是例外情況。",
+        "category": "推論"
+      }
+    ]
+  },
+  {
+    "id": "L4-T730-028",
+    "part": 4,
+    "track": "T730",
+    "talk": "This is an important service notice from Metro Power and Electric. We are writing to inform our commercial customers in the downtown business district that there will be a planned power outage on Saturday, April twenty-second, from midnight to 6 AM. This outage is necessary to upgrade the substation equipment and improve power reliability in the area. While residential customers in the same district will also be affected, their outage period will be shorter, from 2 AM to 5 AM, because we have allocated additional crews to restore residential service first. We understand that a power interruption can disrupt business operations, so we strongly recommend that businesses with sensitive electronic equipment activate their backup generators and unplug non-essential devices to prevent damage from power surges when the electricity is restored. Businesses that require continuous power for servers or refrigeration should also make arrangements well in advance. Metro Power apologizes for any inconvenience caused and assures customers that every effort will be made to complete the upgrade within the scheduled timeframe. If you experience any issues after the restoration, please contact our emergency hotline.",
+    "questions": [
+      {
+        "id": "L4-T730-028-Q1",
+        "question": "Why is the power outage necessary?",
+        "options": [
+          "A storm damaged the grid",
+          "The substation equipment is being upgraded",
+          "Routine maintenance was delayed",
+          "A new power plant is being connected"
+        ],
+        "answer": "The substation equipment is being upgraded",
+        "explanation": "停電是為了升級變電站設備以提升區域供電可靠度。",
+        "category": "主旨"
+      },
+      {
+        "id": "L4-T730-028-Q2",
+        "question": "How long will residential customers be without power?",
+        "options": [
+          "Six hours",
+          "Five hours",
+          "Three hours",
+          "Two hours"
+        ],
+        "answer": "Three hours",
+        "explanation": "住宅用戶的停電時間為凌晨2點至5點，共3小時，比商業用戶短。",
+        "category": "數字時間"
+      },
+      {
+        "id": "L4-T730-028-Q3",
+        "question": "What can be inferred about the restoration priority?",
+        "options": [
+          "All customers are restored equally",
+          "Residential areas are prioritized over commercial",
+          "Hospitals are restored first",
+          "Commercial customers pay for faster restoration"
+        ],
+        "answer": "Residential areas are prioritized over commercial",
+        "explanation": "住宅用戶的停電時間較短且先恢復，暗示住宅區的復電優先於商業區。",
+        "category": "推論"
+      }
+    ]
+  },
+  {
+    "id": "L4-T730-029",
+    "part": 4,
+    "track": "T730",
+    "talk": "Dear contributors, thank you for your interest in submitting to the Business Innovation Journal. We are currently accepting manuscripts for our upcoming special edition on sustainable business practices. Please read the following submission guidelines carefully. Manuscripts should be between five thousand and eight thousand words, including references and appendices. All submissions must be formatted according to the APA style guide, seventh edition. We accept submissions in Microsoft Word format only; PDF files will not be reviewed. The deadline for abstract submissions is May fifteenth, with full manuscript submissions due by July first. One important update: due to an overwhelming number of submissions in recent months, we have streamlined our peer review process. Instead of the previous two-stage review, we will now conduct a single-blind review in which the reviewers know the author's identity but not vice versa. This change will reduce the average review time from twelve weeks to eight weeks. However, please be aware that the acceptance rate for this special edition is expected to be around fifteen percent due to the high volume of anticipated submissions. We look forward to reading your work.",
+    "questions": [
+      {
+        "id": "L4-T730-029-Q1",
+        "question": "What is the speaker announcing?",
+        "options": [
+          "A new journal launch",
+          "Submission guidelines for a special edition",
+          "A change in editorial staff",
+          "The cancellation of a publication"
+        ],
+        "answer": "Submission guidelines for a special edition",
+        "explanation": "通知投稿者關於永續商業實務特刊的投稿格式與截止日。",
+        "category": "主旨"
+      },
+      {
+        "id": "L4-T730-029-Q2",
+        "question": "What is the new peer review method?",
+        "options": [
+          "Double-blind review",
+          "Single-blind review",
+          "Open review",
+          "Editorial board review only"
+        ],
+        "answer": "Single-blind review",
+        "explanation": "審查改為single-blind review，審稿人知道作者身份但作者不知審稿人是誰。",
+        "category": "細節"
+      },
+      {
+        "id": "L4-T730-029-Q3",
+        "question": "What does the speaker imply about manuscript acceptance?",
+        "options": [
+          "Most submissions will be accepted",
+          "Acceptance is highly competitive",
+          "All invited papers are accepted",
+          "Acceptance depends on topic relevance"
+        ],
+        "answer": "Acceptance is highly competitive",
+        "explanation": "預計錄取率僅約15%，暗示投稿競爭激烈。",
+        "category": "推論"
+      }
+    ]
+  },
+  {
+    "id": "L4-T730-030",
+    "part": 4,
+    "track": "T730",
+    "talk": "This is an important safety notice from Apex Automotive regarding a voluntary recall affecting select models of our 2023 electric sedan, the Apex Volt. The recall involves a potential issue with the battery management system that may, in rare cases, cause the vehicle to lose power while driving at low speeds. To date, we have received forty-seven reports related to this issue, but no injuries or accidents have been reported. Owners of affected vehicles will receive a notification letter by mail within the next two weeks. However, to accelerate the process, we have also set up an online portal where owners can check if their vehicle is affected by entering the vehicle identification number. The repair involves a software update that takes approximately ninety minutes to complete and will be performed free of charge at any authorized Apex service center. We recommend that owners schedule an appointment rather than walking in, as our service centers anticipate high demand. Meanwhile, as a precautionary measure, we advise owners to avoid driving through deep water until the update is applied. We sincerely apologize for any inconvenience this may cause.",
+    "questions": [
+      {
+        "id": "L4-T730-030-Q1",
+        "question": "What is the purpose of this announcement?",
+        "options": [
+          "To promote a new car model",
+          "To announce a vehicle recall",
+          "To introduce a software feature",
+          "To report quarterly sales data"
+        ],
+        "answer": "To announce a vehicle recall",
+        "explanation": "Apex Automotive宣布2023年電動轎車的自願召回，涉及電池管理系統問題。",
+        "category": "主旨"
+      },
+      {
+        "id": "L4-T730-030-Q2",
+        "question": "How can owners quickly check if their car is affected?",
+        "options": [
+          "By calling the dealer",
+          "By checking the online portal",
+          "By visiting a service center",
+          "By waiting for the mail"
+        ],
+        "answer": "By checking the online portal",
+        "explanation": "車主可透過線上入口網站輸入車身號碼查詢是否受影響，比等待郵件更快。",
+        "category": "細節"
+      },
+      {
+        "id": "L4-T730-030-Q3",
+        "question": "What can be inferred about the service centers?",
+        "options": [
+          "They are closing permanently",
+          "They expect to be very busy",
+          "They have run out of parts",
+          "They only serve walk-in customers"
+        ],
+        "answer": "They expect to be very busy",
+        "explanation": "建議車主預約而非直接到場，因為服務中心預期需求會很高。",
+        "category": "推論"
+      }
+    ]
+  },
+  {
+    "id": "L4-T730-031",
+    "part": 4,
+    "track": "T730",
+    "talk": "Good morning, staff. This is Dr. Rebecca Liu, chief of medical services, with an update on the new patient check-in system that will be implemented starting next month. As you know, our current paper-based registration process has been a source of long waiting times and patient dissatisfaction. The new digital kiosk system will allow patients to check in using their national health ID card or a QR code sent via email. The system will automatically verify insurance eligibility and update the electronic medical record in real time. However, I want to emphasize that this system is designed to supplement, not replace, personal interaction with our front desk staff. Patients who are not comfortable with digital systems can still check in at the reception desk as they do now. Also, the system will not be available in the emergency department due to the critical nature of care there. Training sessions for all front desk staff and nurses will be held next Tuesday and Thursday. Attendance is mandatory for all personnel who interact with patients during registration. Please confirm your attendance with your department supervisor.",
+    "questions": [
+      {
+        "id": "L4-T730-031-Q1",
+        "question": "What prompted the change to a digital check-in system?",
+        "options": [
+          "Regulatory requirements",
+          "Long waiting times and patient dissatisfaction",
+          "Budget surplus in the IT department",
+          "A mandate from the health ministry"
+        ],
+        "answer": "Long waiting times and patient dissatisfaction",
+        "explanation": "現行的紙本登記流程導致等候時間過長和病人不滿，因此推動數位化。",
+        "category": "主旨"
+      },
+      {
+        "id": "L4-T730-031-Q2",
+        "question": "Where will the new system not be implemented?",
+        "options": [
+          "The outpatient clinic",
+          "The emergency department",
+          "The pharmacy",
+          "The radiology department"
+        ],
+        "answer": "The emergency department",
+        "explanation": "急診室因醫療的緊急性不適用此系統。",
+        "category": "細節"
+      },
+      {
+        "id": "L4-T730-031-Q3",
+        "question": "What can be inferred about some patients?",
+        "options": [
+          "They prefer digital check-in",
+          "They may not use the digital system",
+          "They were surveyed about the change",
+          "They will be charged a fee for digital check-in"
+        ],
+        "answer": "They may not use the digital system",
+        "explanation": "不熟悉數位系統的病人仍可至櫃檯報到，暗示部分病人可能不會使用數位方式。",
+        "category": "推論"
+      }
+    ]
+  },
+  {
+    "id": "L4-T730-032",
+    "part": 4,
+    "track": "T730",
+    "talk": "Good afternoon, team. Let me welcome everyone to the design review meeting for the Riverside Technology Park project. Thank you all for submitting your preliminary drawings on time. I have reviewed each proposal, and I must say the quality of work is impressive. However, I do have a few critical observations. First, while the structural engineering plans from the civil team are sound, the proposed glass curtain wall on the south facade will create significant solar heat gain issues during summer afternoons. I recommend that we explore electrochromic glass or external shading devices as alternatives. Second, the landscape architecture proposal includes a water feature that exceeds the local water usage regulations. We need to either reduce the size of the feature or incorporate a rainwater harvesting system. Third, and perhaps most importantly, the client has informed us that they want to add two additional floors to the original design, which means we need to revisit the foundation load calculations and possibly the zoning permit application. Let us prioritize these issues and discuss solutions one by one.",
+    "questions": [
+      {
+        "id": "L4-T730-032-Q1",
+        "question": "What type of meeting is taking place?",
+        "options": [
+          "A budget approval meeting",
+          "A design review meeting",
+          "A client presentation",
+          "A safety inspection"
+        ],
+        "answer": "A design review meeting",
+        "explanation": "這是Riverside Technology Park專案的設計審查會議。",
+        "category": "主旨"
+      },
+      {
+        "id": "L4-T730-032-Q2",
+        "question": "What concern is raised about the glass curtain wall?",
+        "options": [
+          "It exceeds the budget",
+          "It will cause solar heat gain",
+          "It does not match the design concept",
+          "It is structurally unsafe"
+        ],
+        "answer": "It will cause solar heat gain",
+        "explanation": "南向玻璃帷幕牆在夏季下午會產生嚴重的太陽熱能增益問題。",
+        "category": "細節"
+      },
+      {
+        "id": "L4-T730-032-Q3",
+        "question": "What can be inferred about the client's recent request?",
+        "options": [
+          "It is within the original scope",
+          "It requires redesigning the foundation",
+          "It has been approved by zoning authorities",
+          "It reduces the project timeline"
+        ],
+        "answer": "It requires redesigning the foundation",
+        "explanation": "客戶要求追加兩層樓，需要重新計算地基載重，暗示這是一項重大的設計變更。",
+        "category": "推論"
+      }
+    ]
+  },
+  {
+    "id": "L4-T730-033",
+    "part": 4,
+    "track": "T730",
+    "talk": "Hello, everyone. This is Chef Marco from the corporate kitchen with an update on the menu redesign project for our chain of casual dining restaurants. After three months of recipe testing and customer focus groups, we have finalized the new menu, which will launch in all locations on June first. The new menu features thirty percent more plant-based options, responding to the growing demand for healthier dining choices. We will also be introducing a new seasonal specials section that will rotate every two months. However, there are a few operational changes that need to be communicated. First, several signature dishes, including the classic beef stew and the seafood pasta, have been removed from the regular menu due to declining sales. These items will be available only as limited-time specials during certain months. Second, the new menu introduces a simplified pricing structure: all appetizers will be priced between six and ten dollars, and all main courses between fourteen and twenty-two dollars. This change is intended to make the pricing easier for customers to understand. Training materials for kitchen and waitstaff will be distributed by May twentieth. Please ensure all team members complete the training before the launch date.",
+    "questions": [
+      {
+        "id": "L4-T730-033-Q1",
+        "question": "What is the main topic of this message?",
+        "options": [
+          "Restaurant financial performance",
+          "Menu redesign and launch plans",
+          "A new restaurant opening",
+          "Staff scheduling changes"
+        ],
+        "answer": "Menu redesign and launch plans",
+        "explanation": "Chef Marco正在報告新菜單的設計成果與上線時程。",
+        "category": "主旨"
+      },
+      {
+        "id": "L4-T730-033-Q2",
+        "question": "When will the new menu launch?",
+        "options": [
+          "Next month",
+          "June first",
+          "May twentieth",
+          "In three months"
+        ],
+        "answer": "June first",
+        "explanation": "新菜單將於6月1日在所有分店上線。",
+        "category": "數字時間"
+      },
+      {
+        "id": "L4-T730-033-Q3",
+        "question": "What can be inferred about the classic beef stew and seafood pasta?",
+        "options": [
+          "They are the most popular dishes",
+          "They did not sell well enough to stay on the regular menu",
+          "They were removed due to ingredient shortages",
+          "They are being replaced by vegan alternatives"
+        ],
+        "answer": "They did not sell well enough to stay on the regular menu",
+        "explanation": "因銷售下滑被移出常態菜單，暗示這兩道菜的銷售表現不佳。",
+        "category": "推論"
+      }
+    ]
+  },
+  {
+    "id": "L4-T730-034",
+    "part": 4,
+    "track": "T730",
+    "talk": "Good morning, logistics team. This is Angela from the operations department with an update on our fleet routing optimization initiative. After analyzing six months of delivery data, we have identified that our current delivery routes are, on average, fifteen percent less efficient than the industry benchmark. The main issue is that our routes are planned based on geographic proximity alone, without considering real-time traffic patterns or delivery time windows. To address this, we will be implementing a new AI-powered routing software starting next quarter. This system will dynamically adjust routes based on traffic conditions, weather forecasts, and customer availability. According to the vendor, the software can reduce fuel consumption by up to twelve percent and improve on-time delivery rates by eighteen percent. However, the implementation will require that all delivery vehicles be equipped with GPS tracking devices, which we will install over the next three weeks. Additionally, all dispatchers must attend a two-day training workshop on the new system. The first training session will be held on the last weekend of this month. Please sign up by Friday if you haven't already.",
+    "questions": [
+      {
+        "id": "L4-T730-034-Q1",
+        "question": "What problem was identified with the current routing method?",
+        "options": [
+          "Drivers are often late",
+          "Routes only consider geographic proximity",
+          "The fleet is too small",
+          "Fuel costs are too high"
+        ],
+        "answer": "Routes only consider geographic proximity",
+        "explanation": "目前的路線僅根據地理距離規劃，未考慮即時交通和配送時間窗口。",
+        "category": "細節"
+      },
+      {
+        "id": "L4-T730-034-Q2",
+        "question": "What benefit does the new software promise?",
+        "options": [
+          "Lower vehicle maintenance costs",
+          "Reduced fuel consumption and better on-time delivery",
+          "Elimination of night shifts",
+          "Longer delivery routes for more coverage"
+        ],
+        "answer": "Reduced fuel consumption and better on-time delivery",
+        "explanation": "新軟體可減少12%油耗並提升18%的準時送達率。",
+        "category": "細節"
+      },
+      {
+        "id": "L4-T730-034-Q3",
+        "question": "What can be inferred about the dispatchers?",
+        "options": [
+          "Some have not yet registered for training",
+          "They designed the current routing system",
+          "They will be reassigned to other roles",
+          "They requested the new software"
+        ],
+        "answer": "Some have not yet registered for training",
+        "explanation": "說話者提醒尚未報名的調度員請在週五前完成報名，暗示有些人尚未登記。",
+        "category": "推論"
+      }
+    ]
+  },
+  {
+    "id": "L4-T730-035",
+    "part": 4,
+    "track": "T730",
+    "talk": "Good afternoon. This is James Whitfield, your financial advisor at Meridian Wealth Management. I am writing to inform you about upcoming changes to your investment portfolio. As part of our quarterly review, I have analyzed your current asset allocation and identified a need for rebalancing. Currently, your portfolio is weighted at seventy percent equities and thirty percent fixed income. However, given the projected interest rate environment and your approaching retirement timeline, I recommend shifting to a sixty-forty split between equities and bonds. Additionally, within the equity portion, I suggest increasing your exposure to healthcare and technology sectors while reducing holdings in energy and real estate investment trusts. These adjustments are designed to reduce overall portfolio volatility while maintaining growth potential. Please be aware that executing these changes will incur transaction fees totaling approximately one point five percent of the adjusted amount. Also, there may be capital gains tax implications, which I can discuss with you in more detail during our next meeting. Please review the proposed changes in the attached document and let me know if you would like to proceed or make any modifications.",
+    "questions": [
+      {
+        "id": "L4-T730-035-Q1",
+        "question": "What is the main purpose of this message?",
+        "options": [
+          "To report a market downturn",
+          "To propose portfolio rebalancing",
+          "To introduce a new investment product",
+          "To request additional funds"
+        ],
+        "answer": "To propose portfolio rebalancing",
+        "explanation": "理財顧問提出資產配置調整建議，使投資組合符合客戶的退休規劃。",
+        "category": "主旨"
+      },
+      {
+        "id": "L4-T730-035-Q2",
+        "question": "What is the current equity-to-bond ratio?",
+        "options": [
+          "Sixty-forty",
+          "Seventy-thirty",
+          "Fifty-fifty",
+          "Eighty-twenty"
+        ],
+        "answer": "Seventy-thirty",
+        "explanation": "目前股票佔70%、固定收益30%，建議調整為60%股票、40%債券。",
+        "category": "數字時間"
+      },
+      {
+        "id": "L4-T730-035-Q3",
+        "question": "What potential cost is associated with the rebalancing?",
+        "options": [
+          "A management fee increase",
+          "Transaction fees and possible tax implications",
+          "An early withdrawal penalty",
+          "A currency conversion charge"
+        ],
+        "answer": "Transaction fees and possible tax implications",
+        "explanation": "調整將產生約1.5%的交易費，且可能有資本利得稅影響，暗示投資人需承擔額外成本。",
+        "category": "推論"
+      }
+    ]
+  },
+  {
+    "id": "L4-T730-036",
+    "part": 4,
+    "track": "T730",
+    "talk": "Good morning. This is the financial aid office at Pacific State University with an important announcement regarding the International Business Excellence Scholarship. We are pleased to announce that the scholarship fund has been increased this year, allowing us to award twenty-five scholarships instead of the usual fifteen. Each scholarship covers full tuition for one academic year. However, there have been some changes to the eligibility criteria. Applicants must now have a minimum GPA of three point five, up from three point two in previous years. Additionally, applicants are required to submit a five-hundred-word personal statement describing their commitment to promoting cross-cultural understanding in business. The application deadline has also been extended. Instead of the original deadline of March first, applications will now be accepted until March fifteenth. This extension is due to a high volume of inquiries from international students requesting additional preparation time. Please note that letters of recommendation must be submitted directly by the recommenders through our online portal; letters sent by email or postal mail will not be accepted. We encourage all eligible students to apply.",
+    "questions": [
+      {
+        "id": "L4-T730-036-Q1",
+        "question": "What is the speaker announcing?",
+        "options": [
+          "The cancellation of a scholarship program",
+          "Changes to a scholarship's criteria and deadline",
+          "A new scholarship for local students",
+          "University tuition fee increases"
+        ],
+        "answer": "Changes to a scholarship's criteria and deadline",
+        "explanation": "獎學金名額增加、申請門檻提高、截止日延長，多項變更新措施。",
+        "category": "主旨"
+      },
+      {
+        "id": "L4-T730-036-Q2",
+        "question": "What is the new minimum GPA requirement?",
+        "options": [
+          "Three point two",
+          "Three point five",
+          "Three point seven",
+          "Four point zero"
+        ],
+        "answer": "Three point five",
+        "explanation": "最低GPA要求從3.2提高至3.5。",
+        "category": "數字時間"
+      },
+      {
+        "id": "L4-T730-036-Q3",
+        "question": "What can be inferred about the previous application deadline?",
+        "options": [
+          "It was too early for many students",
+          "It was extended due to student demand",
+          "It was the same every year",
+          "It was set by the government"
+        ],
+        "answer": "It was extended due to student demand",
+        "explanation": "因為大量國際學生請求更多準備時間而延長截止日，暗示原截止日對許多人來說太趕。",
+        "category": "推論"
+      }
+    ]
+  },
+  {
+    "id": "L4-T730-037",
+    "part": 4,
+    "track": "T730",
+    "talk": "Dear valued business customer, this is a service advisory from Nova Telecom. We are writing to inform you about an upcoming network upgrade that will enhance your internet bandwidth and service reliability. Over the next three months, we will be upgrading our fiber optic infrastructure in your area. During this period, there may be intermittent service disruptions lasting no more than thirty minutes each, occurring primarily between midnight and 4 AM. To minimize business impact, we have scheduled the most disruptive work for weekends only. We recommend that your IT team configure your network to fail over to a backup connection during these windows if continuous connectivity is critical for your operations. As a goodwill gesture, all affected business customers will receive a ten percent discount on their next month's service fee. Premium customers who have a service level agreement with guaranteed uptime will also receive additional compensation as outlined in their contracts. If you experience service issues outside the scheduled maintenance windows, please report them immediately to our dedicated business support line, which operates twenty-four hours a day.",
+    "questions": [
+      {
+        "id": "L4-T730-037-Q1",
+        "question": "What is the purpose of this advisory?",
+        "options": [
+          "To announce a price increase",
+          "To notify about a network upgrade",
+          "To apologize for a service outage",
+          "To introduce a new data plan"
+        ],
+        "answer": "To notify about a network upgrade",
+        "explanation": "Nova Telecom通知企業客戶將進行光纖基礎設施升級以提升頻寬與穩定度。",
+        "category": "主旨"
+      },
+      {
+        "id": "L4-T730-037-Q2",
+        "question": "What compensation is offered to affected customers?",
+        "options": [
+          "A free month of service",
+          "A ten percent discount on the next bill",
+          "An upgraded service plan at no cost",
+          "A waiver of installation fees"
+        ],
+        "answer": "A ten percent discount on the next bill",
+        "explanation": "受影響的企業客戶下月服務費可享10%折扣。",
+        "category": "細節"
+      },
+      {
+        "id": "L4-T730-037-Q3",
+        "question": "What can be inferred about premium customers with SLAs?",
+        "options": [
+          "They will not be affected by the upgrade",
+          "They have guaranteed service compensation",
+          "They can opt out of the upgrade",
+          "They pay higher rates for the same service"
+        ],
+        "answer": "They have guaranteed service compensation",
+        "explanation": "有服務等級協議的高階客戶可依合約獲得額外補償，暗示他們的權益保障更完整。",
+        "category": "推論"
+      }
+    ]
+  },
+  {
+    "id": "L4-T730-038",
+    "part": 4,
+    "track": "T730",
+    "talk": "Good morning, production team. This is a report from the quality assurance department on the results of the unannounced audit conducted by the Food Safety Authority last Thursday. Overall, our facility performed well, and we received no major violations, which is excellent. However, the auditors did note several minor non-conformities that need to be addressed before their follow-up visit in sixty days. First, the temperature logs for冷藏 storage units in warehouse B were incomplete for three days last week. All冷藏 units must have temperature readings recorded every four hours, and any gaps in logging must be documented with an explanation. Second, several employees in the packaging area were observed not wearing hairnets properly. This is a hygiene violation, and all team leaders must reinforce proper attire protocols. Third, the allergen management plan was generally compliant, but the auditors recommended that we add dedicated color-coded utensils for products containing peanuts to prevent cross-contamination. The corrective action plan for each finding has been assigned to the respective department heads. Please implement these changes immediately. Full compliance will be reviewed in the follow-up audit.",
+    "questions": [
+      {
+        "id": "L4-T730-038-Q1",
+        "question": "What was the overall result of the food safety audit?",
+        "options": [
+          "The facility received major violations",
+          "No major violations were found",
+          "The audit was postponed",
+          "The facility was temporarily shut down"
+        ],
+        "answer": "No major violations were found",
+        "explanation": "工廠整體表現良好，沒有收到重大違規。",
+        "category": "細節"
+      },
+      {
+        "id": "L4-T730-038-Q2",
+        "question": "What issue was found in the packaging area?",
+        "options": [
+          "Expired ingredients were used",
+          "Employees were not wearing hairnets properly",
+          "Packaging machines were malfunctioning",
+          "Labels were printed incorrectly"
+        ],
+        "answer": "Employees were not wearing hairnets properly",
+        "explanation": "包裝區有員工未正確佩戴髮網，屬於衛生違規。",
+        "category": "細節"
+      },
+      {
+        "id": "L4-T730-038-Q3",
+        "question": "What does the recommendation about colored utensils suggest?",
+        "options": [
+          "The facility lacks proper cleaning equipment",
+          "Cross-contamination is a potential risk",
+          "Peanut products will be discontinued",
+          "The audit was focused on packaging only"
+        ],
+        "answer": "Cross-contamination is a potential risk",
+        "explanation": "建議為含花生產品使用專用顏色編碼器具以防止交叉污染，暗示過敏原管理仍有改善空間。",
+        "category": "推論"
+      }
+    ]
+  },
+  {
+    "id": "L4-T730-039",
+    "part": 4,
+    "track": "T730",
+    "talk": "Good afternoon, legal and compliance team. This is an urgent briefing from the general counsel's office regarding the new data privacy regulation that was passed by the legislature last week. The regulation, which takes effect on January first of next year, introduces significant changes to how companies must handle customer data. Most importantly, under the new law, businesses must obtain explicit opt-in consent from customers before collecting any biometric data, including facial recognition patterns and fingerprint scans. Previously, implied consent was sufficient for most data categories. Additionally, companies are now required to complete a data protection impact assessment for any new product or service that processes personal data and submit it to the regulatory authority at least thirty days before launch. Non-compliance can result in fines of up to four percent of annual global turnover or twenty million dollars, whichever is higher. I have attached a compliance checklist and a timeline for our implementation. Our IT and legal teams must work together to audit our current data collection practices and identify any gaps. A cross-departmental meeting has been scheduled for next Tuesday at 10 AM to discuss the action plan.",
+    "questions": [
+      {
+        "id": "L4-T730-039-Q1",
+        "question": "What is the main topic of this briefing?",
+        "options": [
+          "A new data privacy regulation",
+          "A company merger announcement",
+          "An IT system upgrade",
+          "A staff training program"
+        ],
+        "answer": "A new data privacy regulation",
+        "explanation": "法務長說明新通過的資料隱私法規及其對公司的影響。",
+        "category": "主旨"
+      },
+      {
+        "id": "L4-T730-039-Q2",
+        "question": "What type of customer data now requires explicit consent?",
+        "options": [
+          "Email addresses",
+          "Biometric data",
+          "Purchase history",
+          "Demographic information"
+        ],
+        "answer": "Biometric data",
+        "explanation": "新法要求收集生物辨識資料前必須取得客戶明確的opt-in同意。",
+        "category": "細節"
+      },
+      {
+        "id": "L4-T730-039-Q3",
+        "question": "What consequence is implied for failing to comply?",
+        "options": [
+          "A warning letter",
+          "Substantial financial penalties",
+          "Suspension of business operations",
+          "Mandatory staff retraining"
+        ],
+        "answer": "Substantial financial penalties",
+        "explanation": "違規最高可處年營收4%或2000萬美元罰款（取較高者），暗示違規成本極高。",
+        "category": "推論"
+      }
+    ]
+  },
+  {
+    "id": "L4-T730-040",
+    "part": 4,
+    "track": "T730",
+    "talk": "Hello, everyone. This is project manager Tony Zhang with a status update on the Green Valley residential development project. I am happy to report that we have reached a major milestone: all foundation work for phases one and two has been completed ahead of schedule by approximately two weeks. This is excellent progress. However, we have encountered an unexpected challenge regarding the steel frame supply. Our primary steel supplier has informed us that a labor dispute at their mill will delay the delivery of structural steel beams by at least three weeks. To prevent this from affecting our overall timeline, I have already secured a secondary supplier, although their prices are eight percent higher. The additional cost will need to be absorbed within our contingency budget. On the positive side, the municipal building permit for phase three has been approved earlier than expected, so we can begin site preparation there next week instead of waiting until next month. I have updated the project schedule accordingly. Please review the revised timeline in the shared drive. Let me know if you have any questions or concerns about the adjustments.",
+    "questions": [
+      {
+        "id": "L4-T730-040-Q1",
+        "question": "What positive development does the speaker report?",
+        "options": [
+          "The project is under budget",
+          "Foundation work was completed ahead of schedule",
+          "All phases have been finished",
+          "The client approved the design"
+        ],
+        "answer": "Foundation work was completed ahead of schedule",
+        "explanation": "第一期和第二期的地基工程比預計提前約兩週完成。",
+        "category": "細節"
+      },
+      {
+        "id": "L4-T730-040-Q2",
+        "question": "What problem arose with the steel supply?",
+        "options": [
+          "Steel prices increased unexpectedly",
+          "A labor dispute delayed the delivery",
+          "The steel quality was substandard",
+          "The supplier went out of business"
+        ],
+        "answer": "A labor dispute delayed the delivery",
+        "explanation": "主要鋼材供應商的工廠發生勞資糾紛，導致結構鋼樑交貨延遲至少三週。",
+        "category": "細節"
+      },
+      {
+        "id": "L4-T730-040-Q3",
+        "question": "What can be inferred about the contingency budget?",
+        "options": [
+          "It has been fully used up",
+          "It will cover the increased material cost",
+          "It was not included in the original plan",
+          "It must be approved by the client"
+        ],
+        "answer": "It will cover the increased material cost",
+        "explanation": "備用預算將吸收8%的差價，暗示該預算原本就是為應對此類意外而設。",
+        "category": "推論"
+      }
+    ]
+  },
+  {
+    "id": "L4-T730-041",
+    "part": 4,
+    "track": "T730",
+    "talk": "Dear SkyRewards member, this is an important update from Horizon Airlines regarding changes to our frequent flyer program, effective June first. After careful review of member feedback and industry trends, we are making several enhancements to improve your travel experience. First, the number of miles required for domestic award tickets will be reduced by twenty percent, making it easier to redeem rewards for popular routes. However, international award tickets will see a ten percent increase in mileage requirements due to rising fuel costs and airport fees. Second, Silver tier members will now enjoy complimentary priority boarding, a benefit that was previously reserved for Gold and Platinum tiers. Third, we are introducing a new family pooling feature that allows up to four family members to combine their miles into a single account for faster redemption. Please note that miles will continue to expire after eighteen months of account inactivity, but you can now extend your miles by simply logging into your account, even without any travel activity. The full terms and conditions are available on our website.",
+    "questions": [
+      {
+        "id": "L4-T730-041-Q1",
+        "question": "What is the speaker announcing?",
+        "options": [
+          "New airline routes",
+          "Changes to the frequent flyer program",
+          "A merger with another airline",
+          "The launch of a credit card"
+        ],
+        "answer": "Changes to the frequent flyer program",
+        "explanation": "Horizon Airlines宣布飛行常客計畫的多項調整與升級。",
+        "category": "主旨"
+      },
+      {
+        "id": "L4-T730-041-Q2",
+        "question": "How will domestic award ticket requirements change?",
+        "options": [
+          "They will stay the same",
+          "They will decrease by twenty percent",
+          "They will increase by ten percent",
+          "They will be eliminated"
+        ],
+        "answer": "They will decrease by twenty percent",
+        "explanation": "國內獎勵機票所需的里程數將減少20%。",
+        "category": "數字時間"
+      },
+      {
+        "id": "L4-T730-041-Q3",
+        "question": "What can be inferred about Silver tier members previously?",
+        "options": [
+          "They had no elite benefits",
+          "They did not have complimentary priority boarding",
+          "They could pool miles with family",
+          "They earned miles at a higher rate"
+        ],
+        "answer": "They did not have complimentary priority boarding",
+        "explanation": "優先登機原為金卡和白金卡會員專屬，現在銀卡會員也可享有，暗示這是新增的福利。",
+        "category": "推論"
+      }
+    ]
+  },
+  {
+    "id": "L4-T730-042",
+    "part": 4,
+    "track": "T730",
+    "talk": "Good morning, marketing team. This is Rachel from the analytics department presenting the performance report for our Q3 integrated marketing campaign, Project Horizon. I have both encouraging news and some areas of concern. On the positive side, our social media engagement rate increased by forty-five percent compared to Q2, driven primarily by the viral短视频 series we launched on TikTok and Instagram Reels. The email marketing component also performed well, with an open rate of thirty-two percent, well above the industry average of twenty-two percent. However, our paid search advertising saw a significant drop in click-through rates, from three point eight percent to two point one percent, despite a fifteen percent increase in spending. This suggests our keyword targeting may need refinement. Additionally, the conversion rate for our display ads on third-party websites underperformed expectations, achieving only one point two percent against the target of two point five percent. Based on these results, I recommend reallocating ten percent of the display ad budget to social media content creation for the next quarter. I will share the detailed dashboard after the meeting.",
+    "questions": [
+      {
+        "id": "L4-T730-042-Q1",
+        "question": "What is the main topic of this presentation?",
+        "options": [
+          "New social media platform features",
+          "Q3 marketing campaign performance",
+          "Annual budget planning",
+          "Competitor analysis"
+        ],
+        "answer": "Q3 marketing campaign performance",
+        "explanation": "Rachel正在報告Q3整合行銷活動的成效數據。",
+        "category": "主旨"
+      },
+      {
+        "id": "L4-T730-042-Q2",
+        "question": "What was the target conversion rate for display ads?",
+        "options": [
+          "One point two percent",
+          "Two point five percent",
+          "Three point eight percent",
+          "Two point one percent"
+        ],
+        "answer": "Two point five percent",
+        "explanation": "展示型廣告的目標轉換率為2.5%，實際僅達1.2%。",
+        "category": "數字時間"
+      },
+      {
+        "id": "L4-T730-042-Q3",
+        "question": "What does the speaker imply about the paid search strategy?",
+        "options": [
+          "It was highly effective",
+          "It needs better keyword targeting",
+          "The budget should be increased",
+          "It outperformed social media"
+        ],
+        "answer": "It needs better keyword targeting",
+        "explanation": "支出增加但點擊率下降，暗示關鍵字投放策略需要重新調整。",
+        "category": "推論"
+      }
+    ]
+  },
+  {
+    "id": "L4-T730-043",
+    "part": 4,
+    "track": "T730",
+    "talk": "Dear valued customer, this is an important announcement from CloudSync Solutions regarding updates to our service pricing and plans. After listening to customer feedback, we are restructuring our pricing tiers to better align with the needs of businesses of different sizes. Starting July first, our current three-tier structure will be replaced with four new plans: Starter, Professional, Enterprise, and Custom. The Starter plan is designed for small teams of up to ten users and will be priced at twenty-nine dollars per user per month, which is significantly lower than our current entry-level price. Existing customers on our current Basic plan will be automatically migrated to the Professional plan at no additional cost for the first six months. However, please note that the Unlimited Storage feature, which is currently included in all plans, will be available only in the Enterprise and Custom plans going forward. Customers on Starter or Professional plans will have a storage limit of one terabyte per user. We will send personalized migration guides to all account administrators within the next week. If you have any questions, our customer success team is available for live chat during business hours.",
+    "questions": [
+      {
+        "id": "L4-T730-043-Q1",
+        "question": "What is the purpose of this announcement?",
+        "options": [
+          "To report a service outage",
+          "To introduce new pricing tiers",
+          "To announce a company acquisition",
+          "To request customer feedback"
+        ],
+        "answer": "To introduce new pricing tiers",
+        "explanation": "CloudSync Solutions宣布新的定價方案與方案結構調整。",
+        "category": "主旨"
+      },
+      {
+        "id": "L4-T730-043-Q2",
+        "question": "How many pricing plans will be available after the change?",
+        "options": [
+          "Three",
+          "Four",
+          "Five",
+          "Two"
+        ],
+        "answer": "Four",
+        "explanation": "現有三層結構將改為四種新方案：Starter、Professional、Enterprise和Custom。",
+        "category": "數字時間"
+      },
+      {
+        "id": "L4-T730-043-Q3",
+        "question": "What can be inferred about the Unlimited Storage feature?",
+        "options": [
+          "It will be removed entirely",
+          "It will only be available in higher-tier plans",
+          "It will remain in all plans",
+          "It will cost extra"
+        ],
+        "answer": "It will only be available in higher-tier plans",
+        "explanation": "無限儲存功能將僅限Enterprise和Custom方案，暗示較低方案將有此限制。",
+        "category": "推論"
+      }
+    ]
+  },
+  {
+    "id": "L4-T730-044",
+    "part": 4,
+    "track": "T730",
+    "talk": "Dear seller, this is the Merchant Operations team at GlobalMart Marketplace with an update on our seller policies. We are introducing several changes to improve the shopping experience for our customers and to support high-quality sellers like you. First, effective next month, all sellers will be required to offer free returns on items priced below fifty dollars. This policy change is based on data showing that offering free returns increases customer trust and ultimately leads to higher repeat purchase rates. For items priced above fifty dollars, you may continue to charge a restocking fee of up to fifteen percent. Second, we are updating our shipping requirements. Sellers will now be expected to ship orders within twenty-four hours of purchase, reduced from the current forty-eight-hour window. Failure to meet this requirement for more than five percent of your orders in a given month may result in your account being temporarily restricted from listing new products. Third, we are introducing a new seller rating system that takes into account product description accuracy in addition to shipping speed and customer service quality. Full details are available in the seller dashboard.",
+    "questions": [
+      {
+        "id": "L4-T730-044-Q1",
+        "question": "What is the speaker announcing?",
+        "options": [
+          "A new marketplace launch",
+          "Updates to seller policies",
+          "A platform fee reduction",
+          "A warehouse expansion"
+        ],
+        "answer": "Updates to seller policies",
+        "explanation": "GlobalMart Marketplace宣布賣家政策的多項更新，包括退貨、出貨和評分系統。",
+        "category": "主旨"
+      },
+      {
+        "id": "L4-T730-044-Q2",
+        "question": "What is the new shipping requirement?",
+        "options": [
+          "Ship within forty-eight hours",
+          "Ship within twenty-four hours",
+          "Ship on the same day",
+          "Ship within seventy-two hours"
+        ],
+        "answer": "Ship within twenty-four hours",
+        "explanation": "賣家必須在訂單成立後24小時內出貨，原為48小時。",
+        "category": "數字時間"
+      },
+      {
+        "id": "L4-T730-044-Q3",
+        "question": "What can be inferred about sellers who fail to meet shipping standards?",
+        "options": [
+          "They will be permanently banned",
+          "They may face temporary listing restrictions",
+          "They will receive a warning only",
+          "They will be charged a penalty fee"
+        ],
+        "answer": "They may face temporary listing restrictions",
+        "explanation": "月出貨達標率低於95%可能遭暫時限制刊登新品，暗示經常延遲出貨的賣家將面臨後果。",
+        "category": "推論"
+      }
+    ]
+  },
+  {
+    "id": "L4-T730-045",
+    "part": 4,
+    "track": "T730",
+    "talk": "Good morning, consulting team. This is Patricia from client services with an update on our new client onboarding process. As our firm continues to grow and take on more projects, we have identified several bottlenecks in the current onboarding workflow that are causing delays in project kickoffs. To address this, we have streamlined the onboarding process from seven steps to four. The new process will include an initial discovery call, a tailored proposal presentation, a digital contract signing, and a project kickoff meeting. One significant change is that the data collection phase, which previously required clients to fill out lengthy questionnaires, will now be handled through automated surveys sent via email. This should reduce the average onboarding time from fourteen days to approximately six days. However, I want to emphasize that this streamlined process applies only to projects with a budget under fifty thousand dollars. For larger engagements, the full onboarding process with in-person meetings and customized assessments will still be required. All consultants should familiarize themselves with the new workflow by reviewing the updated standard operating procedures document, which will be posted on the intranet by the end of the week.",
+    "questions": [
+      {
+        "id": "L4-T730-045-Q1",
+        "question": "What is the purpose of this message?",
+        "options": [
+          "To announce a new client win",
+          "To introduce a streamlined client onboarding process",
+          "To report project delays",
+          "To request additional staffing"
+        ],
+        "answer": "To introduce a streamlined client onboarding process",
+        "explanation": "客戶服務團隊說明新入職流程如何簡化並縮短時間。",
+        "category": "主旨"
+      },
+      {
+        "id": "L4-T730-045-Q2",
+        "question": "What is replacing the lengthy questionnaires?",
+        "options": [
+          "Phone interviews",
+          "Automated email surveys",
+          "In-person meetings",
+          "Third-party assessments"
+        ],
+        "answer": "Automated email surveys",
+        "explanation": "原本需要客戶填寫的冗長問卷將改為透過電子郵件發送自動化問卷。",
+        "category": "細節"
+      },
+      {
+        "id": "L4-T730-045-Q3",
+        "question": "What can be inferred about large projects?",
+        "options": [
+          "They will use the same streamlined process",
+          "They still require a more comprehensive onboarding",
+          "They are no longer accepted",
+          "They have a separate team"
+        ],
+        "answer": "They still require a more comprehensive onboarding",
+        "explanation": "預算超過5萬美元的大型專案仍需要完整的入職流程，暗示小型和大型專案的流程不同。",
+        "category": "推論"
+      }
+    ]
+  },
+  {
+    "id": "L4-T730-046",
+    "part": 4,
+    "track": "T730",
+    "talk": "Dear employees, this is a message from the human resources department regarding updates to our company's health insurance plans for the upcoming fiscal year. After careful evaluation of employee usage data and feedback from our annual benefits survey, we have decided to make several changes to better meet your healthcare needs. First, we are adding a new high-deductible health plan option that comes with a health savings account, to which the company will contribute five hundred dollars annually for individual coverage and one thousand dollars for family coverage. This plan has lower monthly premiums and may be a good option for those who do not anticipate frequent medical visits. Second, the Preferred Provider Organization plan will remain available, but the monthly premium will increase by eight percent. However, the annual deductible will remain unchanged at one thousand five hundred dollars for individual coverage. Third, dental and vision coverage will now be bundled into a single plan, which will reduce your total out-of-pocket cost by approximately twelve percent compared to purchasing them separately. Open enrollment begins November first and runs through November fifteenth. Please attend one of the informational webinars scheduled for next week to learn more about your options.",
+    "questions": [
+      {
+        "id": "L4-T730-046-Q1",
+        "question": "What is the main topic of this announcement?",
+        "options": [
+          "Company financial results",
+          "Changes to health insurance plans",
+          "A new office wellness program",
+          "Staff performance bonuses"
+        ],
+        "answer": "Changes to health insurance plans",
+        "explanation": "HR部門宣布新年度健康保險方案的調整與新增選項。",
+        "category": "主旨"
+      },
+      {
+        "id": "L4-T730-046-Q2",
+        "question": "What is the company contribution to the health savings account for family coverage?",
+        "options": [
+          "Five hundred dollars",
+          "One thousand dollars",
+          "Fifteen hundred dollars",
+          "Twelve percent"
+        ],
+        "answer": "One thousand dollars",
+        "explanation": "公司為家庭投保的健康儲蓄帳戶每年存入1000美元。",
+        "category": "數字時間"
+      },
+      {
+        "id": "L4-T730-046-Q3",
+        "question": "What can be inferred about the Preferred Provider Organization plan?",
+        "options": [
+          "Its monthly cost is going up",
+          "It is being discontinued",
+          "Its deductible will increase",
+          "It covers dental and vision"
+        ],
+        "answer": "Its monthly cost is going up",
+        "explanation": "PPO方案的月保費將上漲8%，暗示員工需支付更高的費用。",
+        "category": "推論"
+      }
+    ]
+  },
+  {
+    "id": "L4-T730-047",
+    "part": 4,
+    "track": "T730",
+    "talk": "Good morning, general managers and operations directors. This is a message from corporate headquarters regarding the updated brand standards for all properties under the LuxeStay hotel group. These standards will take effect on March first, and full compliance is expected by April fifteenth. The most significant change involves the guest room experience. All properties must replace existing mattresses with the new LuxeRest model, which has received outstanding reviews in our pilot program. The rollout will be phased, with flagship properties receiving priority. Second, we are standardizing the bathroom amenity packages across all brands. The new amenities will feature eco-friendly packaging, in line with our sustainability commitments. However, properties in the budget-tier segment are exempt from the premium amenity requirement and may continue using their current suppliers. Third, all front desk staff must complete a new customer service training program called Service Excellence 2.0, which focuses on handling guest complaints and personalizing the check-in experience. The training is available online and takes approximately four hours to complete. Regional directors will conduct compliance audits starting in May. Properties that fail to meet the standards may be subject to brand reclassification.",
+    "questions": [
+      {
+        "id": "L4-T730-047-Q1",
+        "question": "What is being announced?",
+        "options": [
+          "A hotel chain acquisition",
+          "Updated brand standards for all properties",
+          "A new loyalty program",
+          "Quarterly financial results"
+        ],
+        "answer": "Updated brand standards for all properties",
+        "explanation": "總部宣布LuxeStay酒店集團的最新品牌標準，涵蓋客房、備品和培訓。",
+        "category": "主旨"
+      },
+      {
+        "id": "L4-T730-047-Q2",
+        "question": "Which properties are exempt from the premium amenity requirement?",
+        "options": [
+          "International properties",
+          "Budget-tier properties",
+          "Newly opened properties",
+          "Properties under renovation"
+        ],
+        "answer": "Budget-tier properties",
+        "explanation": "經濟型酒店可豁免高級備品要求，繼續使用現有供應商。",
+        "category": "細節"
+      },
+      {
+        "id": "L4-T730-047-Q3",
+        "question": "What consequence is implied for non-compliance?",
+        "options": [
+          "Loss of management bonus",
+          "Possible brand reclassification",
+          "Termination of franchise agreement",
+          "Mandatory closure for renovations"
+        ],
+        "answer": "Possible brand reclassification",
+        "explanation": "未達標準的物業可能被重新分類品牌等級，暗示降級的可能性。",
+        "category": "推論"
+      }
+    ]
+  },
+  {
+    "id": "L4-T730-048",
+    "part": 4,
+    "track": "T730",
+    "talk": "Good afternoon, shareholders and board members. This is the CEO of GreenPeak Energy presenting our annual sustainability report for the fiscal year. I am proud to announce that we have achieved carbon neutrality across all our domestic operations, a full two years ahead of our original 2028 target. This milestone was reached through a combination of investments in renewable energy sources, including solar and wind, and the purchase of verified carbon offsets for our remaining emissions. Additionally, our energy efficiency initiatives have reduced overall power consumption by eighteen percent compared to the previous year. However, I must also report that our international operations have not yet met the same standards. Due to regulatory differences and infrastructure limitations in emerging markets, our overseas facilities still rely heavily on fossil fuels. To address this, we are partnering with local renewable energy providers in those regions and have allocated forty million dollars over the next three years to retrofit our international facilities. Furthermore, we are introducing a new supplier sustainability scorecard that will require our vendors to meet minimum environmental standards by 2027. We believe these measures will position GreenPeak as a leader in corporate sustainability.",
+    "questions": [
+      {
+        "id": "L4-T730-048-Q1",
+        "question": "What is the primary subject of this report?",
+        "options": [
+          "Quarterly financial earnings",
+          "The company's sustainability achievements and challenges",
+          "A new product launch",
+          "A management restructuring"
+        ],
+        "answer": "The company's sustainability achievements and challenges",
+        "explanation": "CEO報告公司在永續發展方面的進展，包括國內碳中和達成及國際營運的挑戰。",
+        "category": "主旨"
+      },
+      {
+        "id": "L4-T730-048-Q2",
+        "question": "How early did the company achieve carbon neutrality domestically?",
+        "options": [
+          "One year early",
+          "Two years early",
+          "Three months early",
+          "On schedule"
+        ],
+        "answer": "Two years early",
+        "explanation": "國內營運達成碳中和比原訂2028年目標提前了整整兩年。",
+        "category": "數字時間"
+      },
+      {
+        "id": "L4-T730-048-Q3",
+        "question": "What can be inferred about the company's international operations?",
+        "options": [
+          "They have already achieved carbon neutrality",
+          "They lag behind domestic operations in sustainability",
+          "They are being sold to local partners",
+          "They have lower energy costs"
+        ],
+        "answer": "They lag behind domestic operations in sustainability",
+        "explanation": "海外設施仍大量依賴化石燃料，與國內進度有落差，暗示國際營運的永續程度落後。",
+        "category": "推論"
+      }
+    ]
+  }
+]

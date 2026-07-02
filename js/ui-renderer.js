@@ -11,6 +11,10 @@ TOEIC.UIRenderer = {
     return app;
   },
 
+  _trackLabel(track) {
+    return track === 'T730' ? '\u76EE\u6A19 730 \u5206\u4EE5\u4E0A' : '\u76EE\u6A19 600 \u5206';
+  },
+
   _createTTSButton(text, track) {
     var btn = document.createElement('button');
     btn.className = 'tts-btn';
@@ -53,35 +57,32 @@ TOEIC.UIRenderer = {
   renderHome(track) {
     var app = this._clear();
     var trackDisplay = track || 'T600';
+    var self = this;
 
     var header = document.createElement('div');
     header.className = 'app-header';
-
-    var h1 = document.createElement('h1');
-    h1.textContent = 'TOEIC L&R \u7DF4\u7FD2';
-    header.appendChild(h1);
 
     var toggle = document.createElement('div');
     toggle.className = 'track-toggle';
 
     var btnT600 = document.createElement('button');
     btnT600.className = 'track-btn' + (trackDisplay === 'T600' ? ' active' : '');
-    btnT600.textContent = 'T600';
+    btnT600.textContent = '\u76EE\u6A19 600';
     btnT600.addEventListener('click', function () { TOEIC.App.switchTrack('T600'); });
 
     var btnT730 = document.createElement('button');
     btnT730.className = 'track-btn' + (trackDisplay === 'T730' ? ' active' : '');
-    btnT730.textContent = 'T730';
+    btnT730.textContent = '\u76EE\u6A19 730';
     btnT730.addEventListener('click', function () { TOEIC.App.switchTrack('T730'); });
 
     toggle.appendChild(btnT600);
     toggle.appendChild(btnT730);
-    header.appendChild(toggle);
 
     var trackBadge = document.createElement('span');
     trackBadge.className = 'track-badge';
-    trackBadge.textContent = '目標：' + trackDisplay;
-    toggle.parentNode.insertBefore(trackBadge, toggle);
+    trackBadge.textContent = self._trackLabel(trackDisplay);
+    header.appendChild(trackBadge);
+    header.appendChild(toggle);
 
     app.appendChild(header);
 
@@ -89,12 +90,12 @@ TOEIC.UIRenderer = {
     intro.className = 'home-intro';
     intro.innerHTML = '<p>TOEIC L&R \u7DF4\u7FD2\u5DE5\u5177 \u2014 \u5C08\u70BA\u6210\u4EBA\u4E0A\u73ED\u65CF\u8A2D\u8A08\u7684\u591A\u76CA\u5099\u8003\u5E73\u53F0\u3002'
       + '\u5B8C\u6574\u6DB5\u84CB\u807D\u529B Part 1\u20134 \u8207\u95B1\u8B80 Part 5\u20137\uFF0C'
-      + '\u652F\u63F4 T600\uFF08600\u5206\u885D\u523A\uFF09\u8207 T730\uFF08730\u5206\u9032\u968E\uFF09\u5169\u7A2E\u5206\u8ECC\u3002</p>'
+      + '\u652F\u63F4\u5169\u7A2E\u5206\u8ECC\uFF1A\u76EE\u6A19 600 \u5206\u8207\u76EE\u6A19 730 \u5206\u4EE5\u4E0A\u3002</p>'
       + '<ul class="home-features">'
-      + '<li><strong>T600 \u5206\u8ECC</strong>\uFF1A\u57FA\u790E\u5546\u52D9\u82F1\u6587\uFF0C\u8A5E\u5F59\u8207\u53E5\u578B\u8F03\u7C21\u55AE\uFF0C\u9069\u5408\u525B\u958B\u59CB\u5099\u8003\u8005\u3002</li>'
-      + '<li><strong>T730 \u5206\u8ECC</strong>\uFF1A\u9032\u968E\u5546\u52D9\u82F1\u6587\uFF0C\u8A5E\u5F59\u5EE3\u3001\u53E5\u578B\u8907\u96DC\uFF0C\u9069\u5408\u653B\u9802\u8005\u3002</li>'
-      + '<li>\u7D9C\u5408\u7DF4\u7FD2\u6BCF\u56DE\u5408\u984C\u6578\uFF1AP1=2\u984C\u3001P2=8\u984C\u3001P3\u2248\u0012\u984C\u3001P4\u2248\u0010\u984C\u3001P5=10\u984C\u3001P6=1\u7D44(4\u7A7A)\u3001P7=2\u7D44</li>'
-      + '<li>\u5168\u7A0B TTS \u767C\u97F3\u652F\u63F4\uFF0C\u6BCF\u984C\u3014\uD83D\uDD0A\u3015\u5373\u53EF\u6717\u8B80\uFF1B\u932F\u984C\u672C\u81EA\u52D5\u8A18\u9304\u8207\u91CD\u7B54\u3002</li>'
+      + '<li><strong>\u76EE\u6A19 600 \u5206</strong>\uFF1A\u57FA\u790E\u5546\u52D9\u82F1\u6587\uFF0C\u8A5E\u5F59\u8207\u53E5\u578B\u8F03\u7C21\u55AE\uFF0C\u9069\u5408\u525B\u958B\u59CB\u5099\u8003\u8005\u3002</li>'
+      + '<li><strong>\u76EE\u6A19 730 \u5206\u4EE5\u4E0A</strong>\uFF1A\u9032\u968E\u5546\u52D9\u82F1\u6587\uFF0C\u8A5E\u5F59\u5EE3\u3001\u53E5\u578B\u8907\u96DC\uFF0C\u9069\u5408\u653B\u9802\u8005\u3002</li>'
+      + '<li>\u7D9C\u5408\u7DF4\u7FD2\u53EF\u81EA\u8A02\u6BCF\u56DE\u5408\u984C\u6578\uFF0C\u652F\u6301\u500B\u5225\u8ABF\u6574\u6BCF\u500B Part \u7684\u984C\u6578\u3002</li>'
+      + '<li>\u5168\u7A0B TTS \u767C\u97F3\u652F\u63F4\uFF0C\u6BCF\u984C\u5373\u53EF\u6717\u8B80\uFF1B\u932F\u984C\u672C\u81EA\u52D5\u8A18\u9304\u8207\u91CD\u7B54\u3002</li>'
       + '</ul>';
     app.appendChild(intro);
 
@@ -109,19 +110,19 @@ TOEIC.UIRenderer = {
     listenGrid.className = 'card-grid';
 
     listenGrid.appendChild(this._createCard(
-      'Part 1', '\u7167\u7247\u63CF\u8FF0 \u00B7 4\u9078\u984C',
+      'Part 1 \u7167\u7247\u63CF\u8FF0', '\u56DB\u9078\u4E00\u7684\u7167\u7247\u63CF\u8FF0\u984C',
       function () { TOEIC.App.startPractice(1); }
     ));
     listenGrid.appendChild(this._createCard(
-      'Part 2', '\u61C9\u7B54\u554F\u984C \u00B7 3\u9078\u984C',
+      'Part 2 \u61C9\u7B54\u554F\u984C', '\u4E09\u9078\u4E00\u7684\u61C9\u7B54\u554F\u984C',
       function () { TOEIC.App.startPractice(2); }
     ));
     listenGrid.appendChild(this._createCard(
-      'Part 3', '\u7C21\u77ED\u5C0D\u8A71 \u00B7 \u591A\u984C\u7D44',
+      'Part 3 \u7C21\u77ED\u5C0D\u8A71', '\u591A\u984C\u7D44\u7684\u77ED\u7BC7\u5C0D\u8A71\u7406\u89E3',
       function () { TOEIC.App.startPractice(3); }
     ));
     listenGrid.appendChild(this._createCard(
-      'Part 4', '\u7C21\u77ED\u7368\u767D \u00B7 \u591A\u984C\u7D44',
+      'Part 4 \u7C21\u77ED\u7368\u767D', '\u591A\u984C\u7D44\u7684\u77ED\u7BC7\u7368\u767D\u7406\u89E3',
       function () { TOEIC.App.startPractice(4); }
     ));
 
@@ -139,15 +140,15 @@ TOEIC.UIRenderer = {
     readGrid.className = 'card-grid';
 
     readGrid.appendChild(this._createCard(
-      'Part 5', 'Incomplete Sentences \u55AE\u53E5\u586B\u7A7A',
+      'Part 5 \u55AE\u53E5\u586B\u7A7A', '\u6587\u6CD5\u8207\u8A5E\u5F59\u7684\u55AE\u53E5\u9078\u64C7\u984C',
       function () { TOEIC.App.startPractice(5); }
     ));
     readGrid.appendChild(this._createCard(
-      'Part 6', 'Text Completion \u6BB5\u843D\u586B\u7A7A',
+      'Part 6 \u77ED\u6587\u586B\u7A7A', '\u6BB5\u843D\u4E2D\u7684\u6587\u6CD5\u8207\u8A5E\u5F59\u586B\u7A7A',
       function () { TOEIC.App.startPractice(6); }
     ));
     readGrid.appendChild(this._createCard(
-      'Part 7', 'Reading Comprehension \u9605\u8B80\u7406\u89E3',
+      'Part 7 \u9605\u8B80\u7406\u89E3', '\u6587\u7AE0\u9605\u8B80\u8207\u591A\u984C\u7D44\u7B54\u984C',
       function () { TOEIC.App.startPractice(7); }
     ));
 
@@ -165,8 +166,8 @@ TOEIC.UIRenderer = {
     toolsGrid.className = 'card-grid';
 
     toolsGrid.appendChild(this._createCard(
-      '\u5168\u771F\u6A21\u6A21\u8A66',
-      'Part 1-7 \u6DF7\u5408\u7D44\u5377 \u00B7 \u807D\u8B80\u5168\u7C21',
+      '\u7D9C\u5408\u7DF4\u7FD2',
+      'Part 1\u20137 \u6DF7\u5408\u7D44\u5377 \u00B7 \u81EA\u8A02\u6BCF\u90E8\u5206\u984C\u6578',
       function () { TOEIC.App.startCompositePractice(); }
     ));
 
@@ -174,6 +175,18 @@ TOEIC.UIRenderer = {
       '\u932F\u984C\u672C',
       '\u67E5\u770B\u4E26\u91CD\u505A\u932F\u984C',
       function () { TOEIC.App.openWrongBook(); }
+    ));
+
+    toolsGrid.appendChild(this._createCard(
+      '\u5F31\u9EDE\u5206\u6790',
+      '\u932F\u984C\u7D71\u8A08\u8207\u6539\u9032\u5EFA\u8B70',
+      function () { TOEIC.App.openAnalytics(); }
+    ));
+
+    toolsGrid.appendChild(this._createCard(
+      '\u7DF4\u7FD2\u8A2D\u5B9A',
+      '\u8ABF\u6574\u6BCF\u56DE\u7D9C\u5408\u7DF4\u7FD2\u7684\u5404 Part \u984C\u6578',
+      function () { TOEIC.App.openSettings(); }
     ));
 
     toolsSection.appendChild(toolsGrid);
@@ -191,6 +204,168 @@ TOEIC.UIRenderer = {
     card.appendChild(p);
     card.addEventListener('click', onClick);
     return card;
+  },
+
+  /* ==================================================================
+     Settings Page
+     ================================================================== */
+  renderSettingsPage() {
+    var app = this._clear();
+    app.appendChild(this._renderBackButton());
+
+    var title = document.createElement('h2');
+    title.className = 'section-title';
+    title.textContent = '\u7DF4\u7FD2\u8A2D\u5B9A';
+    app.appendChild(title);
+
+    var raw = localStorage.getItem('toeic_session_config');
+    var cfg = { p1: 2, p2: 8, p3: 12, p4: 10, p5: 10, p6: 1, p7: 2 };
+    if (raw) {
+      try { var parsed = JSON.parse(raw); for (var k in parsed) cfg[k] = parsed[k]; } catch (e) {}
+    }
+
+    var defaults = { p1: 2, p2: 8, p3: 12, p4: 10, p5: 10, p6: 1, p7: 2 };
+    var fields = {};
+
+    var parts = [
+      { key: 'p1', label: 'Part 1 \u7167\u7247\u63CF\u8FF0', min: 0, max: 10 },
+      { key: 'p2', label: 'Part 2 \u61C9\u7B54\u554F\u984C', min: 0, max: 20 },
+      { key: 'p3', label: 'Part 3 \u7C21\u77ED\u5C0D\u8A71', min: 0, max: 30 },
+      { key: 'p4', label: 'Part 4 \u7C21\u77ED\u7368\u767D', min: 0, max: 30 },
+      { key: 'p5', label: 'Part 5 \u55AE\u53E5\u586B\u7A7A', min: 0, max: 30 },
+      { key: 'p6', label: 'Part 6 \u77ED\u6587\u586B\u7A7A\uFF08\u7D44\uFF09', min: 0, max: 5 },
+      { key: 'p7', label: 'Part 7 \u9605\u8B80\u7406\u89E3\uFF08\u7BC7\uFF09', min: 0, max: 5 }
+    ];
+
+    var formContainer = document.createElement('div');
+    formContainer.style.cssText = 'background:#fff;border-radius:8px;padding:1.25rem;box-shadow:0 1px 4px rgba(0,0,0,0.08);border:1px solid #e9ecef;margin-bottom:1rem;';
+
+    var note = document.createElement('p');
+    note.style.cssText = 'font-size:0.85rem;color:#6c757d;margin-bottom:1rem;';
+    note.textContent = '\u8A2D\u5B9A\u6BCF\u56DE\u7D9C\u5408\u7DF4\u7FD2\u5404 Part \u7684\u984C\u6578\uFF0C\u8F38\u5165 0 \u5373\u8DF3\u904E\u8A72 Part\u3002\u8A2D\u5B9A\u5F8C\u4E0B\u6B21\u7D9C\u5408\u7DF4\u7FD2\u751F\u6548\u3002';
+    formContainer.appendChild(note);
+
+    var self = this;
+    parts.forEach(function (p) {
+      var row = document.createElement('div');
+      row.style.cssText = 'display:flex;align-items:center;gap:1rem;margin-bottom:0.75rem;';
+
+      var label = document.createElement('label');
+      label.style.cssText = 'flex:1;font-size:0.9rem;font-weight:600;color:#1a3a5c;';
+      label.textContent = p.label;
+      row.appendChild(label);
+
+      var input = document.createElement('input');
+      input.type = 'number';
+      input.min = p.min;
+      input.max = p.max;
+      input.value = cfg[p.key] != null ? cfg[p.key] : defaults[p.key];
+      input.style.cssText = 'width:70px;padding:0.4rem 0.6rem;font-size:0.9rem;border:1px solid #ced4da;border-radius:4px;font-family:inherit;text-align:center;';
+      row.appendChild(input);
+      fields[p.key] = input;
+
+      var rangeLabel = document.createElement('span');
+      rangeLabel.style.cssText = 'font-size:0.8rem;color:#6c757d;';
+      rangeLabel.textContent = p.min + '\u2013' + p.max;
+      row.appendChild(rangeLabel);
+
+      formContainer.appendChild(row);
+    });
+
+    var btnRow = document.createElement('div');
+    btnRow.style.cssText = 'display:flex;gap:0.75rem;justify-content:flex-end;margin-top:0.5rem;';
+
+    var resetBtn = document.createElement('button');
+    resetBtn.className = 'home-btn';
+    resetBtn.textContent = '\u6062\u5FA9\u9810\u8A2D';
+    resetBtn.addEventListener('click', function () {
+      parts.forEach(function (p) {
+        fields[p.key].value = defaults[p.key];
+      });
+    });
+    btnRow.appendChild(resetBtn);
+
+    var saveBtn = document.createElement('button');
+    saveBtn.className = 'home-btn';
+    saveBtn.style.cssText = 'background:#1a3a5c;color:#fff;border-color:#1a3a5c;';
+    saveBtn.textContent = '\u5132\u5B58\u8A2D\u5B9A';
+    saveBtn.addEventListener('click', function () {
+      var out = {};
+      parts.forEach(function (p) {
+        var val = parseInt(fields[p.key].value, 10);
+        if (isNaN(val) || val < p.min) val = 0;
+        if (val > p.max) val = p.max;
+        out[p.key] = val;
+      });
+      localStorage.setItem('toeic_session_config', JSON.stringify(out));
+      if (window.ToeicSync && window.ToeicSync.onConfigSaved) { window.ToeicSync.onConfigSaved(); }
+      TOEIC.App.goHome();
+    });
+    btnRow.appendChild(saveBtn);
+
+    formContainer.appendChild(btnRow);
+    app.appendChild(formContainer);
+  },
+
+  /* ==================================================================
+     Composite Practice Setup Summary
+     ================================================================== */
+  renderCompositeSetup(session, onStart) {
+    var app = this._clear();
+    app.appendChild(this._renderBackButton());
+
+    var c = document.createElement('div');
+    c.className = 'result-container';
+
+    var pLabel = document.createElement('div');
+    pLabel.className = 'result-label';
+    pLabel.textContent = '\u7D9C\u5408\u7DF4\u7FD2';
+    c.appendChild(pLabel);
+
+    var score = document.createElement('div');
+    score.className = 'result-score';
+    score.textContent = '\u5171 ' + session.totalItems + ' \u984C';
+    c.appendChild(score);
+
+    var pct = document.createElement('div');
+    pct.className = 'result-percent';
+    pct.textContent = '\u672C\u56DE\u5408\u7DF4\u7FD2\u6982\u89BD';
+    c.appendChild(pct);
+
+    if (session.partCounts) {
+      var summary = document.createElement('div');
+      summary.className = 'composite-summary';
+      var order = [1, 2, 3, 4, 5, 6, 7];
+      var partLabels = {
+        1: 'Part 1 \u7167\u7247\u63CF\u8FF0',
+        2: 'Part 2 \u61C9\u7B54\u554F\u984C',
+        3: 'Part 3 \u7C21\u77ED\u5C0D\u8A71',
+        4: 'Part 4 \u7C21\u77ED\u7368\u767D',
+        5: 'Part 5 \u55AE\u53E5\u586B\u7A7A',
+        6: 'Part 6 \u77ED\u6587\u586B\u7A7A',
+        7: 'Part 7 \u9605\u8B80\u7406\u89E3'
+      };
+      order.forEach(function (p) {
+        var pc = session.partCounts[p];
+        if (!pc || pc.count === 0) return;
+        var row = document.createElement('div');
+        row.className = 'per-part-result';
+        var countLabel = p <= 2 || p === 5 ? pc.count + ' \u984C' : pc.count + ' \u7D44\uFF08' + pc.subTotal + ' \u5C0F\u984C\uFF09';
+        row.innerHTML = '<span class="per-part-label">' + (partLabels[p] || 'Part ' + p) + '</span>'
+          + '<span class="per-part-score">' + countLabel + '</span>';
+        summary.appendChild(row);
+      });
+      c.appendChild(summary);
+    }
+
+    var startBtn = document.createElement('button');
+    startBtn.className = 'home-btn';
+    startBtn.style.cssText = 'background:#1a3a5c;color:#fff;border-color:#1a3a5c;padding:0.75rem 2.5rem;font-size:1rem;';
+    startBtn.textContent = '\u958B\u59CB\u7DF4\u7FD2';
+    startBtn.addEventListener('click', onStart);
+    c.appendChild(startBtn);
+
+    app.appendChild(c);
   },
 
   /* ── Loading ── */
@@ -1243,7 +1418,7 @@ TOEIC.UIRenderer = {
 
     var pLabel = document.createElement('div');
     pLabel.className = 'result-label';
-    pLabel.textContent = '\u7D9C\u5408\u7DF4\u7FD2\u7D50\u679C (\u5168\u771F\u6A21\u6A21\u8A66)';
+    pLabel.textContent = '\u7D9C\u5408\u7DF4\u7FD2\u7D50\u679C';
     c.appendChild(pLabel);
 
     var score = document.createElement('div');
@@ -1322,6 +1497,13 @@ TOEIC.UIRenderer = {
     TOEIC.WrongBook.render();
   },
 
+  /* ==================================================================
+     Analytics — delegated to TOEIC.Analytics
+     ================================================================== */
+  renderAnalyticsPage() {
+    TOEIC.Analytics.render();
+  },
+
   /* ── Helpers ── */
   _createQuizHeader(title, index, total) {
     var header = document.createElement('div');
@@ -1336,7 +1518,7 @@ TOEIC.UIRenderer = {
     var track = TOEIC.App ? TOEIC.App.getTrack() : 'T600';
     var badge = document.createElement('span');
     badge.className = 'track-badge quiz-track-badge';
-    badge.textContent = '\u76EE\u6A19\uFF1A' + track;
+    badge.textContent = this._trackLabel(track);
     header.appendChild(badge);
     return header;
   },
@@ -1354,7 +1536,7 @@ TOEIC.UIRenderer = {
     box.appendChild(h3);
 
     var p = document.createElement('p');
-    p.textContent = '\u9810\u8A2D 10 \u984C\uFF0C\u4E0D\u53EF\u8D85\u904E\u984C\u5EAB\u7E3D\u6578\u3002';
+    p.textContent = '\u9810\u8A2D 10 \u984C\uFF0C\u4E0D\u53EF\u8D85\u904E\u984C\u5EAB\u7E3D\u6578\u3002\u7D9C\u5408\u7DF4\u7FD2\u984C\u6578\u8ACB\u81F3\u300C\u7DF4\u7FD2\u8A2D\u5B9A\u300D\u8ABF\u6574\u3002';
     box.appendChild(p);
 
     var input = document.createElement('input');

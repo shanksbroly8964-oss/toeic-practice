@@ -1,0 +1,2477 @@
+[
+  {
+    "id": "P5-T730-056",
+    "part": 5,
+    "track": "T730",
+    "question": "By the time the audit is completed, the accounting team ____ all outstanding discrepancies.",
+    "options": [
+      "will have resolved",
+      "will resolve",
+      "resolves",
+      "has resolved"
+    ],
+    "answer": "will have resolved",
+    "explanation": "by the time引導未來時間副詞子句，主句用未來完成式will have resolved表屆時已完成的動作。",
+    "category": "時態"
+  },
+  {
+    "id": "P5-T730-057",
+    "part": 5,
+    "track": "T730",
+    "question": "The management team held an emergency meeting to discuss the ____ of the supply chain disruption.",
+    "options": [
+      "ramifications",
+      "ramified",
+      "ramifying",
+      "ramify"
+    ],
+    "answer": "ramifications",
+    "explanation": "討論名詞ramifications（連鎖影響/後果）；ramify為動詞，其他為分詞形式。",
+    "category": "詞性"
+  },
+  {
+    "id": "P5-T730-058",
+    "part": 5,
+    "track": "T730",
+    "question": "The new regulation requires all companies to abide ____ the updated safety standards by the end of the quarter.",
+    "options": [
+      "by",
+      "with",
+      "to",
+      "for"
+    ],
+    "answer": "by",
+    "explanation": "\"abide by\"為正式用語，表示遵守規範或法律，比comply with更為高階。",
+    "category": "介系詞"
+  },
+  {
+    "id": "P5-T730-059",
+    "part": 5,
+    "track": "T730",
+    "question": "The company will proceed with the expansion ____ the board approves the revised budget proposal.",
+    "options": [
+      "provided that",
+      "so that",
+      "now that",
+      "in that"
+    ],
+    "answer": "provided that",
+    "explanation": "provided that（只要/假如）表條件；so that表目的，now that既然，in that因為/在於。",
+    "category": "連接詞"
+  },
+  {
+    "id": "P5-T730-060",
+    "part": 5,
+    "track": "T730",
+    "question": "The new director, ____ expertise lies in digital transformation, will lead the innovation task force.",
+    "options": [
+      "whose",
+      "who",
+      "whom",
+      "which"
+    ],
+    "answer": "whose",
+    "explanation": "關係代名詞whose表所有格，修飾expertise（其專業領域）；who/who為主格受格，which用於事物。",
+    "category": "關係代名詞"
+  },
+  {
+    "id": "P5-T730-061",
+    "part": 5,
+    "track": "T730",
+    "question": "If it ____ for the generous sponsorship, the conference would not have been held at such a prestigious venue.",
+    "options": [
+      "had not been",
+      "were not",
+      "has not been",
+      "would not be"
+    ],
+    "answer": "had not been",
+    "explanation": "與過去事實相反的假設，if子句用had + 過去分詞，主要子句用would have + 過去分詞。",
+    "category": "假設語氣"
+  },
+  {
+    "id": "P5-T730-062",
+    "part": 5,
+    "track": "T730",
+    "question": "The company decided to ____ the underperforming product line and focus on its core offerings.",
+    "options": [
+      "phase out",
+      "turn down",
+      "pull off",
+      "run over"
+    ],
+    "answer": "phase out",
+    "explanation": "phase out（逐步淘汰）符合淘汰表現不佳產品的語境；turn down拒絕，pull off成功完成，run over輾過/超時。",
+    "category": "片語動詞"
+  },
+  {
+    "id": "P5-T730-063",
+    "part": 5,
+    "track": "T730",
+    "question": "The two companies entered into a strategic ____ to develop next-generation battery technology.",
+    "options": [
+      "alliance",
+      "allowance",
+      "allegiance",
+      "alleviation"
+    ],
+    "answer": "alliance",
+    "explanation": "strategic alliance（策略聯盟）為商務固定搭配；allowance津貼，allegiance忠誠，alleviation減輕。",
+    "category": "搭配詞"
+  },
+  {
+    "id": "P5-T730-064",
+    "part": 5,
+    "track": "T730",
+    "question": "The decline in sales can be ____ to changing consumer preferences rather than product quality issues.",
+    "options": [
+      "ascribed",
+      "prescribed",
+      "inscribed",
+      "subscribed"
+    ],
+    "answer": "ascribed",
+    "explanation": "be ascribed to（歸因於）為正式書面用語；prescribed開藥方/規定，inscribed題字，subscribed訂閱/認購。",
+    "category": "近義字彙"
+  },
+  {
+    "id": "P5-T730-065",
+    "part": 5,
+    "track": "T730",
+    "question": "The negotiations had been ongoing for several months before a breakthrough ____ finally reached.",
+    "options": [
+      "was",
+      "had been",
+      "has been",
+      "is"
+    ],
+    "answer": "was",
+    "explanation": "過去時間序列：had been ongoing（先發生）→ was reached（後發生），被動態用was。",
+    "category": "時態"
+  },
+  {
+    "id": "P5-T730-066",
+    "part": 5,
+    "track": "T730",
+    "question": "The CEO's decision was met with widespread ____ from both employees and shareholders.",
+    "options": [
+      "disapproval",
+      "disapprove",
+      "disapproving",
+      "disapprovingly"
+    ],
+    "answer": "disapproval",
+    "explanation": "介係詞with後接名詞disapproval（反對/不贊同）為正確詞性；其他為動詞/形容詞/副詞。",
+    "category": "詞性"
+  },
+  {
+    "id": "P5-T730-067",
+    "part": 5,
+    "track": "T730",
+    "question": "The company was found to be ____ violation of several labor regulations.",
+    "options": [
+      "in",
+      "on",
+      "at",
+      "with"
+    ],
+    "answer": "in",
+    "explanation": "in violation of（違反）為固定介係詞片語；其他介係詞不搭配。",
+    "category": "介系詞"
+  },
+  {
+    "id": "P5-T730-068",
+    "part": 5,
+    "track": "T730",
+    "question": "____ the initial setbacks, the project was ultimately delivered on time and within budget.",
+    "options": [
+      "Notwithstanding",
+      "Therefore",
+      "Moreover",
+      "Otherwise"
+    ],
+    "answer": "Notwithstanding",
+    "explanation": "Notwithstanding（儘管/雖然）可當介係詞或副詞，表讓步；Therefore因此，Moreover而且，Otherwise否則。",
+    "category": "連接詞"
+  },
+  {
+    "id": "P5-T730-069",
+    "part": 5,
+    "track": "T730",
+    "question": "The HR department will interview candidates ____ qualifications closely match the job requirements.",
+    "options": [
+      "whose",
+      "which",
+      "whom",
+      "that"
+    ],
+    "answer": "whose",
+    "explanation": "關係代名詞whose引導形容詞子句修飾candidates，表其資格條件。",
+    "category": "關係代名詞"
+  },
+  {
+    "id": "P5-T730-070",
+    "part": 5,
+    "track": "T730",
+    "question": "It is crucial that each team member ____ their assigned tasks before the weekly review meeting.",
+    "options": [
+      "complete",
+      "completes",
+      "completed",
+      "will complete"
+    ],
+    "answer": "complete",
+    "explanation": "It is crucial that + 原形動詞（should省略）表重要性的假設語氣用法。",
+    "category": "假設語氣"
+  },
+  {
+    "id": "P5-T730-071",
+    "part": 5,
+    "track": "T730",
+    "question": "The marketing team plans to ____ a new advertising campaign targeting millennial consumers.",
+    "options": [
+      "roll out",
+      "back up",
+      "break down",
+      "turn around"
+    ],
+    "answer": "roll out",
+    "explanation": "roll out（推出/展開）指推出新廣告活動；back up備份/支持，break down故障/分解，turn around轉向/改善。",
+    "category": "片語動詞"
+  },
+  {
+    "id": "P5-T730-072",
+    "part": 5,
+    "track": "T730",
+    "question": "The training program is intended to ____ employees' problem-solving abilities and critical thinking skills.",
+    "options": [
+      "cultivate",
+      "calculate",
+      "circulate",
+      "contemplate"
+    ],
+    "answer": "cultivate",
+    "explanation": "cultivate（培養/培育）與abilities/skills搭配；calculate計算，circulate流通，contemplate沉思。",
+    "category": "搭配詞"
+  },
+  {
+    "id": "P5-T730-073",
+    "part": 5,
+    "track": "T730",
+    "question": "The revised contract terms are ____ to those proposed by the other party.",
+    "options": [
+      "identical",
+      "parallel",
+      "uniform",
+      "equivalent"
+    ],
+    "answer": "identical",
+    "explanation": "be identical to（與...相同）為固定搭配；parallel平行，uniform一致的，equivalent等值的，介係詞使用不同。",
+    "category": "近義字彙"
+  },
+  {
+    "id": "P5-T730-074",
+    "part": 5,
+    "track": "T730",
+    "question": "The logistics team ____ the shipment tracking system since last month to improve delivery accuracy.",
+    "options": [
+      "has been upgrading",
+      "upgrades",
+      "upgraded",
+      "will upgrade"
+    ],
+    "answer": "has been upgrading",
+    "explanation": "since last month表從過去持續至今的動作，用現在完成進行式has been upgrading。",
+    "category": "時態"
+  },
+  {
+    "id": "P5-T730-075",
+    "part": 5,
+    "track": "T730",
+    "question": "The new policy has had a ____ impact on the company's operational efficiency.",
+    "options": [
+      "favorable",
+      "favor",
+      "favorably",
+      "favorite"
+    ],
+    "answer": "favorable",
+    "explanation": "形容詞favorable修飾名詞impact（有利的影響）；favor名詞/動詞，favorably副詞，favorite最喜愛的。",
+    "category": "詞性"
+  },
+  {
+    "id": "P5-T730-076",
+    "part": 5,
+    "track": "T730",
+    "question": "The vendor was found ____ for the damages caused by the defective products.",
+    "options": [
+      "liable",
+      "accountable",
+      "responsible",
+      "answerable"
+    ],
+    "answer": "liable",
+    "explanation": "\"found liable for\"為法律英語標準搭配，表示被認定應負法律責任；accountable/responsible/answerable在「found + adj + for」結構中不如liable自然且不符合法律慣用語。",
+    "category": "介系詞"
+  },
+  {
+    "id": "P5-T730-077",
+    "part": 5,
+    "track": "T730",
+    "question": "The department's budget was reduced ____ it could no longer fund discretionary projects.",
+    "options": [
+      "such that",
+      "so that",
+      "as long as",
+      "in case"
+    ],
+    "answer": "such that",
+    "explanation": "such that（如此...以致於）引導結果子句；so that表目的，as long as只要，in case萬一。",
+    "category": "連接詞"
+  },
+  {
+    "id": "P5-T730-078",
+    "part": 5,
+    "track": "T730",
+    "question": "The consultant, ____ recommendations had been ignored, decided to resign from the project.",
+    "options": [
+      "whose",
+      "who",
+      "whom",
+      "which"
+    ],
+    "answer": "whose",
+    "explanation": "whose引導非限定形容詞子句，表其建議被忽視的顧問。",
+    "category": "關係代名詞"
+  },
+  {
+    "id": "P5-T730-079",
+    "part": 5,
+    "track": "T730",
+    "question": "Should the client ____ to accept the revised terms, we will need to renegotiate the contract.",
+    "options": [
+      "refuse",
+      "refuses",
+      "refused",
+      "will refuse"
+    ],
+    "answer": "refuse",
+    "explanation": "Should + 主詞 + 原形動詞為未來假設倒裝句（省略if），表假如客戶拒絕；原形動詞refuse。",
+    "category": "假設語氣"
+  },
+  {
+    "id": "P5-T730-080",
+    "part": 5,
+    "track": "T730",
+    "question": "The recurring issues with the legacy system ____ the urgency of a full-scale IT modernization.",
+    "options": [
+      "underscore",
+      "undermine",
+      "undertake",
+      "underwrite"
+    ],
+    "answer": "underscore",
+    "explanation": "underscore（強調/凸顯）符合強調IT現代化迫切性的語境；undermine削弱，undertake承擔，underwrite承保/贊助。",
+    "category": "搭配詞"
+  },
+  {
+    "id": "P5-T730-081",
+    "part": 5,
+    "track": "T730",
+    "question": "The analysis revealed a clear ____ between employee engagement and productivity levels.",
+    "options": [
+      "correlation",
+      "correction",
+      "corruption",
+      "conviction"
+    ],
+    "answer": "correlation",
+    "explanation": "correlation between A and B（A與B之間的關聯性）為數據分析常見用語；correction修正，corruption腐敗，conviction定罪/信念。",
+    "category": "近義字彙"
+  },
+  {
+    "id": "P5-T730-082",
+    "part": 5,
+    "track": "T730",
+    "question": "The warehouse inventory ____ manually every month before the digital system was implemented.",
+    "options": [
+      "was counted",
+      "is counted",
+      "has been counted",
+      "will be counted"
+    ],
+    "answer": "was counted",
+    "explanation": "過去時間（when the digital system was implemented）搭配過去式被動was counted。",
+    "category": "時態"
+  },
+  {
+    "id": "P5-T730-083",
+    "part": 5,
+    "track": "T730",
+    "question": "The judge ruled that the company's actions were in ____ of the non-disclosure agreement.",
+    "options": [
+      "breach",
+      "breech",
+      "bleach",
+      "preach"
+    ],
+    "answer": "breach",
+    "explanation": "in breach of（違反）為法律術語固定片語；breech臀位，bleach漂白，preach傳道。",
+    "category": "詞性"
+  },
+  {
+    "id": "P5-T730-084",
+    "part": 5,
+    "track": "T730",
+    "question": "The new CEO is widely respected ____ her ability to turn struggling companies around.",
+    "options": [
+      "for",
+      "as",
+      "by",
+      "with"
+    ],
+    "answer": "for",
+    "explanation": "be respected for（因...而受尊敬）為正確介係詞搭配；as作為，by被，with隨著。",
+    "category": "介系詞"
+  },
+  {
+    "id": "P5-T730-085",
+    "part": 5,
+    "track": "T730",
+    "question": "The shipment was delayed ____ a customs inspection that took longer than anticipated.",
+    "options": [
+      "because of",
+      "because",
+      "due",
+      "thanks"
+    ],
+    "answer": "because of",
+    "explanation": "because of + 名詞片語（因為海關檢查）；because需接子句，due需接to，thanks需接to。",
+    "category": "連接詞"
+  },
+  {
+    "id": "P5-T730-086",
+    "part": 5,
+    "track": "T730",
+    "question": "The departments ____ proposals were selected will receive additional funding for implementation.",
+    "options": [
+      "whose",
+      "which",
+      "that",
+      "whom"
+    ],
+    "answer": "whose",
+    "explanation": "關係代名詞whose所有格修飾proposals，表其提案被選中的部門。",
+    "category": "關係代名詞"
+  },
+  {
+    "id": "P5-T730-087",
+    "part": 5,
+    "track": "T730",
+    "question": "Had the company acted sooner, it ____ the crisis before it escalated.",
+    "options": [
+      "could have averted",
+      "could avert",
+      "can avert",
+      "have averted"
+    ],
+    "answer": "could have averted",
+    "explanation": "與過去事實相反：if子句用had + 過去分詞（倒裝省略if），主要子句用could have + 過去分詞。",
+    "category": "假設語氣"
+  },
+  {
+    "id": "P5-T730-088",
+    "part": 5,
+    "track": "T730",
+    "question": "The supplier failed to ____ the agreed-upon delivery schedule, causing production delays.",
+    "options": [
+      "adhere to",
+      "account for",
+      "allow for",
+      "agree with"
+    ],
+    "answer": "adhere to",
+    "explanation": "adhere to（遵守/遵循）符合遵守交期表的語境；account for解釋，allow for考量，agree with同意。",
+    "category": "片語動詞"
+  },
+  {
+    "id": "P5-T730-089",
+    "part": 5,
+    "track": "T730",
+    "question": "The conference will provide a ____ for industry professionals to exchange ideas and best practices.",
+    "options": [
+      "platform",
+      "plateau",
+      "platinum",
+      "platoon"
+    ],
+    "answer": "platform",
+    "explanation": "provide a platform for（提供...平台）為固定搭配；plateau高原/停滯期，platinum白金，platoon小隊。",
+    "category": "搭配詞"
+  },
+  {
+    "id": "P5-T730-090",
+    "part": 5,
+    "track": "T730",
+    "question": "The terminology used in the technical manual was too ____ for the average user to understand.",
+    "options": [
+      "esoteric",
+      "exoteric",
+      "exotic",
+      "erratic"
+    ],
+    "answer": "esoteric",
+    "explanation": "esoteric（深奧難懂的/只有少數人能理解的）符合技術手冊難懂的語境；exoteric公開的，exotic異國的，erratic不穩定的。",
+    "category": "近義字彙"
+  },
+  {
+    "id": "P5-T730-091",
+    "part": 5,
+    "track": "T730",
+    "question": "The contractor ____ the renovation work by the time the new tenants move in next month.",
+    "options": [
+      "will have finished",
+      "will finish",
+      "finishes",
+      "finished"
+    ],
+    "answer": "will have finished",
+    "explanation": "by the time引導未來時間，主句用未來完成式will have finished表屆時完成的動作。",
+    "category": "時態"
+  },
+  {
+    "id": "P5-T730-092",
+    "part": 5,
+    "track": "T730",
+    "question": "The board expressed concern about the ____ of the company's current diversification strategy.",
+    "options": [
+      "viability",
+      "viable",
+      "viably",
+      "vivacity"
+    ],
+    "answer": "viability",
+    "explanation": "介係詞about後接名詞viability（可行性/生存能力）；viable形容詞，viably副詞，vivacity活力。",
+    "category": "詞性"
+  },
+  {
+    "id": "P5-T730-093",
+    "part": 5,
+    "track": "T730",
+    "question": "The success of the marketing campaign hinges ____ the effective use of social media channels.",
+    "options": [
+      "on",
+      "at",
+      "with",
+      "over"
+    ],
+    "answer": "on",
+    "explanation": "hinge on（取決於）為固定搭配，與existing P5-T730-028不同句型；其他介係詞不搭配。",
+    "category": "介系詞"
+  },
+  {
+    "id": "P5-T730-094",
+    "part": 5,
+    "track": "T730",
+    "question": "____ the client's request for a discount was unusual, the sales team managed to negotiate a compromise.",
+    "options": [
+      "Although",
+      "Because",
+      "Unless",
+      "Until"
+    ],
+    "answer": "Although",
+    "explanation": "Although（雖然）表讓步轉折，與主句形成對比；Because表因果，Unless除非，Until直到。",
+    "category": "連接詞"
+  },
+  {
+    "id": "P5-T730-095",
+    "part": 5,
+    "track": "T730",
+    "question": "The company is looking for a candidate ____ combination of skills in finance and information technology would benefit both divisions.",
+    "options": [
+      "who",
+      "whom",
+      "whose",
+      "which"
+    ],
+    "answer": "whose",
+    "explanation": "whose為所有格關係代名詞，表示「其技能組合」，修飾candidate。",
+    "category": "關係代名詞"
+  },
+  {
+    "id": "P5-T730-096",
+    "part": 5,
+    "track": "T730",
+    "question": "The stakeholders insisted that the timeline ____ revised to reflect the new constraints.",
+    "options": [
+      "be",
+      "is",
+      "was",
+      "would be"
+    ],
+    "answer": "be",
+    "explanation": "insist後接that子句需用假設語氣，被動式用「be + 過去分詞」，故為be revised而非is/was revised。",
+    "category": "假設語氣"
+  },
+  {
+    "id": "P5-T730-097",
+    "part": 5,
+    "track": "T730",
+    "question": "The company decided to ____ the partnership agreement due to a breach of confidentiality.",
+    "options": [
+      "terminate",
+      "contaminate",
+      "disseminate",
+      "discriminate"
+    ],
+    "answer": "terminate",
+    "explanation": "terminate（終止）為正式商務用語；contaminate污染，disseminate傳播/散播，discriminate歧視/區別。",
+    "category": "搭配詞"
+  },
+  {
+    "id": "P5-T730-098",
+    "part": 5,
+    "track": "T730",
+    "question": "The HR department is responsible for ____ new employees during the onboarding process.",
+    "options": [
+      "orienting",
+      "originating",
+      "ornamenting",
+      "ostracizing"
+    ],
+    "answer": "orienting",
+    "explanation": "orienting新進員工引導（orientation的動詞形式）為HR常用語；originating起源，ornamenting裝飾，ostracizing排擠。",
+    "category": "片語動詞"
+  },
+  {
+    "id": "P5-T730-099",
+    "part": 5,
+    "track": "T730",
+    "question": "The sudden resignation of the project manager had a detrimental ____ on team morale.",
+    "options": [
+      "effect",
+      "affect",
+      "effort",
+      "afford"
+    ],
+    "answer": "effect",
+    "explanation": "have a detrimental effect on（對...有負面影響）中effect為名詞；affect為動詞，effort努力，afford負擔。",
+    "category": "近義字彙"
+  },
+  {
+    "id": "P5-T730-100",
+    "part": 5,
+    "track": "T730",
+    "question": "The IT department ____ the new security protocols before the end of this quarter.",
+    "options": [
+      "will have implemented",
+      "is implementing",
+      "implements",
+      "implemented"
+    ],
+    "answer": "will have implemented",
+    "explanation": "before the end of this quarter搭配未來完成式，表在該時間點之前會已完成。",
+    "category": "時態"
+  },
+  {
+    "id": "P5-T730-101",
+    "part": 5,
+    "track": "T730",
+    "question": "The lawyer argued that there was no ____ evidence linking the defendant to the fraud case.",
+    "options": [
+      "conclusive",
+      "conclusion",
+      "conclude",
+      "conclusively"
+    ],
+    "answer": "conclusive",
+    "explanation": "形容詞conclusive（決定性的）修飾名詞evidence；conclusion名詞，conclude動詞，conclusively副詞。",
+    "category": "詞性"
+  },
+  {
+    "id": "P5-T730-102",
+    "part": 5,
+    "track": "T730",
+    "question": "The new software is conducive ____ seamless integration with legacy systems.",
+    "options": [
+      "to",
+      "with",
+      "for",
+      "on"
+    ],
+    "answer": "to",
+    "explanation": "\"conducive to\"為高階搭配，意為「有助於」，注意介系詞為to而非with。",
+    "category": "介系詞"
+  },
+  {
+    "id": "P5-T730-103",
+    "part": 5,
+    "track": "T730",
+    "question": "The employee worked overtime every day ____ the project could be completed before the deadline.",
+    "options": [
+      "so that",
+      "even though",
+      "as if",
+      "now that"
+    ],
+    "answer": "so that",
+    "explanation": "so that引導目的子句（為了能夠）；even though雖然，as if彷彿，now that既然。",
+    "category": "連接詞"
+  },
+  {
+    "id": "P5-T730-104",
+    "part": 5,
+    "track": "T730",
+    "question": "The retailer, ____ supply chain was severely disrupted, had to temporarily close several stores.",
+    "options": [
+      "whose",
+      "who",
+      "whom",
+      "which"
+    ],
+    "answer": "whose",
+    "explanation": "關係代名詞whose表所有格，修飾supply chain（其供應鏈）。",
+    "category": "關係代名詞"
+  },
+  {
+    "id": "P5-T730-105",
+    "part": 5,
+    "track": "T730",
+    "question": "It is vital that all stakeholders ____ informed of any changes to the project timeline.",
+    "options": [
+      "be",
+      "are",
+      "will be",
+      "have been"
+    ],
+    "answer": "be",
+    "explanation": "It is vital that + 原形動詞（should省略）表重要性的假設語氣。",
+    "category": "假設語氣"
+  },
+  {
+    "id": "P5-T730-106",
+    "part": 5,
+    "track": "T730",
+    "question": "The government has decided to ____ subsidies for renewable energy projects over the next five years.",
+    "options": [
+      "phase in",
+      "fall back",
+      "give away",
+      "look into"
+    ],
+    "answer": "phase in",
+    "explanation": "phase in（逐步引入）符合逐步實施補貼的語境；fall back撤退/依賴，give away贈送，look into調查。",
+    "category": "片語動詞"
+  },
+  {
+    "id": "P5-T730-107",
+    "part": 5,
+    "track": "T730",
+    "question": "The company offers a comprehensive ____ package that includes health insurance and retirement benefits.",
+    "options": [
+      "compensation",
+      "composition",
+      "compilation",
+      "computation"
+    ],
+    "answer": "compensation",
+    "explanation": "compensation package（薪酬方案）為HR固定搭配；composition組成，compilation彙編，computation計算。",
+    "category": "搭配詞"
+  },
+  {
+    "id": "P5-T730-108",
+    "part": 5,
+    "track": "T730",
+    "question": "The newly appointed manager was ____ of handling the team's interpersonal conflicts effectively.",
+    "options": [
+      "capable",
+      "able",
+      "competent",
+      "qualified"
+    ],
+    "answer": "capable",
+    "explanation": "capable of + V-ing（能夠）為正確搭配；able to + 原形動詞，competent/qualified需搭配不同介係詞。",
+    "category": "近義字彙"
+  },
+  {
+    "id": "P5-T730-109",
+    "part": 5,
+    "track": "T730",
+    "question": "Once the contract ____, both parties will be bound by its terms for the next three years.",
+    "options": [
+      "is signed",
+      "will be signed",
+      "signs",
+      "has signed"
+    ],
+    "answer": "is signed",
+    "explanation": "once表條件，用現在式代替未來式，被動態is signed。",
+    "category": "時態"
+  },
+  {
+    "id": "P5-T730-110",
+    "part": 5,
+    "track": "T730",
+    "question": "The auditor's report drew attention to several ____ in the company's internal control procedures.",
+    "options": [
+      "deficiencies",
+      "deficient",
+      "deficiency",
+      "deficits"
+    ],
+    "answer": "deficiencies",
+    "explanation": "several後接複數名詞deficiencies（缺失/不足之處）；deficient形容詞，deficiency單數，deficits赤字。",
+    "category": "詞性"
+  },
+  {
+    "id": "P5-T730-111",
+    "part": 5,
+    "track": "T730",
+    "question": "The success of the joint venture will hinge ____ whether regulatory approval is granted before the fiscal deadline.",
+    "options": [
+      "on",
+      "from",
+      "with",
+      "by"
+    ],
+    "answer": "on",
+    "explanation": "\"hinge on\"為進階片語動詞，意為「取決於」，較depend on更正式且更精準。",
+    "category": "介系詞"
+  },
+  {
+    "id": "P5-T730-112",
+    "part": 5,
+    "track": "T730",
+    "question": "____ the negotiations were progressing smoothly, the talks broke down over the pricing issue.",
+    "options": [
+      "While",
+      "Despite",
+      "Unless",
+      "Whereas"
+    ],
+    "answer": "While",
+    "explanation": "While在此表雖然/對比（雖然談判順利進行）；Despite為介係詞後需接名詞，Unless除非，Whereas然而。",
+    "category": "連接詞"
+  },
+  {
+    "id": "P5-T730-113",
+    "part": 5,
+    "track": "T730",
+    "question": "The CEO appointed a new chief operating officer, ____ many believed to be an unexpected move.",
+    "options": [
+      "which",
+      "who",
+      "whom",
+      "whose"
+    ],
+    "answer": "which",
+    "explanation": "關係代名詞which指代前面整個句子（任命新營運長這件事），為非限定用法。",
+    "category": "關係代名詞"
+  },
+  {
+    "id": "P5-T730-114",
+    "part": 5,
+    "track": "T730",
+    "question": "Without the additional funding, the research project ____ abandoned last year.",
+    "options": [
+      "would have been",
+      "would be",
+      "was",
+      "had been"
+    ],
+    "answer": "would have been",
+    "explanation": "Without + 名詞表與過去事實相反的假設條件，主句用would have + 過去分詞。",
+    "category": "假設語氣"
+  },
+  {
+    "id": "P5-T730-115",
+    "part": 5,
+    "track": "T730",
+    "question": "The company had to ____ several employees after the merger led to departmental overlaps.",
+    "options": [
+      "lay off",
+      "let down",
+      "leave out",
+      "live on"
+    ],
+    "answer": "lay off",
+    "explanation": "lay off（裁員）符合合併後裁員的語境；let down讓...失望，leave out遺漏，live on以...維生。",
+    "category": "片語動詞"
+  },
+  {
+    "id": "P5-T730-116",
+    "part": 5,
+    "track": "T730",
+    "question": "The quarterly report must be submitted by Friday to ____ with corporate filing requirements.",
+    "options": [
+      "comply",
+      "abide",
+      "conform",
+      "adhere"
+    ],
+    "answer": "comply",
+    "explanation": "comply with（遵守）為正確搭配；abide by，conform to，adhere to各有不同介係詞。",
+    "category": "搭配詞"
+  },
+  {
+    "id": "P5-T730-117",
+    "part": 5,
+    "track": "T730",
+    "question": "The two proposals are fundamentally different; one emphasizes cost reduction ____ the other focuses on revenue growth.",
+    "options": [
+      "whereas",
+      "therefore",
+      "moreover",
+      "furthermore"
+    ],
+    "answer": "whereas",
+    "explanation": "whereas（然而/反之）表對比兩種提案；therefore因此（因果），moreover/furthermore而且（附加）。",
+    "category": "近義字彙"
+  },
+  {
+    "id": "P5-T730-118",
+    "part": 5,
+    "track": "T730",
+    "question": "The consultant ____ with the client for over six months before the contract was finalized.",
+    "options": [
+      "had been working",
+      "worked",
+      "has worked",
+      "was working"
+    ],
+    "answer": "had been working",
+    "explanation": "過去完成進行式had been working強調在contract was finalized之前已持續六個月的動作。",
+    "category": "時態"
+  },
+  {
+    "id": "P5-T730-119",
+    "part": 5,
+    "track": "T730",
+    "question": "The board's decision to reject the merger was based on ____ concerns about market saturation.",
+    "options": [
+      "strategic",
+      "strategy",
+      "strategize",
+      "strategically"
+    ],
+    "answer": "strategic",
+    "explanation": "形容詞strategic（策略性的）修飾concerns；strategy名詞，strategize動詞，strategically副詞。",
+    "category": "詞性"
+  },
+  {
+    "id": "P5-T730-120",
+    "part": 5,
+    "track": "T730",
+    "question": "The investment firm specializes ____ emerging market equities and sustainable funds.",
+    "options": [
+      "in",
+      "on",
+      "at",
+      "with"
+    ],
+    "answer": "in",
+    "explanation": "specialize in（專精於）為固定介係詞搭配。",
+    "category": "介系詞"
+  },
+  {
+    "id": "P5-T730-121",
+    "part": 5,
+    "track": "T730",
+    "question": "The marketing budget was increased ____ the campaign's strong initial performance.",
+    "options": [
+      "in light of",
+      "in spite of",
+      "in case of",
+      "in favor of"
+    ],
+    "answer": "in light of",
+    "explanation": "in light of（鑑於/根據）表根據初步表現而增加預算；in spite of儘管，in case of萬一，in favor of贊成。",
+    "category": "連接詞"
+  },
+  {
+    "id": "P5-T730-122",
+    "part": 5,
+    "track": "T730",
+    "question": "The new regulation, ____ details are still being finalized, is expected to take effect next year.",
+    "options": [
+      "whose",
+      "which",
+      "that",
+      "what"
+    ],
+    "answer": "whose",
+    "explanation": "關係代名詞whose表所有格，修飾details（其細節）。",
+    "category": "關係代名詞"
+  },
+  {
+    "id": "P5-T730-123",
+    "part": 5,
+    "track": "T730",
+    "question": "The contract stipulated that the tenant ____ the property in its original condition upon lease expiration.",
+    "options": [
+      "restore",
+      "restores",
+      "restored",
+      "would restore"
+    ],
+    "answer": "restore",
+    "explanation": "stipulate that + 原形動詞（should省略）表規定/要求的假設語氣用法。",
+    "category": "假設語氣"
+  },
+  {
+    "id": "P5-T730-124",
+    "part": 5,
+    "track": "T730",
+    "question": "The new regulation will ____ stricter environmental standards for all manufacturing facilities.",
+    "options": [
+      "call for",
+      "call off",
+      "call on",
+      "call up"
+    ],
+    "answer": "call for",
+    "explanation": "call for（要求/需要）符合法規要求更高標準的語境；call off取消，call on拜訪/呼籲，call up打電話/徵召。",
+    "category": "片語動詞"
+  },
+  {
+    "id": "P5-T730-125",
+    "part": 5,
+    "track": "T730",
+    "question": "The new branch office is expected to ____ the company's presence in the Southeast Asian market.",
+    "options": [
+      "consolidate",
+      "compensate",
+      "contemplate",
+      "contaminate"
+    ],
+    "answer": "consolidate",
+    "explanation": "consolidate（鞏固/加強）與presence搭配為商務用語；compensate補償，contemplate沉思，contaminate污染。",
+    "category": "搭配詞"
+  },
+  {
+    "id": "P5-T730-126",
+    "part": 5,
+    "track": "T730",
+    "question": "The management hopes that the restructuring will ____ productivity and reduce operational costs.",
+    "options": [
+      "bolster",
+      "bother",
+      "broker",
+      "hinder"
+    ],
+    "answer": "bolster",
+    "explanation": "bolster（提振/增強）符合提升生產力的語境；bother打擾，broker仲介，hinder妨礙。",
+    "category": "近義字彙"
+  },
+  {
+    "id": "P5-T730-127",
+    "part": 5,
+    "track": "T730",
+    "question": "The telecommunications company ____ its network infrastructure since the beginning of the year.",
+    "options": [
+      "has been upgrading",
+      "is upgrading",
+      "upgrades",
+      "upgraded"
+    ],
+    "answer": "has been upgrading",
+    "explanation": "since the beginning of the year表從過去持續至今，用現在完成進行式。",
+    "category": "時態"
+  },
+  {
+    "id": "P5-T730-128",
+    "part": 5,
+    "track": "T730",
+    "question": "The audit revealed several ____ in the financial reporting process that needed immediate correction.",
+    "options": [
+      "irregularities",
+      "irregular",
+      "irregularly",
+      "regularity"
+    ],
+    "answer": "irregularities",
+    "explanation": "形容詞several後接複數名詞irregularities（異常/違規事項）；irregular形容詞，irregularly副詞，regularity規律性。",
+    "category": "詞性"
+  },
+  {
+    "id": "P5-T730-129",
+    "part": 5,
+    "track": "T730",
+    "question": "The company was found guilty ____ violating antitrust laws in several jurisdictions.",
+    "options": [
+      "of",
+      "for",
+      "in",
+      "with"
+    ],
+    "answer": "of",
+    "explanation": "be found guilty of（被判犯有...罪）為法律術語固定搭配。",
+    "category": "介系詞"
+  },
+  {
+    "id": "P5-T730-130",
+    "part": 5,
+    "track": "T730",
+    "question": "The project was completed ahead of schedule, ____ was a testament to the team's efficiency.",
+    "options": [
+      "which",
+      "that",
+      "what",
+      "this"
+    ],
+    "answer": "which",
+    "explanation": "關係代名詞which指代前面整句（提前完成專案這件事），引導非限定形容詞子句。",
+    "category": "關係代名詞"
+  },
+  {
+    "id": "P5-T730-131",
+    "part": 5,
+    "track": "T730",
+    "question": "The board recommended that the dividend payment ____ postponed until the next fiscal quarter.",
+    "options": [
+      "be",
+      "is",
+      "was",
+      "will be"
+    ],
+    "answer": "be",
+    "explanation": "recommend that + 原形動詞（should省略）表建議，此處為被動be postponed。",
+    "category": "假設語氣"
+  },
+  {
+    "id": "P5-T730-132",
+    "part": 5,
+    "track": "T730",
+    "question": "The company had to ____ its production capacity to meet the surge in demand.",
+    "options": [
+      "ramp up",
+      "wind up",
+      "sum up",
+      "line up"
+    ],
+    "answer": "ramp up",
+    "explanation": "ramp up（增加/提升）符合提升產能以滿足需求的語境；wind up結束，sum up總結，line up安排。",
+    "category": "片語動詞"
+  },
+  {
+    "id": "P5-T730-133",
+    "part": 5,
+    "track": "T730",
+    "question": "The ____ of the new software system resulted in a 30 percent increase in operational efficiency.",
+    "options": [
+      "implementation",
+      "implication",
+      "importation",
+      "impersonation"
+    ],
+    "answer": "implementation",
+    "explanation": "implementation（實施/導入）符合導入新軟體系統的語境；implication含義/影響，importation進口，impersonation冒充。",
+    "category": "搭配詞"
+  },
+  {
+    "id": "P5-T730-134",
+    "part": 5,
+    "track": "T730",
+    "question": "The results of the two tests are ____; therefore, we can draw reliable conclusions.",
+    "options": [
+      "consistent",
+      "persistent",
+      "resistant",
+      "insistent"
+    ],
+    "answer": "consistent",
+    "explanation": "consistent（一致的/相符的）符合兩次測試結果一致的語境；persistent持續的，resistant抵抗的，insistent堅持的。",
+    "category": "近義字彙"
+  },
+  {
+    "id": "P5-T730-135",
+    "part": 5,
+    "track": "T730",
+    "question": "The company ____ a comprehensive review of its supply chain before the pandemic hit.",
+    "options": [
+      "had already conducted",
+      "already conducted",
+      "has already conducted",
+      "already conducts"
+    ],
+    "answer": "had already conducted",
+    "explanation": "過去完成式had conducted表在pandemic hit（過去時間點）之前已完成的動作。",
+    "category": "時態"
+  },
+  {
+    "id": "P5-T730-136",
+    "part": 5,
+    "track": "T730",
+    "question": "The committee reached a ____ decision after hours of deliberation.",
+    "options": [
+      "unanimous",
+      "unanimously",
+      "unanimity",
+      "unanimousness"
+    ],
+    "answer": "unanimous",
+    "explanation": "形容詞unanimous修飾名詞decision（一致決議）；與existing P5-T730-041相似但不同句型。",
+    "category": "詞性"
+  },
+  {
+    "id": "P5-T730-137",
+    "part": 5,
+    "track": "T730",
+    "question": "The new policy will come ____ effect on the first of next month.",
+    "options": [
+      "into",
+      "in",
+      "to",
+      "with"
+    ],
+    "answer": "into",
+    "explanation": "come into effect（生效）為固定片語；與existing P5-T730-042相同分類但不同時態句子。",
+    "category": "介系詞"
+  },
+  {
+    "id": "P5-T730-138",
+    "part": 5,
+    "track": "T730",
+    "question": "The training session was postponed ____ a scheduling conflict with the keynote speaker.",
+    "options": [
+      "due to",
+      "because",
+      "since",
+      "as"
+    ],
+    "answer": "due to",
+    "explanation": "due to + 名詞片語（由於行程衝突）；because/since/as需接完整子句。",
+    "category": "連接詞"
+  },
+  {
+    "id": "P5-T730-139",
+    "part": 5,
+    "track": "T730",
+    "question": "The manager consulted an expert ____ guidance proved invaluable during the merger negotiations.",
+    "options": [
+      "who",
+      "whom",
+      "whose",
+      "which"
+    ],
+    "answer": "whose",
+    "explanation": "whose為所有格關係代名詞，表示「其指導」，修飾expert。",
+    "category": "關係代名詞"
+  },
+  {
+    "id": "P5-T730-140",
+    "part": 5,
+    "track": "T730",
+    "question": "The board demanded that the executive ____ a full explanation for the discrepancies.",
+    "options": [
+      "provide",
+      "provides",
+      "provided",
+      "would provide"
+    ],
+    "answer": "provide",
+    "explanation": "demand後接that子句需用假設語氣（原形動詞），句中executive為第三人稱單數仍用provide。",
+    "category": "假設語氣"
+  },
+  {
+    "id": "P5-T730-141",
+    "part": 5,
+    "track": "T730",
+    "question": "The start-up managed to ____ a significant amount of venture capital funding in its first round.",
+    "options": [
+      "secure",
+      "scrutinize",
+      "segregate",
+      "saturate"
+    ],
+    "answer": "secure",
+    "explanation": "secure（獲得/取得）與funding搭配為商務用語；scrutinize仔細審查，segregate隔離，saturate使飽和。",
+    "category": "搭配詞"
+  },
+  {
+    "id": "P5-T730-142",
+    "part": 5,
+    "track": "T730",
+    "question": "During the merger, the HR department had to ____ the policies of both companies into a unified framework.",
+    "options": [
+      "integrate",
+      "intimidate",
+      "intoxicate",
+      "intricate"
+    ],
+    "answer": "integrate",
+    "explanation": "integrate（整合）符合整合兩家公司政策的語境；intimidate恐嚇，intoxicate使醉，intricate形容詞複雜的。",
+    "category": "片語動詞"
+  },
+  {
+    "id": "P5-T730-143",
+    "part": 5,
+    "track": "T730",
+    "question": "The results of the customer survey were ____ across different demographic groups.",
+    "options": [
+      "consistent",
+      "constant",
+      "content",
+      "conscientious"
+    ],
+    "answer": "consistent",
+    "explanation": "consistent across（在不同群體間一致）為常見搭配；constant持續不變的，content滿足的/內容，conscientious盡責的。",
+    "category": "近義字彙"
+  },
+  {
+    "id": "P5-T730-144",
+    "part": 5,
+    "track": "T730",
+    "question": "The proposal ____ carefully reviewed by the legal department before it can be approved.",
+    "options": [
+      "must be",
+      "must have been",
+      "had to be",
+      "should have been"
+    ],
+    "answer": "must be",
+    "explanation": "must be + 過去分詞表現在的必要被動語氣；其他選項暗示過去已發生或義務。",
+    "category": "時態"
+  },
+  {
+    "id": "P5-T730-145",
+    "part": 5,
+    "track": "T730",
+    "question": "The growing demand for sustainable products has led to a ____ shift in the company's sourcing strategy.",
+    "options": [
+      "significant",
+      "significance",
+      "signify",
+      "significantly"
+    ],
+    "answer": "significant",
+    "explanation": "形容詞significant修飾名詞shift（重大的轉變）；significance名詞，signify動詞，significantly副詞。",
+    "category": "詞性"
+  },
+  {
+    "id": "P5-T730-146",
+    "part": 5,
+    "track": "T730",
+    "question": "The company was criticized ____ its failure to address workplace safety concerns promptly.",
+    "options": [
+      "for",
+      "about",
+      "with",
+      "on"
+    ],
+    "answer": "for",
+    "explanation": "be criticized for（因...受到批評）為固定介係詞搭配。",
+    "category": "介系詞"
+  },
+  {
+    "id": "P5-T730-147",
+    "part": 5,
+    "track": "T730",
+    "question": "____ the early results are promising, further clinical trials are necessary before the product can be launched.",
+    "options": [
+      "While",
+      "Because",
+      "Unless",
+      "Provided that"
+    ],
+    "answer": "While",
+    "explanation": "While在此表雖然/儘管（讓步副詞子句）；Because表原因，Unless除非，Provided that只要。",
+    "category": "連接詞"
+  },
+  {
+    "id": "P5-T730-148",
+    "part": 5,
+    "track": "T730",
+    "question": "The organization, ____ mission is to promote financial literacy, has expanded its programs nationwide.",
+    "options": [
+      "whose",
+      "who",
+      "whom",
+      "which"
+    ],
+    "answer": "whose",
+    "explanation": "關係代名詞whose所有格修飾mission（其使命）。",
+    "category": "關係代名詞"
+  },
+  {
+    "id": "P5-T730-149",
+    "part": 5,
+    "track": "T730",
+    "question": "If the company ____ the warning signs earlier, it could have avoided the reputational damage.",
+    "options": [
+      "had heeded",
+      "heeded",
+      "would heed",
+      "has heeded"
+    ],
+    "answer": "had heeded",
+    "explanation": "與過去事實相反的假設，if子句用had + 過去分詞，主句用could have + 過去分詞。",
+    "category": "假設語氣"
+  },
+  {
+    "id": "P5-T730-150",
+    "part": 5,
+    "track": "T730",
+    "question": "The negotiations are expected to ____ well into the night as both sides remain far apart.",
+    "options": [
+      "drag on",
+      "fall through",
+      "give in",
+      "break off"
+    ],
+    "answer": "drag on",
+    "explanation": "drag on（拖延/持續很久）符合雙方堅持不下需長時間協商的語境；fall through失敗，give in讓步，break off中斷。",
+    "category": "片語動詞"
+  },
+  {
+    "id": "P5-T730-151",
+    "part": 5,
+    "track": "T730",
+    "question": "The company's decision to downsize was a direct ____ of the economic downturn.",
+    "options": [
+      "consequence",
+      "consciousness",
+      "conscience",
+      "conservation"
+    ],
+    "answer": "consequence",
+    "explanation": "a direct consequence of（...的直接後果）為固定搭配；consciousness意識，conscience良心，conservation保存。",
+    "category": "搭配詞"
+  },
+  {
+    "id": "P5-T730-152",
+    "part": 5,
+    "track": "T730",
+    "question": "The two products serve ____ different market segments and are not in direct competition.",
+    "options": [
+      "distinctly",
+      "distinct",
+      "distinction",
+      "distinctive"
+    ],
+    "answer": "distinctly",
+    "explanation": "副詞distinctly修飾形容詞different（明顯不同的）；distinct形容詞，distinction名詞，distinctive特殊的。",
+    "category": "近義字彙"
+  },
+  {
+    "id": "P5-T730-153",
+    "part": 5,
+    "track": "T730",
+    "question": "By the end of this decade, the company ____ its operations to ten additional countries.",
+    "options": [
+      "will have expanded",
+      "will expand",
+      "expands",
+      "has expanded"
+    ],
+    "answer": "will have expanded",
+    "explanation": "by the end of this decade搭配未來完成式，表屆時將已完成。",
+    "category": "時態"
+  },
+  {
+    "id": "P5-T730-154",
+    "part": 5,
+    "track": "T730",
+    "question": "The manager's ____ to delegate tasks effectively created a bottleneck in the workflow.",
+    "options": [
+      "inability",
+      "able",
+      "unable",
+      "ability"
+    ],
+    "answer": "inability",
+    "explanation": "所有格manager's後需接名詞inability（無法）；able/unable為形容詞，ability能力（語意不合）。",
+    "category": "詞性"
+  },
+  {
+    "id": "P5-T730-155",
+    "part": 5,
+    "track": "T730",
+    "question": "The new regulation prohibits companies ____ discriminating against employees based on age.",
+    "options": [
+      "from",
+      "to",
+      "for",
+      "against"
+    ],
+    "answer": "from",
+    "explanation": "prohibit someone from + V-ing（禁止某人做某事）為固定搭配。",
+    "category": "介系詞"
+  },
+  {
+    "id": "P5-T730-156",
+    "part": 5,
+    "track": "T730",
+    "question": "The insurance policy covers damages ____ by natural disasters such as floods and earthquakes.",
+    "options": [
+      "caused",
+      "causing",
+      "being caused",
+      "having caused"
+    ],
+    "answer": "caused",
+    "explanation": "過去分詞caused修飾damages（由自然災害造成的損害），表被動含義。",
+    "category": "連接詞"
+  },
+  {
+    "id": "P5-T730-157",
+    "part": 5,
+    "track": "T730",
+    "question": "The company hired an external consultant, ____ expertise in digital marketing was widely recognized.",
+    "options": [
+      "whose",
+      "who",
+      "whom",
+      "which"
+    ],
+    "answer": "whose",
+    "explanation": "關係代名詞whose修飾expertise，表其數位行銷專業。",
+    "category": "關係代名詞"
+  },
+  {
+    "id": "P5-T730-158",
+    "part": 5,
+    "track": "T730",
+    "question": "The contract requires that the supplier ____ all materials in compliance with international quality standards.",
+    "options": [
+      "provide",
+      "provides",
+      "provided",
+      "will provide"
+    ],
+    "answer": "provide",
+    "explanation": "require that + 原形動詞（should省略）表要求的假設語氣用法。",
+    "category": "假設語氣"
+  },
+  {
+    "id": "P5-T730-159",
+    "part": 5,
+    "track": "T730",
+    "question": "The government plans to ____ the old tax regulations with a more streamlined system.",
+    "options": [
+      "do away with",
+      "come up with",
+      "put up with",
+      "keep up with"
+    ],
+    "answer": "do away with",
+    "explanation": "do away with（廢除/擺脫）符合廢除舊法規的語境；come up with想出，put up with忍受，keep up with跟上。",
+    "category": "片語動詞"
+  },
+  {
+    "id": "P5-T730-160",
+    "part": 5,
+    "track": "T730",
+    "question": "The company's strong brand ____ gives it a competitive advantage in the luxury goods market.",
+    "options": [
+      "recognition",
+      "recollection",
+      "recommendation",
+      "reconciliation"
+    ],
+    "answer": "recognition",
+    "explanation": "brand recognition（品牌辨識度）為行銷固定搭配；recollection回憶，recommendation推薦，reconciliation和解。",
+    "category": "搭配詞"
+  },
+  {
+    "id": "P5-T730-161",
+    "part": 5,
+    "track": "T730",
+    "question": "The new policy aims to ____ the gap between the company's current practices and industry best practices.",
+    "options": [
+      "bridge",
+      "broaden",
+      "breach",
+      "brake"
+    ],
+    "answer": "bridge",
+    "explanation": "bridge the gap（縮小差距）為固定比喻用法；broaden擴大，breach違反/突破，brake煞車。",
+    "category": "近義字彙"
+  },
+  {
+    "id": "P5-T730-162",
+    "part": 5,
+    "track": "T730",
+    "question": "The employee ____ with the company for fifteen years when she decided to retire.",
+    "options": [
+      "had been",
+      "has been",
+      "was",
+      "is"
+    ],
+    "answer": "had been",
+    "explanation": "過去完成式had been表在decided to retire（過去時間點）之前已工作了十五年。",
+    "category": "時態"
+  },
+  {
+    "id": "P5-T730-163",
+    "part": 5,
+    "track": "T730",
+    "question": "The sudden departure of the CEO had a ____ effect on the company's stock price.",
+    "options": [
+      "negative",
+      "negate",
+      "negation",
+      "negatively"
+    ],
+    "answer": "negative",
+    "explanation": "形容詞negative修飾名詞effect（負面影響）；negate動詞否認/抵銷，negation名詞否定，negatively副詞。",
+    "category": "詞性"
+  },
+  {
+    "id": "P5-T730-164",
+    "part": 5,
+    "track": "T730",
+    "question": "The company was ordered to pay compensation ____ the victims of the product recall.",
+    "options": [
+      "to",
+      "for",
+      "with",
+      "by"
+    ],
+    "answer": "to",
+    "explanation": "pay compensation to someone（向某人支付賠償金）為正確介係詞搭配。",
+    "category": "介系詞"
+  },
+  {
+    "id": "P5-T730-165",
+    "part": 5,
+    "track": "T730",
+    "question": "The retail chain decided to close several underperforming stores ____ it could focus on its online operations.",
+    "options": [
+      "so that",
+      "even though",
+      "as long as",
+      "in case"
+    ],
+    "answer": "so that",
+    "explanation": "so that引導目的子句（為了能夠）；even though雖然，as long as只要，in case萬一。",
+    "category": "連接詞"
+  },
+  {
+    "id": "P5-T730-166",
+    "part": 5,
+    "track": "T730",
+    "question": "The candidate, ____ background in finance was impressive, was offered the position immediately.",
+    "options": [
+      "whose",
+      "who",
+      "whom",
+      "which"
+    ],
+    "answer": "whose",
+    "explanation": "關係代名詞whose所有格修飾background（其背景）。",
+    "category": "關係代名詞"
+  },
+  {
+    "id": "P5-T730-167",
+    "part": 5,
+    "track": "T730",
+    "question": "It is recommended that the company ____ a third-party auditor to review its financial statements.",
+    "options": [
+      "hire",
+      "hires",
+      "hired",
+      "would hire"
+    ],
+    "answer": "hire",
+    "explanation": "It is recommended that + 原形動詞（should省略）表建議的假設語氣用法。",
+    "category": "假設語氣"
+  },
+  {
+    "id": "P5-T730-168",
+    "part": 5,
+    "track": "T730",
+    "question": "The manufacturer decided to ____ production of the defective model following the safety recall.",
+    "options": [
+      "discontinue",
+      "discriminate",
+      "disintegrate",
+      "disillusion"
+    ],
+    "answer": "discontinue",
+    "explanation": "discontinue（停止/中斷）符合停止生產有缺陷型號的語境；discriminate歧視，disintegrate瓦解，disillusion使覺醒。",
+    "category": "搭配詞"
+  },
+  {
+    "id": "P5-T730-169",
+    "part": 5,
+    "track": "T730",
+    "question": "The government has pledged to ____ measures aimed at reducing carbon emissions by 2030.",
+    "options": [
+      "implement",
+      "implicate",
+      "impersonate",
+      "improvise"
+    ],
+    "answer": "implement",
+    "explanation": "implement measures（實施措施）為政策用語固定搭配；implicate牽涉，impersonate冒充，improvise即興創作。",
+    "category": "近義字彙"
+  },
+  {
+    "id": "P5-T730-170",
+    "part": 5,
+    "track": "T730",
+    "question": "The market research department ____ consumer trends for the past six months.",
+    "options": [
+      "has been analyzing",
+      "analyzes",
+      "analyzed",
+      "will analyze"
+    ],
+    "answer": "has been analyzing",
+    "explanation": "for the past six months表從過去持續至今，用現在完成進行式。",
+    "category": "時態"
+  },
+  {
+    "id": "P5-T730-171",
+    "part": 5,
+    "track": "T730",
+    "question": "The new regulation requires the ____ of all financial transactions exceeding ten thousand dollars.",
+    "options": [
+      "disclosure",
+      "disclose",
+      "disclosing",
+      "disclosed"
+    ],
+    "answer": "disclosure",
+    "explanation": "介係詞of前需名詞disclosure（揭露/公開）；disclose為動詞，disclosing動名詞，disclosed過去分詞。",
+    "category": "詞性"
+  },
+  {
+    "id": "P5-T730-172",
+    "part": 5,
+    "track": "T730",
+    "question": "The company was found to be ____ breach of its contractual obligations.",
+    "options": [
+      "in",
+      "on",
+      "at",
+      "with"
+    ],
+    "answer": "in",
+    "explanation": "in breach of（違反）為法律固定片語。",
+    "category": "介系詞"
+  },
+  {
+    "id": "P5-T730-173",
+    "part": 5,
+    "track": "T730",
+    "question": "____ the new system offers many advantages, the transition costs are substantial.",
+    "options": [
+      "While",
+      "Because",
+      "Unless",
+      "Since"
+    ],
+    "answer": "While",
+    "explanation": "While引導讓步子句（雖然新系統有許多優點），與主句形成對比。",
+    "category": "連接詞"
+  },
+  {
+    "id": "P5-T730-174",
+    "part": 5,
+    "track": "T730",
+    "question": "The project manager, ____ team had achieved exceptional results, was promoted to director.",
+    "options": [
+      "whose",
+      "who",
+      "whom",
+      "which"
+    ],
+    "answer": "whose",
+    "explanation": "關係代名詞whose所有格修飾team（其團隊）。",
+    "category": "關係代名詞"
+  },
+  {
+    "id": "P5-T730-175",
+    "part": 5,
+    "track": "T730",
+    "question": "The insurance company demanded that the policyholder ____ a detailed list of the stolen items.",
+    "options": [
+      "provide",
+      "provides",
+      "provided",
+      "would provide"
+    ],
+    "answer": "provide",
+    "explanation": "demand that + 原形動詞（should省略）表要求的假設語氣用法。",
+    "category": "假設語氣"
+  },
+  {
+    "id": "P5-T730-176",
+    "part": 5,
+    "track": "T730",
+    "question": "The supplier was unable to ____ the unexpected increase in demand during the holiday season.",
+    "options": [
+      "keep up with",
+      "put up with",
+      "come down with",
+      "go through with"
+    ],
+    "answer": "keep up with",
+    "explanation": "keep up with（跟上/應付）符合應付需求增長的語境；put up with忍受，come down with染病，go through with完成。",
+    "category": "片語動詞"
+  },
+  {
+    "id": "P5-T730-177",
+    "part": 5,
+    "track": "T730",
+    "question": "The company's innovative approach has given it a competitive ____ in the marketplace.",
+    "options": [
+      "edge",
+      "advantage",
+      "benefit",
+      "gain"
+    ],
+    "answer": "edge",
+    "explanation": "competitive edge（競爭優勢）為固定搭配，edge著重領先微差；advantage也可但edge為此片語慣用詞。",
+    "category": "搭配詞"
+  },
+  {
+    "id": "P5-T730-178",
+    "part": 5,
+    "track": "T730",
+    "question": "The revised forecast is ____ more optimistic than the initial projection released last quarter.",
+    "options": [
+      "considerably",
+      "considerate",
+      "considerable",
+      "consideration"
+    ],
+    "answer": "considerably",
+    "explanation": "副詞considerably修飾比較級more optimistic（顯著地更加樂觀）；considerate體貼的，considerable大量的，consideration名詞。",
+    "category": "近義字彙"
+  },
+  {
+    "id": "P5-T730-179",
+    "part": 5,
+    "track": "T730",
+    "question": "The auditors ____ the financial records for three hours when they discovered the discrepancy.",
+    "options": [
+      "had been examining",
+      "have examined",
+      "examined",
+      "were examining"
+    ],
+    "answer": "had been examining",
+    "explanation": "過去完成進行式had been examining強調在discovered之前已持續進行的動作。",
+    "category": "時態"
+  },
+  {
+    "id": "P5-T730-180",
+    "part": 5,
+    "track": "T730",
+    "question": "The marketing department's ____ to adapt to changing consumer behavior led to declining sales.",
+    "options": [
+      "failure",
+      "fail",
+      "failing",
+      "failed"
+    ],
+    "answer": "failure",
+    "explanation": "所有格後接名詞failure（失敗）；fail動詞，failing形容詞/分詞，failed過去分詞。",
+    "category": "詞性"
+  },
+  {
+    "id": "P5-T730-181",
+    "part": 5,
+    "track": "T730",
+    "question": "The project's viability is contingent ____ sustained collaboration across all departments.",
+    "options": [
+      "upon",
+      "on",
+      "from",
+      "with"
+    ],
+    "answer": "upon",
+    "explanation": "\"contingent upon\"為正式搭配，意為「取決於」，注意介系詞固定用upon/on，但upon更正式。",
+    "category": "介系詞"
+  },
+  {
+    "id": "P5-T730-182",
+    "part": 5,
+    "track": "T730",
+    "question": "The factory had to shut down temporarily ____ the equipment could be repaired.",
+    "options": [
+      "so that",
+      "although",
+      "unless",
+      "whereas"
+    ],
+    "answer": "so that",
+    "explanation": "so that引導目的子句（以便設備得以維修）；although雖然，unless除非，whereas然而。",
+    "category": "連接詞"
+  },
+  {
+    "id": "P5-T730-183",
+    "part": 5,
+    "track": "T730",
+    "question": "The company offers a range of services, many of ____ are tailored to small businesses.",
+    "options": [
+      "which",
+      "those",
+      "them",
+      "that"
+    ],
+    "answer": "which",
+    "explanation": "many of which為關係代名詞which引導非限定子句，指前面services中的許多。",
+    "category": "關係代名詞"
+  },
+  {
+    "id": "P5-T730-184",
+    "part": 5,
+    "track": "T730",
+    "question": "The contract stipulated that no changes ____ made without the written consent of both parties.",
+    "options": [
+      "be",
+      "are",
+      "will be",
+      "have been"
+    ],
+    "answer": "be",
+    "explanation": "stipulate that + 原形動詞（should省略），被動態be made。",
+    "category": "假設語氣"
+  },
+  {
+    "id": "P5-T730-185",
+    "part": 5,
+    "track": "T730",
+    "question": "The company had to ____ its expansion plans due to unfavorable market conditions.",
+    "options": [
+      "scale back",
+      "step up",
+      "speed up",
+      "start off"
+    ],
+    "answer": "scale back",
+    "explanation": "scale back（縮減）符合因市場不利而縮小擴張計劃的語境；step up加強，speed up加速，start off開始。",
+    "category": "片語動詞"
+  },
+  {
+    "id": "P5-T730-186",
+    "part": 5,
+    "track": "T730",
+    "question": "The new software has significantly improved the ____ of data processing operations.",
+    "options": [
+      "efficiency",
+      "effectiveness",
+      "efficacy",
+      "effort"
+    ],
+    "answer": "efficiency",
+    "explanation": "efficiency（效率）與data processing搭配最適；effectiveness有效性，efficacy藥效/功效，effort努力。",
+    "category": "搭配詞"
+  },
+  {
+    "id": "P5-T730-187",
+    "part": 5,
+    "track": "T730",
+    "question": "The presentation was informative, but it was far too ____ for the audience to follow.",
+    "options": [
+      "lengthy",
+      "length",
+      "lengthen",
+      "lengthwise"
+    ],
+    "answer": "lengthy",
+    "explanation": "too後接形容詞lengthy（冗長的）；length名詞，lengthen動詞，lengthwise副詞/形容詞縱向的。",
+    "category": "近義字彙"
+  },
+  {
+    "id": "P5-T730-188",
+    "part": 5,
+    "track": "T730",
+    "question": "The sales team ____ their targets for the fourth consecutive quarter.",
+    "options": [
+      "have exceeded",
+      "exceeded",
+      "had exceeded",
+      "will exceed"
+    ],
+    "answer": "have exceeded",
+    "explanation": "現在完成式have exceeded表持續到現在的成就（連續四季），不限於特定過去時間。",
+    "category": "時態"
+  },
+  {
+    "id": "P5-T730-189",
+    "part": 5,
+    "track": "T730",
+    "question": "The board expressed its ____ approval of the proposed restructuring plan.",
+    "options": [
+      "unanimous",
+      "unanimously",
+      "unanimity",
+      "unanimousness"
+    ],
+    "answer": "unanimous",
+    "explanation": "形容詞unanimous修飾approval（一致贊成）；unanimously副詞，unanimity名詞。",
+    "category": "詞性"
+  },
+  {
+    "id": "P5-T730-190",
+    "part": 5,
+    "track": "T730",
+    "question": "The company channeled significant resources ____ the development of proprietary technology.",
+    "options": [
+      "into",
+      "to",
+      "for",
+      "with"
+    ],
+    "answer": "into",
+    "explanation": "\"channel into\"意為將資源引導/投入某事，為進階商業英語搭配。",
+    "category": "介系詞"
+  },
+  {
+    "id": "P5-T730-191",
+    "part": 5,
+    "track": "T730",
+    "question": "____ the market conditions were unfavorable, the company managed to achieve steady growth.",
+    "options": [
+      "Although",
+      "Because",
+      "Unless",
+      "Until"
+    ],
+    "answer": "Although",
+    "explanation": "Although引導讓步子句（雖然市場不利），與主句成長形成對比。",
+    "category": "連接詞"
+  },
+  {
+    "id": "P5-T730-192",
+    "part": 5,
+    "track": "T730",
+    "question": "The warehouse, ____ inventory system had not been updated, was found to have significant stock discrepancies.",
+    "options": [
+      "whose",
+      "who",
+      "whom",
+      "which"
+    ],
+    "answer": "whose",
+    "explanation": "關係代名詞whose所有格修飾inventory system（其庫存系統）。",
+    "category": "關係代名詞"
+  },
+  {
+    "id": "P5-T730-193",
+    "part": 5,
+    "track": "T730",
+    "question": "The manager gave explicit instructions that the report ____ on her desk by 9 AM.",
+    "options": [
+      "be",
+      "is",
+      "was",
+      "will be"
+    ],
+    "answer": "be",
+    "explanation": "instructions that + 原形動詞（should省略）表指示的假設語氣用法。",
+    "category": "假設語氣"
+  },
+  {
+    "id": "P5-T730-194",
+    "part": 5,
+    "track": "T730",
+    "question": "The company needs to ____ ways to reduce its carbon footprint in line with new environmental regulations.",
+    "options": [
+      "look into",
+      "look after",
+      "look over",
+      "look through"
+    ],
+    "answer": "look into",
+    "explanation": "look into（調查/研究）符合研究減碳方法的語境；look after照顧，look over檢查，look through瀏覽。",
+    "category": "片語動詞"
+  },
+  {
+    "id": "P5-T730-195",
+    "part": 5,
+    "track": "T730",
+    "question": "The consultancy firm specializes in providing ____ advice to multinational corporations.",
+    "options": [
+      "strategic",
+      "strategize",
+      "strategy",
+      "strategies"
+    ],
+    "answer": "strategic",
+    "explanation": "形容詞strategic修飾advice（策略性建議）；strategize動詞，strategy名詞單數，strategies名詞複數。",
+    "category": "搭配詞"
+  },
+  {
+    "id": "P5-T730-196",
+    "part": 5,
+    "track": "T730",
+    "question": "The new regulation is ____ to all companies operating within the European Union.",
+    "options": [
+      "applicable",
+      "application",
+      "apply",
+      "applied"
+    ],
+    "answer": "applicable",
+    "explanation": "be applicable to（適用於）為形容詞固定搭配；application名詞，apply動詞，applied過去分詞。",
+    "category": "近義字彙"
+  },
+  {
+    "id": "P5-T730-197",
+    "part": 5,
+    "track": "T730",
+    "question": "The procurement department ____ for a new vendor management system since last quarter.",
+    "options": [
+      "has been searching",
+      "searches",
+      "searched",
+      "will search"
+    ],
+    "answer": "has been searching",
+    "explanation": "since last quarter表從過去持續至今，用現在完成進行式has been searching。",
+    "category": "時態"
+  },
+  {
+    "id": "P5-T730-198",
+    "part": 5,
+    "track": "T730",
+    "question": "The announcement of the partnership was met with considerable ____ from industry analysts.",
+    "options": [
+      "skepticism",
+      "skeptical",
+      "skeptically",
+      "skeptic"
+    ],
+    "answer": "skepticism",
+    "explanation": "介係詞with後接名詞skepticism（懷疑）；skeptical形容詞，skeptically副詞，skeptic名詞懷疑論者。",
+    "category": "詞性"
+  },
+  {
+    "id": "P5-T730-199",
+    "part": 5,
+    "track": "T730",
+    "question": "The CEO took full responsibility ____ the failed acquisition attempt.",
+    "options": [
+      "for",
+      "of",
+      "over",
+      "with"
+    ],
+    "answer": "for",
+    "explanation": "take responsibility for（對...負責）為固定搭配。",
+    "category": "介系詞"
+  },
+  {
+    "id": "P5-T730-200",
+    "part": 5,
+    "track": "T730",
+    "question": "____ the new software is more expensive, it offers significantly better data security features.",
+    "options": [
+      "While",
+      "Since",
+      "Because",
+      "Unless"
+    ],
+    "answer": "While",
+    "explanation": "While在此表雖然（讓步），對比價格更高與功能更好的矛盾。",
+    "category": "連接詞"
+  },
+  {
+    "id": "P5-T730-201",
+    "part": 5,
+    "track": "T730",
+    "question": "The consultant proposed a solution, the ____ of which would take approximately six months.",
+    "options": [
+      "implementation",
+      "implement",
+      "implemented",
+      "implementing"
+    ],
+    "answer": "implementation",
+    "explanation": "the implementation of which（其實施）中implementation為名詞；其他為動詞/分詞形式。",
+    "category": "關係代名詞"
+  },
+  {
+    "id": "P5-T730-202",
+    "part": 5,
+    "track": "T730",
+    "question": "It is imperative that the company ____ immediate action to address the security vulnerability.",
+    "options": [
+      "take",
+      "takes",
+      "took",
+      "will take"
+    ],
+    "answer": "take",
+    "explanation": "It is imperative that + 原形動詞（should省略）表緊迫重要性的假設語氣。",
+    "category": "假設語氣"
+  },
+  {
+    "id": "P5-T730-203",
+    "part": 5,
+    "track": "T730",
+    "question": "The retailer decided to ____ the unpopular product line after declining sales for three consecutive quarters.",
+    "options": [
+      "discontinue",
+      "distinguish",
+      "distort",
+      "dispatch"
+    ],
+    "answer": "discontinue",
+    "explanation": "discontinue（停止/終止）符合停止產品線的語境；distinguish區別，distort扭曲，dispatch派遣。",
+    "category": "片語動詞"
+  },
+  {
+    "id": "P5-T730-204",
+    "part": 5,
+    "track": "T730",
+    "question": "The company's ____ to quality has earned it a loyal customer base over the years.",
+    "options": [
+      "commitment",
+      "commission",
+      "commencement",
+      "commendation"
+    ],
+    "answer": "commitment",
+    "explanation": "commitment to quality（對品質的承諾）為固定搭配；commission委員會/佣金，commencement開始，commendation表揚。",
+    "category": "搭配詞"
+  },
+  {
+    "id": "P5-T730-205",
+    "part": 5,
+    "track": "T730",
+    "question": "The two products appear similar on the surface but are fundamentally different in their ____ and design.",
+    "options": [
+      "functionality",
+      "function",
+      "functional",
+      "functionally"
+    ],
+    "answer": "functionality",
+    "explanation": "functionality（功能性/功能設計）為產品用語，與design並列；function功能（單一），functional形容詞。",
+    "category": "近義字彙"
+  },
+  {
+    "id": "P5-T730-206",
+    "part": 5,
+    "track": "T730",
+    "question": "The HR department ____ the new performance evaluation system for three months before rolling it out company-wide.",
+    "options": [
+      "had been testing",
+      "has tested",
+      "tests",
+      "will test"
+    ],
+    "answer": "had been testing",
+    "explanation": "過去完成進行式had been testing表在roll out（過去時間點）之前持續進行的測試。",
+    "category": "時態"
+  },
+  {
+    "id": "P5-T730-207",
+    "part": 5,
+    "track": "T730",
+    "question": "The lawyer questioned the ____ of the contract given the ambiguous wording in several clauses.",
+    "options": [
+      "validity",
+      "valid",
+      "validate",
+      "validly"
+    ],
+    "answer": "validity",
+    "explanation": "the validity of the contract（合約的有效性）中validity為名詞；valid形容詞，validate動詞，validly副詞。",
+    "category": "詞性"
+  },
+  {
+    "id": "P5-T730-208",
+    "part": 5,
+    "track": "T730",
+    "question": "The success of the event was largely attributable ____ the meticulous planning of the organizing committee.",
+    "options": [
+      "to",
+      "for",
+      "with",
+      "by"
+    ],
+    "answer": "to",
+    "explanation": "be attributable to（歸因於）為正式書面用語。",
+    "category": "介系詞"
+  },
+  {
+    "id": "P5-T730-209",
+    "part": 5,
+    "track": "T730",
+    "question": "____ the company's revenue has increased, its profit margins have continued to shrink.",
+    "options": [
+      "While",
+      "Since",
+      "Because",
+      "As long as"
+    ],
+    "answer": "While",
+    "explanation": "While在此表同時對比（雖然營收增加，但利潤縮水）。",
+    "category": "連接詞"
+  },
+  {
+    "id": "P5-T730-210",
+    "part": 5,
+    "track": "T730",
+    "question": "The company launched a new product line, most of ____ was well received by critics.",
+    "options": [
+      "which",
+      "that",
+      "them",
+      "those"
+    ],
+    "answer": "which",
+    "explanation": "most of which引導關係子句修飾product line。",
+    "category": "關係代名詞"
+  },
+  {
+    "id": "P5-T730-211",
+    "part": 5,
+    "track": "T730",
+    "question": "The regulation requires that all employees ____ the mandatory safety training annually.",
+    "options": [
+      "complete",
+      "completes",
+      "completed",
+      "will complete"
+    ],
+    "answer": "complete",
+    "explanation": "require that + 原形動詞（should省略）表要求的假設語氣。",
+    "category": "假設語氣"
+  },
+  {
+    "id": "P5-T730-212",
+    "part": 5,
+    "track": "T730",
+    "question": "The company plans to ____ its market share by acquiring several smaller competitors.",
+    "options": [
+      "bolster",
+      "bother",
+      "broker",
+      "badger"
+    ],
+    "answer": "bolster",
+    "explanation": "bolster（增強/鞏固）與market share搭配為商務用語；bother打擾，broker仲介，badger糾纏。",
+    "category": "片語動詞"
+  },
+  {
+    "id": "P5-T730-213",
+    "part": 5,
+    "track": "T730",
+    "question": "The company has established a strong ____ in the renewable energy sector over the past decade.",
+    "options": [
+      "presence",
+      "presentation",
+      "presentment",
+      "preservation"
+    ],
+    "answer": "presence",
+    "explanation": "establish a presence in（在...建立據點/存在感）為商務固定搭配；presentation簡報，presentment呈遞/預感，preservation保存。",
+    "category": "搭配詞"
+  },
+  {
+    "id": "P5-T730-214",
+    "part": 5,
+    "track": "T730",
+    "question": "The CEO's vision for the company's future was both ambitious and ____, inspiring confidence among investors.",
+    "options": [
+      "compelling",
+      "compel",
+      "compelled",
+      "compulsion"
+    ],
+    "answer": "compelling",
+    "explanation": "形容詞compelling（令人信服的/具說服力的）與ambitious並列；compel動詞，compelled過去分詞，compulsion名詞強迫。",
+    "category": "近義字彙"
+  },
+  {
+    "id": "P5-T730-215",
+    "part": 5,
+    "track": "T730",
+    "question": "The investigation into the accounting irregularities ____ since early last year.",
+    "options": [
+      "has been ongoing",
+      "is ongoing",
+      "was ongoing",
+      "had been ongoing"
+    ],
+    "answer": "has been ongoing",
+    "explanation": "since early last year搭配現在完成式或現在完成進行式，表從過去持續至今。",
+    "category": "時態"
+  },
+  {
+    "id": "P5-T730-216",
+    "part": 5,
+    "track": "T730",
+    "question": "The speaker's ____ on the future of artificial intelligence captivated the audience.",
+    "options": [
+      "insights",
+      "incidents",
+      "inquiries",
+      "incentives"
+    ],
+    "answer": "insights",
+    "explanation": "insights on（對...的深刻見解）為搭配名詞；incidents事件，inquiries詢問，incentives誘因。",
+    "category": "詞性"
+  },
+  {
+    "id": "P5-T730-217",
+    "part": 5,
+    "track": "T730",
+    "question": "The company was accused ____ engaging in unfair trade practices.",
+    "options": [
+      "of",
+      "for",
+      "with",
+      "about"
+    ],
+    "answer": "of",
+    "explanation": "be accused of（被指控犯有...）為法律固定搭配。",
+    "category": "介系詞"
+  },
+  {
+    "id": "P5-T730-218",
+    "part": 5,
+    "track": "T730",
+    "question": "____ the cost of raw materials has risen sharply, the company has managed to maintain its profit margins.",
+    "options": [
+      "Even though",
+      "Because",
+      "Since",
+      "Now that"
+    ],
+    "answer": "Even though",
+    "explanation": "Even though（即使/儘管）表強烈讓步；Because/Since因為，Now that既然。",
+    "category": "連接詞"
+  },
+  {
+    "id": "P5-T730-219",
+    "part": 5,
+    "track": "T730",
+    "question": "The company has three regional offices, each of ____ is responsible for its own profit and loss.",
+    "options": [
+      "which",
+      "them",
+      "those",
+      "that"
+    ],
+    "answer": "which",
+    "explanation": "each of which引導關係子句修飾offices。",
+    "category": "關係代名詞"
+  },
+  {
+    "id": "P5-T730-220",
+    "part": 5,
+    "track": "T730",
+    "question": "The advisory board recommended that the company ____ its investment in emerging technologies.",
+    "options": [
+      "increase",
+      "increases",
+      "increased",
+      "would increase"
+    ],
+    "answer": "increase",
+    "explanation": "recommend that + 原形動詞（should省略）表建議的假設語氣用法。",
+    "category": "假設語氣"
+  }
+]

@@ -8,30 +8,54 @@
       {
         "id": "L4-T730-001-Q1",
         "question": "What is implied about the marketing strategy going forward?",
-        "options": ["It will focus on television commercials", "It will shift toward online advertising", "It will remain unchanged", "It will involve hiring more staff"],
+        "options": [
+          "It will focus on television commercials",
+          "It will shift toward online advertising",
+          "It will remain unchanged",
+          "It will involve hiring more staff"
+        ],
         "answer": "It will shift toward online advertising",
-        "explanation": "預算削減後說話者暗示需優先選擇數位通路而非傳統印刷廣告，因此行銷策略將轉向線上。"
+        "explanation": "預算削減後說話者暗示需優先選擇數位通路而非傳統印刷廣告，因此行銷策略將轉向線上。",
+        "category": "推論"
       },
       {
         "id": "L4-T730-001-Q2",
         "question": "What problem was identified in the client feedback?",
-        "options": ["Poor product quality", "Late deliveries", "High prices", "Unhelpful customer service"],
+        "options": [
+          "Poor product quality",
+          "Late deliveries",
+          "High prices",
+          "Unhelpful customer service"
+        ],
         "answer": "Late deliveries",
-        "explanation": "客戶抱怨集中在delayed shipping times，即出貨延遲問題。"
+        "explanation": "客戶抱怨集中在delayed shipping times，即出貨延遲問題。",
+        "category": "細節"
       },
       {
         "id": "L4-T730-001-Q3",
         "question": "What can be inferred about the speaker's expectation for the meeting?",
-        "options": ["It will be a short informal chat", "It will run longer than usual", "It will focus only on the budget", "It will involve a guest speaker"],
+        "options": [
+          "It will be a short informal chat",
+          "It will run longer than usual",
+          "It will focus only on the budget",
+          "It will involve a guest speaker"
+        ],
         "answer": "It will run longer than usual",
-        "explanation": "說話者要求簡報精簡因為有很多內容要討論，暗示會議可能比平常長。"
+        "explanation": "說話者要求簡報精簡因為有很多內容要討論，暗示會議可能比平常長。",
+        "category": "推論"
       },
       {
         "id": "L4-T730-001-Q4",
         "question": "When must the budget proposals be submitted?",
-        "options": ["By the end of this month", "By this Friday", "By next Monday", "By the end of the quarter"],
+        "options": [
+          "By the end of this month",
+          "By this Friday",
+          "By next Monday",
+          "By the end of the quarter"
+        ],
         "answer": "By this Friday",
-        "explanation": "各部門主管需在本週五前提交修訂後的預算提案。"
+        "explanation": "各部門主管需在本週五前提交修訂後的預算提案。",
+        "category": "數字時間"
       }
     ]
   },
@@ -44,23 +68,41 @@
       {
         "id": "L4-T730-002-Q1",
         "question": "What is the main purpose of this message?",
-        "options": ["To apologize for a system error", "To provide a solution to a technical issue", "To announce a software upgrade", "To schedule a training session"],
+        "options": [
+          "To apologize for a system error",
+          "To provide a solution to a technical issue",
+          "To announce a software upgrade",
+          "To schedule a training session"
+        ],
         "answer": "To provide a solution to a technical issue",
-        "explanation": "IT人員回覆之前回報的軟體問題，並提供解決方案。"
+        "explanation": "IT人員回覆之前回報的軟體問題，並提供解決方案。",
+        "category": "主旨"
       },
       {
         "id": "L4-T730-002-Q2",
         "question": "What does the speaker suggest Jennifer do before installing the patch?",
-        "options": ["Contact the vendor", "Delete old files", "Back up her data", "Restart her computer"],
+        "options": [
+          "Contact the vendor",
+          "Delete old files",
+          "Back up her data",
+          "Restart her computer"
+        ],
         "answer": "Back up her data",
-        "explanation": "安裝前必須先備份檔案，因為安裝過程可能影響本地資料。暗示了預防措施的重要性。"
+        "explanation": "安裝前必須先備份檔案，因為安裝過程可能影響本地資料。暗示了預防措施的重要性。",
+        "category": "推論"
       },
       {
         "id": "L4-T730-002-Q3",
         "question": "What can be inferred about the relationship between the two speakers?",
-        "options": ["They work in the same department", "They are manager and subordinate", "Mark provides technical support to Jennifer", "They are external vendors"],
+        "options": [
+          "They work in the same department",
+          "They are manager and subordinate",
+          "Mark provides technical support to Jennifer",
+          "They are external vendors"
+        ],
         "answer": "Mark provides technical support to Jennifer",
-        "explanation": "Mark來自IT支援台，正在回覆Jennifer的報修單，屬於技術支援關係。"
+        "explanation": "Mark來自IT支援台，正在回覆Jennifer的報修單，屬於技術支援關係。",
+        "category": "推論"
       }
     ]
   },
@@ -73,23 +115,41 @@
       {
         "id": "L4-T730-003-Q1",
         "question": "What is the speaker's attitude toward the upcoming changes?",
-        "options": ["Excited and enthusiastic", "Reassuring but realistic", "Disappointed and critical", "Uncertain and hesitant"],
+        "options": [
+          "Excited and enthusiastic",
+          "Reassuring but realistic",
+          "Disappointed and critical",
+          "Uncertain and hesitant"
+        ],
         "answer": "Reassuring but realistic",
-        "explanation": "說話者一方面安撫員工沒有大量裁員計畫，但也誠實提到職務可能調整，態度是安撫且務實的。"
+        "explanation": "說話者一方面安撫員工沒有大量裁員計畫，但也誠實提到職務可能調整，態度是安撫且務實的。",
+        "category": "細節"
       },
       {
         "id": "L4-T730-003-Q2",
         "question": "What will happen to the current five divisions?",
-        "options": ["They will remain unchanged", "They will be expanded to seven", "They will be merged into three", "They will be outsourced"],
+        "options": [
+          "They will remain unchanged",
+          "They will be expanded to seven",
+          "They will be merged into three",
+          "They will be outsourced"
+        ],
         "answer": "They will be merged into three",
-        "explanation": "現有的五個部門將整併為三個：業務行銷、營運、產品開發。"
+        "explanation": "現有的五個部門將整併為三個：業務行銷、營運、產品開發。",
+        "category": "細節"
       },
       {
         "id": "L4-T730-003-Q3",
         "question": "What does the speaker imply might happen to some employees?",
-        "options": ["They will lose their jobs", "They may be transferred to other offices", "They will receive a pay raise", "They will be promoted"],
+        "options": [
+          "They will lose their jobs",
+          "They may be transferred to other offices",
+          "They will receive a pay raise",
+          "They will be promoted"
+        ],
         "answer": "They may be transferred to other offices",
-        "explanation": "雖無大量裁員，但部分員工可能被調到不同辦公室（relocated to different offices）。"
+        "explanation": "雖無大量裁員，但部分員工可能被調到不同辦公室（relocated to different offices）。",
+        "category": "推論"
       }
     ]
   },
@@ -102,23 +162,41 @@
       {
         "id": "L4-T730-004-Q1",
         "question": "What should participants do first according to the speaker?",
-        "options": ["Introduce themselves", "Check their assigned track", "Pick up a name badge", "Find their seat"],
+        "options": [
+          "Introduce themselves",
+          "Check their assigned track",
+          "Pick up a name badge",
+          "Find their seat"
+        ],
         "answer": "Check their assigned track",
-        "explanation": "參與者應先查閱註冊資料袋確認自己被分配到哪個track。"
+        "explanation": "參與者應先查閱註冊資料袋確認自己被分配到哪個track。",
+        "category": "細節"
       },
       {
         "id": "L4-T730-004-Q2",
         "question": "What is suggested about the Risk Assessment session?",
-        "options": ["It will be mostly lecture-based", "It involves hands-on work with a handout", "It has been canceled", "It requires prior certification"],
+        "options": [
+          "It will be mostly lecture-based",
+          "It involves hands-on work with a handout",
+          "It has been canceled",
+          "It requires prior certification"
+        ],
         "answer": "It involves hands-on work with a handout",
-        "explanation": "風險評估組需要帶案例研究 handout 進行大量實作，暗示這是互動式環節。"
+        "explanation": "風險評估組需要帶案例研究 handout 進行大量實作，暗示這是互動式環節。",
+        "category": "推論"
       },
       {
         "id": "L4-T730-004-Q3",
         "question": "What can be inferred about some participants?",
-        "options": ["They registered late", "They did not bring their handout", "They are attending the wrong track", "They have not paid the fee"],
+        "options": [
+          "They registered late",
+          "They did not bring their handout",
+          "They are attending the wrong track",
+          "They have not paid the fee"
+        ],
         "answer": "They did not bring their handout",
-        "explanation": "說話者提到忘記帶handout的人可以去報到台領取，暗示確實有人沒帶。"
+        "explanation": "說話者提到忘記帶handout的人可以去報到台領取，暗示確實有人沒帶。",
+        "category": "推論"
       }
     ]
   },
@@ -131,23 +209,41 @@
       {
         "id": "L4-T730-005-Q1",
         "question": "Where is the primary evacuation assembly point?",
-        "options": ["The main lobby", "The east parking lot", "The west entrance", "The north gate"],
+        "options": [
+          "The main lobby",
+          "The east parking lot",
+          "The west entrance",
+          "The north gate"
+        ],
         "answer": "The east parking lot",
-        "explanation": "主要疏散集合點為building on the east side的停車場。"
+        "explanation": "主要疏散集合點為building on the east side的停車場。",
+        "category": "細節"
       },
       {
         "id": "L4-T730-005-Q2",
         "question": "What instruction is given for people with mobility difficulties?",
-        "options": ["Use the elevator carefully", "Wait at the stairwell for help", "Exit through the main entrance", "Stay in their current location"],
+        "options": [
+          "Use the elevator carefully",
+          "Wait at the stairwell for help",
+          "Exit through the main entrance",
+          "Stay in their current location"
+        ],
         "answer": "Wait at the stairwell for help",
-        "explanation": "行動不便者應前往最近的樓梯間等待安全人員協助。"
+        "explanation": "行動不便者應前往最近的樓梯間等待安全人員協助。",
+        "category": "細節"
       },
       {
         "id": "L4-T730-005-Q3",
         "question": "What does the speaker imply about the east exit?",
-        "options": ["It is the only exit available", "It may not always be accessible", "It is reserved for staff only", "It leads to a different building"],
+        "options": [
+          "It is the only exit available",
+          "It may not always be accessible",
+          "It is reserved for staff only",
+          "It leads to a different building"
+        ],
         "answer": "It may not always be accessible",
-        "explanation": "說話者提到if the east exit is blocked則需使用西側集合點，暗示東側出口可能在某些情況下無法使用。"
+        "explanation": "說話者提到if the east exit is blocked則需使用西側集合點，暗示東側出口可能在某些情況下無法使用。",
+        "category": "推論"
       }
     ]
   },
@@ -160,23 +256,41 @@
       {
         "id": "L4-T730-006-Q1",
         "question": "Why was the flight changed to a red-eye departure?",
-        "options": ["The original flight was canceled", "To reduce travel costs", "The client requested a later arrival", "To accommodate a schedule conflict"],
+        "options": [
+          "The original flight was canceled",
+          "To reduce travel costs",
+          "The client requested a later arrival",
+          "To accommodate a schedule conflict"
+        ],
         "answer": "To reduce travel costs",
-        "explanation": "更改為深夜航班可為公司節省約三百美元，目的是降低成本。"
+        "explanation": "更改為深夜航班可為公司節省約三百美元，目的是降低成本。",
+        "category": "細節"
       },
       {
         "id": "L4-T730-006-Q2",
         "question": "What can be inferred about the hotel reservation?",
-        "options": ["It was canceled due to policy changes", "It has been adjusted for a late arrival", "It has been moved to a different hotel", "It requires a deposit"],
+        "options": [
+          "It was canceled due to policy changes",
+          "It has been adjusted for a late arrival",
+          "It has been moved to a different hotel",
+          "It requires a deposit"
+        ],
         "answer": "It has been adjusted for a late arrival",
-        "explanation": "入住時間從週二下午延至週三早上，飯店已知會保留預訂，暗示已配合深夜航班做了調整。"
+        "explanation": "入住時間從週二下午延至週三早上，飯店已知會保留預訂，暗示已配合深夜航班做了調整。",
+        "category": "推論"
       },
       {
         "id": "L4-T730-006-Q3",
         "question": "Who is responsible for the meeting rescheduling?",
-        "options": ["The speaker", "The regional partners", "The hotel staff", "The airline company"],
+        "options": [
+          "The speaker",
+          "The regional partners",
+          "The hotel staff",
+          "The airline company"
+        ],
         "answer": "The regional partners",
-        "explanation": "會議改期是因為regional partners方面有行程衝突。"
+        "explanation": "會議改期是因為regional partners方面有行程衝突。",
+        "category": "細節"
       }
     ]
   },
@@ -189,23 +303,41 @@
       {
         "id": "L4-T730-007-Q1",
         "question": "What concern does the speaker raise about the customer service team?",
-        "options": ["They have high staff turnover", "Their satisfaction scores have dropped", "They are understaffed", "They lack proper training"],
+        "options": [
+          "They have high staff turnover",
+          "Their satisfaction scores have dropped",
+          "They are understaffed",
+          "They lack proper training"
+        ],
         "answer": "Their satisfaction scores have dropped",
-        "explanation": "客服部門的客戶滿意度分數在過去兩個月明顯下降。"
+        "explanation": "客服部門的客戶滿意度分數在過去兩個月明顯下降。",
+        "category": "細節"
       },
       {
         "id": "L4-T730-007-Q2",
         "question": "What does the speaker imply about the company's overall performance?",
-        "options": ["It is declining in all areas", "It is strong but has some concerns", "It exceeds expectations", "It needs a complete restructuring"],
+        "options": [
+          "It is declining in all areas",
+          "It is strong but has some concerns",
+          "It exceeds expectations",
+          "It needs a complete restructuring"
+        ],
         "answer": "It is strong but has some concerns",
-        "explanation": "說話者對整體進展感到滿意，銷售表現良好，但也點出客服滿意度下滑的問題。"
+        "explanation": "說話者對整體進展感到滿意，銷售表現良好，但也點出客服滿意度下滑的問題。",
+        "category": "推論"
       },
       {
         "id": "L4-T730-007-Q3",
         "question": "What is the marketing department being praised for?",
-        "options": ["Budget management", "A social media campaign", "Product innovation", "Team collaboration"],
+        "options": [
+          "Budget management",
+          "A social media campaign",
+          "Product innovation",
+          "Team collaboration"
+        ],
         "answer": "A social media campaign",
-        "explanation": "行銷部門最近的社群媒體活動使線上互動率提升25%，受到讚揚。"
+        "explanation": "行銷部門最近的社群媒體活動使線上互動率提升25%，受到讚揚。",
+        "category": "細節"
       }
     ]
   },
@@ -218,23 +350,41 @@
       {
         "id": "L4-T730-008-Q1",
         "question": "What was the original revenue growth projection?",
-        "options": ["Three percent", "Eight percent", "Twelve percent", "Thirty percent"],
+        "options": [
+          "Three percent",
+          "Eight percent",
+          "Twelve percent",
+          "Thirty percent"
+        ],
         "answer": "Eight percent",
-        "explanation": "公司最初預測營收成長8%，實際達到12%，超出預期。"
+        "explanation": "公司最初預測營收成長8%，實際達到12%，超出預期。",
+        "category": "細節"
       },
       {
         "id": "L4-T730-008-Q2",
         "question": "What factor negatively affected the company's profits?",
-        "options": ["Low sales in Europe", "Higher material costs", "Currency exchange rates", "Increased labor expenses"],
+        "options": [
+          "Low sales in Europe",
+          "Higher material costs",
+          "Currency exchange rates",
+          "Increased labor expenses"
+        ],
         "answer": "Higher material costs",
-        "explanation": "供應鏈環節中rising material costs使利潤率下降約3%。"
+        "explanation": "供應鏈環節中rising material costs使利潤率下降約3%。",
+        "category": "細節"
       },
       {
         "id": "L4-T730-008-Q3",
         "question": "What does the speaker imply about the company's future strategy?",
-        "options": ["It will focus on domestic expansion", "It will prioritize sustainability and partnerships", "It will reduce investment in R&D", "It will withdraw from Southeast Asia"],
+        "options": [
+          "It will focus on domestic expansion",
+          "It will prioritize sustainability and partnerships",
+          "It will reduce investment in R&D",
+          "It will withdraw from Southeast Asia"
+        ],
         "answer": "It will prioritize sustainability and partnerships",
-        "explanation": "未來將投資研發永續包裝解決方案，並探索與歐洲兩大經銷商合作，暗示永續與合作為核心策略。"
+        "explanation": "未來將投資研發永續包裝解決方案，並探索與歐洲兩大經銷商合作，暗示永續與合作為核心策略。",
+        "category": "推論"
       }
     ]
   },
@@ -247,23 +397,41 @@
       {
         "id": "L4-T730-009-Q1",
         "question": "What caused the delay in the software release?",
-        "options": ["Insufficient funding", "Compatibility issues found in testing", "A change in management", "Staff shortage in development"],
+        "options": [
+          "Insufficient funding",
+          "Compatibility issues found in testing",
+          "A change in management",
+          "Staff shortage in development"
+        ],
         "answer": "Compatibility issues found in testing",
-        "explanation": "Beta測試中發現與舊版作業系統的相容性問題，導致需要延期。"
+        "explanation": "Beta測試中發現與舊版作業系統的相容性問題，導致需要延期。",
+        "category": "細節"
       },
       {
         "id": "L4-T730-009-Q2",
         "question": "What additional reason is given for the delay?",
-        "options": ["Legal approval is pending", "Marketing requested new features", "The development team is too busy", "The budget needs revision"],
+        "options": [
+          "Legal approval is pending",
+          "Marketing requested new features",
+          "The development team is too busy",
+          "The budget needs revision"
+        ],
         "answer": "Marketing requested new features",
-        "explanation": "延期也讓團隊有時間納入行銷部門上個月要求的新功能。"
+        "explanation": "延期也讓團隊有時間納入行銷部門上個月要求的新功能。",
+        "category": "細節"
       },
       {
         "id": "L4-T730-009-Q3",
         "question": "What does the speaker imply the documentation team should do?",
-        "options": ["Wait until development is finished", "Start working on the user manual now", "Focus on testing instead", "Collaborate with the marketing team"],
+        "options": [
+          "Wait until development is finished",
+          "Start working on the user manual now",
+          "Focus on testing instead",
+          "Collaborate with the marketing team"
+        ],
         "answer": "Start working on the user manual now",
-        "explanation": "說話者建議文件團隊現在就開始起草使用手冊，才能在開發完成時準備就緒。"
+        "explanation": "說話者建議文件團隊現在就開始起草使用手冊，才能在開發完成時準備就緒。",
+        "category": "推論"
       }
     ]
   },
@@ -276,23 +444,41 @@
       {
         "id": "L4-T730-010-Q1",
         "question": "What is the purpose of this message?",
-        "options": ["To announce a rate increase", "To notify about policy expiration", "To introduce a new insurance plan", "To request payment for a claim"],
+        "options": [
+          "To announce a rate increase",
+          "To notify about policy expiration",
+          "To introduce a new insurance plan",
+          "To request payment for a claim"
+        ],
         "answer": "To notify about policy expiration",
-        "explanation": "保險公司通知客戶汽車保單即將在9月30日到期。"
+        "explanation": "保險公司通知客戶汽車保單即將在9月30日到期。",
+        "category": "主旨"
       },
       {
         "id": "L4-T730-010-Q2",
         "question": "What benefit is offered for renewing online?",
-        "options": ["An extended coverage period", "A five percent discount", "A free additional policy", "A waiver of the deductible"],
+        "options": [
+          "An extended coverage period",
+          "A five percent discount",
+          "A free additional policy",
+          "A waiver of the deductible"
+        ],
         "answer": "A five percent discount",
-        "explanation": "透過網站線上續約可享5%保費折扣。"
+        "explanation": "透過網站線上續約可享5%保費折扣。",
+        "category": "細節"
       },
       {
         "id": "L4-T730-010-Q3",
         "question": "What consequence of a policy lapse is mentioned?",
-        "options": ["The policyholder must pay a fine", "The no-claims bonus will be lost", "Coverage will be permanently canceled", "The policyholder must reapply in person"],
+        "options": [
+          "The policyholder must pay a fine",
+          "The no-claims bonus will be lost",
+          "Coverage will be permanently canceled",
+          "The policyholder must reapply in person"
+        ],
         "answer": "The no-claims bonus will be lost",
-        "explanation": "保單中斷超過30天，無索賠獎勵將歸零，且新保單費率可能更高。"
+        "explanation": "保單中斷超過30天，無索賠獎勵將歸零，且新保單費率可能更高。",
+        "category": "細節"
       }
     ]
   },
@@ -305,23 +491,41 @@
       {
         "id": "L4-T730-011-Q1",
         "question": "Where does this talk most likely take place?",
-        "options": ["At a university lecture hall", "At a science museum", "At a corporate training event", "At an environmental conference"],
+        "options": [
+          "At a university lecture hall",
+          "At a science museum",
+          "At a corporate training event",
+          "At an environmental conference"
+        ],
         "answer": "At a science museum",
-        "explanation": "說話者自我介紹為City Science Museum的導覽員，正在帶領再生能源特展。"
+        "explanation": "說話者自我介紹為City Science Museum的導覽員，正在帶領再生能源特展。",
+        "category": "推論"
       },
       {
         "id": "L4-T730-011-Q2",
         "question": "Why is flash photography not allowed?",
-        "options": ["It disturbs other visitors", "It may damage the displays", "It is against museum policy", "It is not needed in well-lit areas"],
+        "options": [
+          "It disturbs other visitors",
+          "It may damage the displays",
+          "It is against museum policy",
+          "It is not needed in well-lit areas"
+        ],
         "answer": "It may damage the displays",
-        "explanation": "閃光燈可能損壞敏感展品（damage certain sensitive displays）。"
+        "explanation": "閃光燈可能損壞敏感展品（damage certain sensitive displays）。",
+        "category": "細節"
       },
       {
         "id": "L4-T730-011-Q3",
         "question": "What does the speaker imply about the interactive simulation room?",
-        "options": ["It requires an extra fee", "It has limited capacity", "It requires a ticket for entry", "It is closed for maintenance"],
+        "options": [
+          "It requires an extra fee",
+          "It has limited capacity",
+          "It requires a ticket for entry",
+          "It is closed for maintenance"
+        ],
         "answer": "It requires a ticket for entry",
-        "explanation": "說話者提醒保留入場券因為互動模擬室可能需要驗票入場。"
+        "explanation": "說話者提醒保留入場券因為互動模擬室可能需要驗票入場。",
+        "category": "推論"
       }
     ]
   },
@@ -334,23 +538,41 @@
       {
         "id": "L4-T730-012-Q1",
         "question": "Why is the company relocating?",
-        "options": ["The current building is being sold", "The lease is expiring soon", "The office is too small", "The location is inconvenient"],
+        "options": [
+          "The current building is being sold",
+          "The lease is expiring soon",
+          "The office is too small",
+          "The location is inconvenient"
+        ],
         "answer": "The lease is expiring soon",
-        "explanation": "公司從年初就開始尋找新地點，因為現有租約將在3月到期。"
+        "explanation": "公司從年初就開始尋找新地點，因為現有租約將在3月到期。",
+        "category": "細節"
       },
       {
         "id": "L4-T730-012-Q2",
         "question": "What caused the move date to be brought forward?",
-        "options": ["The new building became available early", "A financial incentive from the landlord", "The current landlord raised the rent", "A department head requested it"],
+        "options": [
+          "The new building became available early",
+          "A financial incentive from the landlord",
+          "The current landlord raised the rent",
+          "A department head requested it"
+        ],
         "answer": "A financial incentive from the landlord",
-        "explanation": "新房東提供前六個月的優惠租金，條件是必須在本月底前簽約，因此搬家提前。"
+        "explanation": "新房東提供前六個月的優惠租金，條件是必須在本月底前簽約，因此搬家提前。",
+        "category": "細節"
       },
       {
         "id": "L4-T730-012-Q3",
         "question": "What can be inferred about the speaker's tone regarding the new timeline?",
-        "options": ["Relieved and enthusiastic", "Apologetic but determined", "Angry and frustrated", "Indifferent and casual"],
+        "options": [
+          "Relieved and enthusiastic",
+          "Apologetic but determined",
+          "Angry and frustrated",
+          "Indifferent and casual"
+        ],
         "answer": "Apologetic but determined",
-        "explanation": "說話者承認時間緊迫（short notice），但強調財務利益可觀，態度是抱歉但堅定。"
+        "explanation": "說話者承認時間緊迫（short notice），但強調財務利益可觀，態度是抱歉但堅定。",
+        "category": "推論"
       }
     ]
   }

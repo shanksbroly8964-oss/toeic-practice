@@ -14,34 +14,58 @@
       {
         "id": "P7S-T600-001-Q1",
         "question": "When does the renovation start?",
-        "options": ["October 10", "October 16", "October 20", "October 23"],
+        "options": [
+          "October 10",
+          "October 16",
+          "October 20",
+          "October 23"
+        ],
         "answer": "October 16",
         "explanation": "公告第一句明確指出「Starting Monday, October 16」為施工開始日。",
-        "crossReference": false
+        "crossReference": false,
+        "category": "細節"
       },
       {
         "id": "P7S-T600-001-Q2",
         "question": "Which floors will be affected by the renovation?",
-        "options": ["Floors 1 and 2", "Floors 2 and 3", "Floors 3 and 4", "Floors 4 and 5"],
+        "options": [
+          "Floors 1 and 2",
+          "Floors 2 and 3",
+          "Floors 3 and 4",
+          "Floors 4 and 5"
+        ],
         "answer": "Floors 2 and 3",
         "explanation": "公告第一句寫明「Floors 2 and 3」為施工範圍。",
-        "crossReference": false
+        "crossReference": false,
+        "category": "細節"
       },
       {
         "id": "P7S-T600-001-Q3",
         "question": "Where will the affected employees work during the renovation?",
-        "options": ["At home", "On Floor 5", "In the east wing", "On Floor 1"],
+        "options": [
+          "At home",
+          "On Floor 5",
+          "In the east wing",
+          "On Floor 1"
+        ],
         "answer": "On Floor 5",
         "explanation": "公告說明受影響員工「will be temporarily relocated to Floor 5」。",
-        "crossReference": false
+        "crossReference": false,
+        "category": "細節"
       },
       {
         "id": "P7S-T600-001-Q4",
         "question": "What new facility will be installed?",
-        "options": ["A new cafeteria", "Five new meeting rooms", "A new parking lot", "A new gym"],
+        "options": [
+          "A new cafeteria",
+          "Five new meeting rooms",
+          "A new parking lot",
+          "A new gym"
+        ],
         "answer": "Five new meeting rooms",
         "explanation": "公告提到「installing five new meeting rooms」為新設施之一。",
-        "crossReference": false
+        "crossReference": false,
+        "category": "細節"
       }
     ]
   },
@@ -60,34 +84,58 @@
       {
         "id": "P7S-T600-002-Q1",
         "question": "What position is being advertised?",
-        "options": ["Software Engineer", "Sales Representative", "Marketing Manager", "Office Assistant"],
+        "options": [
+          "Software Engineer",
+          "Sales Representative",
+          "Marketing Manager",
+          "Office Assistant"
+        ],
         "answer": "Sales Representative",
         "explanation": "廣告標題和第一句即說明職位為「Sales Representative」。",
-        "crossReference": false
+        "crossReference": false,
+        "category": "細節"
       },
       {
         "id": "P7S-T600-002-Q2",
         "question": "What is the minimum experience required?",
-        "options": ["One year", "Two years", "Three years", "Five years"],
+        "options": [
+          "One year",
+          "Two years",
+          "Three years",
+          "Five years"
+        ],
         "answer": "Two years",
         "explanation": "廣告明確要求「at least two years of sales experience」。",
-        "crossReference": false
+        "crossReference": false,
+        "category": "細節"
       },
       {
         "id": "P7S-T600-002-Q3",
         "question": "What is the application deadline?",
-        "options": ["May 15", "May 20", "May 31", "June 5"],
+        "options": [
+          "May 15",
+          "May 20",
+          "May 31",
+          "June 5"
+        ],
         "answer": "May 31",
         "explanation": "廣告寫明「send your resume and cover letter to hr@globaltech.com by May 31」。",
-        "crossReference": false
+        "crossReference": false,
+        "category": "細節"
       },
       {
         "id": "P7S-T600-002-Q4",
         "question": "Which benefit is mentioned in the advertisement?",
-        "options": ["Free lunch", "Health insurance", "Company car", "Stock options"],
+        "options": [
+          "Free lunch",
+          "Health insurance",
+          "Company car",
+          "Stock options"
+        ],
         "answer": "Health insurance",
         "explanation": "廣告列出的福利中包含「health insurance」。",
-        "crossReference": false
+        "crossReference": false,
+        "category": "細節"
       }
     ]
   },
@@ -106,26 +154,44 @@
       {
         "id": "P7S-T600-003-Q1",
         "question": "What is the reason for the delay?",
-        "options": ["Bad weather", "Port congestion", "Equipment failure", "Labor strike"],
+        "options": [
+          "Bad weather",
+          "Port congestion",
+          "Equipment failure",
+          "Labor strike"
+        ],
         "answer": "Port congestion",
         "explanation": "郵件中明確寫道「The delay is due to port congestion at the Los Angeles terminal」。",
-        "crossReference": false
+        "crossReference": false,
+        "category": "細節"
       },
       {
         "id": "P7S-T600-003-Q2",
         "question": "When is the new estimated arrival date?",
-        "options": ["March 18", "March 20", "March 25", "March 30"],
+        "options": [
+          "March 18",
+          "March 20",
+          "March 25",
+          "March 30"
+        ],
         "answer": "March 25",
         "explanation": "郵件說明「the shipment will now arrive on March 25 instead of the original date of March 18」。",
-        "crossReference": false
+        "crossReference": false,
+        "category": "細節"
       },
       {
         "id": "P7S-T600-003-Q3",
         "question": "What compensation does the supplier offer?",
-        "options": ["Free shipping", "A 5% discount on the next order", "A full refund", "Express delivery"],
+        "options": [
+          "Free shipping",
+          "A 5% discount on the next order",
+          "A full refund",
+          "Express delivery"
+        ],
         "answer": "A 5% discount on the next order",
         "explanation": "郵件提到「offer a 5% discount on your next order」作為補償。",
-        "crossReference": false
+        "crossReference": false,
+        "category": "細節"
       }
     ]
   },
@@ -144,26 +210,44 @@
       {
         "id": "P7S-T600-004-Q1",
         "question": "When will the picnic take place?",
-        "options": ["June 8", "June 12", "June 15", "June 18"],
+        "options": [
+          "June 8",
+          "June 12",
+          "June 15",
+          "June 18"
+        ],
         "answer": "June 15",
         "explanation": "邀請函中日期欄位寫明「Date: Saturday, June 15」。",
-        "crossReference": false
+        "crossReference": false,
+        "category": "細節"
       },
       {
         "id": "P7S-T600-004-Q2",
         "question": "What is the deadline for RSVP?",
-        "options": ["June 5", "June 8", "June 10", "June 15"],
+        "options": [
+          "June 5",
+          "June 8",
+          "June 10",
+          "June 15"
+        ],
         "answer": "June 8",
         "explanation": "邀請函要求「RSVP by June 8」。",
-        "crossReference": false
+        "crossReference": false,
+        "category": "細節"
       },
       {
         "id": "P7S-T600-004-Q3",
         "question": "What transportation option is provided?",
-        "options": ["Free taxi vouchers", "A shuttle bus", "Bicycle rentals", "Subway passes"],
+        "options": [
+          "Free taxi vouchers",
+          "A shuttle bus",
+          "Bicycle rentals",
+          "Subway passes"
+        ],
         "answer": "A shuttle bus",
         "explanation": "邀請函提到「A shuttle bus will run between the office and the park every 30 minutes」。",
-        "crossReference": false
+        "crossReference": false,
+        "category": "細節"
       }
     ]
   },
@@ -182,26 +266,44 @@
       {
         "id": "P7S-T600-005-Q1",
         "question": "What material is the backrest made of?",
-        "options": ["Leather", "Plastic", "Mesh fabric", "Wood"],
+        "options": [
+          "Leather",
+          "Plastic",
+          "Mesh fabric",
+          "Wood"
+        ],
         "answer": "Mesh fabric",
         "explanation": "產品說明中寫明「breathable mesh backrest」。",
-        "crossReference": false
+        "crossReference": false,
+        "category": "細節"
       },
       {
         "id": "P7S-T600-005-Q2",
         "question": "How long is the warranty period?",
-        "options": ["One year", "Two years", "Three years", "Five years"],
+        "options": [
+          "One year",
+          "Two years",
+          "Three years",
+          "Five years"
+        ],
         "answer": "Three years",
         "explanation": "產品說明提到「a 3-year manufacturer warranty」。",
-        "crossReference": false
+        "crossReference": false,
+        "category": "細節"
       },
       {
         "id": "P7S-T600-005-Q3",
         "question": "What is the price of the chair?",
-        "options": ["$249", "$299", "$349", "$399"],
+        "options": [
+          "$249",
+          "$299",
+          "$349",
+          "$399"
+        ],
         "answer": "$349",
         "explanation": "產品說明中「Price: $349」清楚標示價格。",
-        "crossReference": false
+        "crossReference": false,
+        "category": "細節"
       }
     ]
   },
@@ -220,26 +322,44 @@
       {
         "id": "P7S-T600-006-Q1",
         "question": "When does the new parking policy take effect?",
-        "options": ["August 1", "August 15", "September 1", "September 15"],
+        "options": [
+          "August 1",
+          "August 15",
+          "September 1",
+          "September 15"
+        ],
         "answer": "September 1",
         "explanation": "備忘錄標題和第一句均指出「Effective September 1」。",
-        "crossReference": false
+        "crossReference": false,
+        "category": "細節"
       },
       {
         "id": "P7S-T600-006-Q2",
         "question": "What must employees provide to register their vehicle?",
-        "options": ["A parking fee", "Their employee ID number", "A letter from their manager", "A vehicle insurance document"],
+        "options": [
+          "A parking fee",
+          "Their employee ID number",
+          "A letter from their manager",
+          "A vehicle insurance document"
+        ],
         "answer": "Their employee ID number",
         "explanation": "備忘錄要求提交「employee ID number, license plate number, and a valid driver's license」。",
-        "crossReference": false
+        "crossReference": false,
+        "category": "細節"
       },
       {
         "id": "P7S-T600-006-Q3",
         "question": "What happens if a vehicle does not have a valid permit after September 15?",
-        "options": ["The driver receives a warning", "The vehicle will be towed", "A fine of $50 is charged", "The driver loses parking privileges for a month"],
+        "options": [
+          "The driver receives a warning",
+          "The vehicle will be towed",
+          "A fine of $50 is charged",
+          "The driver loses parking privileges for a month"
+        ],
         "answer": "The vehicle will be towed",
         "explanation": "備忘錄指出「vehicles without a valid parking permit after September 15 will be towed」。",
-        "crossReference": false
+        "crossReference": false,
+        "category": "細節"
       }
     ]
   },
@@ -258,26 +378,44 @@
       {
         "id": "P7S-T600-007-Q1",
         "question": "What is the deadline for selecting a training session?",
-        "options": ["November 1", "November 4", "November 7", "November 15"],
+        "options": [
+          "November 1",
+          "November 4",
+          "November 7",
+          "November 15"
+        ],
         "answer": "November 4",
         "explanation": "郵件要求「Please email training@datacorp.com with your preferred session by November 4」。",
-        "crossReference": false
+        "crossReference": false,
+        "category": "細節"
       },
       {
         "id": "P7S-T600-007-Q2",
         "question": "How many participants can each session accommodate?",
-        "options": ["20", "25", "30", "35"],
+        "options": [
+          "20",
+          "25",
+          "30",
+          "35"
+        ],
         "answer": "30",
         "explanation": "郵件寫明「Each session is limited to 30 participants」。",
-        "crossReference": false
+        "crossReference": false,
+        "category": "細節"
       },
       {
         "id": "P7S-T600-007-Q3",
         "question": "Which session takes place in the morning?",
-        "options": ["Session A only", "Session B only", "Session C only", "Session A and Session C"],
+        "options": [
+          "Session A only",
+          "Session B only",
+          "Session C only",
+          "Session A and Session C"
+        ],
         "answer": "Session A and Session C",
         "explanation": "Session A 時間為 10:00 AM - 12:00 PM，Session C 時間為 9:00 AM - 11:00 AM，兩者皆在早上時段。",
-        "crossReference": false
+        "crossReference": false,
+        "category": "細節"
       }
     ]
   }

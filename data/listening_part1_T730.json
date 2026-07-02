@@ -11,7 +11,8 @@
       "Everyone is working on individual laptops."
     ],
     "answer": "A project manager is briefing her team.",
-    "explanation": "專案經理正在向團隊簡報，與描述相符；白板上有圖表非正在擦拭，團隊在聽簡報非各別用筆電。"
+    "explanation": "專案經理正在向團隊簡報，與描述相符；白板上有圖表非正在擦拭，團隊在聽簡報非各別用筆電。",
+    "category": "人物動作"
   },
   {
     "id": "L1-T730-002",
@@ -25,7 +26,8 @@
       "Two technicians are discussing the experiment results."
     ],
     "answer": "A technician is calibrating a microscope.",
-    "explanation": "技術員正在校正顯微鏡，研究員在旁筆記，與描述相符；使用顯微鏡的是技術員而非研究員，設備未收納。"
+    "explanation": "技術員正在校正顯微鏡，研究員在旁筆記，與描述相符；使用顯微鏡的是技術員而非研究員，設備未收納。",
+    "category": "人物動作"
   },
   {
     "id": "L1-T730-003",
@@ -39,7 +41,8 @@
       "The building has been completed."
     ],
     "answer": "A construction supervisor is pointing at a blueprint.",
-    "explanation": "工地主任正指著藍圖，工人正在灌漿，與描述相符；工人正在施工而非審閱藍圖，工地運作中非閒置。"
+    "explanation": "工地主任正指著藍圖，工人正在灌漿，與描述相符；工人正在施工而非審閱藍圖，工地運作中非閒置。",
+    "category": "物品狀態"
   },
   {
     "id": "L1-T730-004",
@@ -53,7 +56,8 @@
       "Two colleagues are having lunch at the desk."
     ],
     "answer": "A financial analyst is studying a spreadsheet.",
-    "explanation": "財務分析師正在研究試算表，同事在旁討論，與描述一致；休息、列印、午餐均未發生。"
+    "explanation": "財務分析師正在研究試算表，同事在旁討論，與描述一致；休息、列印、午餐均未發生。",
+    "category": "人物動作"
   },
   {
     "id": "L1-T730-005",
@@ -67,7 +71,8 @@
       "The corridor is being painted."
     ],
     "answer": "A hotel housekeeper is arranging towels on a cart.",
-    "explanation": "房務員正在整理推車上的毛巾，與描述相符；未進入客房，櫃檯無客人退房，走廊未施工。"
+    "explanation": "房務員正在整理推車上的毛巾，與描述相符；未進入客房，櫃檯無客人退房，走廊未施工。",
+    "category": "場景位置"
   },
   {
     "id": "L1-T730-006",
@@ -81,7 +86,8 @@
       "The warehouse is completely empty."
     ],
     "answer": "A supervisor is logging inventory on a tablet.",
-    "explanation": "主管正在平板電腦上記錄庫存，與描述相符；堆高機在搬運而非修理，棧板未在拆封，倉庫有貨非空。"
+    "explanation": "主管正在平板電腦上記錄庫存，與描述相符；堆高機在搬運而非修理，棧板未在拆封，倉庫有貨非空。",
+    "category": "場景位置"
   },
   {
     "id": "L1-T730-007",
@@ -95,7 +101,8 @@
       "The pharmacy is closed for renovations."
     ],
     "answer": "A pharmacist is consulting with a customer.",
-    "explanation": "藥劑師正在櫃檯諮詢顧客，與描述相符；補貨、獨自瀏覽、歇業裝修均非畫面內容。"
+    "explanation": "藥劑師正在櫃檯諮詢顧客，與描述相符；補貨、獨自瀏覽、歇業裝修均非畫面內容。",
+    "category": "人物動作"
   },
   {
     "id": "L1-T730-008",
@@ -109,7 +116,8 @@
       "The designer is cleaning the drawing tablet."
     ],
     "answer": "A graphic designer is adjusting a digital illustration.",
-    "explanation": "設計師正在繪圖板上調整數位插圖，與描述相符；brief在桌上做參考而非丟棄，印表機未使用。"
+    "explanation": "設計師正在繪圖板上調整數位插圖，與描述相符；brief在桌上做參考而非丟棄，印表機未使用。",
+    "category": "場景位置"
   },
   {
     "id": "L1-T730-009",
@@ -123,7 +131,8 @@
       "Luggage is being loaded onto the plane."
     ],
     "answer": "A ground crew member is signaling to an airplane.",
-    "explanation": "地勤人員正在對飛機打信號引導停靠，與描述相符；乘客尚未登機，飛機正接近空橋非起飛。"
+    "explanation": "地勤人員正在對飛機打信號引導停靠，與描述相符；乘客尚未登機，飛機正接近空橋非起飛。",
+    "category": "場景位置"
   },
   {
     "id": "L1-T730-010",
@@ -137,7 +146,8 @@
       "A printer is being repaired by the specialist."
     ],
     "answer": "An IT specialist is replacing a hard drive.",
-    "explanation": "IT技術員正在更換硬碟，與描述一致；員工在觀看而非使用電腦，隔間未移動，維修的是桌上型電腦而非印表機。"
+    "explanation": "IT技術員正在更換硬碟，與描述一致；員工在觀看而非使用電腦，隔間未移動，維修的是桌上型電腦而非印表機。",
+    "category": "人物動作"
   },
   {
     "id": "L1-T730-011",
@@ -151,7 +161,8 @@
       "A security guard is opening the vault."
     ],
     "answer": "A bank teller is counting cash.",
-    "explanation": "行員正在櫃檯點鈔，顧客在填寫存款單，與描述相符；顧客在填表而非使用提款機，銀行營業中。"
+    "explanation": "行員正在櫃檯點鈔，顧客在填寫存款單，與描述相符；顧客在填表而非使用提款機，銀行營業中。",
+    "category": "人物動作"
   },
   {
     "id": "L1-T730-012",
@@ -165,7 +176,8 @@
       "Attendees are taking a coffee break."
     ],
     "answer": "A conference interpreter is translating into a microphone.",
-    "explanation": "口譯員正在對著麥克風翻譯，與描述一致；與會者戴耳機聽而非演講，論壇進行中非中場休息。"
+    "explanation": "口譯員正在對著麥克風翻譯，與描述一致；與會者戴耳機聽而非演講，論壇進行中非中場休息。",
+    "category": "場景位置"
   },
   {
     "id": "L1-T730-013",
@@ -179,7 +191,8 @@
       "A designer is sketching new clothing patterns."
     ],
     "answer": "A quality control inspector is examining fabric samples.",
-    "explanation": "品管檢驗員正在檢查布料樣品，與描述一致；縫紉機未運作，布料未裝車，設計師未出現。"
+    "explanation": "品管檢驗員正在檢查布料樣品，與描述一致；縫紉機未運作，布料未裝車，設計師未出現。",
+    "category": "場景位置"
   },
   {
     "id": "L1-T730-014",
@@ -193,7 +206,8 @@
       "A security guard is closing the gallery for the night."
     ],
     "answer": "A tour guide is leading a group through the gallery.",
-    "explanation": "導遊正在帶領一群訪客參觀畫廊，與描述相符；訪客已在參觀非購票，畫作掛在牆上未被取下。"
+    "explanation": "導遊正在帶領一群訪客參觀畫廊，與描述相符；訪客已在參觀非購票，畫作掛在牆上未被取下。",
+    "category": "人物動作"
   },
   {
     "id": "L1-T730-015",
@@ -207,6 +221,7 @@
       "A delivery truck is being loaded outside."
     ],
     "answer": "A logistics coordinator is scanning barcodes on packages.",
-    "explanation": "物流協調員正手持掃描器掃描包裹條碼，與描述一致；包裹分類、人力不足、裝車均未被提及。"
+    "explanation": "物流協調員正手持掃描器掃描包裹條碼，與描述一致；包裹分類、人力不足、裝車均未被提及。",
+    "category": "場景位置"
   }
 ]

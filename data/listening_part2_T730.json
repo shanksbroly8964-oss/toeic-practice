@@ -10,7 +10,8 @@
       "The software was upgraded last year."
     ],
     "answer": "You're right, the current version is outdated.",
-    "explanation": "Isn't it about time...是暗示該做某事的反問句，回答應同意升級必要；字面否定和過去升級記錄答非所問。"
+    "explanation": "Isn't it about time...是暗示該做某事的反問句，回答應同意升級必要；字面否定和過去升級記錄答非所問。",
+    "category": "YesNo問句"
   },
   {
     "id": "L2-T730-002",
@@ -23,7 +24,8 @@
       "The audit was completed last quarter."
     ],
     "answer": "It's scheduled to start next Monday.",
-    "explanation": "間接問句Would you happen to know when...詢問時間，回答下週一開始正確；空洞重複問句動詞和過去時態答非所問。"
+    "explanation": "間接問句Would you happen to know when...詢問時間，回答下週一開始正確；空洞重複問句動詞和過去時態答非所問。",
+    "category": "附加間接問句"
   },
   {
     "id": "L2-T730-003",
@@ -36,7 +38,8 @@
       "The invoice was submitted last week."
     ],
     "answer": "Not yet, I'm waiting for the final approval.",
-    "explanation": "附加問句You haven't...have you?預期否定回答，尚未提交並說明原因正確；矛盾Yes+否定和過去時態答非所問。"
+    "explanation": "附加問句You haven't...have you?預期否定回答，尚未提交並說明原因正確；矛盾Yes+否定和過去時態答非所問。",
+    "category": "附加間接問句"
   },
   {
     "id": "L2-T730-004",
@@ -49,7 +52,8 @@
       "The shipment will be prepared next week."
     ],
     "answer": "According to the tracking system, it left the warehouse yesterday.",
-    "explanation": "I wonder if...為委婉疑問，回答根據追蹤系統已出貨正確；空洞呼應和未來計畫答非所問。"
+    "explanation": "I wonder if...為委婉疑問，回答根據追蹤系統已出貨正確；空洞呼應和未來計畫答非所問。",
+    "category": "附加間接問句"
   },
   {
     "id": "L2-T730-005",
@@ -62,7 +66,8 @@
       "The contract was signed this morning."
     ],
     "answer": "I agree, it's already two days overdue.",
-    "explanation": "Shouldn't...by now表達預期該收到卻未收到，同意並指出已逾期正確；誤解為過去做了不該做的事和已完成簽約答非所問。"
+    "explanation": "Shouldn't...by now表達預期該收到卻未收到，同意並指出已逾期正確；誤解為過去做了不該做的事和已完成簽約答非所問。",
+    "category": "YesNo問句"
   },
   {
     "id": "L2-T730-006",
@@ -75,7 +80,8 @@
       "Yes, the resources are limited."
     ],
     "answer": "We might need to request additional staff.",
-    "explanation": "How問在資源有限下如何達成，提出解決方案（申請加派人手）正確；重複已知資訊和空洞Yes答非所問。"
+    "explanation": "How問在資源有限下如何達成，提出解決方案（申請加派人手）正確；重複已知資訊和空洞Yes答非所問。",
+    "category": "WH問句"
   },
   {
     "id": "L2-T730-007",
@@ -88,7 +94,8 @@
       "I worked last weekend as well."
     ],
     "answer": "Actually, I had plans, but I can rearrange them.",
-    "explanation": "附加問句預設對方不介意，此回答委婉表達有安排但可調整，符合職場溝通習慣；強烈否定陳述未表達態度轉折、過去經驗僅陳述事實。"
+    "explanation": "附加問句預設對方不介意，此回答委婉表達有安排但可調整，符合職場溝通習慣；強烈否定陳述未表達態度轉折、過去經驗僅陳述事實。",
+    "category": "附加間接問句"
   },
   {
     "id": "L2-T730-008",
@@ -101,7 +108,8 @@
       "The clause was added by the legal team."
     ],
     "answer": "It refers to unforeseeable circumstances that prevent contract fulfillment.",
-    "explanation": "What does...mean問術語定義，正確解釋不可抗力含義正確；合約效力和條款來源答非所問。"
+    "explanation": "What does...mean問術語定義，正確解釋不可抗力含義正確；合約效力和條款來源答非所問。",
+    "category": "WH問句"
   },
   {
     "id": "L2-T730-009",
@@ -114,7 +122,8 @@
       "The automated system was installed last year."
     ],
     "answer": "That's a good point, it could save us a lot of time.",
-    "explanation": "Wouldn't it be...提議改用自動化系統，肯定提議並說明優點正確；直接否定未解釋原因和過去安裝時間答非所問。"
+    "explanation": "Wouldn't it be...提議改用自動化系統，肯定提議並說明優點正確；直接否定未解釋原因和過去安裝時間答非所問。",
+    "category": "YesNo問句"
   },
   {
     "id": "L2-T730-010",
@@ -127,7 +136,8 @@
       "Yes, the feedback is not clear."
     ],
     "answer": "Let's schedule a call to clarify their expectations.",
-    "explanation": "陳述句表達不確定如何解讀，提出解決方案（安排通話釐清）正確；重複已知事實和空洞同意答非所問。"
+    "explanation": "陳述句表達不確定如何解讀，提出解決方案（安排通話釐清）正確；重複已知事實和空洞同意答非所問。",
+    "category": "陳述句回應"
   },
   {
     "id": "L2-T730-011",
@@ -140,7 +150,8 @@
       "The report was prepared by the intern."
     ],
     "answer": "You're right, I'll double-check the calculations.",
-    "explanation": "附加問句指出數字有問題，同意並承諾重新核算正確；矛盾Yes+否定和責任歸屬答非所問。"
+    "explanation": "附加問句指出數字有問題，同意並承諾重新核算正確；矛盾Yes+否定和責任歸屬答非所問。",
+    "category": "附加間接問句"
   },
   {
     "id": "L2-T730-012",
@@ -153,7 +164,8 @@
       "Yes, we need to get it approved."
     ],
     "answer": "Then we'll need to look into alternative financing options.",
-    "explanation": "What if提出假設性擔憂，回答應對方案（尋找替代融資）正確；申請時間和空洞肯定答非所問。"
+    "explanation": "What if提出假設性擔憂，回答應對方案（尋找替代融資）正確；申請時間和空洞肯定答非所問。",
+    "category": "WH問句"
   },
   {
     "id": "L2-T730-013",
@@ -166,7 +178,8 @@
       "Yes, they confirmed the shipment."
     ],
     "answer": "They emailed us the updated quotation this morning.",
-    "explanation": "Has...confirmed問是否確認價格，回答今早收到更新報價正確；過去修訂時間和確認出貨（混淆confirm對象）答非所問。"
+    "explanation": "Has...confirmed問是否確認價格，回答今早收到更新報價正確；過去修訂時間和確認出貨（混淆confirm對象）答非所問。",
+    "category": "YesNo問句"
   },
   {
     "id": "L2-T730-014",
@@ -179,7 +192,8 @@
       "Thursday is after Wednesday."
     ],
     "answer": "You're right, I apologize for the confusion in my email.",
-    "explanation": "陳述句指出會議日期混亂，承認錯誤並道歉正確；會議主題和日期先後順序答非所問。"
+    "explanation": "陳述句指出會議日期混亂，承認錯誤並道歉正確；會議主題和日期先後順序答非所問。",
+    "category": "陳述句回應"
   },
   {
     "id": "L2-T730-015",
@@ -192,7 +206,8 @@
       "The client presentation is next Tuesday."
     ],
     "answer": "She was, but she asked me to cover for her.",
-    "explanation": "Wasn't...supposed to問某人是否該負責，肯定原有安排但已代班正確；直接否定和會議時間答非所問。"
+    "explanation": "Wasn't...supposed to問某人是否該負責，肯定原有安排但已代班正確；直接否定和會議時間答非所問。",
+    "category": "YesNo問句"
   },
   {
     "id": "L2-T730-016",
@@ -205,7 +220,8 @@
       "Yes, the numbers don't match."
     ],
     "answer": "There might have been an error during the last shipment.",
-    "explanation": "How come問原因（非正式Why），推測上次出貨可能有誤正確；記錄存放位置和空洞肯定答非所問。"
+    "explanation": "How come問原因（非正式Why），推測上次出貨可能有誤正確；記錄存放位置和空洞肯定答非所問。",
+    "category": "WH問句"
   },
   {
     "id": "L2-T730-017",
@@ -218,7 +234,8 @@
       "The proposal is ready to be sent."
     ],
     "answer": "Of course, email it to me and I'll review it within the hour.",
-    "explanation": "Could you問能否幫忙審閱提案，爽快答應並告知時程正確；主詞混淆和提案狀態答非所問。"
+    "explanation": "Could you問能否幫忙審閱提案，爽快答應並告知時程正確；主詞混淆和提案狀態答非所問。",
+    "category": "YesNo問句"
   },
   {
     "id": "L2-T730-018",
@@ -231,7 +248,8 @@
       "The merger was announced last month."
     ],
     "answer": "It's hard to say, but the legal team is optimistic.",
-    "explanation": "Do you think問對合併的看法，表達不確定但法務團隊樂觀正確；空洞思考動作和宣布時間答非所問。"
+    "explanation": "Do you think問對合併的看法，表達不確定但法務團隊樂觀正確；空洞思考動作和宣布時間答非所問。",
+    "category": "附加間接問句"
   },
   {
     "id": "L2-T730-019",
@@ -244,7 +262,8 @@
       "The server was installed three years ago."
     ],
     "answer": "I know, I've already submitted a ticket to IT support.",
-    "explanation": "陳述句抱怨伺服器頻繁當機，表示已知並已報修正確；空洞肯定和安裝年限答非所問。"
+    "explanation": "陳述句抱怨伺服器頻繁當機，表示已知並已報修正確；空洞肯定和安裝年限答非所問。",
+    "category": "陳述句回應"
   },
   {
     "id": "L2-T730-020",
@@ -257,7 +276,8 @@
       "The orientation was held yesterday."
     ],
     "answer": "I was just on my way there, actually.",
-    "explanation": "Aren't you supposed to be問是否該在特定場合，回答正要去正確；否定責任歸屬和過去時間答非所問。"
+    "explanation": "Aren't you supposed to be問是否該在特定場合，回答正要去正確；否定責任歸屬和過去時間答非所問。",
+    "category": "YesNo問句"
   },
   {
     "id": "L2-T730-021",
@@ -270,7 +290,8 @@
       "Yes, we need to propose something."
     ],
     "answer": "We could temporarily reduce discretionary spending.",
-    "explanation": "How do you propose問解決方案，提出裁減非必要支出正確；重複問題事實和空洞說要提案答非所問。"
+    "explanation": "How do you propose問解決方案，提出裁減非必要支出正確；重複問題事實和空洞說要提案答非所問。",
+    "category": "WH問句"
   },
   {
     "id": "L2-T730-022",
@@ -283,7 +304,8 @@
       "Yes, onboarding is very important."
     ],
     "answer": "We should create a standardized training checklist for all departments.",
-    "explanation": "What would be the best way問最佳方法，提出標準化檢查清單正確；到職時間和空洞認同答非所問。"
+    "explanation": "What would be the best way問最佳方法，提出標準化檢查清單正確；到職時間和空洞認同答非所問。",
+    "category": "WH問句"
   },
   {
     "id": "L2-T730-023",
@@ -296,7 +318,8 @@
       "The expense report was submitted by accounting."
     ],
     "answer": "Let me check the approval history in the system.",
-    "explanation": "陳述句表示不記得核准過，提出查系統記錄解決問題正確；重複否定和提交部門答非所問。"
+    "explanation": "陳述句表示不記得核准過，提出查系統記錄解決問題正確；重複否定和提交部門答非所問。",
+    "category": "陳述句回應"
   },
   {
     "id": "L2-T730-024",
@@ -309,7 +332,8 @@
       "Yes, it was authorized."
     ],
     "answer": "It was the shift supervisor who approved it.",
-    "explanation": "Who問授權加班的人，回答輪班主管正確；加班對象和空洞肯定答非所問。"
+    "explanation": "Who問授權加班的人，回答輪班主管正確；加班對象和空洞肯定答非所問。",
+    "category": "WH問句"
   },
   {
     "id": "L2-T730-025",
@@ -322,7 +346,8 @@
       "Yes, there was a rationale behind it."
     ],
     "answer": "Management determined it would reduce operational costs by twenty percent.",
-    "explanation": "What問外包理由，回答管理階層認為可節省20%成本正確；外包時間和空洞肯定答非所問。"
+    "explanation": "What問外包理由，回答管理階層認為可節省20%成本正確；外包時間和空洞肯定答非所問。",
+    "category": "WH問句"
   },
   {
     "id": "L2-T730-026",
@@ -335,7 +360,8 @@
       "The legal department is on the third floor."
     ],
     "answer": "Definitely, there were some clauses that needed clarification.",
-    "explanation": "Should have問本是否該做某事，肯定應先諮詢法務正確；否定後見之明和部門位置答非所問。"
+    "explanation": "Should have問本是否該做某事，肯定應先諮詢法務正確；否定後見之明和部門位置答非所問。",
+    "category": "YesNo問句"
   },
   {
     "id": "L2-T730-027",
@@ -348,7 +374,8 @@
       "Yes, I can clarify it."
     ],
     "answer": "I meant we should eliminate redundant approval steps.",
-    "explanation": "Could you clarify問提案中特定用語的含義，解釋為消除冗贅審批步驟正確；提案時間和空洞Yes答非所問。"
+    "explanation": "Could you clarify問提案中特定用語的含義，解釋為消除冗贅審批步驟正確；提案時間和空洞Yes答非所問。",
+    "category": "附加間接問句"
   },
   {
     "id": "L2-T730-028",
@@ -361,7 +388,8 @@
       "Yes, they might reject them."
     ],
     "answer": "Then we'll have to go back to the negotiation table.",
-    "explanation": "What if提出假設客戶拒絕，回答將回到談判桌提出後續方案正確；交付時間和空洞肯定答非所問。"
+    "explanation": "What if提出假設客戶拒絕，回答將回到談判桌提出後續方案正確；交付時間和空洞肯定答非所問。",
+    "category": "WH問句"
   },
   {
     "id": "L2-T730-029",
@@ -374,7 +402,8 @@
       "The targets were set by senior management."
     ],
     "answer": "Unfortunately, yes. We need to reassess our strategy.",
-    "explanation": "Isn't this...確認連續未達標的事實，承認並提出重新評估策略正確；字面否認和目標設定者答非所問。"
+    "explanation": "Isn't this...確認連續未達標的事實，承認並提出重新評估策略正確；字面否認和目標設定者答非所問。",
+    "category": "YesNo問句"
   },
   {
     "id": "L2-T730-030",
@@ -387,7 +416,8 @@
       "The company was founded twenty years ago."
     ],
     "answer": "That's right, I joined right after graduation.",
-    "explanation": "附加問句確認年資，肯定回答並補充畢業後即加入正確；強烈否定和公司歷史答非所問。"
+    "explanation": "附加問句確認年資，肯定回答並補充畢業後即加入正確；強烈否定和公司歷史答非所問。",
+    "category": "附加間接問句"
   },
   {
     "id": "L2-T730-031",
@@ -400,7 +430,8 @@
       "Yes, we should improve communication."
     ],
     "answer": "Implementing a monthly cross-departmental meeting could help.",
-    "explanation": "How問改善方法，提出每月跨部門會議具體建議正確；重複問題和空洞肯定答非所問。"
+    "explanation": "How問改善方法，提出每月跨部門會議具體建議正確；重複問題和空洞肯定答非所問。",
+    "category": "WH問句"
   },
   {
     "id": "L2-T730-032",
@@ -413,7 +444,8 @@
       "The policy change was announced last month."
     ],
     "answer": "I apologize, it should have been communicated sooner.",
-    "explanation": "I wish表達對未及早被告知的不滿，道歉並承認應更早溝通正確；空洞肯定和宣布時間答非所問。"
+    "explanation": "I wish表達對未及早被告知的不滿，道歉並承認應更早溝通正確；空洞肯定和宣布時間答非所問。",
+    "category": "陳述句回應"
   },
   {
     "id": "L2-T730-033",
@@ -426,7 +458,8 @@
       "Yes, steps have been taken."
     ],
     "answer": "We've implemented a new firewall and updated all passwords.",
-    "explanation": "What steps問已採取的行動，回答安裝新防火牆和更新密碼具體正確；事件時間和空洞肯定答非所問。"
+    "explanation": "What steps問已採取的行動，回答安裝新防火牆和更新密碼具體正確；事件時間和空洞肯定答非所問。",
+    "category": "WH問句"
   },
   {
     "id": "L2-T730-034",
@@ -439,7 +472,8 @@
       "Yes, it has affected our supply chain."
     ],
     "answer": "It has significantly increased our customs clearance time.",
-    "explanation": "To what extent問影響程度，回答通關時間顯著增加正確；法規制定者和空洞肯定答非所問。"
+    "explanation": "To what extent問影響程度，回答通關時間顯著增加正確；法規制定者和空洞肯定答非所問。",
+    "category": "WH問句"
   },
   {
     "id": "L2-T730-035",
@@ -452,7 +486,8 @@
       "You should remember the figures."
     ],
     "answer": "It was approximately twelve percent.",
-    "explanation": "What問流動率數據，回答約12%正確；計算方式和說教語氣答非所問。"
+    "explanation": "What問流動率數據，回答約12%正確；計算方式和說教語氣答非所問。",
+    "category": "附加間接問句"
   },
   {
     "id": "L2-T730-036",
@@ -465,7 +500,8 @@
       "Yes, she will be on leave."
     ],
     "answer": "Her assistant will take over her responsibilities temporarily.",
-    "explanation": "Who問代理人員，回答助理暫代職務正確；請假時間和空洞Yes答非所問。"
+    "explanation": "Who問代理人員，回答助理暫代職務正確；請假時間和空洞Yes答非所問。",
+    "category": "WH問句"
   },
   {
     "id": "L2-T730-037",
@@ -478,7 +514,8 @@
       "The vendor sent the proposal last week."
     ],
     "answer": "I agree, we should ask them to provide more details.",
-    "explanation": "陳述句+附加問句徵求同意，同意並提出要求補充細節正確；簡短否定和提案時間答非所問。"
+    "explanation": "陳述句+附加問句徵求同意，同意並提出要求補充細節正確；簡短否定和提案時間答非所問。",
+    "category": "附加間接問句"
   },
   {
     "id": "L2-T730-038",
@@ -491,7 +528,8 @@
       "Yes, there are criteria being used."
     ],
     "answer": "We're looking at relevant experience, communication skills, and cultural fit.",
-    "explanation": "What criteria問評選標準，列出具體項目正確；面試時間和空洞肯定答非所問。"
+    "explanation": "What criteria問評選標準，列出具體項目正確；面試時間和空洞肯定答非所問。",
+    "category": "WH問句"
   },
   {
     "id": "L2-T730-039",
@@ -504,7 +542,8 @@
       "The pilot program will start next month."
     ],
     "answer": "The early indicators are quite promising, actually.",
-    "explanation": "Would you say問對試辦計畫的評價，回答早期指標樂觀正確；空洞重複動詞和未來時態答非所問。"
+    "explanation": "Would you say問對試辦計畫的評價，回答早期指標樂觀正確；空洞重複動詞和未來時態答非所問。",
+    "category": "YesNo問句"
   },
   {
     "id": "L2-T730-040",
@@ -517,6 +556,7 @@
       "The estimates were revised yesterday."
     ],
     "answer": "I'll do my best, but I might need an extra day.",
-    "explanation": "附加問句確認是否週四前準備好，承諾盡力但可能需要多一天，委婉溝通正確；直接否定和過去時態答非所問。"
+    "explanation": "附加問句確認是否週四前準備好，承諾盡力但可能需要多一天，委婉溝通正確；直接否定和過去時態答非所問。",
+    "category": "附加間接問句"
   }
 ]

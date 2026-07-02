@@ -1,0 +1,2252 @@
+[
+  {
+    "id": "P5-T600-051",
+    "part": 5,
+    "track": "T600",
+    "question": "By the time the manager arrives, the staff ____ the reports already.",
+    "options": [
+      "will prepare",
+      "will have prepared",
+      "prepared",
+      "are preparing"
+    ],
+    "answer": "will have prepared",
+    "explanation": "by the time + 現在式，主句用未來完成式表示在未來某時間前已完成的動作。",
+    "category": "時態"
+  },
+  {
+    "id": "P5-T600-052",
+    "part": 5,
+    "track": "T600",
+    "question": "The accounting department ____ the quarterly report right now.",
+    "options": [
+      "is preparing",
+      "prepare",
+      "prepared",
+      "have prepared"
+    ],
+    "answer": "is preparing",
+    "explanation": "right now 提示現在進行式，主詞 department 為單數，故用 is preparing。",
+    "category": "時態"
+  },
+  {
+    "id": "P5-T600-053",
+    "part": 5,
+    "track": "T600",
+    "question": "She ____ for this company since she graduated from college.",
+    "options": [
+      "worked",
+      "has worked",
+      "was working",
+      "works"
+    ],
+    "answer": "has worked",
+    "explanation": "since + 過去時間點搭配現在完成式 has worked，表示從過去持續到現在。",
+    "category": "時態"
+  },
+  {
+    "id": "P5-T600-054",
+    "part": 5,
+    "track": "T600",
+    "question": "The package ____ before noon yesterday.",
+    "options": [
+      "delivered",
+      "was delivered",
+      "has delivered",
+      "is delivered"
+    ],
+    "answer": "was delivered",
+    "explanation": "yesterday 提示過去式，package 為被送達的受詞，故用被動過去式 was delivered。",
+    "category": "時態"
+  },
+  {
+    "id": "P5-T600-055",
+    "part": 5,
+    "track": "T600",
+    "question": "By next month, the training program ____ for two years.",
+    "options": [
+      "will run",
+      "will be running",
+      "will have been running",
+      "runs"
+    ],
+    "answer": "will have been running",
+    "explanation": "by next month + for two years 表示到未來某時間已持續多久，用未來完成進行式。",
+    "category": "時態"
+  },
+  {
+    "id": "P5-T600-056",
+    "part": 5,
+    "track": "T600",
+    "question": "The technician ____ the network issue when the power went out.",
+    "options": [
+      "fixes",
+      "fixed",
+      "was fixing",
+      "has fixed"
+    ],
+    "answer": "was fixing",
+    "explanation": "when + 過去式 went out 搭配過去進行式 was fixing，表示正在進行時被另一動作打斷。",
+    "category": "時態"
+  },
+  {
+    "id": "P5-T600-057",
+    "part": 5,
+    "track": "T600",
+    "question": "Our department usually ____ performance reviews twice a year.",
+    "options": [
+      "conduct",
+      "conducts",
+      "conducting",
+      "conducted"
+    ],
+    "answer": "conducts",
+    "explanation": "usually 提示現在簡單式，主詞 department 為單數第三人稱。",
+    "category": "時態"
+  },
+  {
+    "id": "P5-T600-058",
+    "part": 5,
+    "track": "T600",
+    "question": "The proposal ____ by the board of directors last Tuesday.",
+    "options": [
+      "approve",
+      "approves",
+      "was approved",
+      "has approved"
+    ],
+    "answer": "was approved",
+    "explanation": "last Tuesday 提示過去式，proposal 被 approved，故用被動過去式。",
+    "category": "時態"
+  },
+  {
+    "id": "P5-T600-059",
+    "part": 5,
+    "track": "T600",
+    "question": "I ____ the client about the delay before you called.",
+    "options": [
+      "already informed",
+      "had already informed",
+      "have informed",
+      "inform"
+    ],
+    "answer": "had already informed",
+    "explanation": "before you called 提示過去完成式，表示在過去另一動作之前已完成。",
+    "category": "時態"
+  },
+  {
+    "id": "P5-T600-060",
+    "part": 5,
+    "track": "T600",
+    "question": "The warehouse ____ its inventory system every month.",
+    "options": [
+      "update",
+      "updates",
+      "updating",
+      "updated"
+    ],
+    "answer": "updates",
+    "explanation": "every month 提示現在簡單式，主詞 warehouse 為單數第三人稱。",
+    "category": "時態"
+  },
+  {
+    "id": "P5-T600-061",
+    "part": 5,
+    "track": "T600",
+    "question": "The employees ____ the new policy since last Monday.",
+    "options": [
+      "discuss",
+      "discussed",
+      "are discussing",
+      "have been discussing"
+    ],
+    "answer": "have been discussing",
+    "explanation": "since last Monday 搭配現在完成進行式，表示從過去持續到現在仍在進行。",
+    "category": "時態"
+  },
+  {
+    "id": "P5-T600-062",
+    "part": 5,
+    "track": "T600",
+    "question": "All invoices ____ before the end of this fiscal year.",
+    "options": [
+      "must be submitted",
+      "must submit",
+      "submitted",
+      "submitting"
+    ],
+    "answer": "must be submitted",
+    "explanation": "invoices 為被提交的受詞，用被動情態 must be submitted。",
+    "category": "時態"
+  },
+  {
+    "id": "P5-T600-063",
+    "part": 5,
+    "track": "T600",
+    "question": "The construction of the new office building ____ in 2022.",
+    "options": [
+      "begin",
+      "began",
+      "begun",
+      "begins"
+    ],
+    "answer": "began",
+    "explanation": "in 2022 提示過去時間點，用過去式 began。",
+    "category": "時態"
+  },
+  {
+    "id": "P5-T600-064",
+    "part": 5,
+    "track": "T600",
+    "question": "The customer ____ a refund when she visited the store yesterday.",
+    "options": [
+      "requests",
+      "requested",
+      "was requesting",
+      "has requested"
+    ],
+    "answer": "requested",
+    "explanation": "yesterday 提示過去式，且與 visited 時序一致用過去式。",
+    "category": "時態"
+  },
+  {
+    "id": "P5-T600-065",
+    "part": 5,
+    "track": "T600",
+    "question": "They ____ the project by the end of this year.",
+    "options": [
+      "complete",
+      "will complete",
+      "will have completed",
+      "completed"
+    ],
+    "answer": "will have completed",
+    "explanation": "by the end of this year 提示未來完成式。",
+    "category": "時態"
+  },
+  {
+    "id": "P5-T600-066",
+    "part": 5,
+    "track": "T600",
+    "question": "The report ____ on the manager's desk when he came in.",
+    "options": [
+      "lies",
+      "is lying",
+      "was lying",
+      "lay"
+    ],
+    "answer": "was lying",
+    "explanation": "when he came in 提示過去某一時刻，用過去進行式表示當時正在進行。",
+    "category": "時態"
+  },
+  {
+    "id": "P5-T600-067",
+    "part": 5,
+    "track": "T600",
+    "question": "He ____ three different positions since he joined the company.",
+    "options": [
+      "holds",
+      "held",
+      "has held",
+      "was holding"
+    ],
+    "answer": "has held",
+    "explanation": "since he joined 搭配現在完成式 has held，表示從過去到現在。",
+    "category": "時態"
+  },
+  {
+    "id": "P5-T600-068",
+    "part": 5,
+    "track": "T600",
+    "question": "The new software is extremely ____ for data analysis.",
+    "options": [
+      "use",
+      "useful",
+      "usefully",
+      "useless"
+    ],
+    "answer": "useful",
+    "explanation": "be動詞後接形容詞 useful 做主詞補語；use 為動詞。",
+    "category": "詞性"
+  },
+  {
+    "id": "P5-T600-069",
+    "part": 5,
+    "track": "T600",
+    "question": "We need to hire a ____ accountant for the tax season.",
+    "options": [
+      "qualify",
+      "qualified",
+      "qualifying",
+      "qualification"
+    ],
+    "answer": "qualified",
+    "explanation": "形容詞 qualified 修飾 accountant；qualify 為動詞，qualification 為名詞。",
+    "category": "詞性"
+  },
+  {
+    "id": "P5-T600-070",
+    "part": 5,
+    "track": "T600",
+    "question": "The manager gave a clear ____ of the new procedure.",
+    "options": [
+      "explain",
+      "explanation",
+      "explanatory",
+      "explaining"
+    ],
+    "answer": "explanation",
+    "explanation": "冠詞 a + 形容詞 clear + 名詞 explanation；explain 為動詞。",
+    "category": "詞性"
+  },
+  {
+    "id": "P5-T600-071",
+    "part": 5,
+    "track": "T600",
+    "question": "The negotiation process was surprisingly ____.",
+    "options": [
+      "smooth",
+      "smoothly",
+      "smoothness",
+      "smoothed"
+    ],
+    "answer": "smooth",
+    "explanation": "be動詞後接形容詞 smooth 做主詞補語；smoothly 為副詞。",
+    "category": "詞性"
+  },
+  {
+    "id": "P5-T600-072",
+    "part": 5,
+    "track": "T600",
+    "question": "She handled the difficult customer with great ____.",
+    "options": [
+      "professional",
+      "professionally",
+      "professionalism",
+      "profession"
+    ],
+    "answer": "professionalism",
+    "explanation": "介係詞 with + 名詞片語 great professionalism。",
+    "category": "詞性"
+  },
+  {
+    "id": "P5-T600-073",
+    "part": 5,
+    "track": "T600",
+    "question": "The IT department will ____ the system upgrade next week.",
+    "options": [
+      "implementation",
+      "implement",
+      "implemented",
+      "implementing"
+    ],
+    "answer": "implement",
+    "explanation": "will 後接原形動詞 implement。",
+    "category": "詞性"
+  },
+  {
+    "id": "P5-T600-074",
+    "part": 5,
+    "track": "T600",
+    "question": "The candidate's ____ impressed the hiring committee.",
+    "options": [
+      "present",
+      "presenting",
+      "presentation",
+      "presented"
+    ],
+    "answer": "presentation",
+    "explanation": "所有格 candidate's 後接名詞 presentation 做主詞。",
+    "category": "詞性"
+  },
+  {
+    "id": "P5-T600-075",
+    "part": 5,
+    "track": "T600",
+    "question": "All employees must follow the safety ____ at all times.",
+    "options": [
+      "guide",
+      "guidance",
+      "guidelines",
+      "guiding"
+    ],
+    "answer": "guidelines",
+    "explanation": "safety guidelines（安全指引）為固定名詞用法。",
+    "category": "詞性"
+  },
+  {
+    "id": "P5-T600-076",
+    "part": 5,
+    "track": "T600",
+    "question": "The consultant provided a ____ analysis of our workflow.",
+    "options": [
+      "comprehend",
+      "comprehensive",
+      "comprehensively",
+      "comprehension"
+    ],
+    "answer": "comprehensive",
+    "explanation": "形容詞 comprehensive 修飾 analysis。",
+    "category": "詞性"
+  },
+  {
+    "id": "P5-T600-077",
+    "part": 5,
+    "track": "T600",
+    "question": "The contract needs to be reviewed ____ before signing.",
+    "options": [
+      "care",
+      "careful",
+      "carefully",
+      "careless"
+    ],
+    "answer": "carefully",
+    "explanation": "副詞 carefully 修飾被動動詞 be reviewed。",
+    "category": "詞性"
+  },
+  {
+    "id": "P5-T600-078",
+    "part": 5,
+    "track": "T600",
+    "question": "The company values ____ and teamwork above all else.",
+    "options": [
+      "innovate",
+      "innovative",
+      "innovation",
+      "innovatively"
+    ],
+    "answer": "innovation",
+    "explanation": "名詞 innovation 做 values 的受詞，與 teamwork 並列。",
+    "category": "詞性"
+  },
+  {
+    "id": "P5-T600-079",
+    "part": 5,
+    "track": "T600",
+    "question": "This model is more ____ than the previous version.",
+    "options": [
+      "efficiency",
+      "efficient",
+      "efficiently",
+      "efficiencies"
+    ],
+    "answer": "efficient",
+    "explanation": "more + 形容詞 efficient 構成比較級。",
+    "category": "詞性"
+  },
+  {
+    "id": "P5-T600-080",
+    "part": 5,
+    "track": "T600",
+    "question": "The ____ of the annual conference has been confirmed.",
+    "options": [
+      "local",
+      "locate",
+      "location",
+      "located"
+    ],
+    "answer": "location",
+    "explanation": "冠詞 the + 名詞 location 為主詞。",
+    "category": "詞性"
+  },
+  {
+    "id": "P5-T600-081",
+    "part": 5,
+    "track": "T600",
+    "question": "The applicant should have strong ____ skills.",
+    "options": [
+      "communicate",
+      "communication",
+      "communicative",
+      "communicating"
+    ],
+    "answer": "communication",
+    "explanation": "communication skills（溝通技巧）為複合名詞。",
+    "category": "詞性"
+  },
+  {
+    "id": "P5-T600-082",
+    "part": 5,
+    "track": "T600",
+    "question": "The price ____ shows a steady increase this quarter.",
+    "options": [
+      "tend",
+      "trend",
+      "tending",
+      "trendy"
+    ],
+    "answer": "trend",
+    "explanation": "price trend（價格趨勢）為複合名詞。",
+    "category": "詞性"
+  },
+  {
+    "id": "P5-T600-083",
+    "part": 5,
+    "track": "T600",
+    "question": "Please send your ____ documents by email.",
+    "options": [
+      "support",
+      "supporting",
+      "supported",
+      "supporter"
+    ],
+    "answer": "supporting",
+    "explanation": "supporting documents（佐證文件）為形容詞修飾名詞用法。",
+    "category": "詞性"
+  },
+  {
+    "id": "P5-T600-084",
+    "part": 5,
+    "track": "T600",
+    "question": "The CEO made an ____ at the annual meeting.",
+    "options": [
+      "announce",
+      "announcer",
+      "announcement",
+      "announcing"
+    ],
+    "answer": "announcement",
+    "explanation": "make an announcement（發布公告）為固定搭配。",
+    "category": "詞性"
+  },
+  {
+    "id": "P5-T600-085",
+    "part": 5,
+    "track": "T600",
+    "question": "The agreement was signed ____ the two parties on Monday.",
+    "options": [
+      "among",
+      "between",
+      "within",
+      "through"
+    ],
+    "answer": "between",
+    "explanation": "兩方之間用 between；among 用於三者以上。",
+    "category": "介系詞"
+  },
+  {
+    "id": "P5-T600-086",
+    "part": 5,
+    "track": "T600",
+    "question": "The store is open ____ 9 AM to 9 PM every day.",
+    "options": [
+      "since",
+      "from",
+      "at",
+      "during"
+    ],
+    "answer": "from",
+    "explanation": "from A to B 表示時間範圍。",
+    "category": "介系詞"
+  },
+  {
+    "id": "P5-T600-087",
+    "part": 5,
+    "track": "T600",
+    "question": "All staff must participate ____ the fire drill.",
+    "options": [
+      "on",
+      "at",
+      "in",
+      "for"
+    ],
+    "answer": "in",
+    "explanation": "participate in（參加）為固定搭配。",
+    "category": "介系詞"
+  },
+  {
+    "id": "P5-T600-088",
+    "part": 5,
+    "track": "T600",
+    "question": "The memo was distributed ____ all employees this morning.",
+    "options": [
+      "among",
+      "between",
+      "to",
+      "through"
+    ],
+    "answer": "to",
+    "explanation": "distribute to（分發給）為正確搭配。",
+    "category": "介系詞"
+  },
+  {
+    "id": "P5-T600-089",
+    "part": 5,
+    "track": "T600",
+    "question": "The hotel offers a shuttle service ____ the airport.",
+    "options": [
+      "for",
+      "to",
+      "from",
+      "by"
+    ],
+    "answer": "to",
+    "explanation": "shuttle service to the airport（往機場的接駁服務）。",
+    "category": "介系詞"
+  },
+  {
+    "id": "P5-T600-090",
+    "part": 5,
+    "track": "T600",
+    "question": "We discussed the issue ____ detail during the meeting.",
+    "options": [
+      "in",
+      "with",
+      "at",
+      "by"
+    ],
+    "answer": "in",
+    "explanation": "in detail（詳細地）為固定片語。",
+    "category": "介系詞"
+  },
+  {
+    "id": "P5-T600-091",
+    "part": 5,
+    "track": "T600",
+    "question": "The company is expanding its operations ____ Asia.",
+    "options": [
+      "in",
+      "on",
+      "at",
+      "by"
+    ],
+    "answer": "in",
+    "explanation": "in Asia（在亞洲）地區用介係詞 in。",
+    "category": "介系詞"
+  },
+  {
+    "id": "P5-T600-092",
+    "part": 5,
+    "track": "T600",
+    "question": "The shipment left the warehouse ____ April 12.",
+    "options": [
+      "in",
+      "at",
+      "on",
+      "by"
+    ],
+    "answer": "on",
+    "explanation": "特定日期 April 12 用介係詞 on。",
+    "category": "介系詞"
+  },
+  {
+    "id": "P5-T600-093",
+    "part": 5,
+    "track": "T600",
+    "question": "She succeeded ____ completing the project ahead of schedule.",
+    "options": [
+      "to",
+      "in",
+      "on",
+      "for"
+    ],
+    "answer": "in",
+    "explanation": "succeed in + V-ing（成功做某事）為固定搭配。",
+    "category": "介系詞"
+  },
+  {
+    "id": "P5-T600-094",
+    "part": 5,
+    "track": "T600",
+    "question": "The company invested heavily ____ research and development.",
+    "options": [
+      "on",
+      "in",
+      "at",
+      "for"
+    ],
+    "answer": "in",
+    "explanation": "invest in（投資於）為固定搭配。",
+    "category": "介系詞"
+  },
+  {
+    "id": "P5-T600-095",
+    "part": 5,
+    "track": "T600",
+    "question": "The final price depends ____ the quantity you order.",
+    "options": [
+      "to",
+      "on",
+      "at",
+      "for"
+    ],
+    "answer": "on",
+    "explanation": "depend on（取決於）為固定搭配。",
+    "category": "介系詞"
+  },
+  {
+    "id": "P5-T600-096",
+    "part": 5,
+    "track": "T600",
+    "question": "Please refer ____ the attached document for details.",
+    "options": [
+      "to",
+      "at",
+      "on",
+      "for"
+    ],
+    "answer": "to",
+    "explanation": "refer to（參考）為固定搭配。",
+    "category": "介系詞"
+  },
+  {
+    "id": "P5-T600-097",
+    "part": 5,
+    "track": "T600",
+    "question": "The event was canceled due ____ the typhoon.",
+    "options": [
+      "to",
+      "of",
+      "for",
+      "by"
+    ],
+    "answer": "to",
+    "explanation": "due to（由於）為固定片語。",
+    "category": "介系詞"
+  },
+  {
+    "id": "P5-T600-098",
+    "part": 5,
+    "track": "T600",
+    "question": "The conference will be held ____ the Grand Hotel.",
+    "options": [
+      "in",
+      "at",
+      "on",
+      "by"
+    ],
+    "answer": "at",
+    "explanation": "特定場所飯店用 at。",
+    "category": "介系詞"
+  },
+  {
+    "id": "P5-T600-099",
+    "part": 5,
+    "track": "T600",
+    "question": "She was absent ____ the meeting because of illness.",
+    "options": [
+      "for",
+      "at",
+      "from",
+      "in"
+    ],
+    "answer": "from",
+    "explanation": "be absent from（缺席）為固定搭配。",
+    "category": "介系詞"
+  },
+  {
+    "id": "P5-T600-100",
+    "part": 5,
+    "track": "T600",
+    "question": "The discount applies ____ all online orders this month.",
+    "options": [
+      "for",
+      "to",
+      "on",
+      "at"
+    ],
+    "answer": "to",
+    "explanation": "apply to（適用於）為固定搭配。",
+    "category": "介系詞"
+  },
+  {
+    "id": "P5-T600-101",
+    "part": 5,
+    "track": "T600",
+    "question": "We need to account ____ every dollar spent on the project.",
+    "options": [
+      "to",
+      "for",
+      "with",
+      "of"
+    ],
+    "answer": "for",
+    "explanation": "account for（說明/解釋）為固定片語動詞。",
+    "category": "介系詞"
+  },
+  {
+    "id": "P5-T600-102",
+    "part": 5,
+    "track": "T600",
+    "question": "The candidate was hired ____ she had excellent qualifications.",
+    "options": [
+      "so",
+      "but",
+      "because",
+      "although"
+    ],
+    "answer": "because",
+    "explanation": "because 引導原因副詞子句，說明被錄取的原因。",
+    "category": "連接詞"
+  },
+  {
+    "id": "P5-T600-103",
+    "part": 5,
+    "track": "T600",
+    "question": "____ the market is volatile, we decided to wait before investing.",
+    "options": [
+      "Since",
+      "So",
+      "But",
+      "Unless"
+    ],
+    "answer": "Since",
+    "explanation": "Since 引導原因子句，表示由於市場波動決定等待。",
+    "category": "連接詞"
+  },
+  {
+    "id": "P5-T600-104",
+    "part": 5,
+    "track": "T600",
+    "question": "He studied finance in college, ____ he now works in marketing.",
+    "options": [
+      "so",
+      "yet",
+      "because",
+      "or"
+    ],
+    "answer": "yet",
+    "explanation": "yet（然而）表示前後對比轉折。",
+    "category": "連接詞"
+  },
+  {
+    "id": "P5-T600-105",
+    "part": 5,
+    "track": "T600",
+    "question": "The project was complex, ____ the team completed it on time.",
+    "options": [
+      "but",
+      "so",
+      "because",
+      "or"
+    ],
+    "answer": "but",
+    "explanation": "but 表示轉折：雖然複雜但按時完成。",
+    "category": "連接詞"
+  },
+  {
+    "id": "P5-T600-106",
+    "part": 5,
+    "track": "T600",
+    "question": "____ you pay the invoice within 30 days, no late fee will apply.",
+    "options": [
+      "As",
+      "As long as",
+      "Even though",
+      "Unless"
+    ],
+    "answer": "As long as",
+    "explanation": "as long as（只要）引導條件子句。",
+    "category": "連接詞"
+  },
+  {
+    "id": "P5-T600-107",
+    "part": 5,
+    "track": "T600",
+    "question": "The manager approved the budget ____ the proposal was well-prepared.",
+    "options": [
+      "although",
+      "because",
+      "but",
+      "yet"
+    ],
+    "answer": "because",
+    "explanation": "because引導原因副詞子句，解釋經理批准預算的原因。",
+    "category": "連接詞"
+  },
+  {
+    "id": "P5-T600-108",
+    "part": 5,
+    "track": "T600",
+    "question": "____ the report contains errors, please correct them immediately.",
+    "options": [
+      "If",
+      "Because",
+      "Although",
+      "So"
+    ],
+    "answer": "If",
+    "explanation": "if 引導條件子句：如果有錯誤請立即改正。",
+    "category": "連接詞"
+  },
+  {
+    "id": "P5-T600-109",
+    "part": 5,
+    "track": "T600",
+    "question": "The office will be closed next Monday ____ it is a national holiday.",
+    "options": [
+      "so",
+      "but",
+      "because",
+      "although"
+    ],
+    "answer": "because",
+    "explanation": "because 說明原因：因為是國定假日。",
+    "category": "連接詞"
+  },
+  {
+    "id": "P5-T600-110",
+    "part": 5,
+    "track": "T600",
+    "question": "____ the CEO was impressed by the presentation, she requested some changes.",
+    "options": [
+      "Because",
+      "Although",
+      "So",
+      "When"
+    ],
+    "answer": "Although",
+    "explanation": "Although 表示轉折：雖然印象深刻但仍要求修改。",
+    "category": "連接詞"
+  },
+  {
+    "id": "P5-T600-111",
+    "part": 5,
+    "track": "T600",
+    "question": "Please submit the application ____ you have completed all sections.",
+    "options": [
+      "so",
+      "but",
+      "once",
+      "although"
+    ],
+    "answer": "once",
+    "explanation": "once（一旦）引導時間副詞子句。",
+    "category": "連接詞"
+  },
+  {
+    "id": "P5-T600-112",
+    "part": 5,
+    "track": "T600",
+    "question": "The training session was informative, ____ many employees attended.",
+    "options": [
+      "or",
+      "but",
+      "so",
+      "yet"
+    ],
+    "answer": "so",
+    "explanation": "so 表示結果：因為內容豐富所以很多人參加。",
+    "category": "連接詞"
+  },
+  {
+    "id": "P5-T600-113",
+    "part": 5,
+    "track": "T600",
+    "question": "____ the supplier delivers late, we will lose the client.",
+    "options": [
+      "If",
+      "Although",
+      "Because",
+      "Unless"
+    ],
+    "answer": "If",
+    "explanation": "If 引導條件子句：如果供應商延遲交貨就會失去客戶。",
+    "category": "連接詞"
+  },
+  {
+    "id": "P5-T600-114",
+    "part": 5,
+    "track": "T600",
+    "question": "We accept returns ____ the item is unused and in its original packaging.",
+    "options": [
+      "so",
+      "if",
+      "although",
+      "because"
+    ],
+    "answer": "if",
+    "explanation": "if引導條件子句，表示退貨的前提條件是商品未使用且在原始包裝中。",
+    "category": "連接詞"
+  },
+  {
+    "id": "P5-T600-115",
+    "part": 5,
+    "track": "T600",
+    "question": "The company offers flexible hours, ____ employees can choose their start time.",
+    "options": [
+      "but",
+      "or",
+      "so",
+      "yet"
+    ],
+    "answer": "so",
+    "explanation": "so 表結果：因為有彈性工時所以員工可選開始時間。",
+    "category": "連接詞"
+  },
+  {
+    "id": "P5-T600-116",
+    "part": 5,
+    "track": "T600",
+    "question": "____ the budget cut, the project continued as planned.",
+    "options": [
+      "Because",
+      "Despite",
+      "Because of",
+      "Although"
+    ],
+    "answer": "Despite",
+    "explanation": "Despite + 名詞片語（儘管預算刪減）表讓步。",
+    "category": "連接詞"
+  },
+  {
+    "id": "P5-T600-117",
+    "part": 5,
+    "track": "T600",
+    "question": "The associate was promoted ____ she worked very hard.",
+    "options": [
+      "because",
+      "so",
+      "although",
+      "but"
+    ],
+    "answer": "because",
+    "explanation": "because引導原因副詞子句，說明升遷的原因。",
+    "category": "連接詞"
+  },
+  {
+    "id": "P5-T600-118",
+    "part": 5,
+    "track": "T600",
+    "question": "The consultant ____ we hired came highly recommended.",
+    "options": [
+      "who",
+      "whom",
+      "which",
+      "whose"
+    ],
+    "answer": "whom",
+    "explanation": "whom 在關係子句中當受詞（hired的受詞）。",
+    "category": "關係代名詞"
+  },
+  {
+    "id": "P5-T600-119",
+    "part": 5,
+    "track": "T600",
+    "question": "The company ____ headquarters are in Singapore is expanding rapidly.",
+    "options": [
+      "who",
+      "whom",
+      "which",
+      "whose"
+    ],
+    "answer": "whose",
+    "explanation": "whose 表所有格關係，headquarters of the company。",
+    "category": "關係代名詞"
+  },
+  {
+    "id": "P5-T600-120",
+    "part": 5,
+    "track": "T600",
+    "question": "The product ____ was launched last month has sold out.",
+    "options": [
+      "who",
+      "whom",
+      "which",
+      "whose"
+    ],
+    "answer": "which",
+    "explanation": "which 引導形容詞子句修飾事物 product。",
+    "category": "關係代名詞"
+  },
+  {
+    "id": "P5-T600-121",
+    "part": 5,
+    "track": "T600",
+    "question": "The manager ____ office is on the third floor will meet you at 3 PM.",
+    "options": [
+      "who",
+      "whom",
+      "which",
+      "whose"
+    ],
+    "answer": "whose",
+    "explanation": "whose 表所有格，office of the manager。",
+    "category": "關係代名詞"
+  },
+  {
+    "id": "P5-T600-122",
+    "part": 5,
+    "track": "T600",
+    "question": "The candidate ____ interviewed this morning has ten years of experience.",
+    "options": [
+      "who",
+      "whom",
+      "which",
+      "whose"
+    ],
+    "answer": "who",
+    "explanation": "who 在關係子句中當主詞（interviewed 的主詞）。",
+    "category": "關係代名詞"
+  },
+  {
+    "id": "P5-T600-123",
+    "part": 5,
+    "track": "T600",
+    "question": "The report ____ you submitted yesterday needs revision.",
+    "options": [
+      "who",
+      "whom",
+      "which",
+      "whose"
+    ],
+    "answer": "which",
+    "explanation": "which 修飾事物 report，在子句中當 submitted 的受詞。",
+    "category": "關係代名詞"
+  },
+  {
+    "id": "P5-T600-124",
+    "part": 5,
+    "track": "T600",
+    "question": "Mr. Tanaka, ____ is our business partner, will visit next week.",
+    "options": [
+      "that",
+      "whom",
+      "who",
+      "whose"
+    ],
+    "answer": "who",
+    "explanation": "非限定關係子句修飾人，who 為主格。",
+    "category": "關係代名詞"
+  },
+  {
+    "id": "P5-T600-125",
+    "part": 5,
+    "track": "T600",
+    "question": "The reason ____ she resigned was not disclosed.",
+    "options": [
+      "which",
+      "what",
+      "why",
+      "that"
+    ],
+    "answer": "why",
+    "explanation": "the reason why 為固定用法。",
+    "category": "關係代名詞"
+  },
+  {
+    "id": "P5-T600-126",
+    "part": 5,
+    "track": "T600",
+    "question": "There are several factors ____ affect the stock price.",
+    "options": [
+      "what",
+      "which",
+      "who",
+      "whom"
+    ],
+    "answer": "which",
+    "explanation": "which 引導形容詞子句修飾 factors，在子句中當主詞。",
+    "category": "關係代名詞"
+  },
+  {
+    "id": "P5-T600-127",
+    "part": 5,
+    "track": "T600",
+    "question": "The building ____ windows face the park has a great view.",
+    "options": [
+      "which",
+      "that",
+      "whose",
+      "whom"
+    ],
+    "answer": "whose",
+    "explanation": "whose windows = windows of the building。",
+    "category": "關係代名詞"
+  },
+  {
+    "id": "P5-T600-128",
+    "part": 5,
+    "track": "T600",
+    "question": "Everything ____ we discussed at the meeting is confidential.",
+    "options": [
+      "which",
+      "that",
+      "what",
+      "whom"
+    ],
+    "answer": "that",
+    "explanation": "先行詞為不定代名詞 Everything 時關係代名詞只能用 that。",
+    "category": "關係代名詞"
+  },
+  {
+    "id": "P5-T600-129",
+    "part": 5,
+    "track": "T600",
+    "question": "The department ____ she works for is relocating to Taipei.",
+    "options": [
+      "who",
+      "which",
+      "whom",
+      "whose"
+    ],
+    "answer": "which",
+    "explanation": "which 修飾事物 department，在子句中當 for 的受詞。",
+    "category": "關係代名詞"
+  },
+  {
+    "id": "P5-T600-130",
+    "part": 5,
+    "track": "T600",
+    "question": "The client ____ order was delayed received a discount.",
+    "options": [
+      "who",
+      "whom",
+      "which",
+      "whose"
+    ],
+    "answer": "whose",
+    "explanation": "whose 表所有格，order of the client。",
+    "category": "關係代名詞"
+  },
+  {
+    "id": "P5-T600-131",
+    "part": 5,
+    "track": "T600",
+    "question": "This is the software ____ we use for inventory management.",
+    "options": [
+      "who",
+      "whom",
+      "which",
+      "whose"
+    ],
+    "answer": "which",
+    "explanation": "which 修飾事物 software，在子句中當 use 的受詞。",
+    "category": "關係代名詞"
+  },
+  {
+    "id": "P5-T600-132",
+    "part": 5,
+    "track": "T600",
+    "question": "The employees ____ performance exceeded targets will receive a bonus.",
+    "options": [
+      "who",
+      "which",
+      "whom",
+      "whose"
+    ],
+    "answer": "whose",
+    "explanation": "whose 表所有格：performance of the employees。",
+    "category": "關係代名詞"
+  },
+  {
+    "id": "P5-T600-133",
+    "part": 5,
+    "track": "T600",
+    "question": "He is the person ____ can solve this issue.",
+    "options": [
+      "whom",
+      "which",
+      "who",
+      "whose"
+    ],
+    "answer": "who",
+    "explanation": "who 在關係子句中當主詞（I believe 插入語不影響格位）。",
+    "category": "關係代名詞"
+  },
+  {
+    "id": "P5-T600-134",
+    "part": 5,
+    "track": "T600",
+    "question": "If the client ____ the contract, we would have a problem.",
+    "options": [
+      "cancels",
+      "canceled",
+      "does not cancel",
+      "will cancel"
+    ],
+    "answer": "canceled",
+    "explanation": "與現在事實相反的假設，If 子句用過去式 canceled。",
+    "category": "假設語氣"
+  },
+  {
+    "id": "P5-T600-135",
+    "part": 5,
+    "track": "T600",
+    "question": "I wish I ____ more attention to the instructions yesterday.",
+    "options": [
+      "pay",
+      "paid",
+      "had paid",
+      "would pay"
+    ],
+    "answer": "had paid",
+    "explanation": "與過去事實相反的願望，wish + 過去完成式 had paid。",
+    "category": "假設語氣"
+  },
+  {
+    "id": "P5-T600-136",
+    "part": 5,
+    "track": "T600",
+    "question": "It is essential that every employee ____ the safety training.",
+    "options": [
+      "complete",
+      "completes",
+      "completed",
+      "will complete"
+    ],
+    "answer": "complete",
+    "explanation": "essential that + 原形動詞（should 省略）的假設語氣。",
+    "category": "假設語氣"
+  },
+  {
+    "id": "P5-T600-137",
+    "part": 5,
+    "track": "T600",
+    "question": "If she ____ about the meeting, she would have attended.",
+    "options": [
+      "knows",
+      "knew",
+      "had known",
+      "has known"
+    ],
+    "answer": "had known",
+    "explanation": "與過去事實相反，if 子句用過去完成式 had known。",
+    "category": "假設語氣"
+  },
+  {
+    "id": "P5-T600-138",
+    "part": 5,
+    "track": "T600",
+    "question": "The manager suggested that the team ____ the deadline.",
+    "options": [
+      "extends",
+      "extend",
+      "extended",
+      "would extend"
+    ],
+    "answer": "extend",
+    "explanation": "suggest that + 原形動詞（should 省略）。",
+    "category": "假設語氣"
+  },
+  {
+    "id": "P5-T600-139",
+    "part": 5,
+    "track": "T600",
+    "question": "If we had more staff, we ____ the project faster.",
+    "options": [
+      "will complete",
+      "would complete",
+      "completed",
+      "have completed"
+    ],
+    "answer": "would complete",
+    "explanation": "與現在事實相反，主要子句用 would + 原形動詞。",
+    "category": "假設語氣"
+  },
+  {
+    "id": "P5-T600-140",
+    "part": 5,
+    "track": "T600",
+    "question": "The regulations require that all data ____ encrypted.",
+    "options": [
+      "is",
+      "be",
+      "are",
+      "will be"
+    ],
+    "answer": "be",
+    "explanation": "require that + 原形動詞（should 省略）be encrypted。",
+    "category": "假設語氣"
+  },
+  {
+    "id": "P5-T600-141",
+    "part": 5,
+    "track": "T600",
+    "question": "If he had left on time, he ____ the train.",
+    "options": [
+      "catches",
+      "caught",
+      "would have caught",
+      "will catch"
+    ],
+    "answer": "would have caught",
+    "explanation": "與過去事實相反，主要子句用 would have + 過去分詞。",
+    "category": "假設語氣"
+  },
+  {
+    "id": "P5-T600-142",
+    "part": 5,
+    "track": "T600",
+    "question": "The supervisor insisted that the report ____ rewritten.",
+    "options": [
+      "is",
+      "was",
+      "be",
+      "will be"
+    ],
+    "answer": "be",
+    "explanation": "insist that + 原形動詞表示堅持某事應被執行。",
+    "category": "假設語氣"
+  },
+  {
+    "id": "P5-T600-143",
+    "part": 5,
+    "track": "T600",
+    "question": "If I ____ you, I would accept the offer.",
+    "options": [
+      "am",
+      "was",
+      "were",
+      "be"
+    ],
+    "answer": "were",
+    "explanation": "與現在事實相反的假設，If I were you 為固定用法。",
+    "category": "假設語氣"
+  },
+  {
+    "id": "P5-T600-144",
+    "part": 5,
+    "track": "T600",
+    "question": "It is vital that all team members ____ on the same page.",
+    "options": [
+      "are",
+      "were",
+      "be",
+      "will be"
+    ],
+    "answer": "be",
+    "explanation": "vital that + 原形動詞（should 省略）。",
+    "category": "假設語氣"
+  },
+  {
+    "id": "P5-T600-145",
+    "part": 5,
+    "track": "T600",
+    "question": "If the system had been updated, the error ____.",
+    "options": [
+      "does not occur",
+      "would not occur",
+      "would not have occurred",
+      "will not occur"
+    ],
+    "answer": "would not have occurred",
+    "explanation": "與過去事實相反，主要子句用 would not have + 過去分詞。",
+    "category": "假設語氣"
+  },
+  {
+    "id": "P5-T600-146",
+    "part": 5,
+    "track": "T600",
+    "question": "The policy requires that passengers ____ their seat belts during takeoff.",
+    "options": [
+      "fasten",
+      "fastens",
+      "fastened",
+      "will fasten"
+    ],
+    "answer": "fasten",
+    "explanation": "require that + 原形動詞 fasten（should 省略）。",
+    "category": "假設語氣"
+  },
+  {
+    "id": "P5-T600-147",
+    "part": 5,
+    "track": "T600",
+    "question": "If she practices more, she ____ the presentation exam.",
+    "options": [
+      "passes",
+      "will pass",
+      "would pass",
+      "passed"
+    ],
+    "answer": "will pass",
+    "explanation": "與未來事實可能相符的條件句，If + 現在式，主要子句用未來式。",
+    "category": "假設語氣"
+  },
+  {
+    "id": "P5-T600-148",
+    "part": 5,
+    "track": "T600",
+    "question": "The proposal recommended that the budget ____ increased.",
+    "options": [
+      "is",
+      "was",
+      "be",
+      "will be"
+    ],
+    "answer": "be",
+    "explanation": "recommend that + 原形動詞 be increased。",
+    "category": "假設語氣"
+  },
+  {
+    "id": "P5-T600-149",
+    "part": 5,
+    "track": "T600",
+    "question": "If the equipment were newer, it ____ more efficiently.",
+    "options": [
+      "will operate",
+      "would operate",
+      "operates",
+      "operated"
+    ],
+    "answer": "would operate",
+    "explanation": "與現在事實相反的假設，主要子句用 would + 原形動詞。",
+    "category": "假設語氣"
+  },
+  {
+    "id": "P5-T600-150",
+    "part": 5,
+    "track": "T600",
+    "question": "Please ____ attention to the safety announcement.",
+    "options": [
+      "take",
+      "pay",
+      "give",
+      "make"
+    ],
+    "answer": "pay",
+    "explanation": "pay attention to（注意）為固定搭配。",
+    "category": "搭配詞"
+  },
+  {
+    "id": "P5-T600-151",
+    "part": 5,
+    "track": "T600",
+    "question": "The company decided to ____ a new marketing strategy.",
+    "options": [
+      "adopt",
+      "adapt",
+      "adept",
+      "adjust"
+    ],
+    "answer": "adopt",
+    "explanation": "adopt a strategy（採行策略）為正確搭配。",
+    "category": "搭配詞"
+  },
+  {
+    "id": "P5-T600-152",
+    "part": 5,
+    "track": "T600",
+    "question": "The receptionist will ____ care of the guest registrations.",
+    "options": [
+      "make",
+      "take",
+      "do",
+      "have"
+    ],
+    "answer": "take",
+    "explanation": "take care of（處理/照顧）為固定搭配。",
+    "category": "搭配詞"
+  },
+  {
+    "id": "P5-T600-153",
+    "part": 5,
+    "track": "T600",
+    "question": "The manager asked us to ____ priority on this task.",
+    "options": [
+      "give",
+      "put",
+      "take",
+      "set"
+    ],
+    "answer": "give",
+    "explanation": "give priority to（優先處理）為商務搭配。",
+    "category": "搭配詞"
+  },
+  {
+    "id": "P5-T600-154",
+    "part": 5,
+    "track": "T600",
+    "question": "The company will ____ a loss of $50,000 this quarter.",
+    "options": [
+      "report",
+      "make",
+      "take",
+      "do"
+    ],
+    "answer": "report",
+    "explanation": "report a loss（報告虧損）為財報常用搭配。",
+    "category": "搭配詞"
+  },
+  {
+    "id": "P5-T600-155",
+    "part": 5,
+    "track": "T600",
+    "question": "The candidate was able to ____ a good impression during the interview.",
+    "options": [
+      "do",
+      "make",
+      "give",
+      "take"
+    ],
+    "answer": "make",
+    "explanation": "make a good impression（留下好印象）為固定搭配。",
+    "category": "搭配詞"
+  },
+  {
+    "id": "P5-T600-156",
+    "part": 5,
+    "track": "T600",
+    "question": "We need to ____ a meeting with all stakeholders.",
+    "options": [
+      "do",
+      "make",
+      "schedule",
+      "take"
+    ],
+    "answer": "schedule",
+    "explanation": "schedule a meeting（安排會議）為正確搭配。",
+    "category": "搭配詞"
+  },
+  {
+    "id": "P5-T600-157",
+    "part": 5,
+    "track": "T600",
+    "question": "The IT team will ____ the problem as soon as possible.",
+    "options": [
+      "resolve",
+      "make",
+      "do",
+      "take"
+    ],
+    "answer": "resolve",
+    "explanation": "resolve the problem（解決問題）為正確搭配。",
+    "category": "搭配詞"
+  },
+  {
+    "id": "P5-T600-158",
+    "part": 5,
+    "track": "T600",
+    "question": "The new intern is learning how to ____ phone calls professionally.",
+    "options": [
+      "make",
+      "do",
+      "handle",
+      "take"
+    ],
+    "answer": "handle",
+    "explanation": "handle phone calls（處理電話）為常見搭配。",
+    "category": "搭配詞"
+  },
+  {
+    "id": "P5-T600-159",
+    "part": 5,
+    "track": "T600",
+    "question": "The sales representative managed to ____ a deal with the client.",
+    "options": [
+      "close",
+      "make",
+      "do",
+      "take"
+    ],
+    "answer": "close",
+    "explanation": "close a deal（成交）為商務固定搭配。",
+    "category": "搭配詞"
+  },
+  {
+    "id": "P5-T600-160",
+    "part": 5,
+    "track": "T600",
+    "question": "The consultant will ____ a presentation on market trends.",
+    "options": [
+      "do",
+      "make",
+      "give",
+      "take"
+    ],
+    "answer": "give",
+    "explanation": "give a presentation（做簡報）為固定搭配。",
+    "category": "搭配詞"
+  },
+  {
+    "id": "P5-T600-161",
+    "part": 5,
+    "track": "T600",
+    "question": "Our team needs to ____ the deadline for this proposal.",
+    "options": [
+      "do",
+      "make",
+      "meet",
+      "take"
+    ],
+    "answer": "meet",
+    "explanation": "meet the deadline（趕上截止期限）為固定搭配。",
+    "category": "搭配詞"
+  },
+  {
+    "id": "P5-T600-162",
+    "part": 5,
+    "track": "T600",
+    "question": "The hotel staff will ____ your luggage to the room.",
+    "options": [
+      "carry",
+      "bring",
+      "take",
+      "deliver"
+    ],
+    "answer": "deliver",
+    "explanation": "deliver luggage to the room（送行李到房間）為飯店服務常見搭配。",
+    "category": "搭配詞"
+  },
+  {
+    "id": "P5-T600-163",
+    "part": 5,
+    "track": "T600",
+    "question": "We should ____ advantage of the early bird discount.",
+    "options": [
+      "make",
+      "take",
+      "have",
+      "do"
+    ],
+    "answer": "take",
+    "explanation": "take advantage of（利用）為固定片語。",
+    "category": "搭配詞"
+  },
+  {
+    "id": "P5-T600-164",
+    "part": 5,
+    "track": "T600",
+    "question": "The manager asked her to ____ a call to the supplier.",
+    "options": [
+      "do",
+      "make",
+      "take",
+      "give"
+    ],
+    "answer": "make",
+    "explanation": "make a call（打電話）為固定搭配。",
+    "category": "搭配詞"
+  },
+  {
+    "id": "P5-T600-165",
+    "part": 5,
+    "track": "T600",
+    "question": "The company will ____ a survey to collect customer feedback.",
+    "options": [
+      "make",
+      "do",
+      "conduct",
+      "take"
+    ],
+    "answer": "conduct",
+    "explanation": "conduct a survey（進行調查）為正式商務搭配。",
+    "category": "搭配詞"
+  },
+  {
+    "id": "P5-T600-166",
+    "part": 5,
+    "track": "T600",
+    "question": "Both departments need to ____ on this project to meet the deadline.",
+    "options": [
+      "work",
+      "collaborate",
+      "cooperate",
+      "coordinate"
+    ],
+    "answer": "work",
+    "explanation": "\"work on\"表示投入工作，為最常見自然的搭配；collaborate/cooperate後通常接with + 人，coordinate接事物時需加受詞。",
+    "category": "搭配詞"
+  },
+  {
+    "id": "P5-T600-167",
+    "part": 5,
+    "track": "T600",
+    "question": "The meeting was ____ due to the manager's illness.",
+    "options": [
+      "called off",
+      "called out",
+      "called in",
+      "called up"
+    ],
+    "answer": "called off",
+    "explanation": "call off（取消）為片語動詞。",
+    "category": "片語動詞"
+  },
+  {
+    "id": "P5-T600-168",
+    "part": 5,
+    "track": "T600",
+    "question": "The new policy will be ____ next quarter.",
+    "options": [
+      "carried out",
+      "carried on",
+      "carried over",
+      "carried away"
+    ],
+    "answer": "carried out",
+    "explanation": "carry out（執行/實施）為片語動詞。",
+    "category": "片語動詞"
+  },
+  {
+    "id": "P5-T600-169",
+    "part": 5,
+    "track": "T600",
+    "question": "We need to ____ the report before submitting it.",
+    "options": [
+      "look over",
+      "look into",
+      "look up",
+      "look after"
+    ],
+    "answer": "look over",
+    "explanation": "look over（快速瀏覽/檢查）適合報告送審前的最後檢查。",
+    "category": "片語動詞"
+  },
+  {
+    "id": "P5-T600-170",
+    "part": 5,
+    "track": "T600",
+    "question": "The marketing team will ____ a new promotion next week.",
+    "options": [
+      "roll out",
+      "roll in",
+      "roll over",
+      "roll back"
+    ],
+    "answer": "roll out",
+    "explanation": "roll out（推出新方案）為商務片語動詞。",
+    "category": "片語動詞"
+  },
+  {
+    "id": "P5-T600-171",
+    "part": 5,
+    "track": "T600",
+    "question": "The supplier failed to ____ the agreed delivery date.",
+    "options": [
+      "keep on",
+      "keep up",
+      "keep to",
+      "keep off"
+    ],
+    "answer": "keep to",
+    "explanation": "keep to（遵守約定/時間表）為片語動詞。",
+    "category": "片語動詞"
+  },
+  {
+    "id": "P5-T600-172",
+    "part": 5,
+    "track": "T600",
+    "question": "We need to ____ the cause of the network failure.",
+    "options": [
+      "look into",
+      "look after",
+      "look for",
+      "look out"
+    ],
+    "answer": "look into",
+    "explanation": "look into（調查）為片語動詞。",
+    "category": "片語動詞"
+  },
+  {
+    "id": "P5-T600-173",
+    "part": 5,
+    "track": "T600",
+    "question": "The company decided to ____ the merger deal.",
+    "options": [
+      "go ahead with",
+      "go along",
+      "go through",
+      "go over"
+    ],
+    "answer": "go ahead with",
+    "explanation": "go ahead with（繼續進行）為片語動詞。",
+    "category": "片語動詞"
+  },
+  {
+    "id": "P5-T600-174",
+    "part": 5,
+    "track": "T600",
+    "question": "The workshop was ____ because of low registration.",
+    "options": [
+      "called off",
+      "put off",
+      "called out",
+      "taken off"
+    ],
+    "answer": "called off",
+    "explanation": "call off（取消）為最恰當片語動詞；put off 為延期。",
+    "category": "片語動詞"
+  },
+  {
+    "id": "P5-T600-175",
+    "part": 5,
+    "track": "T600",
+    "question": "The manager asked us to ____ the discussion until the next meeting.",
+    "options": [
+      "put off",
+      "put out",
+      "put away",
+      "put up"
+    ],
+    "answer": "put off",
+    "explanation": "put off（延後）為片語動詞。",
+    "category": "片語動詞"
+  },
+  {
+    "id": "P5-T600-176",
+    "part": 5,
+    "track": "T600",
+    "question": "She ____ the training program very quickly.",
+    "options": [
+      "picked on",
+      "picked up",
+      "picked out",
+      "picked over"
+    ],
+    "answer": "picked up",
+    "explanation": "pick up（學會/掌握）為片語動詞。",
+    "category": "片語動詞"
+  },
+  {
+    "id": "P5-T600-177",
+    "part": 5,
+    "track": "T600",
+    "question": "The HR department will ____ the new hiring process.",
+    "options": [
+      "set up",
+      "set off",
+      "set out",
+      "set aside"
+    ],
+    "answer": "set up",
+    "explanation": "set up（建立）為片語動詞。",
+    "category": "片語動詞"
+  },
+  {
+    "id": "P5-T600-178",
+    "part": 5,
+    "track": "T600",
+    "question": "He decided to ____ his father's business.",
+    "options": [
+      "take over",
+      "take in",
+      "take off",
+      "take up"
+    ],
+    "answer": "take over",
+    "explanation": "take over（接管/接手）為片語動詞。",
+    "category": "片語動詞"
+  },
+  {
+    "id": "P5-T600-179",
+    "part": 5,
+    "track": "T600",
+    "question": "The committee will ____ the budget proposals next week.",
+    "options": [
+      "go over",
+      "go off",
+      "go on",
+      "go out"
+    ],
+    "answer": "go over",
+    "explanation": "go over（仔細檢視）為片語動詞。",
+    "category": "片語動詞"
+  },
+  {
+    "id": "P5-T600-180",
+    "part": 5,
+    "track": "T600",
+    "question": "We need to ____ the old inventory before the new shipment arrives.",
+    "options": [
+      "clear out",
+      "clear up",
+      "clear off",
+      "clear away"
+    ],
+    "answer": "clear out",
+    "explanation": "clear out（清空）庫存為片語動詞。",
+    "category": "片語動詞"
+  },
+  {
+    "id": "P5-T600-181",
+    "part": 5,
+    "track": "T600",
+    "question": "The customer service team will ____ your complaint shortly.",
+    "options": [
+      "follow through",
+      "follow up on",
+      "follow out",
+      "follow after"
+    ],
+    "answer": "follow up on",
+    "explanation": "follow up on（跟進處理）為商務常見片語動詞。",
+    "category": "片語動詞"
+  },
+  {
+    "id": "P5-T600-182",
+    "part": 5,
+    "track": "T600",
+    "question": "The company is ____ new staff for the seasonal rush.",
+    "options": [
+      "taking on",
+      "taking in",
+      "taking over",
+      "taking off"
+    ],
+    "answer": "taking on",
+    "explanation": "take on（雇用）為片語動詞。",
+    "category": "片語動詞"
+  },
+  {
+    "id": "P5-T600-183",
+    "part": 5,
+    "track": "T600",
+    "question": "The negotiations finally ____ after hours of discussion.",
+    "options": [
+      "broke down",
+      "broke in",
+      "broke out",
+      "broke up"
+    ],
+    "answer": "broke down",
+    "explanation": "break down（談判破裂）為片語動詞。",
+    "category": "片語動詞"
+  },
+  {
+    "id": "P5-T600-184",
+    "part": 5,
+    "track": "T600",
+    "question": "The event was ____ by a local sponsor.",
+    "options": [
+      "funded",
+      "founded",
+      "found",
+      "folded"
+    ],
+    "answer": "funded",
+    "explanation": "funded（資助）vs founded（創立）；贊助活動要用 funded。",
+    "category": "近義字彙"
+  },
+  {
+    "id": "P5-T600-185",
+    "part": 5,
+    "track": "T600",
+    "question": "Please ____ the contract details before signing.",
+    "options": [
+      "confirm",
+      "conform",
+      "confine",
+      "consume"
+    ],
+    "answer": "confirm",
+    "explanation": "confirm（確認）vs conform（遵守）；確認合約細節用 confirm。",
+    "category": "近義字彙"
+  },
+  {
+    "id": "P5-T600-186",
+    "part": 5,
+    "track": "T600",
+    "question": "The new policy will ____ all employees equally.",
+    "options": [
+      "affect",
+      "effect",
+      "effort",
+      "afford"
+    ],
+    "answer": "affect",
+    "explanation": "affect（影響）vs effect（實現）；政策影響員工用 affect。",
+    "category": "近義字彙"
+  },
+  {
+    "id": "P5-T600-187",
+    "part": 5,
+    "track": "T600",
+    "question": "We need to ____ the client of the schedule change.",
+    "options": [
+      "inform",
+      "perform",
+      "reform",
+      "confirm"
+    ],
+    "answer": "inform",
+    "explanation": "inform someone of something（通知某人某事）。",
+    "category": "近義字彙"
+  },
+  {
+    "id": "P5-T600-188",
+    "part": 5,
+    "track": "T600",
+    "question": "The supervisor ____ the employee for his hard work.",
+    "options": [
+      "complemented",
+      "complimented",
+      "compiled",
+      "complicated"
+    ],
+    "answer": "complimented",
+    "explanation": "complimented（讚美）vs complemented（互補）。",
+    "category": "近義字彙"
+  },
+  {
+    "id": "P5-T600-189",
+    "part": 5,
+    "track": "T600",
+    "question": "The training program ____ both theory and practice.",
+    "options": [
+      "covers",
+      "cures",
+      "curses",
+      "curves"
+    ],
+    "answer": "covers",
+    "explanation": "covers（涵蓋）為最貼切。",
+    "category": "近義字彙"
+  },
+  {
+    "id": "P5-T600-190",
+    "part": 5,
+    "track": "T600",
+    "question": "The two companies have a long-term business ____.",
+    "options": [
+      "relation",
+      "relative",
+      "relationship",
+      "relativity"
+    ],
+    "answer": "relationship",
+    "explanation": "business relationship（商業關係）為常用搭配。",
+    "category": "近義字彙"
+  },
+  {
+    "id": "P5-T600-191",
+    "part": 5,
+    "track": "T600",
+    "question": "The accountant will ____ the financial statements.",
+    "options": [
+      "reveal",
+      "review",
+      "revise",
+      "reverse"
+    ],
+    "answer": "review",
+    "explanation": "review（審閱）財報；reveal 為揭露，revise 為修改。",
+    "category": "近義字彙"
+  },
+  {
+    "id": "P5-T600-192",
+    "part": 5,
+    "track": "T600",
+    "question": "The HR manager will ____ the new employee orientation.",
+    "options": [
+      "conduct",
+      "conductor",
+      "conduit",
+      "concrete"
+    ],
+    "answer": "conduct",
+    "explanation": "conduct an orientation（舉辦說明會）為正確字彙。",
+    "category": "近義字彙"
+  },
+  {
+    "id": "P5-T600-193",
+    "part": 5,
+    "track": "T600",
+    "question": "The proposal was ____ approved by the board members.",
+    "options": [
+      "unanimously",
+      "anonymously",
+      "automatically",
+      "approximately"
+    ],
+    "answer": "unanimously",
+    "explanation": "unanimously（全體一致地）為決議常用副詞。",
+    "category": "近義字彙"
+  },
+  {
+    "id": "P5-T600-194",
+    "part": 5,
+    "track": "T600",
+    "question": "The department achieved its quarterly ____ ahead of schedule.",
+    "options": [
+      "goals",
+      "goats",
+      "golds",
+      "gulfs"
+    ],
+    "answer": "goals",
+    "explanation": "achieved its goals（達成目標）為正確搭配。",
+    "category": "近義字彙"
+  },
+  {
+    "id": "P5-T600-195",
+    "part": 5,
+    "track": "T600",
+    "question": "She received a ____ for her outstanding performance.",
+    "options": [
+      "reward",
+      "award",
+      "prize",
+      "bonus"
+    ],
+    "answer": "bonus",
+    "explanation": "bonus（獎金）在職場中因績效優異獲得獎金為最常見搭配。",
+    "category": "近義字彙"
+  },
+  {
+    "id": "P5-T600-196",
+    "part": 5,
+    "track": "T600",
+    "question": "The company needs to ____ its production capacity.",
+    "options": [
+      "increase",
+      "decrease",
+      "insist",
+      "inspect"
+    ],
+    "answer": "increase",
+    "explanation": "increase production capacity（提升產能）為邏輯正確的搭配。",
+    "category": "近義字彙"
+  },
+  {
+    "id": "P5-T600-197",
+    "part": 5,
+    "track": "T600",
+    "question": "Please ____ the completed form to the HR department.",
+    "options": [
+      "provide",
+      "prove",
+      "submit",
+      "proceed"
+    ],
+    "answer": "submit",
+    "explanation": "submit the form（繳交表格）為職場常用搭配。",
+    "category": "近義字彙"
+  },
+  {
+    "id": "P5-T600-198",
+    "part": 5,
+    "track": "T600",
+    "question": "The customer decided to ____ the order after the delay.",
+    "options": [
+      "cancel",
+      "conceal",
+      "consult",
+      "campaign"
+    ],
+    "answer": "cancel",
+    "explanation": "cancel the order（取消訂單）因延遲而取消為合理情境。",
+    "category": "近義字彙"
+  },
+  {
+    "id": "P5-T600-199",
+    "part": 5,
+    "track": "T600",
+    "question": "The manager wants to ____ the team's performance.",
+    "options": [
+      "evaluate",
+      "estimate",
+      "evacuate",
+      "eliminate"
+    ],
+    "answer": "evaluate",
+    "explanation": "evaluate performance（評估績效）為正確搭配。",
+    "category": "近義字彙"
+  },
+  {
+    "id": "P5-T600-200",
+    "part": 5,
+    "track": "T600",
+    "question": "The training helped employees ____ their skills.",
+    "options": [
+      "enhance",
+      "enforce",
+      "engage",
+      "endure"
+    ],
+    "answer": "enhance",
+    "explanation": "enhance skills（提升技能）為正確搭配。",
+    "category": "近義字彙"
+  }
+]

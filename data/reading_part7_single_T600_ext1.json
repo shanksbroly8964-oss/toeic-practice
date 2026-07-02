@@ -1,0 +1,899 @@
+[
+  {
+    "id": "P7S-T600-008",
+    "part": 7,
+    "type": "single",
+    "track": "T600",
+    "documents": [
+      {
+        "title": "Company Newsletter: Cafeteria Menu Change",
+        "body": "From: Staff Services\nDate: October 2, 2025\n\nWe are pleased to announce that starting next Monday, the company cafeteria will feature a new healthy menu. The updated menu includes more salads, whole-grain options, and fresh fruit. The popular hot meal station will remain available but will now offer smaller portion sizes. A new self-serve soup station will be added near the beverage counter. The cafeteria will also extend its hours by 30 minutes, now opening at 7:30 AM and closing at 2:30 PM. Prices for most items will stay the same, though some salad options will increase slightly due to the higher cost of fresh ingredients. We welcome your feedback via the suggestion box by the entrance."
+      }
+    ],
+    "questions": [
+      {
+        "id": "P7S-T600-008-Q1",
+        "question": "What is the main topic of this notice?",
+        "options": ["New cafeteria prices", "Changes to the cafeteria menu and hours", "Employee health tips", "A new restaurant nearby"],
+        "answer": "Changes to the cafeteria menu and hours",
+        "category": "主旨",
+        "explanation": "全文主旨為宣布公司餐廳菜單更新及營業時間延長，屬於變更公告。",
+        "crossReference": false
+      },
+      {
+        "id": "P7S-T600-008-Q2",
+        "question": "What new station will be added to the cafeteria?",
+        "options": ["A pizza station", "A self-serve soup station", "A sandwich station", "A dessert station"],
+        "answer": "A self-serve soup station",
+        "category": "細節",
+        "explanation": "公告明確提到「A new self-serve soup station will be added near the beverage counter」。",
+        "crossReference": false
+      },
+      {
+        "id": "P7S-T600-008-Q3",
+        "question": "What will the new closing time be?",
+        "options": ["1:00 PM", "2:00 PM", "2:30 PM", "3:00 PM"],
+        "answer": "2:30 PM",
+        "category": "細節",
+        "explanation": "公告寫明延長營業時間後「closing at 2:30 PM」。",
+        "crossReference": false
+      },
+      {
+        "id": "P7S-T600-008-Q4",
+        "question": "Why will some salad options become more expensive?",
+        "options": ["Because of a new chef", "Due to higher cost of fresh ingredients", "Because of longer hours", "Due to new equipment"],
+        "answer": "Due to higher cost of fresh ingredients",
+        "category": "細節",
+        "explanation": "公告說明價格調漲原因為「the higher cost of fresh ingredients」。",
+        "crossReference": false
+      }
+    ]
+  },
+  {
+    "id": "P7S-T600-009",
+    "part": 7,
+    "type": "single",
+    "track": "T600",
+    "documents": [
+      {
+        "title": "Email: Office Supplies Order",
+        "body": "From: janet.kim@accounting.com\nTo: supplies@officeplus.com\nSubject: Monthly Office Supply Order - September\n\nDear Office Plus Team,\n\nPlease process the following order for our monthly office supplies:\n\n- Printer paper (A4, 500 sheets/ream): 20 reams\n- Blue ballpoint pens (box of 12): 10 boxes\n- Sticky notes (3x3 inch, yellow): 15 packs\n- File folders (letter size): 50 folders\n- Whiteboard markers (assorted colors): 8 markers\n\nPlease deliver to our office at 450 Commerce Street, Suite 300, by Friday, September 12. Our account number is AC-78421. If any item is out of stock, please contact me before making substitutions. The purchase order number for this order is PO-2309.\n\nThank you,\nJanet Kim\nOffice Administrator"
+      }
+    ],
+    "questions": [
+      {
+        "id": "P7S-T600-009-Q1",
+        "question": "What is the purchase order number?",
+        "options": ["AC-78421", "PO-2309", "Suite 300", "September 12"],
+        "answer": "PO-2309",
+        "category": "細節",
+        "explanation": "郵件末尾標示「The purchase order number for this order is PO-2309」。",
+        "crossReference": false
+      },
+      {
+        "id": "P7S-T600-009-Q2",
+        "question": "How many reams of printer paper are being ordered?",
+        "options": ["10", "15", "20", "25"],
+        "answer": "20",
+        "category": "細節",
+        "explanation": "郵件清單中第一項為「Printer paper...20 reams」。",
+        "crossReference": false
+      },
+      {
+        "id": "P7S-T600-009-Q3",
+        "question": "What should the supplier do if an item is unavailable?",
+        "options": ["Cancel the entire order", "Send a similar item automatically", "Contact Janet before substituting", "Issue a refund immediately"],
+        "answer": "Contact Janet before substituting",
+        "category": "細節",
+        "explanation": "郵件要求「please contact me before making substitutions」。",
+        "crossReference": false
+      }
+    ]
+  },
+  {
+    "id": "P7S-T600-010",
+    "part": 7,
+    "type": "single",
+    "track": "T600",
+    "documents": [
+      {
+        "title": "Notice: Building Maintenance Schedule",
+        "body": "ATTENTION ALL TENANTS\n\nPlease be advised that the annual building maintenance will take place from November 4 to November 8. During this period, the following services will be affected:\n\n- Elevators: Only one elevator will operate. Expect longer wait times.\n- Water supply: Hot water will be unavailable on November 5 and 6 due to boiler inspection.\n- Parking garage: Levels B1 and B2 will be closed for repainting on November 4-5. Please use Levels B3 and B4.\n- Fire alarm testing: Brief alarms may sound on November 7 between 9:00 AM and 11:00 AM. No evacuation is required.\n\nWe apologize for any inconvenience. If you have questions, please contact building management at ext. 2550."
+      }
+    ],
+    "questions": [
+      {
+        "id": "P7S-T600-010-Q1",
+        "question": "How long will the maintenance work last?",
+        "options": ["Three days", "Five days", "Seven days", "Ten days"],
+        "answer": "Five days",
+        "category": "細節",
+        "explanation": "公告寫明「from November 4 to November 8」，共五天。",
+        "crossReference": false
+      },
+      {
+        "id": "P7S-T600-010-Q2",
+        "question": "On which days will hot water be unavailable?",
+        "options": ["November 4 and 5", "November 5 and 6", "November 6 and 7", "November 7 and 8"],
+        "answer": "November 5 and 6",
+        "category": "細節",
+        "explanation": "公告指出「Hot water will be unavailable on November 5 and 6」。",
+        "crossReference": false
+      },
+      {
+        "id": "P7S-T600-010-Q3",
+        "question": "What should tenants do when the fire alarm sounds on November 7?",
+        "options": ["Evacuate immediately", "Call the fire department", "Stay where they are", "Report to the lobby"],
+        "answer": "Stay where they are",
+        "category": "細節",
+        "explanation": "公告提醒「Brief alarms may sound...No evacuation is required」，無需疏散。",
+        "crossReference": false
+      }
+    ]
+  },
+  {
+    "id": "P7S-T600-011",
+    "part": 7,
+    "type": "single",
+    "track": "T600",
+    "documents": [
+      {
+        "title": "Email: Conference Registration Confirmation",
+        "body": "From: registration@techsummit2025.com\nTo: mark.davies@nextech.com\nSubject: Registration Confirmation - Tech Summit 2025\n\nDear Mark Davies,\n\nThank you for registering for Tech Summit 2025. Your registration details are below:\n\nRegistration ID: TS25-8842\nPass Type: Full Conference Pass (includes all sessions and workshops)\nDates: October 20-22, 2025\nVenue: Metro Convention Center, Hall C\nCheck-in time: 8:00 AM on October 20\n\nAdditional items:\n- Networking Lunch (October 21): Included\n- Workshop: AI for Project Managers (October 22, 2:00 PM): Confirmed\n\nPlease bring a printed copy of this confirmation or show it on your mobile device at check-in. Name badges will be issued at the registration desk.\n\nFor any changes, please contact us at least 48 hours before the event.\n\nBest regards,\nTech Summit Registration Team"
+      }
+    ],
+    "questions": [
+      {
+        "id": "P7S-T600-011-Q1",
+        "question": "What type of pass did Mark purchase?",
+        "options": ["One-Day Pass", "Workshop-Only Pass", "Full Conference Pass", "Student Pass"],
+        "answer": "Full Conference Pass",
+        "category": "細節",
+        "explanation": "確認信中寫明「Pass Type: Full Conference Pass」。",
+        "crossReference": false
+      },
+      {
+        "id": "P7S-T600-011-Q2",
+        "question": "When is the workshop on AI for Project Managers?",
+        "options": ["October 20, 10:00 AM", "October 21, 2:00 PM", "October 22, 2:00 PM", "October 22, 10:00 AM"],
+        "answer": "October 22, 2:00 PM",
+        "category": "細節",
+        "explanation": "確認信列出「Workshop: AI for Project Managers (October 22, 2:00 PM)」。",
+        "crossReference": false
+      },
+      {
+        "id": "P7S-T600-011-Q3",
+        "question": "What does the conference pass include?",
+        "options": ["Only keynote sessions", "All sessions and workshops", "Only workshops", "Only the networking lunch"],
+        "answer": "All sessions and workshops",
+        "category": "細節",
+        "explanation": "確認信說明Full Conference Pass「includes all sessions and workshops」。",
+        "crossReference": false
+      }
+    ]
+  },
+  {
+    "id": "P7S-T600-012",
+    "part": 7,
+    "type": "single",
+    "track": "T600",
+    "documents": [
+      {
+        "title": "Memo: Employee Wellness Program",
+        "body": "MEMORANDUM\n\nTo: All Employees\nFrom: Human Resources\nDate: January 6, 2026\nSubject: New Employee Wellness Program\n\nWe are excited to introduce a new Employee Wellness Program starting February 1. The program offers the following benefits:\n\n- Free annual health screening (available on-site every March)\n- Gym membership reimbursement: up to $30 per month with proof of attendance\n- Weekly yoga classes every Wednesday at 12:15 PM in Conference Room D\n- Stress management workshops held quarterly\n- Access to a licensed counselor via phone or video call at no cost\n\nTo enroll, please complete the online form on the HR portal by January 25. Participation is voluntary and confidential. For more information, please contact HR representative Susan Park at ext. 4412."
+      }
+    ],
+    "questions": [
+      {
+        "id": "P7S-T600-012-Q1",
+        "question": "When does the wellness program begin?",
+        "options": ["January 6", "January 25", "February 1", "March 1"],
+        "answer": "February 1",
+        "category": "細節",
+        "explanation": "備忘錄寫明「starting February 1」。",
+        "crossReference": false
+      },
+      {
+        "id": "P7S-T600-012-Q2",
+        "question": "How much gym membership reimbursement is offered per month?",
+        "options": ["$20", "$30", "$40", "$50"],
+        "answer": "$30",
+        "category": "細節",
+        "explanation": "備忘錄列出「Gym membership reimbursement: up to $30 per month」。",
+        "crossReference": false
+      },
+      {
+        "id": "P7S-T600-012-Q3",
+        "question": "What is the deadline to enroll in the program?",
+        "options": ["January 6", "January 25", "February 1", "February 15"],
+        "answer": "January 25",
+        "category": "細節",
+        "explanation": "備忘錄要求「complete the online form on the HR portal by January 25」。",
+        "crossReference": false
+      }
+    ]
+  },
+  {
+    "id": "P7S-T600-013",
+    "part": 7,
+    "type": "single",
+    "track": "T600",
+    "documents": [
+      {
+        "title": "Notice: Internet Service Interruption",
+        "body": "From: IT Department\nDate: March 14, 2026\n\nDear Colleagues,\n\nPlease be informed that there will be a scheduled Internet service interruption this Saturday, March 17, from 8:00 AM to 2:00 PM. Our Internet provider will be upgrading the fiber-optic cables in the building. During this time, the following services will be unavailable:\n\n- Office Wi-Fi and wired Internet\n- Remote access to company servers\n- Company email (both incoming and outgoing)\n\nHowever, phone lines will continue to operate normally. If you need to work remotely on Saturday, we recommend using a mobile hotspot. The VPN service will be restored automatically once the upgrade is complete. If you experience any connectivity issues after 2:00 PM, please restart your computer first before contacting the IT help desk.\n\nIT Support\nhelpdesk@companyname.com"
+      }
+    ],
+    "questions": [
+      {
+        "id": "P7S-T600-013-Q1",
+        "question": "What is the reason for the service interruption?",
+        "options": ["Server maintenance", "Fiber-optic cable upgrade", "Software update", "Power outage"],
+        "answer": "Fiber-optic cable upgrade",
+        "category": "細節",
+        "explanation": "通知說明「Our Internet provider will be upgrading the fiber-optic cables」。",
+        "crossReference": false
+      },
+      {
+        "id": "P7S-T600-013-Q2",
+        "question": "What service will remain available during the interruption?",
+        "options": ["Office Wi-Fi", "Company email", "Phone lines", "VPN access"],
+        "answer": "Phone lines",
+        "category": "細節",
+        "explanation": "通知指出「phone lines will continue to operate normally」。",
+        "crossReference": false
+      },
+      {
+        "id": "P7S-T600-013-Q3",
+        "question": "What should employees do if they have connectivity problems after 2:00 PM?",
+        "options": ["Call the Internet provider", "Restart their computer first", "Go to the office", "Wait until Monday"],
+        "answer": "Restart their computer first",
+        "category": "細節",
+        "explanation": "通知建議「please restart your computer first before contacting the IT help desk」。",
+        "crossReference": false
+      }
+    ]
+  },
+  {
+    "id": "P7S-T600-014",
+    "part": 7,
+    "type": "single",
+    "track": "T600",
+    "documents": [
+      {
+        "title": "Advertisement: Summer Internship Program",
+        "body": "SUMMER INTERNSHIP PROGRAM 2026\n\nMeridian Financial Group is now accepting applications for our 10-week summer internship program. The program runs from June 15 to August 21, 2026.\n\nAvailable positions:\n- Finance Intern (2 openings)\n- Marketing Intern (1 opening)\n- IT Support Intern (2 openings)\n- Human Resources Intern (1 opening)\n\nQualifications:\n- Must be currently enrolled in a university program (junior or senior year)\n- Minimum GPA of 3.0\n- Strong communication and teamwork skills\n\nBenefits:\n- $18 per hour\n- Free lunch at the company cafeteria\n- Mentorship from senior staff members\n- Opportunity to attend professional development workshops\n\nTo apply, send your resume and a one-page cover letter to internships@meridian.com by March 31, 2026. Selected candidates will be invited for interviews in April."
+      }
+    ],
+    "questions": [
+      {
+        "id": "P7S-T600-014-Q1",
+        "question": "How many positions are available for Finance Interns?",
+        "options": ["1", "2", "3", "4"],
+        "answer": "2",
+        "category": "細節",
+        "explanation": "廣告列出「Finance Intern (2 openings)」。",
+        "crossReference": false
+      },
+      {
+        "id": "P7S-T600-014-Q2",
+        "question": "What is the minimum GPA required?",
+        "options": ["2.5", "2.8", "3.0", "3.5"],
+        "answer": "3.0",
+        "category": "細節",
+        "explanation": "廣告寫明「Minimum GPA of 3.0」。",
+        "crossReference": false
+      },
+      {
+        "id": "P7S-T600-014-Q3",
+        "question": "What is the hourly pay rate?",
+        "options": ["$15", "$18", "$20", "$22"],
+        "answer": "$18",
+        "category": "細節",
+        "explanation": "福利欄位列出「$18 per hour」。",
+        "crossReference": false
+      }
+    ]
+  },
+  {
+    "id": "P7S-T600-015",
+    "part": 7,
+    "type": "single",
+    "track": "T600",
+    "documents": [
+      {
+        "title": "Email: Customer Satisfaction Survey",
+        "body": "From: feedback@freshmart.com\nTo: valued.customer@email.com\nSubject: Tell Us About Your Recent Shopping Experience\n\nDear Valued Customer,\n\nThank you for shopping at FreshMart last week. We value your opinion and would like to invite you to participate in a short customer satisfaction survey.\n\nThe survey will take approximately 5 minutes to complete and covers the following areas:\n- Store cleanliness\n- Product availability\n- Staff friendliness\n- Checkout speed\n\nAs a thank-you for your time, you will receive a $5 coupon that can be used on your next purchase of $30 or more. The coupon will be emailed to you within 24 hours after completing the survey.\n\nPlease click the link below to begin:\nwww.freshmart.com/survey/cust2026\n\nThis survey will close on Sunday at midnight.\n\nWe appreciate your feedback!\nFreshMart Customer Relations Team"
+      }
+    ],
+    "questions": [
+      {
+        "id": "P7S-T600-015-Q1",
+        "question": "How long does the survey take to complete?",
+        "options": ["2 minutes", "5 minutes", "10 minutes", "15 minutes"],
+        "answer": "5 minutes",
+        "category": "細節",
+        "explanation": "郵件說明「The survey will take approximately 5 minutes to complete」。",
+        "crossReference": false
+      },
+      {
+        "id": "P7S-T600-015-Q2",
+        "question": "What reward is offered for completing the survey?",
+        "options": ["A free product", "A $5 coupon", "A 10% discount", "Free shipping"],
+        "answer": "A $5 coupon",
+        "category": "細節",
+        "explanation": "郵件提到「you will receive a $5 coupon」作為回饋。",
+        "crossReference": false
+      },
+      {
+        "id": "P7S-T600-015-Q3",
+        "question": "What is the minimum purchase amount to use the coupon?",
+        "options": ["$20", "$25", "$30", "$50"],
+        "answer": "$30",
+        "category": "細節",
+        "explanation": "郵件說明優惠券「can be used on your next purchase of $30 or more」。",
+        "crossReference": false
+      }
+    ]
+  },
+  {
+    "id": "P7S-T600-016",
+    "part": 7,
+    "type": "single",
+    "track": "T600",
+    "documents": [
+      {
+        "title": "Announcement: Company Volunteer Day",
+        "body": "COMPANY VOLUNTEER DAY 2026\n\nEvery year, our company dedicates one workday to giving back to the community. This year, Volunteer Day will be held on Friday, May 8.\n\nWe have partnered with three local organizations:\n\n1. City Food Bank: Help sort and pack food donations (10 volunteers needed)\n2. Riverside Park Cleanup: Remove litter and plant trees (15 volunteers needed)\n3. Senior Center Visit: Spend time with elderly residents (8 volunteers needed)\n\nTransportation will be provided from the office to all locations. Lunch will be served at each site at no cost. All participants will receive a company volunteer T-shirt.\n\nSign-up sheets are posted on the bulletin board near the cafeteria. Please sign up by April 24. This is a regular workday, so you will receive your normal pay for participating.\n\nFor questions, contact community@ourcompany.com."
+      }
+    ],
+    "questions": [
+      {
+        "id": "P7S-T600-016-Q1",
+        "question": "When is Volunteer Day?",
+        "options": ["April 24", "May 1", "May 8", "May 15"],
+        "answer": "May 8",
+        "category": "細節",
+        "explanation": "公告寫明「Volunteer Day will be held on Friday, May 8」。",
+        "crossReference": false
+      },
+      {
+        "id": "P7S-T600-016-Q2",
+        "question": "How many volunteers are needed for the park cleanup?",
+        "options": ["8", "10", "15", "20"],
+        "answer": "15",
+        "category": "細節",
+        "explanation": "公告列出「Riverside Park Cleanup...15 volunteers needed」。",
+        "crossReference": false
+      },
+      {
+        "id": "P7S-T600-016-Q3",
+        "question": "Will employees be paid for participating in Volunteer Day?",
+        "options": ["No, it is unpaid", "Yes, they receive normal pay", "Yes, but at half pay", "Only travel expenses are covered"],
+        "answer": "Yes, they receive normal pay",
+        "category": "細節",
+        "explanation": "公告說明「you will receive your normal pay for participating」。",
+        "crossReference": false
+      },
+      {
+        "id": "P7S-T600-016-Q4",
+        "question": "What will all participants receive?",
+        "options": ["A gift card", "A certificate", "A volunteer T-shirt", "Extra vacation day"],
+        "answer": "A volunteer T-shirt",
+        "category": "細節",
+        "explanation": "公告提到「All participants will receive a company volunteer T-shirt」。",
+        "crossReference": false
+      }
+    ]
+  },
+  {
+    "id": "P7S-T600-017",
+    "part": 7,
+    "type": "single",
+    "track": "T600",
+    "documents": [
+      {
+        "title": "Memo: Performance Review Schedule",
+        "body": "MEMORANDUM\n\nTo: All Department Managers\nFrom: HR Director\nDate: June 2, 2026\nSubject: Mid-Year Performance Reviews\n\nMid-year performance reviews will take place from June 15 to June 26. Please ensure that you schedule a 30-minute meeting with each of your direct reports during this period.\n\nThe following documents must be submitted to HR before your meeting:\n1. Employee self-evaluation form (completed by the employee)\n2. Manager assessment form\n3. Goal-setting worksheet for the second half of the year\n\nAll forms are available on the HR portal under the \"Performance\" section. The deadline for employees to submit their self-evaluations is June 10. Managers should submit their completed assessment forms and goal-setting worksheets to HR by June 30.\n\nA training session on conducting effective performance reviews will be held on June 8 at 3:00 PM in the main conference room. Attendance is mandatory for all new managers.\n\nPlease contact HR if you have any questions."
+      }
+    ],
+    "questions": [
+      {
+        "id": "P7S-T600-017-Q1",
+        "question": "When is the deadline for employees to submit self-evaluations?",
+        "options": ["June 2", "June 8", "June 10", "June 15"],
+        "answer": "June 10",
+        "category": "細節",
+        "explanation": "備忘錄寫明「The deadline for employees to submit their self-evaluations is June 10」。",
+        "crossReference": false
+      },
+      {
+        "id": "P7S-T600-017-Q2",
+        "question": "How long should each review meeting be?",
+        "options": ["15 minutes", "20 minutes", "30 minutes", "45 minutes"],
+        "answer": "30 minutes",
+        "category": "細節",
+        "explanation": "備忘錄要求「schedule a 30-minute meeting with each of your direct reports」。",
+        "crossReference": false
+      },
+      {
+        "id": "P7S-T600-017-Q3",
+        "question": "Who must attend the training session on June 8?",
+        "options": ["All employees", "Only HR staff", "All new managers", "Department heads only"],
+        "answer": "All new managers",
+        "category": "細節",
+        "explanation": "備忘錄指出「Attendance is mandatory for all new managers」。",
+        "crossReference": false
+      }
+    ]
+  },
+  {
+    "id": "P7S-T600-018",
+    "part": 7,
+    "type": "single",
+    "track": "T600",
+    "documents": [
+      {
+        "title": "Email: Vendor Change Notification",
+        "body": "From: purchasing@greentech.com\nTo: all-departments@greentech.com\nSubject: Change in Office Coffee Supplier\n\nDear Colleagues,\n\nPlease note that effective August 1, our office coffee services will be provided by a new supplier, BrewPerfect Coffee Co. Our contract with the previous vendor, Daily Brew Inc., will expire on July 31.\n\nWhat will change:\n- New coffee machines will be installed on all floors on July 30 (old machines will be removed the same day)\n- The new machines offer espresso, cappuccino, and hot chocolate in addition to regular coffee\n- Coffee will remain free of charge for all employees\n\nWhat stays the same:\n- The coffee stations will remain in their current locations\n- Coffee supplies will continue to be restocked every Monday and Thursday\n\nIf you have any preferences for coffee blends or flavors, please email your suggestions to purchasing@greentech.com by July 15.\n\nThank you,\nPurchasing Department"
+      }
+    ],
+    "questions": [
+      {
+        "id": "P7S-T600-018-Q1",
+        "question": "When will the new coffee machines be installed?",
+        "options": ["July 15", "July 30", "July 31", "August 1"],
+        "answer": "July 30",
+        "category": "細節",
+        "explanation": "郵件說明「New coffee machines will be installed on all floors on July 30」。",
+        "crossReference": false
+      },
+      {
+        "id": "P7S-T600-018-Q2",
+        "question": "What new beverage options will be available?",
+        "options": ["Only regular coffee", "Espresso, cappuccino, and hot chocolate", "Tea and juice", "Smoothies and iced coffee"],
+        "answer": "Espresso, cappuccino, and hot chocolate",
+        "category": "細節",
+        "explanation": "郵件列出「espresso, cappuccino, and hot chocolate in addition to regular coffee」。",
+        "crossReference": false
+      },
+      {
+        "id": "P7S-T600-018-Q3",
+        "question": "What is the deadline for submitting coffee preferences?",
+        "options": ["July 1", "July 15", "July 30", "August 1"],
+        "answer": "July 15",
+        "category": "細節",
+        "explanation": "郵件要求「email your suggestions to purchasing@greentech.com by July 15」。",
+        "crossReference": false
+      }
+    ]
+  },
+  {
+    "id": "P7S-T600-019",
+    "part": 7,
+    "type": "single",
+    "track": "T600",
+    "documents": [
+      {
+        "title": "Notice: Fire Drill Announcement",
+        "body": "FIRE DRILL NOTICE\n\nDate: Wednesday, September 10\nTime: 10:30 AM (estimated duration: 20 minutes)\n\nA scheduled fire drill will be conducted for all occupants of the Westgate Office Tower. This is a mandatory exercise.\n\nProcedures:\n1. When the alarm sounds, stop all work immediately.\n2. Proceed to the nearest emergency exit. Do not use the elevators.\n3. Assemble at the designated meeting point in the parking lot across the street.\n4. Wait for your floor warden to take attendance.\n5. Return to the building only when instructed by the fire marshal.\n\nFloor wardens will wear orange vests for easy identification. If you have mobility concerns, please notify your floor warden in advance so that assistance can be arranged.\n\nNote: The drill will proceed rain or shine. Please wear comfortable shoes on that day.\n\nBuilding Management"
+      }
+    ],
+    "questions": [
+      {
+        "id": "P7S-T600-019-Q1",
+        "question": "What is the estimated duration of the fire drill?",
+        "options": ["10 minutes", "20 minutes", "30 minutes", "45 minutes"],
+        "answer": "20 minutes",
+        "category": "細節",
+        "explanation": "通知標示「estimated duration: 20 minutes」。",
+        "crossReference": false
+      },
+      {
+        "id": "P7S-T600-019-Q2",
+        "question": "What should occupants NOT use during the drill?",
+        "options": ["The stairs", "The elevators", "The emergency exits", "The parking lot"],
+        "answer": "The elevators",
+        "category": "細節",
+        "explanation": "通知明確指示「Do not use the elevators」。",
+        "crossReference": false
+      },
+      {
+        "id": "P7S-T600-019-Q3",
+        "question": "How can floor wardens be identified?",
+        "options": ["By yellow hats", "By orange vests", "By red badges", "By blue flags"],
+        "answer": "By orange vests",
+        "category": "細節",
+        "explanation": "通知說明「Floor wardens will wear orange vests for easy identification」。",
+        "crossReference": false
+      }
+    ]
+  },
+  {
+    "id": "P7S-T600-020",
+    "part": 7,
+    "type": "single",
+    "track": "T600",
+    "documents": [
+      {
+        "title": "Email: Software License Renewal Reminder",
+        "body": "From: it-admin@designstudio.com\nTo: creative-team@designstudio.com\nSubject: License Renewal - Adobe Creative Suite\n\nHi Team,\n\nThis is a reminder that our Adobe Creative Suite licenses will expire on November 30. To avoid any disruption to your work, we need to process the renewal by November 15.\n\nCurrent license details:\n- Product: Adobe Creative Suite for Teams\n- Number of licenses: 25\n- Annual cost: $18,750 ($750 per license)\n\nThis year, Adobe is offering an early renewal discount of 10% if we renew by November 5. I recommend we take advantage of this offer.\n\nPlease confirm the following by October 25 so I can proceed:\n1. Do you still need your Adobe license?\n2. Are there any additional licenses we should add or remove?\n\nIf I do not hear from you by October 25, I will assume you still need your current license.\n\nThank you,\nMark Rivera\nIT Administrator"
+      }
+    ],
+    "questions": [
+      {
+        "id": "P7S-T600-020-Q1",
+        "question": "When do the current Adobe licenses expire?",
+        "options": ["November 5", "November 15", "November 30", "December 31"],
+        "answer": "November 30",
+        "category": "細節",
+        "explanation": "郵件寫明「licenses will expire on November 30」。",
+        "crossReference": false
+      },
+      {
+        "id": "P7S-T600-020-Q2",
+        "question": "What discount does Adobe offer for early renewal?",
+        "options": ["5%", "10%", "15%", "20%"],
+        "answer": "10%",
+        "category": "細節",
+        "explanation": "郵件提到「Adobe is offering an early renewal discount of 10%」。",
+        "crossReference": false
+      },
+      {
+        "id": "P7S-T600-020-Q3",
+        "question": "By what date should team members confirm whether they still need their license?",
+        "options": ["October 15", "October 25", "November 5", "November 15"],
+        "answer": "October 25",
+        "category": "細節",
+        "explanation": "郵件要求「Please confirm...by October 25」。",
+        "crossReference": false
+      }
+    ]
+  },
+  {
+    "id": "P7S-T600-021",
+    "part": 7,
+    "type": "single",
+    "track": "T600",
+    "documents": [
+      {
+        "title": "Announcement: New Security Procedures",
+        "body": "NEW VISITOR SECURITY PROCEDURES\n\nEffective October 1, 2026, all visitors to our office must follow these updated security procedures:\n\n1. All visitors must be pre-registered by their host at least 24 hours before the visit. Registration can be completed through the Visitor Management System on the company intranet.\n2. Upon arrival, visitors must present a government-issued photo ID at the front desk.\n3. A visitor badge will be issued and must be worn visibly at all times while in the building.\n4. Visitors must be accompanied by their host at all times. Unescorted visitors will be asked to return to the lobby.\n5. Visitor badges must be returned to the front desk when leaving.\n\nThese changes are being made to improve building safety. Regular contractors and delivery personnel should continue to check in at the service entrance as usual.\n\nIf you have questions, please contact the Security Office at security@companyname.com."
+      }
+    ],
+    "questions": [
+      {
+        "id": "P7S-T600-021-Q1",
+        "question": "How far in advance must visitors be registered?",
+        "options": ["12 hours", "24 hours", "48 hours", "72 hours"],
+        "answer": "24 hours",
+        "category": "細節",
+        "explanation": "公告寫明「All visitors must be pre-registered by their host at least 24 hours before the visit」。",
+        "crossReference": false
+      },
+      {
+        "id": "P7S-T600-021-Q2",
+        "question": "What must visitors present at the front desk?",
+        "options": ["A business card", "A government-issued photo ID", "An invitation letter", "A credit card"],
+        "answer": "A government-issued photo ID",
+        "category": "細節",
+        "explanation": "公告要求「visitors must present a government-issued photo ID at the front desk」。",
+        "crossReference": false
+      },
+      {
+        "id": "P7S-T600-021-Q3",
+        "question": "What happens to visitors who are not accompanied by their host?",
+        "options": ["They receive a warning", "They are asked to return to the lobby", "They must leave the building", "They must pay a fine"],
+        "answer": "They are asked to return to the lobby",
+        "category": "細節",
+        "explanation": "公告指出「Unescorted visitors will be asked to return to the lobby」。",
+        "crossReference": false
+      }
+    ]
+  },
+  {
+    "id": "P7S-T600-022",
+    "part": 7,
+    "type": "single",
+    "track": "T600",
+    "documents": [
+      {
+        "title": "Email: Product Recall Notice",
+        "body": "From: safety@homeapplianceco.com\nTo: registered.customers@homeapplianceco.com\nSubject: Important Safety Recall - Model HC-200 Coffee Maker\n\nDear Customer,\n\nOur records show that you purchased a HomeComfort HC-200 coffee maker between January and June 2025. We are issuing a voluntary safety recall for this model.\n\nThe recall is due to a potential electrical issue in the heating element that could cause the unit to overheat. While no injuries have been reported, we are taking this precaution to ensure customer safety.\n\nWhat you should do:\n1. Stop using the HC-200 coffee maker immediately.\n2. Visit www.homeapplianceco.com/recall to register for a free replacement or refund.\n3. You will receive a prepaid return shipping label to send back your unit.\n\nThis recall affects only the HC-200 model with serial numbers starting with \"HC2-\". No other models are affected.\n\nWe sincerely apologize for the inconvenience. If you have questions, please call our recall hotline at 1-800-555-0234.\n\nHome Appliance Co. Safety Team"
+      }
+    ],
+    "questions": [
+      {
+        "id": "P7S-T600-022-Q1",
+        "question": "Why is the coffee maker being recalled?",
+        "options": ["The handle breaks easily", "It makes weak coffee", "A potential electrical issue with the heating element", "The display screen does not work"],
+        "answer": "A potential electrical issue with the heating element",
+        "category": "細節",
+        "explanation": "郵件說明「The recall is due to a potential electrical issue in the heating element」。",
+        "crossReference": false
+      },
+      {
+        "id": "P7S-T600-022-Q2",
+        "question": "What options are available to affected customers?",
+        "options": ["A discount on a future purchase", "A free replacement or refund", "Free repair service", "A store credit only"],
+        "answer": "A free replacement or refund",
+        "category": "細節",
+        "explanation": "郵件指出可「register for a free replacement or refund」。",
+        "crossReference": false
+      },
+      {
+        "id": "P7S-T600-022-Q3",
+        "question": "Which models are affected by the recall?",
+        "options": ["All coffee makers from this brand", "Only HC-200 models with serial numbers starting with HC2-", "All HC-200 models regardless of serial number", "Only units purchased after June 2025"],
+        "answer": "Only HC-200 models with serial numbers starting with HC2-",
+        "category": "細節",
+        "explanation": "郵件明確限定「only the HC-200 model with serial numbers starting with \"HC2-\"」。",
+        "crossReference": false
+      }
+    ]
+  },
+  {
+    "id": "P7S-T600-023",
+    "part": 7,
+    "type": "single",
+    "track": "T600",
+    "documents": [
+      {
+        "title": "Memo: Holiday Schedule 2026",
+        "body": "MEMORANDUM\n\nTo: All Employees\nFrom: Human Resources\nDate: November 1, 2026\nSubject: Year-End Holiday Schedule and Office Closure\n\nPlease review the following holiday schedule for December 2026 and January 2027:\n\nHoliday Closures:\n- Wednesday, December 24: Office closes at 12:00 PM (half day)\n- Thursday, December 25: Closed (Christmas Day)\n- Friday, December 26: Closed (Holiday observance)\n- Thursday, January 1, 2027: Closed (New Year's Day)\n\nNormal Office Days:\n- December 29, 30, 31: Regular working days (remote work is allowed on these days with manager approval)\n\nImportant notes:\n- All employees must use their remaining paid time off (PTO) days before December 31. Unused PTO days will not carry over to 2027, except for up to 5 days as per company policy.\n- The last day for shipping and receiving packages will be December 23. Please plan your orders accordingly.\n\nWishing you all a happy holiday season!\n\nHR Department"
+      }
+    ],
+    "questions": [
+      {
+        "id": "P7S-T600-023-Q1",
+        "question": "What time does the office close on December 24?",
+        "options": ["11:00 AM", "12:00 PM", "1:00 PM", "3:00 PM"],
+        "answer": "12:00 PM",
+        "category": "細節",
+        "explanation": "備忘錄標明「December 24: Office closes at 12:00 PM (half day)」。",
+        "crossReference": false
+      },
+      {
+        "id": "P7S-T600-023-Q2",
+        "question": "How many PTO days can be carried over to 2027?",
+        "options": ["None", "Up to 5 days", "Up to 10 days", "All unused days"],
+        "answer": "Up to 5 days",
+        "category": "細節",
+        "explanation": "備忘錄說明「Unused PTO days will not carry over to 2027, except for up to 5 days as per company policy」。",
+        "crossReference": false
+      },
+      {
+        "id": "P7S-T600-023-Q3",
+        "question": "What is the last day to send packages before the holiday break?",
+        "options": ["December 23", "December 24", "December 26", "December 29"],
+        "answer": "December 23",
+        "category": "細節",
+        "explanation": "備忘錄提醒「The last day for shipping and receiving packages will be December 23」。",
+        "crossReference": false
+      }
+    ]
+  },
+  {
+    "id": "P7S-T600-024",
+    "part": 7,
+    "type": "single",
+    "track": "T600",
+    "documents": [
+      {
+        "title": "Email: Workshop Registration",
+        "body": "From: training@leadershipacademy.com\nTo: professionals@email-list.com\nSubject: Upcoming Workshop - Effective Business Writing\n\nDear Professional,\n\nWe are pleased to announce our next professional development workshop:\n\nTopic: Effective Business Writing\nDate: Saturday, February 22, 2026\nTime: 9:00 AM - 4:00 PM (lunch break: 12:00 PM - 1:00 PM)\nLocation: Downtown Learning Center, 345 Market Street, Room 402\nInstructor: Dr. Patricia Nguyen, Author of \"Clear Business Communication\"\n\nWorkshop topics include:\n- Writing clear and concise emails\n- Structuring business reports\n- Avoiding common grammar mistakes\n- Persuasive writing techniques\n\nRegistration fee: $195 per person (includes workbook and lunch)\nGroup discount: Register 3 or more people and pay $165 per person\n\nTo register, visit www.leadershipacademy.com/register and use code BW226. Registration closes on February 15 or when all 30 seats are filled, whichever comes first.\n\nFor questions, email training@leadershipacademy.com.\n\nLeadership Academy"
+      }
+    ],
+    "questions": [
+      {
+        "id": "P7S-T600-024-Q1",
+        "question": "Who is the workshop instructor?",
+        "options": ["Dr. Patricia Nguyen", "Dr. Michael Chen", "Professor James Park", "Ms. Sarah Lee"],
+        "answer": "Dr. Patricia Nguyen",
+        "category": "細節",
+        "explanation": "郵件列出「Instructor: Dr. Patricia Nguyen」。",
+        "crossReference": false
+      },
+      {
+        "id": "P7S-T600-024-Q2",
+        "question": "What is the discounted price per person for groups of three or more?",
+        "options": ["$145", "$165", "$175", "$195"],
+        "answer": "$165",
+        "category": "細節",
+        "explanation": "郵件說明「Group discount: Register 3 or more people and pay $165 per person」。",
+        "crossReference": false
+      },
+      {
+        "id": "P7S-T600-024-Q3",
+        "question": "What is included in the registration fee?",
+        "options": ["Lunch only", "Workbook only", "Workbook and lunch", "Hotel accommodation"],
+        "answer": "Workbook and lunch",
+        "category": "細節",
+        "explanation": "費用說明為「$195 per person (includes workbook and lunch)」。",
+        "crossReference": false
+      }
+    ]
+  },
+  {
+    "id": "P7S-T600-025",
+    "part": 7,
+    "type": "single",
+    "track": "T600",
+    "documents": [
+      {
+        "title": "Notice: Elevator Maintenance",
+        "body": "ELEVATOR MAINTENANCE NOTICE\n\nPlease be advised that the south building elevators (Elevators 1, 2, and 3) will be closed for scheduled maintenance on the following dates:\n\n- Elevator 1: Monday, April 7 (all day)\n- Elevator 2: Tuesday, April 8 (all day)\n- Elevator 3: Wednesday, April 9 (all day)\n\nDuring the maintenance, only one south building elevator will be closed each day. The other two south elevators, as well as all north building elevators, will operate as usual. However, please expect minor delays during peak hours (8:00 AM - 9:00 AM and 5:00 PM - 6:00 PM).\n\nFor employees with mobility concerns, please contact the Facilities Department at ext. 3340 to arrange temporary office space on the ground floor during the maintenance period.\n\nWe recommend using the stairs for floors 1 through 4 to help reduce elevator traffic during the maintenance days.\n\nThank you for your cooperation.\nFacilities Management"
+      }
+    ],
+    "questions": [
+      {
+        "id": "P7S-T600-025-Q1",
+        "question": "When will Elevator 2 be closed?",
+        "options": ["Monday, April 7", "Tuesday, April 8", "Wednesday, April 9", "Thursday, April 10"],
+        "answer": "Tuesday, April 8",
+        "category": "細節",
+        "explanation": "公告列出「Elevator 2: Tuesday, April 8 (all day)」。",
+        "crossReference": false
+      },
+      {
+        "id": "P7S-T600-025-Q2",
+        "question": "What should employees with mobility concerns do?",
+        "options": ["Take the day off", "Use the north building elevators", "Contact Facilities for ground floor office space", "Use the service elevator"],
+        "answer": "Contact Facilities for ground floor office space",
+        "category": "細節",
+        "explanation": "公告建議「contact the Facilities Department at ext. 3340 to arrange temporary office space on the ground floor」。",
+        "crossReference": false
+      },
+      {
+        "id": "P7S-T600-025-Q3",
+        "question": "What is the recommended alternative to using elevators?",
+        "options": ["Working from home", "Using the stairs for floors 1-4", "Taking the service elevator", "Arriving earlier"],
+        "answer": "Using the stairs for floors 1-4",
+        "category": "細節",
+        "explanation": "公告建議「using the stairs for floors 1 through 4 to help reduce elevator traffic」。",
+        "crossReference": false
+      }
+    ]
+  },
+  {
+    "id": "P7S-T600-026",
+    "part": 7,
+    "type": "single",
+    "track": "T600",
+    "documents": [
+      {
+        "title": "Email: Expense Report Guidelines Update",
+        "body": "From: accounting@globalcorp.com\nTo: all-staff@globalcorp.com\nSubject: Updated Expense Report Guidelines\n\nDear Colleagues,\n\nPlease review the following updates to our expense report policy, effective March 1, 2026:\n\n1. Receipts: All expenses over $25 now require a receipt. Previously, the threshold was $50.\n2. Meal allowance: The daily meal allowance for business travel has increased from $45 to $55.\n3. Mileage reimbursement: The rate has been updated to $0.58 per mile (up from $0.55).\n4. Submission deadline: Expense reports must now be submitted within 10 business days of the expense date (previously 14 days).\n\nAll expense reports must be submitted through the new online system at expenses.globalcorp.com. Paper forms will no longer be accepted after March 1.\n\nIf you have pending expenses from February, please submit them using the old form by March 5. After that date, they must be submitted through the new system.\n\nThank you for your cooperation.\n\nAccounting Department"
+      }
+    ],
+    "questions": [
+      {
+        "id": "P7S-T600-026-Q1",
+        "question": "What is the new minimum amount requiring a receipt?",
+        "options": ["$10", "$25", "$50", "$75"],
+        "answer": "$25",
+        "category": "細節",
+        "explanation": "郵件寫明「All expenses over $25 now require a receipt」。",
+        "crossReference": false
+      },
+      {
+        "id": "P7S-T600-026-Q2",
+        "question": "What is the new mileage reimbursement rate?",
+        "options": ["$0.50", "$0.55", "$0.58", "$0.60"],
+        "answer": "$0.58",
+        "category": "細節",
+        "explanation": "郵件說明「The rate has been updated to $0.58 per mile」。",
+        "crossReference": false
+      },
+      {
+        "id": "P7S-T600-026-Q3",
+        "question": "By what date must pending February expenses be submitted on the old form?",
+        "options": ["March 1", "March 5", "March 10", "March 15"],
+        "answer": "March 5",
+        "category": "細節",
+        "explanation": "郵件要求「please submit them using the old form by March 5」。",
+        "crossReference": false
+      },
+      {
+        "id": "P7S-T600-026-Q4",
+        "question": "What can be inferred about the new expense policy?",
+        "options": ["The company wants to reduce travel", "The company is tightening some rules while increasing certain allowances", "The company is eliminating all expense reimbursements", "The company no longer requires receipts"],
+        "answer": "The company is tightening some rules while increasing certain allowances",
+        "category": "推論",
+        "explanation": "比對各項變更：收據門檻從$50降至$25（變嚴），報銷期限從14天縮至10天（變嚴），但餐費補貼和里程補貼均有調升，可知公司部分規則收緊、部分津貼提高。",
+        "crossReference": false
+      }
+    ]
+  },
+  {
+    "id": "P7S-T600-027",
+    "part": 7,
+    "type": "single",
+    "track": "T600",
+    "documents": [
+      {
+        "title": "Notice: Office Relocation",
+        "body": "OFFICE RELOCATION NOTICE\n\nWe are pleased to announce that our company will be moving to a new office location on May 5, 2026.\n\nNew Address:\n1200 Innovation Drive, 15th Floor\nRiverside Business Park\nChicago, IL 60601\n\nThe new office is a 10-minute walk from Union Station and has direct access to several bus routes.\n\nMoving Schedule:\n- Friday, May 2: Packing day. Employees should pack personal items in boxes provided by Facilities. Label all boxes with your name and new floor number.\n- Monday, May 5: Moving day. The office will be closed. All staff will work remotely.\n- Tuesday, May 6: First day at the new office. Please arrive by 9:00 AM for a brief orientation tour.\n\nThe new office features:\n- Open-plan workstations with adjustable standing desks\n- Six new meeting rooms with video conferencing equipment\n- A larger cafeteria with an outdoor terrace\n- A fitness center on the ground floor (free for all employees)\n\nFor moving-related questions, please email move@companyname.com."
+      }
+    ],
+    "questions": [
+      {
+        "id": "P7S-T600-027-Q1",
+        "question": "What should employees do on May 2?",
+        "options": ["Work from home", "Pack their personal items", "Attend an orientation tour", "Set up their new desk"],
+        "answer": "Pack their personal items",
+        "category": "細節",
+        "explanation": "時間表寫明「Friday, May 2: Packing day」。",
+        "crossReference": false
+      },
+      {
+        "id": "P7S-T600-027-Q2",
+        "question": "What is one feature of the new office?",
+        "options": ["Private offices for all staff", "A fitness center", "A swimming pool", "A daycare center"],
+        "answer": "A fitness center",
+        "category": "細節",
+        "explanation": "公告列出新辦公室設施包含「A fitness center on the ground floor (free for all employees)」。",
+        "crossReference": false
+      },
+      {
+        "id": "P7S-T600-027-Q3",
+        "question": "What should employees do on their first day at the new office?",
+        "options": ["Unpack their boxes", "Arrive by 9:00 AM for an orientation tour", "Meet with their manager", "Set up their computer"],
+        "answer": "Arrive by 9:00 AM for an orientation tour",
+        "category": "細節",
+        "explanation": "時間表說明「Tuesday, May 6: Please arrive by 9:00 AM for a brief orientation tour」。",
+        "crossReference": false
+      }
+    ]
+  },
+  {
+    "id": "P7S-T600-028",
+    "part": 7,
+    "type": "single",
+    "track": "T600",
+    "documents": [
+      {
+        "title": "Email: Team-Building Event Invitation",
+        "body": "From: social@teamspirit.com\nTo: sales-team@teamspirit.com\nSubject: You're Invited - Q3 Team-Building Event!\n\nHello Sales Team,\n\nTo celebrate our record-breaking Q3 sales performance, we are hosting a team-building event!\n\nEvent Details:\nDate: Friday, October 17, 2026\nTime: 2:00 PM - 5:00 PM (work hours)\nLocation: Adventure Zone, 890 Park Avenue\nActivity: Indoor rock climbing and team challenges\n\nSchedule:\n2:00 PM - 2:30 PM: Safety briefing and equipment fitting\n2:30 PM - 4:00 PM: Rock climbing (beginner and advanced walls available)\n4:00 PM - 4:45 PM: Team relay challenge\n4:45 PM - 5:00 PM: Awards and closing\n\nWhat to bring:\n- Comfortable clothing and athletic shoes\n- A water bottle\n\nAll climbing equipment will be provided. Transportation from the office will depart at 1:30 PM and return by 5:30 PM.\n\nPlease RSVP by October 10 to social@teamspirit.com. Spots are limited to 40 participants.\n\nLet's celebrate together!\nSocial Committee"
+      }
+    ],
+    "questions": [
+      {
+        "id": "P7S-T600-028-Q1",
+        "question": "What is the main purpose of the event?",
+        "options": ["To train new sales techniques", "To celebrate record Q3 sales performance", "To introduce new team members", "To discuss Q4 sales targets"],
+        "answer": "To celebrate record Q3 sales performance",
+        "category": "主旨",
+        "explanation": "郵件第一段說明活動目的為「celebrate our record-breaking Q3 sales performance」。",
+        "crossReference": false
+      },
+      {
+        "id": "P7S-T600-028-Q2",
+        "question": "What time does the bus leave the office?",
+        "options": ["1:00 PM", "1:30 PM", "2:00 PM", "2:30 PM"],
+        "answer": "1:30 PM",
+        "category": "細節",
+        "explanation": "郵件標示「Transportation from the office will depart at 1:30 PM」。",
+        "crossReference": false
+      },
+      {
+        "id": "P7S-T600-028-Q3",
+        "question": "What is the deadline to RSVP?",
+        "options": ["October 3", "October 10", "October 15", "October 17"],
+        "answer": "October 10",
+        "category": "細節",
+        "explanation": "郵件要求「Please RSVP by October 10」。",
+        "crossReference": false
+      },
+      {
+        "id": "P7S-T600-028-Q4",
+        "question": "What equipment do participants need to bring?",
+        "options": ["Climbing shoes only", "Climbing harness and helmet", "Comfortable clothing and shoes", "All equipment is provided"],
+        "answer": "Comfortable clothing and shoes",
+        "category": "細節",
+        "explanation": "郵件列出需要自備「Comfortable clothing and athletic shoes」及水壺，其餘攀岩裝備由場地提供。",
+        "crossReference": false
+      }
+    ]
+  }
+]

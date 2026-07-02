@@ -1,0 +1,1682 @@
+[
+  {
+    "id": "L2-T600-041",
+    "part": 2,
+    "track": "T600",
+    "audioScript": "When does the next bus arrive?",
+    "options": [
+      "It arrives in about ten minutes.",
+      "Yes, it arrives soon.",
+      "At the bus station."
+    ],
+    "answer": "It arrives in about ten minutes.",
+    "explanation": "根據題目類型提供適當回應；其他選項未能正確對應題意。",
+    "category": "WH問句"
+  },
+  {
+    "id": "L2-T600-042",
+    "part": 2,
+    "track": "T600",
+    "audioScript": "Where is the employee cafeteria located?",
+    "options": [
+      "It is on the basement floor.",
+      "It is open until seven.",
+      "Yes, it is located here."
+    ],
+    "answer": "It is on the basement floor.",
+    "explanation": "根據題目類型提供適當回應；其他選項未能正確對應題意。",
+    "category": "WH問句"
+  },
+  {
+    "id": "L2-T600-043",
+    "part": 2,
+    "track": "T600",
+    "audioScript": "Who approved the new budget plan?",
+    "options": [
+      "The finance director approved it.",
+      "The budget plan is on the table.",
+      "Yes, it was approved yesterday."
+    ],
+    "answer": "The finance director approved it.",
+    "explanation": "根據題目類型提供適當回應；其他選項未能正確對應題意。",
+    "category": "WH問句"
+  },
+  {
+    "id": "L2-T600-044",
+    "part": 2,
+    "track": "T600",
+    "audioScript": "What should I bring to the orientation session?",
+    "options": [
+      "Please bring your ID and a notebook.",
+      "The session starts at nine.",
+      "Yes, you should bring something."
+    ],
+    "answer": "Please bring your ID and a notebook.",
+    "explanation": "根據題目類型提供適當回應；其他選項未能正確對應題意。",
+    "category": "WH問句"
+  },
+  {
+    "id": "L2-T600-045",
+    "part": 2,
+    "track": "T600",
+    "audioScript": "Why was the software update delayed?",
+    "options": [
+      "Because there were some technical issues.",
+      "The update is free of charge.",
+      "Yes, it was delayed."
+    ],
+    "answer": "Because there were some technical issues.",
+    "explanation": "根據題目類型提供適當回應；其他選項未能正確對應題意。",
+    "category": "WH問句"
+  },
+  {
+    "id": "L2-T600-046",
+    "part": 2,
+    "track": "T600",
+    "audioScript": "How do I book a meeting room online?",
+    "options": [
+      "You can use the booking system on the intranet.",
+      "The meeting rooms are on the second floor.",
+      "I booked a room yesterday."
+    ],
+    "answer": "You can use the booking system on the intranet.",
+    "explanation": "根據題目類型提供適當回應；其他選項未能正確對應題意。",
+    "category": "WH問句"
+  },
+  {
+    "id": "L2-T600-047",
+    "part": 2,
+    "track": "T600",
+    "audioScript": "How many copies do you need for the meeting?",
+    "options": [
+      "Twenty copies should be enough.",
+      "The copies are on the table.",
+      "Yes, I need copies."
+    ],
+    "answer": "Twenty copies should be enough.",
+    "explanation": "根據題目類型提供適當回應；其他選項未能正確對應題意。",
+    "category": "WH問句"
+  },
+  {
+    "id": "L2-T600-048",
+    "part": 2,
+    "track": "T600",
+    "audioScript": "What time is the CEO arriving?",
+    "options": [
+      "She is arriving at two thirty.",
+      "In the main conference room.",
+      "Yes, she is arriving today."
+    ],
+    "answer": "She is arriving at two thirty.",
+    "explanation": "根據題目類型提供適當回應；其他選項未能正確對應題意。",
+    "category": "WH問句"
+  },
+  {
+    "id": "L2-T600-049",
+    "part": 2,
+    "track": "T600",
+    "audioScript": "Which bus goes to the train station?",
+    "options": [
+      "Number 42 goes directly there.",
+      "It takes about twenty minutes.",
+      "Yes, that bus goes there."
+    ],
+    "answer": "Number 42 goes directly there.",
+    "explanation": "根據題目類型提供適當回應；其他選項未能正確對應題意。",
+    "category": "WH問句"
+  },
+  {
+    "id": "L2-T600-050",
+    "part": 2,
+    "track": "T600",
+    "audioScript": "How long will the repair take?",
+    "options": [
+      "It should take about two hours.",
+      "The repairman is from the city.",
+      "Yes, it will take time."
+    ],
+    "answer": "It should take about two hours.",
+    "explanation": "根據題目類型提供適當回應；其他選項未能正確對應題意。",
+    "category": "WH問句"
+  },
+  {
+    "id": "L2-T600-051",
+    "part": 2,
+    "track": "T600",
+    "audioScript": "When is the next staff meeting scheduled?",
+    "options": [
+      "It is scheduled for next Tuesday morning.",
+      "In the main conference room.",
+      "Yes, it is scheduled."
+    ],
+    "answer": "It is scheduled for next Tuesday morning.",
+    "explanation": "根據題目類型提供適當回應；其他選項未能正確對應題意。",
+    "category": "WH問句"
+  },
+  {
+    "id": "L2-T600-052",
+    "part": 2,
+    "track": "T600",
+    "audioScript": "What does your company specialize in?",
+    "options": [
+      "We specialize in software development.",
+      "I specialize in marketing.",
+      "Yes, we have a specialty."
+    ],
+    "answer": "We specialize in software development.",
+    "explanation": "根據題目類型提供適當回應；其他選項未能正確對應題意。",
+    "category": "WH問句"
+  },
+  {
+    "id": "L2-T600-053",
+    "part": 2,
+    "track": "T600",
+    "audioScript": "Where did you learn to speak English so well?",
+    "options": [
+      "I took classes at a language school.",
+      "Yes, I speak English well.",
+      "English is very useful."
+    ],
+    "answer": "I took classes at a language school.",
+    "explanation": "根據題目類型提供適當回應；其他選項未能正確對應題意。",
+    "category": "WH問句"
+  },
+  {
+    "id": "L2-T600-054",
+    "part": 2,
+    "track": "T600",
+    "audioScript": "Who is giving the keynote speech at the conference?",
+    "options": [
+      "Dr. Yamashita from Kyoto University.",
+      "The conference is in Tokyo.",
+      "Yes, there will be a speech."
+    ],
+    "answer": "Dr. Yamashita from Kyoto University.",
+    "explanation": "根據題目類型提供適當回應；其他選項未能正確對應題意。",
+    "category": "WH問句"
+  },
+  {
+    "id": "L2-T600-055",
+    "part": 2,
+    "track": "T600",
+    "audioScript": "How was your first day at the new job?",
+    "options": [
+      "It went very well, thank you for asking.",
+      "I started the job yesterday.",
+      "Yes, it was a good day."
+    ],
+    "answer": "It went very well, thank you for asking.",
+    "explanation": "根據題目類型提供適當回應；其他選項未能正確對應題意。",
+    "category": "WH問句"
+  },
+  {
+    "id": "L2-T600-056",
+    "part": 2,
+    "track": "T600",
+    "audioScript": "What are the benefits of joining this program?",
+    "options": [
+      "You will get access to online training resources.",
+      "The program starts next month.",
+      "Yes, there are many benefits."
+    ],
+    "answer": "You will get access to online training resources.",
+    "explanation": "根據題目類型提供適當回應；其他選項未能正確對應題意。",
+    "category": "WH問句"
+  },
+  {
+    "id": "L2-T600-057",
+    "part": 2,
+    "track": "T600",
+    "audioScript": "When can I see the doctor?",
+    "options": [
+      "The doctor can see you at three o'clock.",
+      "The doctor is very experienced.",
+      "Yes, you can see her."
+    ],
+    "answer": "The doctor can see you at three o'clock.",
+    "explanation": "根據題目類型提供適當回應；其他選項未能正確對應題意。",
+    "category": "WH問句"
+  },
+  {
+    "id": "L2-T600-058",
+    "part": 2,
+    "track": "T600",
+    "audioScript": "How much does it cost to join the gym?",
+    "options": [
+      "It costs fifty dollars per month.",
+      "The gym is on the third floor.",
+      "Yes, it costs money."
+    ],
+    "answer": "It costs fifty dollars per month.",
+    "explanation": "根據題目類型提供適當回應；其他選項未能正確對應題意。",
+    "category": "WH問句"
+  },
+  {
+    "id": "L2-T600-059",
+    "part": 2,
+    "track": "T600",
+    "audioScript": "What kind of food does the cafeteria serve?",
+    "options": [
+      "They serve a mix of Western and Asian dishes.",
+      "The cafeteria opens at seven thirty.",
+      "Yes, they serve food."
+    ],
+    "answer": "They serve a mix of Western and Asian dishes.",
+    "explanation": "根據題目類型提供適當回應；其他選項未能正確對應題意。",
+    "category": "WH問句"
+  },
+  {
+    "id": "L2-T600-060",
+    "part": 2,
+    "track": "T600",
+    "audioScript": "Where can I find the manager's office?",
+    "options": [
+      "It is the last door on the right down the hall.",
+      "The manager is in a meeting now.",
+      "Yes, I can find it."
+    ],
+    "answer": "It is the last door on the right down the hall.",
+    "explanation": "根據題目類型提供適當回應；其他選項未能正確對應題意。",
+    "category": "WH問句"
+  },
+  {
+    "id": "L2-T600-061",
+    "part": 2,
+    "track": "T600",
+    "audioScript": "Who is in charge of the training program?",
+    "options": [
+      "Ms. Lin from Human Resources is in charge.",
+      "The training program lasts three days.",
+      "Yes, someone is in charge."
+    ],
+    "answer": "Ms. Lin from Human Resources is in charge.",
+    "explanation": "根據題目類型提供適當回應；其他選項未能正確對應題意。",
+    "category": "WH問句"
+  },
+  {
+    "id": "L2-T600-062",
+    "part": 2,
+    "track": "T600",
+    "audioScript": "How often does the newsletter come out?",
+    "options": [
+      "It is published once a month.",
+      "The newsletter is very informative.",
+      "Yes, it comes out regularly."
+    ],
+    "answer": "It is published once a month.",
+    "explanation": "根據題目類型提供適當回應；其他選項未能正確對應題意。",
+    "category": "WH問句"
+  },
+  {
+    "id": "L2-T600-063",
+    "part": 2,
+    "track": "T600",
+    "audioScript": "What time does the bank open tomorrow?",
+    "options": [
+      "It opens at nine in the morning.",
+      "The bank is on Main Street.",
+      "Yes, it opens tomorrow."
+    ],
+    "answer": "It opens at nine in the morning.",
+    "explanation": "根據題目類型提供適當回應；其他選項未能正確對應題意。",
+    "category": "WH問句"
+  },
+  {
+    "id": "L2-T600-064",
+    "part": 2,
+    "track": "T600",
+    "audioScript": "Which color do you prefer for the new logo?",
+    "options": [
+      "I like the blue design the most.",
+      "The new logo is ready.",
+      "Yes, I have a preference."
+    ],
+    "answer": "I like the blue design the most.",
+    "explanation": "根據題目類型提供適當回應；其他選項未能正確對應題意。",
+    "category": "WH問句"
+  },
+  {
+    "id": "L2-T600-065",
+    "part": 2,
+    "track": "T600",
+    "audioScript": "Why did you decide to change careers?",
+    "options": [
+      "Because I wanted a more challenging role.",
+      "I changed careers last year.",
+      "Yes, I made a decision."
+    ],
+    "answer": "Because I wanted a more challenging role.",
+    "explanation": "根據題目類型提供適當回應；其他選項未能正確對應題意。",
+    "category": "WH問句"
+  },
+  {
+    "id": "L2-T600-066",
+    "part": 2,
+    "track": "T600",
+    "audioScript": "How many staff members work in this branch?",
+    "options": [
+      "About thirty people work here.",
+      "The branch opened five years ago.",
+      "Yes, there are staff members."
+    ],
+    "answer": "About thirty people work here.",
+    "explanation": "根據題目類型提供適當回應；其他選項未能正確對應題意。",
+    "category": "WH問句"
+  },
+  {
+    "id": "L2-T600-067",
+    "part": 2,
+    "track": "T600",
+    "audioScript": "What time is the delivery scheduled for?",
+    "options": [
+      "The delivery is scheduled for noon.",
+      "The delivery is from the main warehouse.",
+      "Yes, it is scheduled."
+    ],
+    "answer": "The delivery is scheduled for noon.",
+    "explanation": "根據題目類型提供適當回應；其他選項未能正確對應題意。",
+    "category": "WH問句"
+  },
+  {
+    "id": "L2-T600-068",
+    "part": 2,
+    "track": "T600",
+    "audioScript": "Where were you born?",
+    "options": [
+      "I was born in a small town in the south.",
+      "I was born in April.",
+      "Yes, I was born here."
+    ],
+    "answer": "I was born in a small town in the south.",
+    "explanation": "根據題目類型提供適當回應；其他選項未能正確對應題意。",
+    "category": "WH問句"
+  },
+  {
+    "id": "L2-T600-069",
+    "part": 2,
+    "track": "T600",
+    "audioScript": "How do you handle customer complaints?",
+    "options": [
+      "We listen carefully and offer a solution.",
+      "Complaints are about shipping issues.",
+      "Yes, we handle them."
+    ],
+    "answer": "We listen carefully and offer a solution.",
+    "explanation": "根據題目類型提供適當回應；其他選項未能正確對應題意。",
+    "category": "WH問句"
+  },
+  {
+    "id": "L2-T600-070",
+    "part": 2,
+    "track": "T600",
+    "audioScript": "What is the policy on working from home?",
+    "options": [
+      "Employees can work from home twice a week.",
+      "The policy is written in the handbook.",
+      "Yes, there is a policy."
+    ],
+    "answer": "Employees can work from home twice a week.",
+    "explanation": "根據題目類型提供適當回應；其他選項未能正確對應題意。",
+    "category": "WH問句"
+  },
+  {
+    "id": "L2-T600-071",
+    "part": 2,
+    "track": "T600",
+    "audioScript": "When did you start learning English?",
+    "options": [
+      "I started learning in elementary school.",
+      "I study English every day.",
+      "Yes, I started long ago."
+    ],
+    "answer": "I started learning in elementary school.",
+    "explanation": "根據題目類型提供適當回應；其他選項未能正確對應題意。",
+    "category": "WH問句"
+  },
+  {
+    "id": "L2-T600-072",
+    "part": 2,
+    "track": "T600",
+    "audioScript": "How long have you been living in this city?",
+    "options": [
+      "I have been living here for three years.",
+      "I live in an apartment downtown.",
+      "Yes, I live here."
+    ],
+    "answer": "I have been living here for three years.",
+    "explanation": "根據題目類型提供適當回應；其他選項未能正確對應題意。",
+    "category": "WH問句"
+  },
+  {
+    "id": "L2-T600-073",
+    "part": 2,
+    "track": "T600",
+    "audioScript": "What made you choose this university?",
+    "options": [
+      "It has an excellent reputation in my field.",
+      "I study at the city campus.",
+      "Yes, I chose carefully."
+    ],
+    "answer": "It has an excellent reputation in my field.",
+    "explanation": "根據題目類型提供適當回應；其他選項未能正確對應題意。",
+    "category": "WH問句"
+  },
+  {
+    "id": "L2-T600-074",
+    "part": 2,
+    "track": "T600",
+    "audioScript": "Who should I talk to about the maintenance issue?",
+    "options": [
+      "Please speak to the building superintendent.",
+      "The maintenance issue is fixed.",
+      "I talked to him yesterday."
+    ],
+    "answer": "Please speak to the building superintendent.",
+    "explanation": "根據題目類型提供適當回應；其他選項未能正確對應題意。",
+    "category": "WH問句"
+  },
+  {
+    "id": "L2-T600-075",
+    "part": 2,
+    "track": "T600",
+    "audioScript": "Which train goes to the airport?",
+    "options": [
+      "The express train from platform three.",
+      "The airport is thirty minutes away.",
+      "Yes, that train goes there."
+    ],
+    "answer": "The express train from platform three.",
+    "explanation": "根據題目類型提供適當回應；其他選項未能正確對應題意。",
+    "category": "WH問句"
+  },
+  {
+    "id": "L2-T600-076",
+    "part": 2,
+    "track": "T600",
+    "audioScript": "How much did the hotel room cost per night?",
+    "options": [
+      "It cost one hundred and twenty dollars.",
+      "The hotel was fully booked.",
+      "Yes, it cost a lot."
+    ],
+    "answer": "It cost one hundred and twenty dollars.",
+    "explanation": "根據題目類型提供適當回應；其他選項未能正確對應題意。",
+    "category": "WH問句"
+  },
+  {
+    "id": "L2-T600-077",
+    "part": 2,
+    "track": "T600",
+    "audioScript": "Did you book the tickets for the show?",
+    "options": [
+      "Yes, I reserved two seats online.",
+      "I booked a hotel room instead.",
+      "No, the show was canceled."
+    ],
+    "answer": "Yes, I reserved two seats online.",
+    "explanation": "根據題目類型提供適當回應；其他選項未能正確對應題意。",
+    "category": "YesNo問句"
+  },
+  {
+    "id": "L2-T600-078",
+    "part": 2,
+    "track": "T600",
+    "audioScript": "Are there any vegetarian options on the menu?",
+    "options": [
+      "Yes, we have a vegetarian pasta dish.",
+      "The menu is on the table.",
+      "I ordered the steak."
+    ],
+    "answer": "Yes, we have a vegetarian pasta dish.",
+    "explanation": "根據題目類型提供適當回應；其他選項未能正確對應題意。",
+    "category": "YesNo問句"
+  },
+  {
+    "id": "L2-T600-079",
+    "part": 2,
+    "track": "T600",
+    "audioScript": "Can I use my phone during the tour?",
+    "options": [
+      "Yes, but please keep it on silent mode.",
+      "I use my phone every day.",
+      "The tour starts at ten."
+    ],
+    "answer": "Yes, but please keep it on silent mode.",
+    "explanation": "根據題目類型提供適當回應；其他選項未能正確對應題意。",
+    "category": "YesNo問句"
+  },
+  {
+    "id": "L2-T600-080",
+    "part": 2,
+    "track": "T600",
+    "audioScript": "Has the printer been fixed yet?",
+    "options": [
+      "Yes, the technician repaired it this morning.",
+      "The printer is very old.",
+      "Yes, I printed something."
+    ],
+    "answer": "Yes, the technician repaired it this morning.",
+    "explanation": "根據題目類型提供適當回應；其他選項未能正確對應題意。",
+    "category": "YesNo問句"
+  },
+  {
+    "id": "L2-T600-081",
+    "part": 2,
+    "track": "T600",
+    "audioScript": "Do you need any help with that box?",
+    "options": [
+      "Yes, it is quite heavy. Thank you.",
+      "The box is on the truck.",
+      "I need a new box."
+    ],
+    "answer": "Yes, it is quite heavy. Thank you.",
+    "explanation": "根據題目類型提供適當回應；其他選項未能正確對應題意。",
+    "category": "YesNo問句"
+  },
+  {
+    "id": "L2-T600-082",
+    "part": 2,
+    "track": "T600",
+    "audioScript": "Is the meeting still on for this afternoon?",
+    "options": [
+      "Yes, it is still scheduled for two o'clock.",
+      "The meeting room is reserved.",
+      "No, I am not going."
+    ],
+    "answer": "Yes, it is still scheduled for two o'clock.",
+    "explanation": "根據題目類型提供適當回應；其他選項未能正確對應題意。",
+    "category": "YesNo問句"
+  },
+  {
+    "id": "L2-T600-083",
+    "part": 2,
+    "track": "T600",
+    "audioScript": "Would you like to join us for dinner?",
+    "options": [
+      "I would love to. Thanks for the invitation.",
+      "I had dinner at home.",
+      "The restaurant is downtown."
+    ],
+    "answer": "I would love to. Thanks for the invitation.",
+    "explanation": "根據題目類型提供適當回應；其他選項未能正確對應題意。",
+    "category": "YesNo問句"
+  },
+  {
+    "id": "L2-T600-084",
+    "part": 2,
+    "track": "T600",
+    "audioScript": "Did you enjoy the training workshop?",
+    "options": [
+      "Yes, it was very practical and useful.",
+      "The workshop was about teamwork.",
+      "I trained for three days."
+    ],
+    "answer": "Yes, it was very practical and useful.",
+    "explanation": "根據題目類型提供適當回應；其他選項未能正確對應題意。",
+    "category": "YesNo問句"
+  },
+  {
+    "id": "L2-T600-085",
+    "part": 2,
+    "track": "T600",
+    "audioScript": "Can I borrow your pen for a moment?",
+    "options": [
+      "Sure, here you go.",
+      "I borrowed a book from the library.",
+      "The pen is on my desk."
+    ],
+    "answer": "Sure, here you go.",
+    "explanation": "根據題目類型提供適當回應；其他選項未能正確對應題意。",
+    "category": "YesNo問句"
+  },
+  {
+    "id": "L2-T600-086",
+    "part": 2,
+    "track": "T600",
+    "audioScript": "Is there a bank near this hotel?",
+    "options": [
+      "Yes, there is one just across the street.",
+      "The hotel has a nice pool.",
+      "I need to go to the bank."
+    ],
+    "answer": "Yes, there is one just across the street.",
+    "explanation": "根據題目類型提供適當回應；其他選項未能正確對應題意。",
+    "category": "YesNo問句"
+  },
+  {
+    "id": "L2-T600-087",
+    "part": 2,
+    "track": "T600",
+    "audioScript": "Have you finished reading the report?",
+    "options": [
+      "Not yet, I am on the last section.",
+      "The report was very long.",
+      "Yes, I wrote the report."
+    ],
+    "answer": "Not yet, I am on the last section.",
+    "explanation": "根據題目類型提供適當回應；其他選項未能正確對應題意。",
+    "category": "YesNo問句"
+  },
+  {
+    "id": "L2-T600-088",
+    "part": 2,
+    "track": "T600",
+    "audioScript": "Are you free this weekend for a meeting?",
+    "options": [
+      "I am free on Saturday morning.",
+      "The meeting is very important.",
+      "Yes, I work on weekends."
+    ],
+    "answer": "I am free on Saturday morning.",
+    "explanation": "根據題目類型提供適當回應；其他選項未能正確對應題意。",
+    "category": "YesNo問句"
+  },
+  {
+    "id": "L2-T600-089",
+    "part": 2,
+    "track": "T600",
+    "audioScript": "Should I call the client about the delay?",
+    "options": [
+      "Yes, please update them on the new timeline.",
+      "The client called yesterday.",
+      "The delay was unavoidable."
+    ],
+    "answer": "Yes, please update them on the new timeline.",
+    "explanation": "根據題目類型提供適當回應；其他選項未能正確對應題意。",
+    "category": "YesNo問句"
+  },
+  {
+    "id": "L2-T600-090",
+    "part": 2,
+    "track": "T600",
+    "audioScript": "Do you mind if I open the window?",
+    "options": [
+      "Not at all. It is stuffy in here.",
+      "The window is broken.",
+      "I opened it this morning."
+    ],
+    "answer": "Not at all. It is stuffy in here.",
+    "explanation": "根據題目類型提供適當回應；其他選項未能正確對應題意。",
+    "category": "YesNo問句"
+  },
+  {
+    "id": "L2-T600-091",
+    "part": 2,
+    "track": "T600",
+    "audioScript": "Is Ms. Lee available for a quick chat?",
+    "options": [
+      "She is in a meeting right now. Can I take a message?",
+      "Ms. Lee is the team leader.",
+      "Yes, I chatted with her."
+    ],
+    "answer": "She is in a meeting right now. Can I take a message?",
+    "explanation": "根據題目類型提供適當回應；其他選項未能正確對應題意。",
+    "category": "YesNo問句"
+  },
+  {
+    "id": "L2-T600-092",
+    "part": 2,
+    "track": "T600",
+    "audioScript": "Does this train stop at Central Station?",
+    "options": [
+      "Yes, it is the next stop.",
+      "Central Station is very large.",
+      "I stopped there yesterday."
+    ],
+    "answer": "Yes, it is the next stop.",
+    "explanation": "根據題目類型提供適當回應；其他選項未能正確對應題意。",
+    "category": "YesNo問句"
+  },
+  {
+    "id": "L2-T600-093",
+    "part": 2,
+    "track": "T600",
+    "audioScript": "Could you please repeat that?",
+    "options": [
+      "Of course. I said the meeting is at three.",
+      "I repeated the instructions.",
+      "Yes, it was repeated."
+    ],
+    "answer": "Of course. I said the meeting is at three.",
+    "explanation": "根據題目類型提供適當回應；其他選項未能正確對應題意。",
+    "category": "YesNo問句"
+  },
+  {
+    "id": "L2-T600-094",
+    "part": 2,
+    "track": "T600",
+    "audioScript": "Will the package arrive before Friday?",
+    "options": [
+      "Yes, it is scheduled for Thursday delivery.",
+      "The package is at the post office.",
+      "No, I didn't send it."
+    ],
+    "answer": "Yes, it is scheduled for Thursday delivery.",
+    "explanation": "根據題目類型提供適當回應；其他選項未能正確對應題意。",
+    "category": "YesNo問句"
+  },
+  {
+    "id": "L2-T600-095",
+    "part": 2,
+    "track": "T600",
+    "audioScript": "Did you send the invoice to the client?",
+    "options": [
+      "Yes, I emailed it this morning.",
+      "The invoice is for the consulting work.",
+      "Yes, the client paid."
+    ],
+    "answer": "Yes, I emailed it this morning.",
+    "explanation": "根據題目類型提供適當回應；其他選項未能正確對應題意。",
+    "category": "YesNo問句"
+  },
+  {
+    "id": "L2-T600-096",
+    "part": 2,
+    "track": "T600",
+    "audioScript": "Is this seat taken?",
+    "options": [
+      "No, feel free to sit down.",
+      "I took a seat by the window.",
+      "The seat is very comfortable."
+    ],
+    "answer": "No, feel free to sit down.",
+    "explanation": "根據題目類型提供適當回應；其他選項未能正確對應題意。",
+    "category": "YesNo問句"
+  },
+  {
+    "id": "L2-T600-097",
+    "part": 2,
+    "track": "T600",
+    "audioScript": "May I see your ID, please?",
+    "options": [
+      "Here is my driver's license.",
+      "My ID number is 4521.",
+      "Yes, I can see clearly."
+    ],
+    "answer": "Here is my driver's license.",
+    "explanation": "根據題目類型提供適當回應；其他選項未能正確對應題意。",
+    "category": "YesNo問句"
+  },
+  {
+    "id": "L2-T600-098",
+    "part": 2,
+    "track": "T600",
+    "audioScript": "Do you have any experience with graphic design?",
+    "options": [
+      "Yes, I studied design in college.",
+      "I have a graphic designer friend.",
+      "The design is almost finished."
+    ],
+    "answer": "Yes, I studied design in college.",
+    "explanation": "根據題目類型提供適當回應；其他選項未能正確對應題意。",
+    "category": "YesNo問句"
+  },
+  {
+    "id": "L2-T600-099",
+    "part": 2,
+    "track": "T600",
+    "audioScript": "Are you planning to attend the networking event?",
+    "options": [
+      "Yes, I registered for it last week.",
+      "The event is at the city center hotel.",
+      "I plan all my events carefully."
+    ],
+    "answer": "Yes, I registered for it last week.",
+    "explanation": "根據題目類型提供適當回應；其他選項未能正確對應題意。",
+    "category": "YesNo問句"
+  },
+  {
+    "id": "L2-T600-100",
+    "part": 2,
+    "track": "T600",
+    "audioScript": "Can we reschedule the appointment?",
+    "options": [
+      "Sure, how about next Monday afternoon?",
+      "The appointment was very productive.",
+      "No, we scheduled it yesterday."
+    ],
+    "answer": "Sure, how about next Monday afternoon?",
+    "explanation": "根據題目類型提供適當回應；其他選項未能正確對應題意。",
+    "category": "YesNo問句"
+  },
+  {
+    "id": "L2-T600-101",
+    "part": 2,
+    "track": "T600",
+    "audioScript": "Have you visited the new office yet?",
+    "options": [
+      "Not yet, but I plan to go next week.",
+      "The new office is on the fifth floor.",
+      "Yes, I visited the old office."
+    ],
+    "answer": "Not yet, but I plan to go next week.",
+    "explanation": "根據題目類型提供適當回應；其他選項未能正確對應題意。",
+    "category": "YesNo問句"
+  },
+  {
+    "id": "L2-T600-102",
+    "part": 2,
+    "track": "T600",
+    "audioScript": "Is the restaurant wheelchair accessible?",
+    "options": [
+      "Yes, there is a ramp at the main entrance.",
+      "The restaurant serves Italian food.",
+      "Yes, the table is accessible."
+    ],
+    "answer": "Yes, there is a ramp at the main entrance.",
+    "explanation": "根據題目類型提供適當回應；其他選項未能正確對應題意。",
+    "category": "YesNo問句"
+  },
+  {
+    "id": "L2-T600-103",
+    "part": 2,
+    "track": "T600",
+    "audioScript": "You have finished the report, haven't you?",
+    "options": [
+      "Yes, I submitted it an hour ago.",
+      "I haven't started yet.",
+      "The report is about sales figures."
+    ],
+    "answer": "Yes, I submitted it an hour ago.",
+    "explanation": "根據題目類型提供適當回應；其他選項未能正確對應題意。",
+    "category": "附加間接問句"
+  },
+  {
+    "id": "L2-T600-104",
+    "part": 2,
+    "track": "T600",
+    "audioScript": "The meeting is at three, isn't it?",
+    "options": [
+      "Actually, it was moved to four o'clock.",
+      "The meeting is in Room 301.",
+      "Yes, I am attending."
+    ],
+    "answer": "Actually, it was moved to four o'clock.",
+    "explanation": "根據題目類型提供適當回應；其他選項未能正確對應題意。",
+    "category": "附加間接問句"
+  },
+  {
+    "id": "L2-T600-105",
+    "part": 2,
+    "track": "T600",
+    "audioScript": "She works in accounting, doesn't she?",
+    "options": [
+      "Yes, she has been there for five years.",
+      "She works very hard.",
+      "Accounting is her major."
+    ],
+    "answer": "Yes, she has been there for five years.",
+    "explanation": "根據題目類型提供適當回應；其他選項未能正確對應題意。",
+    "category": "附加間接問句"
+  },
+  {
+    "id": "L2-T600-106",
+    "part": 2,
+    "track": "T600",
+    "audioScript": "He hasn't submitted the proposal yet, has he?",
+    "options": [
+      "No, he is still working on the final section.",
+      "He submitted it last week.",
+      "The proposal is very detailed."
+    ],
+    "answer": "No, he is still working on the final section.",
+    "explanation": "根據題目類型提供適當回應；其他選項未能正確對應題意。",
+    "category": "附加間接問句"
+  },
+  {
+    "id": "L2-T600-107",
+    "part": 2,
+    "track": "T600",
+    "audioScript": "They are opening a new branch in Taipei, aren't they?",
+    "options": [
+      "Yes, it will be ready by next spring.",
+      "The branch office is in Kaohsiung.",
+      "No, they are closing one."
+    ],
+    "answer": "Yes, it will be ready by next spring.",
+    "explanation": "根據題目類型提供適當回應；其他選項未能正確對應題意。",
+    "category": "附加間接問句"
+  },
+  {
+    "id": "L2-T600-108",
+    "part": 2,
+    "track": "T600",
+    "audioScript": "You can speak Japanese, can't you?",
+    "options": [
+      "Yes, I studied it for three years.",
+      "Japanese is a difficult language.",
+      "I speak English at work."
+    ],
+    "answer": "Yes, I studied it for three years.",
+    "explanation": "根據題目類型提供適當回應；其他選項未能正確對應題意。",
+    "category": "附加間接問句"
+  },
+  {
+    "id": "L2-T600-109",
+    "part": 2,
+    "track": "T600",
+    "audioScript": "Mr. Chen is from the Singapore office, isn't he?",
+    "options": [
+      "No, he actually works in the Kuala Lumpur office.",
+      "Mr. Chen is the regional director.",
+      "The Singapore office is very large."
+    ],
+    "answer": "No, he actually works in the Kuala Lumpur office.",
+    "explanation": "根據題目類型提供適當回應；其他選項未能正確對應題意。",
+    "category": "附加間接問句"
+  },
+  {
+    "id": "L2-T600-110",
+    "part": 2,
+    "track": "T600",
+    "audioScript": "We need to order more supplies, don't we?",
+    "options": [
+      "Yes, we are almost out of paper and ink.",
+      "The supplies are in the storage room.",
+      "I ordered supplies last month."
+    ],
+    "answer": "Yes, we are almost out of paper and ink.",
+    "explanation": "根據題目類型提供適當回應；其他選項未能正確對應題意。",
+    "category": "附加間接問句"
+  },
+  {
+    "id": "L2-T600-111",
+    "part": 2,
+    "track": "T600",
+    "audioScript": "The company won't move to a new location, will it?",
+    "options": [
+      "No, the management decided to stay here.",
+      "The new location is in the suburbs.",
+      "The company is expanding."
+    ],
+    "answer": "No, the management decided to stay here.",
+    "explanation": "根據題目類型提供適當回應；其他選項未能正確對應題意。",
+    "category": "附加間接問句"
+  },
+  {
+    "id": "L2-T600-112",
+    "part": 2,
+    "track": "T600",
+    "audioScript": "There's a staff meeting tomorrow, isn't there?",
+    "options": [
+      "Yes, it was announced by email this morning.",
+      "The staff meeting is about safety.",
+      "No, I'm not attending."
+    ],
+    "answer": "Yes, it was announced by email this morning.",
+    "explanation": "根據題目類型提供適當回應；其他選項未能正確對應題意。",
+    "category": "附加間接問句"
+  },
+  {
+    "id": "L2-T600-113",
+    "part": 2,
+    "track": "T600",
+    "audioScript": "They have already shipped the order, haven't they?",
+    "options": [
+      "Yes, the tracking number was sent to us.",
+      "The order includes fifteen items.",
+      "They shipped it yesterday."
+    ],
+    "answer": "Yes, the tracking number was sent to us.",
+    "explanation": "根據題目類型提供適當回應；其他選項未能正確對應題意。",
+    "category": "附加間接問句"
+  },
+  {
+    "id": "L2-T600-114",
+    "part": 2,
+    "track": "T600",
+    "audioScript": "You used to work in marketing, didn't you?",
+    "options": [
+      "Yes, I was a marketing coordinator for two years.",
+      "I currently work in finance.",
+      "Marketing is very creative."
+    ],
+    "answer": "Yes, I was a marketing coordinator for two years.",
+    "explanation": "根據題目類型提供適當回應；其他選項未能正確對應題意。",
+    "category": "附加間接問句"
+  },
+  {
+    "id": "L2-T600-115",
+    "part": 2,
+    "track": "T600",
+    "audioScript": "The train leaves at six, doesn't it?",
+    "options": [
+      "No, it leaves at six thirty today due to maintenance.",
+      "The train station is very crowded.",
+      "Yes, I am taking the train."
+    ],
+    "answer": "No, it leaves at six thirty today due to maintenance.",
+    "explanation": "根據題目類型提供適當回應；其他選項未能正確對應題意。",
+    "category": "附加間接問句"
+  },
+  {
+    "id": "L2-T600-116",
+    "part": 2,
+    "track": "T600",
+    "audioScript": "I'm looking for the human resources department.",
+    "options": [
+      "It is on the fourth floor, Room 412.",
+      "I am looking for my keys.",
+      "Human resources hired me."
+    ],
+    "answer": "It is on the fourth floor, Room 412.",
+    "explanation": "根據題目類型提供適當回應；其他選項未能正確對應題意。",
+    "category": "陳述句回應"
+  },
+  {
+    "id": "L2-T600-117",
+    "part": 2,
+    "track": "T600",
+    "audioScript": "I think the deadline should be extended.",
+    "options": [
+      "I agree. We need more time to finish the quality check.",
+      "The deadline is next Friday.",
+      "I extended the contract."
+    ],
+    "answer": "I agree. We need more time to finish the quality check.",
+    "explanation": "根據題目類型提供適當回應；其他選項未能正確對應題意。",
+    "category": "陳述句回應"
+  },
+  {
+    "id": "L2-T600-118",
+    "part": 2,
+    "track": "T600",
+    "audioScript": "I need to speak to someone about my account.",
+    "options": [
+      "Please hold while I transfer you to customer service.",
+      "I need to check my balance.",
+      "Your account is active."
+    ],
+    "answer": "Please hold while I transfer you to customer service.",
+    "explanation": "根據題目類型提供適當回應；其他選項未能正確對應題意。",
+    "category": "陳述句回應"
+  },
+  {
+    "id": "L2-T600-119",
+    "part": 2,
+    "track": "T600",
+    "audioScript": "The air conditioning isn't working properly.",
+    "options": [
+      "I'll call the maintenance team right away.",
+      "The air conditioner is new.",
+      "The weather is very hot today."
+    ],
+    "answer": "I'll call the maintenance team right away.",
+    "explanation": "根據題目類型提供適當回應；其他選項未能正確對應題意。",
+    "category": "陳述句回應"
+  },
+  {
+    "id": "L2-T600-120",
+    "part": 2,
+    "track": "T600",
+    "audioScript": "I have an appointment with Dr. Wang at ten.",
+    "options": [
+      "Please take a seat. The doctor will be with you shortly.",
+      "The appointment was yesterday.",
+      "Dr. Wang is a specialist."
+    ],
+    "answer": "Please take a seat. The doctor will be with you shortly.",
+    "explanation": "根據題目類型提供適當回應；其他選項未能正確對應題意。",
+    "category": "陳述句回應"
+  },
+  {
+    "id": "L2-T600-121",
+    "part": 2,
+    "track": "T600",
+    "audioScript": "I'm afraid I can't make it to the party.",
+    "options": [
+      "That's too bad. We will miss you.",
+      "The party starts at seven.",
+      "I can't find the address."
+    ],
+    "answer": "That's too bad. We will miss you.",
+    "explanation": "根據題目類型提供適當回應；其他選項未能正確對應題意。",
+    "category": "陳述句回應"
+  },
+  {
+    "id": "L2-T600-122",
+    "part": 2,
+    "track": "T600",
+    "audioScript": "The new employee orientation starts next Monday.",
+    "options": [
+      "Great, I have prepared the welcome materials.",
+      "The orientation is for new staff.",
+      "I started last Monday."
+    ],
+    "answer": "Great, I have prepared the welcome materials.",
+    "explanation": "根據題目類型提供適當回應；其他選項未能正確對應題意。",
+    "category": "陳述句回應"
+  },
+  {
+    "id": "L2-T600-123",
+    "part": 2,
+    "track": "T600",
+    "audioScript": "I really enjoyed the presentation this morning.",
+    "options": [
+      "I'm glad you liked it. I worked hard on it.",
+      "The presentation was about sales.",
+      "I presented last year."
+    ],
+    "answer": "I'm glad you liked it. I worked hard on it.",
+    "explanation": "根據題目類型提供適當回應；其他選項未能正確對應題意。",
+    "category": "陳述句回應"
+  },
+  {
+    "id": "L2-T600-124",
+    "part": 2,
+    "track": "T600",
+    "audioScript": "I cannot find the file you requested.",
+    "options": [
+      "Let me check the shared drive for you.",
+      "The file is very important.",
+      "I requested the file yesterday."
+    ],
+    "answer": "Let me check the shared drive for you.",
+    "explanation": "根據題目類型提供適當回應；其他選項未能正確對應題意。",
+    "category": "陳述句回應"
+  },
+  {
+    "id": "L2-T600-125",
+    "part": 2,
+    "track": "T600",
+    "audioScript": "The elevator is out of service today.",
+    "options": [
+      "I see. I will take the stairs instead.",
+      "The elevator is very old.",
+      "I use it every day."
+    ],
+    "answer": "I see. I will take the stairs instead.",
+    "explanation": "根據題目類型提供適當回應；其他選項未能正確對應題意。",
+    "category": "陳述句回應"
+  },
+  {
+    "id": "L2-T600-126",
+    "part": 2,
+    "track": "T600",
+    "audioScript": "I would like to return this item.",
+    "options": [
+      "Do you have the receipt with you?",
+      "This item is on sale.",
+      "I returned it yesterday."
+    ],
+    "answer": "Do you have the receipt with you?",
+    "explanation": "根據題目類型提供適當回應；其他選項未能正確對應題意。",
+    "category": "陳述句回應"
+  },
+  {
+    "id": "L2-T600-127",
+    "part": 2,
+    "track": "T600",
+    "audioScript": "My flight was delayed by three hours.",
+    "options": [
+      "That must be very frustrating. Can I get you a coffee?",
+      "My flight is at six.",
+      "I delayed the meeting."
+    ],
+    "answer": "That must be very frustrating. Can I get you a coffee?",
+    "explanation": "根據題目類型提供適當回應；其他選項未能正確對應題意。",
+    "category": "陳述句回應"
+  },
+  {
+    "id": "L2-T600-128",
+    "part": 2,
+    "track": "T600",
+    "audioScript": "I'm thinking about taking a日语 class.",
+    "options": [
+      "That sounds like a great idea. Japanese is very useful.",
+      "Yes, I am thinking about it.",
+      "Japanese class is at six."
+    ],
+    "answer": "That sounds like a great idea. Japanese is very useful.",
+    "explanation": "根據題目類型提供適當回應；其他選項未能正確對應題意。",
+    "category": "陳述句回應"
+  },
+  {
+    "id": "L2-T600-129",
+    "part": 2,
+    "track": "T600",
+    "audioScript": "The wifi connection in this room is very slow.",
+    "options": [
+      "Let me give you the password for a different network.",
+      "The wifi is free for guests.",
+      "I connected to the wifi."
+    ],
+    "answer": "Let me give you the password for a different network.",
+    "explanation": "根據題目類型提供適當回應；其他選項未能正確對應題意。",
+    "category": "陳述句回應"
+  },
+  {
+    "id": "L2-T600-130",
+    "part": 2,
+    "track": "T600",
+    "audioScript": "I've been working here for ten years.",
+    "options": [
+      "Wow, that is a long time. You must know the company well.",
+      "I work here too.",
+      "Yes, I have worked."
+    ],
+    "answer": "Wow, that is a long time. You must know the company well.",
+    "explanation": "根據題目類型提供適當回應；其他選項未能正確對應題意。",
+    "category": "陳述句回應"
+  },
+  {
+    "id": "L2-T600-131",
+    "part": 2,
+    "track": "T600",
+    "audioScript": "Where is the bank?",
+    "options": [
+      "It's on the corner of Park Avenue.",
+      "I sat on the park bench.",
+      "Yes, I need to go to the bank."
+    ],
+    "answer": "It's on the corner of Park Avenue.",
+    "explanation": "根據題目類型提供適當回應；其他選項未能正確對應題意。",
+    "category": "音似干擾"
+  },
+  {
+    "id": "L2-T600-132",
+    "part": 2,
+    "track": "T600",
+    "audioScript": "Did you bring the list?",
+    "options": [
+      "Yes, I have it right here.",
+      "No, I didn't listen carefully.",
+      "The list was very long."
+    ],
+    "answer": "Yes, I have it right here.",
+    "explanation": "根據題目類型提供適當回應；其他選項未能正確對應題意。",
+    "category": "音似干擾"
+  },
+  {
+    "id": "L2-T600-133",
+    "part": 2,
+    "track": "T600",
+    "audioScript": "What do you think of this new design?",
+    "options": [
+      "I think it looks very modern and clean.",
+      "I signed the documents already.",
+      "Yes, I thought about it."
+    ],
+    "answer": "I think it looks very modern and clean.",
+    "explanation": "根據題目類型提供適當回應；其他選項未能正確對應題意。",
+    "category": "音似干擾"
+  },
+  {
+    "id": "L2-T600-134",
+    "part": 2,
+    "track": "T600",
+    "audioScript": "Where is the main office?",
+    "options": [
+      "It is located downtown near the station.",
+      "Of course, you may use it.",
+      "The main office is closed."
+    ],
+    "answer": "It is located downtown near the station.",
+    "explanation": "根據題目類型提供適當回應；其他選項未能正確對應題意。",
+    "category": "音似干擾"
+  },
+  {
+    "id": "L2-T600-135",
+    "part": 2,
+    "track": "T600",
+    "audioScript": "Did you get the ticket?",
+    "options": [
+      "Yes, I picked it up this afternoon.",
+      "No, I don't like cricket.",
+      "The ticket is expensive."
+    ],
+    "answer": "Yes, I picked it up this afternoon.",
+    "explanation": "根據題目類型提供適當回應；其他選項未能正確對應題意。",
+    "category": "音似干擾"
+  },
+  {
+    "id": "L2-T600-136",
+    "part": 2,
+    "track": "T600",
+    "audioScript": "How was the presentation?",
+    "options": [
+      "It went very well. The audience was engaged.",
+      "I presented a gift to her.",
+      "Yes, it was presented."
+    ],
+    "answer": "It went very well. The audience was engaged.",
+    "explanation": "根據題目類型提供適當回應；其他選項未能正確對應題意。",
+    "category": "音似干擾"
+  },
+  {
+    "id": "L2-T600-137",
+    "part": 2,
+    "track": "T600",
+    "audioScript": "Is this your first time here?",
+    "options": [
+      "Yes, I have never been to this city before.",
+      "No, I didn't have time.",
+      "Yes, this is the first floor."
+    ],
+    "answer": "Yes, I have never been to this city before.",
+    "explanation": "根據題目類型提供適當回應；其他選項未能正確對應題意。",
+    "category": "音似干擾"
+  },
+  {
+    "id": "L2-T600-138",
+    "part": 2,
+    "track": "T600",
+    "audioScript": "Who designed the website?",
+    "options": [
+      "An external agency designed it.",
+      "I sat at the desk.",
+      "Yes, it was designed."
+    ],
+    "answer": "An external agency designed it.",
+    "explanation": "根據題目類型提供適當回應；其他選項未能正確對應題意。",
+    "category": "音似干擾"
+  },
+  {
+    "id": "L2-T600-139",
+    "part": 2,
+    "track": "T600",
+    "audioScript": "Have you seen the new store?",
+    "options": [
+      "Yes, I walked past it this morning.",
+      "No, I didn't store the files.",
+      "The store is very large."
+    ],
+    "answer": "Yes, I walked past it this morning.",
+    "explanation": "根據題目類型提供適當回應；其他選項未能正確對應題意。",
+    "category": "音似干擾"
+  },
+  {
+    "id": "L2-T600-140",
+    "part": 2,
+    "track": "T600",
+    "audioScript": "Which floor is the cafeteria on?",
+    "options": [
+      "It is on the second floor, near the elevator.",
+      "The flowers are blooming outside.",
+      "Yes, that is the floor."
+    ],
+    "answer": "It is on the second floor, near the elevator.",
+    "explanation": "根據題目類型提供適當回應；其他選項未能正確對應題意。",
+    "category": "音似干擾"
+  },
+  {
+    "id": "L2-T600-141",
+    "part": 2,
+    "track": "T600",
+    "audioScript": "Did you attend the staff meeting?",
+    "options": [
+      "No, I was out sick that day.",
+      "Yes, I attended to the details.",
+      "The staff meeting was long."
+    ],
+    "answer": "No, I was out sick that day.",
+    "explanation": "根據題目類型提供適當回應；其他選項未能正確對應題意。",
+    "category": "音似干擾"
+  },
+  {
+    "id": "L2-T600-142",
+    "part": 2,
+    "track": "T600",
+    "audioScript": "How do you like your new office?",
+    "options": [
+      "It is spacious and has a great view.",
+      "I like my new office supplies.",
+      "Yes, I like it."
+    ],
+    "answer": "It is spacious and has a great view.",
+    "explanation": "根據題目類型提供適當回應；其他選項未能正確對應題意。",
+    "category": "音似干擾"
+  },
+  {
+    "id": "L2-T600-143",
+    "part": 2,
+    "track": "T600",
+    "audioScript": "What time should I come?",
+    "options": [
+      "Please come at around three o'clock.",
+      "I came by taxi.",
+      "Yes, you should come."
+    ],
+    "answer": "Please come at around three o'clock.",
+    "explanation": "根據題目類型提供適當回應；其他選項未能正確對應題意。",
+    "category": "音似干擾"
+  },
+  {
+    "id": "L2-T600-144",
+    "part": 2,
+    "track": "T600",
+    "audioScript": "Can you show me the contract?",
+    "options": [
+      "Sure, I have it on my desk.",
+      "I had a great contract with them.",
+      "Yes, I can show you around."
+    ],
+    "answer": "Sure, I have it on my desk.",
+    "explanation": "根據題目類型提供適當回應；其他選項未能正確對應題意。",
+    "category": "音似干擾"
+  },
+  {
+    "id": "L2-T600-145",
+    "part": 2,
+    "track": "T600",
+    "audioScript": "Where did you buy that jacket?",
+    "options": [
+      "I bought it at a store in the mall.",
+      "I packed it in my bag.",
+      "Yes, it is very warm."
+    ],
+    "answer": "I bought it at a store in the mall.",
+    "explanation": "根據題目類型提供適當回應；其他選項未能正確對應題意。",
+    "category": "音似干擾"
+  },
+  {
+    "id": "L2-T600-146",
+    "part": 2,
+    "track": "T600",
+    "audioScript": "What time does the pharmacy close?",
+    "options": [
+      "It closes at nine in the evening.",
+      "The pharmacy is next to the supermarket.",
+      "Yes, it closes at nine."
+    ],
+    "answer": "It closes at nine in the evening.",
+    "explanation": "根據題目類型提供適當回應；其他選項未能正確對應題意。",
+    "category": "WH問句"
+  },
+  {
+    "id": "L2-T600-147",
+    "part": 2,
+    "track": "T600",
+    "audioScript": "How do I apply for the position?",
+    "options": [
+      "You can submit your application online.",
+      "The position is in the marketing team.",
+      "Yes, I applied yesterday."
+    ],
+    "answer": "You can submit your application online.",
+    "explanation": "根據題目類型提供適當回應；其他選項未能正確對應題意。",
+    "category": "WH問句"
+  },
+  {
+    "id": "L2-T600-148",
+    "part": 2,
+    "track": "T600",
+    "audioScript": "Where did you park the car?",
+    "options": [
+      "I parked it in the garage on level two.",
+      "I parked it there this morning.",
+      "Yes, the car is parked."
+    ],
+    "answer": "I parked it in the garage on level two.",
+    "explanation": "根據題目類型提供適當回應；其他選項未能正確對應題意。",
+    "category": "WH問句"
+  },
+  {
+    "id": "L2-T600-149",
+    "part": 2,
+    "track": "T600",
+    "audioScript": "What is the exchange rate today?",
+    "options": [
+      "It is about thirty-two NT dollars to one US dollar.",
+      "The exchange is at the bank counter.",
+      "Yes, the rate changed."
+    ],
+    "answer": "It is about thirty-two NT dollars to one US dollar.",
+    "explanation": "根據題目類型提供適當回應；其他選項未能正確對應題意。",
+    "category": "WH問句"
+  },
+  {
+    "id": "L2-T600-150",
+    "part": 2,
+    "track": "T600",
+    "audioScript": "When will the results be announced?",
+    "options": [
+      "They will be announced next Monday.",
+      "The results are very positive.",
+      "Yes, they were announced."
+    ],
+    "answer": "They will be announced next Monday.",
+    "explanation": "根據題目類型提供適當回應；其他選項未能正確對應題意。",
+    "category": "WH問句"
+  },
+  {
+    "id": "L2-T600-151",
+    "part": 2,
+    "track": "T600",
+    "audioScript": "Did you check the inventory levels?",
+    "options": [
+      "Yes, we are low on several items.",
+      "The inventory is in the warehouse.",
+      "I checked the price yesterday."
+    ],
+    "answer": "Yes, we are low on several items.",
+    "explanation": "根據題目類型提供適當回應；其他選項未能正確對應題意。",
+    "category": "YesNo問句"
+  },
+  {
+    "id": "L2-T600-152",
+    "part": 2,
+    "track": "T600",
+    "audioScript": "Is it okay if I leave early today?",
+    "options": [
+      "Sure, as long as you finish your work first.",
+      "I left early yesterday.",
+      "Yes, it is okay today."
+    ],
+    "answer": "Sure, as long as you finish your work first.",
+    "explanation": "根據題目類型提供適當回應；其他選項未能正確對應題意。",
+    "category": "YesNo問句"
+  },
+  {
+    "id": "L2-T600-153",
+    "part": 2,
+    "track": "T600",
+    "audioScript": "Do you know where the nearest subway station is?",
+    "options": [
+      "Yes, it is about two blocks from here.",
+      "The subway is very convenient.",
+      "I know the station well."
+    ],
+    "answer": "Yes, it is about two blocks from here.",
+    "explanation": "根據題目類型提供適當回應；其他選項未能正確對應題意。",
+    "category": "YesNo問句"
+  },
+  {
+    "id": "L2-T600-154",
+    "part": 2,
+    "track": "T600",
+    "audioScript": "Could you help me carry these boxes?",
+    "options": [
+      "Of course, let me give you a hand.",
+      "The boxes are very light.",
+      "I carried them upstairs."
+    ],
+    "answer": "Of course, let me give you a hand.",
+    "explanation": "根據題目類型提供適當回應；其他選項未能正確對應題意。",
+    "category": "YesNo問句"
+  },
+  {
+    "id": "L2-T600-155",
+    "part": 2,
+    "track": "T600",
+    "audioScript": "There's a post office nearby, isn't there?",
+    "options": [
+      "Yes, there is one around the corner.",
+      "I posted the letter this morning.",
+      "The post office closes at five."
+    ],
+    "answer": "Yes, there is one around the corner.",
+    "explanation": "根據題目類型提供適當回應；其他選項未能正確對應題意。",
+    "category": "附加間接問句"
+  },
+  {
+    "id": "L2-T600-156",
+    "part": 2,
+    "track": "T600",
+    "audioScript": "He is the new project leader, isn't he?",
+    "options": [
+      "Yes, he took over the position last week.",
+      "The project is very challenging.",
+      "He is leading the team well."
+    ],
+    "answer": "Yes, he took over the position last week.",
+    "explanation": "根據題目類型提供適當回應；其他選項未能正確對應題意。",
+    "category": "附加間接問句"
+  },
+  {
+    "id": "L2-T600-157",
+    "part": 2,
+    "track": "T600",
+    "audioScript": "I'd like to make a reservation for tonight.",
+    "options": [
+      "Certainly, how many guests will be dining?",
+      "The reservation is for two people.",
+      "I made a reservation yesterday."
+    ],
+    "answer": "Certainly, how many guests will be dining?",
+    "explanation": "根據題目類型提供適當回應；其他選項未能正確對應題意。",
+    "category": "陳述句回應"
+  },
+  {
+    "id": "L2-T600-158",
+    "part": 2,
+    "track": "T600",
+    "audioScript": "The report needs to be submitted by Friday.",
+    "options": [
+      "I will make sure it is ready on time.",
+      "The report is on my desk.",
+      "I submitted it last week."
+    ],
+    "answer": "I will make sure it is ready on time.",
+    "explanation": "根據題目類型提供適當回應；其他選項未能正確對應題意。",
+    "category": "陳述句回應"
+  },
+  {
+    "id": "L2-T600-159",
+    "part": 2,
+    "track": "T600",
+    "audioScript": "Can I get a copy of the receipt?",
+    "options": [
+      "Sure, I will print one for you right now.",
+      "I received the package yesterday.",
+      "Yes, I just made a copy."
+    ],
+    "answer": "Sure, I will print one for you right now.",
+    "explanation": "根據題目類型提供適當回應；其他選項未能正確對應題意。",
+    "category": "音似干擾"
+  },
+  {
+    "id": "L2-T600-160",
+    "part": 2,
+    "track": "T600",
+    "audioScript": "How was the seminar on Monday?",
+    "options": [
+      "It was very insightful and well-attended.",
+      "I attended to all the details.",
+      "Yes, the seminar was long."
+    ],
+    "answer": "It was very insightful and well-attended.",
+    "explanation": "根據題目類型提供適當回應；其他選項未能正確對應題意。",
+    "category": "音似干擾"
+  }
+]

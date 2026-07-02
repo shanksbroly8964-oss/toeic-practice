@@ -11,7 +11,8 @@
       "She is closing the window."
     ],
     "answer": "She is typing on a laptop.",
-    "explanation": "描述中女子正在用筆電打字，與此選項相符；其餘選項描述的動作在情境中未發生。"
+    "explanation": "描述中女子正在用筆電打字，與此選項相符；其餘選項描述的動作在情境中未發生。",
+    "category": "人物動作"
   },
   {
     "id": "L1-T600-002",
@@ -25,7 +26,8 @@
       "Everyone is sitting at the table."
     ],
     "answer": "Two men are shaking hands.",
-    "explanation": "描述中兩位男士正在握手，與此選項相符；其他選項描述的動作未在情境中發生。"
+    "explanation": "描述中兩位男士正在握手，與此選項相符；其他選項描述的動作未在情境中發生。",
+    "category": "人物動作"
   },
   {
     "id": "L1-T600-003",
@@ -39,7 +41,8 @@
       "A man is washing dishes."
     ],
     "answer": "A man is serving food.",
-    "explanation": "描述中男士正在上菜，與此選項相符；顧客在用餐而非烹飪，廚房擁擠非空無一人，洗碗未被提及。"
+    "explanation": "描述中男士正在上菜，與此選項相符；顧客在用餐而非烹飪，廚房擁擠非空無一人，洗碗未被提及。",
+    "category": "人物動作"
   },
   {
     "id": "L1-T600-004",
@@ -53,7 +56,8 @@
       "Luggage is being unloaded from the plane."
     ],
     "answer": "A flight attendant is demonstrating safety procedures.",
-    "explanation": "空服員正在演示安全程序，與描述完全一致；其他選項描述的情境與畫面不符。"
+    "explanation": "空服員正在演示安全程序，與描述完全一致；其他選項描述的情境與畫面不符。",
+    "category": "人物動作"
   },
   {
     "id": "L1-T600-005",
@@ -67,7 +71,8 @@
       "A truck is being repaired."
     ],
     "answer": "Workers are loading boxes onto a truck.",
-    "explanation": "工人正在將箱子裝上卡車，與描述相符；卸貨、倉庫關閉、修車皆未提及。"
+    "explanation": "工人正在將箱子裝上卡車，與描述相符；卸貨、倉庫關閉、修車皆未提及。",
+    "category": "場景位置"
   },
   {
     "id": "L1-T600-006",
@@ -81,7 +86,8 @@
       "The receptionist is making phone calls."
     ],
     "answer": "The receptionist is greeting a visitor.",
-    "explanation": "接待員正在打招呼迎接訪客，與描述相符；其他選項描述的動作均未發生。"
+    "explanation": "接待員正在打招呼迎接訪客，與描述相符；其他選項描述的動作均未發生。",
+    "category": "人物動作"
   },
   {
     "id": "L1-T600-007",
@@ -95,7 +101,8 @@
       "The production line is stopped."
     ],
     "answer": "An engineer is inspecting a machine.",
-    "explanation": "工程師正在檢查機器，與描述相符；生產線仍在運轉，未停止也未提到裝配。"
+    "explanation": "工程師正在檢查機器，與描述相符；生產線仍在運轉，未停止也未提到裝配。",
+    "category": "物品狀態"
   },
   {
     "id": "L1-T600-008",
@@ -109,7 +116,8 @@
       "A barista is cleaning the counter."
     ],
     "answer": "People are waiting in line to order.",
-    "explanation": "人們正在排隊點餐，與描述相符；坐著喝咖啡、關店、清潔櫃檯均非畫面內容。"
+    "explanation": "人們正在排隊點餐，與描述相符；坐著喝咖啡、關店、清潔櫃檯均非畫面內容。",
+    "category": "人物動作"
   },
   {
     "id": "L1-T600-009",
@@ -123,7 +131,8 @@
       "Everyone is eating lunch."
     ],
     "answer": "A businesswoman is giving a presentation.",
-    "explanation": "女主管正在進行簡報，與描述一致；其他選項與畫面描述不符。"
+    "explanation": "女主管正在進行簡報，與描述一致；其他選項與畫面描述不符。",
+    "category": "人物動作"
   },
   {
     "id": "L1-T600-010",
@@ -137,7 +146,8 @@
       "A cleaner is emptying trash bins."
     ],
     "answer": "A cleaner is vacuuming the carpet.",
-    "explanation": "清潔人員正在吸地毯，與描述相符；辦公室無人上班，走廊未在油漆，倒垃圾未提及。"
+    "explanation": "清潔人員正在吸地毯，與描述相符；辦公室無人上班，走廊未在油漆，倒垃圾未提及。",
+    "category": "物品狀態"
   },
   {
     "id": "L1-T600-011",
@@ -151,7 +161,8 @@
       "A librarian is helping a student at the counter."
     ],
     "answer": "A librarian is placing books on a shelf.",
-    "explanation": "圖書館員正在將書放上書架，與描述相符；學生在閱讀而非借書，圖書館正常營業。"
+    "explanation": "圖書館員正在將書放上書架，與描述相符；學生在閱讀而非借書，圖書館正常營業。",
+    "category": "人物動作"
   },
   {
     "id": "L1-T600-012",
@@ -165,7 +176,8 @@
       "An employee is signing for a delivery."
     ],
     "answer": "A delivery driver is carrying a package.",
-    "explanation": "快遞員正拿著包裹走向入口，與描述一致；包裹尚未被打開，司機未在停車，員工未簽收。"
+    "explanation": "快遞員正拿著包裹走向入口，與描述一致；包裹尚未被打開，司機未在停車，員工未簽收。",
+    "category": "人物動作"
   },
   {
     "id": "L1-T600-013",
@@ -179,7 +191,8 @@
       "The gas station is closed."
     ],
     "answer": "A man is checking the tire pressure.",
-    "explanation": "男子正在檢查輪胎胎壓，與描述相符；加油、洗車、關閉均未在描述中出現。"
+    "explanation": "男子正在檢查輪胎胎壓，與描述相符；加油、洗車、關閉均未在描述中出現。",
+    "category": "人物動作"
   },
   {
     "id": "L1-T600-014",
@@ -193,7 +206,8 @@
       "Employees are having a video call."
     ],
     "answer": "Employees are using a computer together.",
-    "explanation": "幾位員工正一起看著電腦螢幕，與描述相符；睡覺、關燈、視訊通話均未提及。"
+    "explanation": "幾位員工正一起看著電腦螢幕，與描述相符；睡覺、關燈、視訊通話均未提及。",
+    "category": "物品狀態"
   },
   {
     "id": "L1-T600-015",
@@ -207,6 +221,7 @@
       "The chef is tasting the soup."
     ],
     "answer": "A chef is slicing vegetables.",
-    "explanation": "主廚正在切蔬菜，與描述一致；廚房繁忙非空無一人，服務生點餐和嚐湯均未提及。"
+    "explanation": "主廚正在切蔬菜，與描述一致；廚房繁忙非空無一人，服務生點餐和嚐湯均未提及。",
+    "category": "人物動作"
   }
 ]

@@ -14,34 +14,58 @@
       {
         "id": "P7S-T730-001-Q1",
         "question": "Why does the VP mention the West Coast region in the memo?",
-        "options": ["To highlight a region that underperformed", "To show that some regions performed well despite the overall decline", "To announce the closure of the West Coast office", "To promote the West Coast manager"],
+        "options": [
+          "To highlight a region that underperformed",
+          "To show that some regions performed well despite the overall decline",
+          "To announce the closure of the West Coast office",
+          "To promote the West Coast manager"
+        ],
         "answer": "To show that some regions performed well despite the overall decline",
         "explanation": "備忘錄指出西岸超出目標3%，但不足以抵消整體下滑，用意在於呈現並非所有區域都表現不佳，讓整體情況更完整。",
-        "crossReference": false
+        "crossReference": false,
+        "category": "細節"
       },
       {
         "id": "P7S-T730-001-Q2",
         "question": "What is implied about the VP's attitude toward the regional managers?",
-        "options": ["She believes they should be replaced", "She wants to reassure them that the decline is not their fault", "She thinks they have been working too slowly", "She is considering reducing the number of regions"],
+        "options": [
+          "She believes they should be replaced",
+          "She wants to reassure them that the decline is not their fault",
+          "She thinks they have been working too slowly",
+          "She is considering reducing the number of regions"
+        ],
         "answer": "She wants to reassure them that the decline is not their fault",
         "explanation": "備忘錄特別強調「this is not a reflection of individual performance」，顯示VP意圖安撫區域經理們的情緒。",
-        "crossReference": false
+        "crossReference": false,
+        "category": "推論"
       },
       {
         "id": "P7S-T730-001-Q3",
         "question": "What is most likely to happen after April 20?",
-        "options": ["The VP will announce layoffs", "The company will enter new markets", "Regional managers will submit their revised plans", "The marketing budget will be cut further"],
+        "options": [
+          "The VP will announce layoffs",
+          "The company will enter new markets",
+          "Regional managers will submit their revised plans",
+          "The marketing budget will be cut further"
+        ],
         "answer": "Regional managers will submit their revised plans",
         "explanation": "備忘錄要求「all managers to submit a revised territory plan by April 20」，因此4月20日之後最可能發生的是提交計畫。",
-        "crossReference": false
+        "crossReference": false,
+        "category": "推論"
       },
       {
         "id": "P7S-T730-001-Q4",
         "question": "What can be inferred about the two new market entrants mentioned?",
-        "options": ["They are based in the West Coast region", "They have contributed to the company's sales decline", "They are partnering with the company", "They have already left the market"],
+        "options": [
+          "They are based in the West Coast region",
+          "They have contributed to the company's sales decline",
+          "They are partnering with the company",
+          "They have already left the market"
+        ],
         "answer": "They have contributed to the company's sales decline",
         "explanation": "備忘錄將「increased competition from two new market entrants」列為營收下滑的因素之一，可推斷新競爭者對公司造成衝擊。",
-        "crossReference": false
+        "crossReference": false,
+        "category": "推論"
       }
     ]
   },
@@ -60,34 +84,58 @@
       {
         "id": "P7S-T730-002-Q1",
         "question": "What must Ms. Kim do separately to attend workshops?",
-        "options": ["Pay an additional fee", "Sign up when registration opens on September 15", "Arrive one hour early on the day", "Submit a request to her manager"],
+        "options": [
+          "Pay an additional fee",
+          "Sign up when registration opens on September 15",
+          "Arrive one hour early on the day",
+          "Submit a request to her manager"
+        ],
         "answer": "Sign up when registration opens on September 15",
         "explanation": "郵件說明「workshop sessions require separate sign-up」且「Workshop registration opens on September 15」。",
-        "crossReference": false
+        "crossReference": false,
+        "category": "細節"
       },
       {
         "id": "P7S-T730-002-Q2",
         "question": "Why would Ms. Kim most likely want to check in on October 20?",
-        "options": ["To attend workshops before the main event", "To avoid long lines on the first official day", "To receive a discount on her registration", "To participate in the networking dinner early"],
+        "options": [
+          "To attend workshops before the main event",
+          "To avoid long lines on the first official day",
+          "To receive a discount on her registration",
+          "To participate in the networking dinner early"
+        ],
         "answer": "To avoid long lines on the first official day",
         "explanation": "提前報到（Early check-in）通常在正式活動前一天提供，目的是讓與會者避開首日人潮。此事需推論，文件未明說但為業界慣例。",
-        "crossReference": false
+        "crossReference": false,
+        "category": "推論"
       },
       {
         "id": "P7S-T730-002-Q3",
         "question": "What happens if Ms. Kim cancels on October 10?",
-        "options": ["She receives a full refund", "She receives a 50% refund", "She receives no refund", "She can transfer her registration to next year"],
+        "options": [
+          "She receives a full refund",
+          "She receives a 50% refund",
+          "She receives no refund",
+          "She can transfer her registration to next year"
+        ],
         "answer": "She receives a 50% refund",
         "explanation": "郵件規定10月7日後取消收取50%手續費，10月10日在此之後，只能退回50%。",
-        "crossReference": false
+        "crossReference": false,
+        "category": "細節"
       },
       {
         "id": "P7S-T730-002-Q4",
         "question": "What is implied about the hotel reservation?",
-        "options": ["The discount rate is available only to speakers", "Ms. Kim must book through the organizer to get the discount", "The hotel is fully booked already", "The discount applies automatically to all registrants"],
+        "options": [
+          "The discount rate is available only to speakers",
+          "Ms. Kim must book through the organizer to get the discount",
+          "The hotel is fully booked already",
+          "The discount applies automatically to all registrants"
+        ],
         "answer": "Ms. Kim must book through the organizer to get the discount",
         "explanation": "郵件指出須「use the booking link in the conference app」才能享有159美元的優惠價，暗示必須透過主辦方的管道預訂。",
-        "crossReference": false
+        "crossReference": false,
+        "category": "推論"
       }
     ]
   },
@@ -106,26 +154,44 @@
       {
         "id": "P7S-T730-003-Q1",
         "question": "What is the main reason for the recall?",
-        "options": ["The blender is too noisy", "The blade assembly may detach during use", "The motor overheats quickly", "The product is past its expiration date"],
+        "options": [
+          "The blender is too noisy",
+          "The blade assembly may detach during use",
+          "The motor overheats quickly",
+          "The product is past its expiration date"
+        ],
         "answer": "The blade assembly may detach during use",
         "explanation": "召回通知明確指出「blade assembly detaching during operation, which poses a risk of injury」。",
-        "crossReference": false
+        "crossReference": false,
+        "category": "細節"
       },
       {
         "id": "P7S-T730-003-Q2",
         "question": "What can be inferred about the replacement model BP-810?",
-        "options": ["It is cheaper than the original model", "It has a redesigned blade-locking mechanism", "It will ship within one week", "It is no longer in production"],
+        "options": [
+          "It is cheaper than the original model",
+          "It has a redesigned blade-locking mechanism",
+          "It will ship within one week",
+          "It is no longer in production"
+        ],
         "answer": "It has a redesigned blade-locking mechanism",
         "explanation": "通知中提到BP-810配備「improved blade-locking mechanism」，可推斷這是針對原產品問題所做的改良。",
-        "crossReference": false
+        "crossReference": false,
+        "category": "推論"
       },
       {
         "id": "P7S-T730-003-Q3",
         "question": "Why might a customer choose Option 1 over Option 2?",
-        "options": ["Option 1 provides a newer model", "Option 1 does not require waiting 4-6 weeks for delivery", "Option 1 offers a higher refund amount", "Option 1 includes free accessories"],
+        "options": [
+          "Option 1 provides a newer model",
+          "Option 1 does not require waiting 4-6 weeks for delivery",
+          "Option 1 offers a higher refund amount",
+          "Option 1 includes free accessories"
+        ],
         "answer": "Option 1 does not require waiting 4-6 weeks for delivery",
         "explanation": "Option 2（換貨）需等候4-6週，而Option 1（退款）在30天內處理，因此不想等待的顧客可能偏好退款。此處需從兩選項的描述中推論。",
-        "crossReference": false
+        "crossReference": false,
+        "category": "推論"
       }
     ]
   },
@@ -144,26 +210,44 @@
       {
         "id": "P7S-T730-004-Q1",
         "question": "Why does Mr. Liu suggest a March 1 start date instead of February 1?",
-        "options": ["He will be on vacation in February", "The project scope is too small", "February is during the peak travel season, and a rushed timeline may cause problems", "The budget is not yet approved"],
+        "options": [
+          "He will be on vacation in February",
+          "The project scope is too small",
+          "February is during the peak travel season, and a rushed timeline may cause problems",
+          "The budget is not yet approved"
+        ],
         "answer": "February is during the peak travel season, and a rushed timeline may cause problems",
         "explanation": "郵件指出2月為「peak winter travel season」，提前實施可能增加營運中斷風險，並提到「rushing the timeline often leads to increased costs and technical issues」。",
-        "crossReference": false
+        "crossReference": false,
+        "category": "推論"
       },
       {
         "id": "P7S-T730-004-Q2",
         "question": "What is Nexus Consulting's position on the type of solution specified in the RFP?",
-        "options": ["They agree with the on-premises requirement", "They believe a cloud-based solution would be more cost-effective", "They recommend a hybrid approach", "They have no opinion on the matter"],
+        "options": [
+          "They agree with the on-premises requirement",
+          "They believe a cloud-based solution would be more cost-effective",
+          "They recommend a hybrid approach",
+          "They have no opinion on the matter"
+        ],
         "answer": "They believe a cloud-based solution would be more cost-effective",
         "explanation": "郵件指出雲端方案可「reduce long-term maintenance costs by approximately 25%」，說明他們傾向認為雲端方案更划算。",
-        "crossReference": false
+        "crossReference": false,
+        "category": "細節"
       },
       {
         "id": "P7S-T730-004-Q3",
         "question": "What can be inferred about the RFP's current budget?",
-        "options": ["It has already been increased from the original amount", "It is likely insufficient to cover all the requirements in the RFP", "It includes a contingency fund", "It was determined by an external auditor"],
+        "options": [
+          "It has already been increased from the original amount",
+          "It is likely insufficient to cover all the requirements in the RFP",
+          "It includes a contingency fund",
+          "It was determined by an external auditor"
+        ],
         "answer": "It is likely insufficient to cover all the requirements in the RFP",
         "explanation": "郵件估算實際需求約$520,000-$580,000，而RFP預算僅$450,000，可推斷預算不足以涵蓋所有需求。",
-        "crossReference": false
+        "crossReference": false,
+        "category": "推論"
       }
     ]
   },
@@ -182,26 +266,44 @@
       {
         "id": "P7S-T730-005-Q1",
         "question": "Which group of employees is most likely excluded from the remote work policy?",
-        "options": ["Software developers", "Marketing specialists", "Hotel front desk staff", "Data analysts"],
+        "options": [
+          "Software developers",
+          "Marketing specialists",
+          "Hotel front desk staff",
+          "Data analysts"
+        ],
         "answer": "Hotel front desk staff",
         "explanation": "政策適用於「do not hold client-facing or on-site operational roles」的員工，飯店櫃檯人員屬於面對客戶的現場職位，最可能被排除。此為推論題，需從排除條件反向推斷。",
-        "crossReference": false
+        "crossReference": false,
+        "category": "推論"
       },
       {
         "id": "P7S-T730-005-Q2",
         "question": "What is implied about the company's financial situation after adopting the hybrid policy?",
-        "options": ["The company is struggling financially", "The hybrid policy resulted in cost savings", "The company plans to downsize its office space", "The policy had no financial impact"],
+        "options": [
+          "The company is struggling financially",
+          "The hybrid policy resulted in cost savings",
+          "The company plans to downsize its office space",
+          "The policy had no financial impact"
+        ],
         "answer": "The hybrid policy resulted in cost savings",
         "explanation": "試點期間節省了約$180,000的辦公室相關開支，暗示全面推行後財務效益可能更顯著。",
-        "crossReference": false
+        "crossReference": false,
+        "category": "推論"
       },
       {
         "id": "P7S-T730-005-Q3",
         "question": "What is the purpose of introducing bi-weekly team check-ins?",
-        "options": ["To monitor employee productivity", "To address the feeling of disconnection among remote workers", "To reduce the number of meetings", "To replace the manager's role"],
+        "options": [
+          "To monitor employee productivity",
+          "To address the feeling of disconnection among remote workers",
+          "To reduce the number of meetings",
+          "To replace the manager's role"
+        ],
         "answer": "To address the feeling of disconnection among remote workers",
         "explanation": "調查發現28%參與者感到與同事疏離，雙週團隊會議正是為了回應此問題而推出的措施。",
-        "crossReference": false
+        "crossReference": false,
+        "category": "主旨"
       }
     ]
   },
@@ -220,26 +322,44 @@
       {
         "id": "P7S-T730-006-Q1",
         "question": "What is the primary reason Apex Manufacturing is ending the contract?",
-        "options": ["Summit Office Supplies went out of business", "Summit's delivery performance and price increase were unsatisfactory", "Apex Manufacturing is relocating its facility", "Summit requested to end the contract early"],
+        "options": [
+          "Summit Office Supplies went out of business",
+          "Summit's delivery performance and price increase were unsatisfactory",
+          "Apex Manufacturing is relocating its facility",
+          "Summit requested to end the contract early"
+        ],
         "answer": "Summit's delivery performance and price increase were unsatisfactory",
         "explanation": "信件列舉了兩大問題：多次延遲交貨（5次超過兩週）以及漲價12%但服務品質未提升。",
-        "crossReference": false
+        "crossReference": false,
+        "category": "主旨"
       },
       {
         "id": "P7S-T730-006-Q2",
         "question": "Why does Ms. Chen mention the 94% on-time delivery rate of other suppliers?",
-        "options": ["To praise Summit's competitors", "To show that Summit's 78% rate is below the industry standard", "To propose a new pricing model", "To request a meeting with other suppliers"],
+        "options": [
+          "To praise Summit's competitors",
+          "To show that Summit's 78% rate is below the industry standard",
+          "To propose a new pricing model",
+          "To request a meeting with other suppliers"
+        ],
         "answer": "To show that Summit's 78% rate is below the industry standard",
         "explanation": "引用其他供應商94%準時率是為了對比Summit的78%，證明問題並非全行業性，而是Summit自身表現不佳。此為推論題。",
-        "crossReference": false
+        "crossReference": false,
+        "category": "推論"
       },
       {
         "id": "P7S-T730-006-Q3",
         "question": "What is implied about outstanding invoices after June 30?",
-        "options": ["They will not be paid", "They will be paid within 45 days of receiving the goods", "Summit must issue credit notes for all of them", "Apex will pay them immediately upon termination"],
+        "options": [
+          "They will not be paid",
+          "They will be paid within 45 days of receiving the goods",
+          "Summit must issue credit notes for all of them",
+          "Apex will pay them immediately upon termination"
+        ],
         "answer": "They will be paid within 45 days of receiving the goods",
         "explanation": "信件明確說明未結發票將在收貨後「standard 45-day payment window」內結清，表示Apex仍會依約付款至合約到期日。",
-        "crossReference": false
+        "crossReference": false,
+        "category": "推論"
       }
     ]
   }

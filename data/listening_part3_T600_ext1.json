@@ -1,0 +1,3936 @@
+[
+  {
+    "id": "L3-T600-016",
+    "part": 3,
+    "track": "T600",
+    "conversation": [
+      {
+        "speaker": "A",
+        "line": "We need to finalize the department budgets for the third quarter."
+      },
+      {
+        "speaker": "B",
+        "line": "I have the proposed numbers here. Marketing is asking for a ten percent increase."
+      },
+      {
+        "speaker": "A",
+        "line": "That seems high. What's the justification?"
+      },
+      {
+        "speaker": "B",
+        "line": "They want to launch a new social media campaign in August."
+      },
+      {
+        "speaker": "A",
+        "line": "And what about the IT department's request?"
+      },
+      {
+        "speaker": "B",
+        "line": "IT needs additional funds for the server upgrade. They've requested forty-five thousand."
+      },
+      {
+        "speaker": "A",
+        "line": "Let's review each department one by one. Start with Operations."
+      }
+    ],
+    "chartData": {
+      "type": "table",
+      "title": "Q3 Department Budget Proposals",
+      "rows": [
+        [
+          "Department",
+          "Current Budget",
+          "Proposed Increase",
+          "New Total"
+        ],
+        [
+          "Operations",
+          "$120,000",
+          "5%",
+          "$126,000"
+        ],
+        [
+          "Marketing",
+          "$80,000",
+          "10%",
+          "$88,000"
+        ],
+        [
+          "IT",
+          "$150,000",
+          "30%",
+          "$195,000"
+        ],
+        [
+          "Human Resources",
+          "$60,000",
+          "3%",
+          "$61,800"
+        ],
+        [
+          "Sales",
+          "$100,000",
+          "8%",
+          "$108,000"
+        ]
+      ]
+    },
+    "questions": [
+      {
+        "id": "L3-T600-016-Q1",
+        "question": "What are the speakers mainly discussing?",
+        "options": [
+          "Hiring new staff",
+          "Department budgets for Q3",
+          "Office renovation plans",
+          "Salary adjustments"
+        ],
+        "answer": "Department budgets for Q3",
+        "explanation": "對話從頭到尾都在討論各部門第三季預算提案。",
+        "requiresChart": false,
+        "category": "主旨"
+      },
+      {
+        "id": "L3-T600-016-Q2",
+        "question": "Which department has the largest proposed increase in percentage?",
+        "options": [
+          "Operations",
+          "Marketing",
+          "IT",
+          "Human Resources"
+        ],
+        "answer": "IT",
+        "explanation": "對照chartData，IT部門的增幅為30%，是所有部門中百分比最高的。",
+        "requiresChart": true,
+        "category": "圖表整合"
+      },
+      {
+        "id": "L3-T600-016-Q3",
+        "question": "Why does the marketing department want more money?",
+        "options": [
+          "To hire new staff",
+          "To buy new equipment",
+          "To launch a social media campaign",
+          "To move to a larger office"
+        ],
+        "answer": "To launch a social media campaign",
+        "explanation": "B說行銷部門想在八月推出新的社群媒體活動。",
+        "requiresChart": false,
+        "category": "細節"
+      }
+    ]
+  },
+  {
+    "id": "L3-T600-017",
+    "part": 3,
+    "track": "T600",
+    "conversation": [
+      {
+        "speaker": "A",
+        "line": "The summer interns are starting next Monday. Are we ready?"
+      },
+      {
+        "speaker": "B",
+        "line": "HR has prepared the orientation materials and welcome packets."
+      },
+      {
+        "speaker": "A",
+        "line": "Great. Who will be their main supervisor?"
+      },
+      {
+        "speaker": "B",
+        "line": "Each department head will assign a mentor. We have six interns this year."
+      },
+      {
+        "speaker": "A",
+        "line": "Do we have enough workstations for all of them?"
+      },
+      {
+        "speaker": "B",
+        "line": "IT has set up four desks already. Two more will be ready by Thursday."
+      }
+    ],
+    "chartData": null,
+    "questions": [
+      {
+        "id": "L3-T600-017-Q1",
+        "question": "What is being prepared for next week?",
+        "options": [
+          "A company party",
+          "Summer intern orientation",
+          "A product launch",
+          "Office relocation"
+        ],
+        "answer": "Summer intern orientation",
+        "explanation": "A說暑期實習生下週一開始，B說HR已準備好迎新資料。",
+        "requiresChart": false,
+        "category": "主旨"
+      },
+      {
+        "id": "L3-T600-017-Q2",
+        "question": "How many interns will join the company?",
+        "options": [
+          "Four",
+          "Five",
+          "Six",
+          "Eight"
+        ],
+        "answer": "Six",
+        "explanation": "B說今年有六位實習生。",
+        "requiresChart": false,
+        "category": "細節"
+      },
+      {
+        "id": "L3-T600-017-Q3",
+        "question": "What problem still needs to be solved?",
+        "options": [
+          "Finding mentors",
+          "Setting up two more workstations",
+          "Printing orientation materials",
+          "Scheduling interviews"
+        ],
+        "answer": "Setting up two more workstations",
+        "explanation": "IT已設置四張桌子，還有兩張週四前完成，表示目前尚未全部就緒。",
+        "requiresChart": false,
+        "category": "推論意圖"
+      }
+    ]
+  },
+  {
+    "id": "L3-T600-018",
+    "part": 3,
+    "track": "T600",
+    "conversation": [
+      {
+        "speaker": "A",
+        "line": "I can't find my security badge. I think I left it at home."
+      },
+      {
+        "speaker": "B",
+        "line": "You'll need a temporary pass to enter the building today."
+      },
+      {
+        "speaker": "A",
+        "line": "How do I get one?"
+      },
+      {
+        "speaker": "B",
+        "line": "Go to the security desk on the first floor. Bring your ID card."
+      },
+      {
+        "speaker": "A",
+        "line": "How long is the temporary pass valid for?"
+      },
+      {
+        "speaker": "B",
+        "line": "It's only for one day. If you lost your badge, you'll need to request a replacement from HR."
+      }
+    ],
+    "chartData": null,
+    "questions": [
+      {
+        "id": "L3-T600-018-Q1",
+        "question": "What did the woman lose?",
+        "options": [
+          "Her phone",
+          "Her security badge",
+          "Her wallet",
+          "Her keys"
+        ],
+        "answer": "Her security badge",
+        "explanation": "A說找不到她的安全識別證。",
+        "requiresChart": false,
+        "category": "細節"
+      },
+      {
+        "id": "L3-T600-018-Q2",
+        "question": "Where should the woman go to get a temporary pass?",
+        "options": [
+          "Human Resources",
+          "The security desk",
+          "The manager's office",
+          "The IT department"
+        ],
+        "answer": "The security desk",
+        "explanation": "B告訴A去一樓的警衛櫃檯辦理臨時通行證。",
+        "requiresChart": false,
+        "category": "細節"
+      },
+      {
+        "id": "L3-T600-018-Q3",
+        "question": "What does the woman need to bring with her?",
+        "options": [
+          "A passport photo",
+          "Her ID card",
+          "A company letter",
+          "Her employee contract"
+        ],
+        "answer": "Her ID card",
+        "explanation": "B提醒A要攜帶身分證件。",
+        "requiresChart": false,
+        "category": "細節"
+      }
+    ]
+  },
+  {
+    "id": "L3-T600-019",
+    "part": 3,
+    "track": "T600",
+    "conversation": [
+      {
+        "speaker": "A",
+        "line": "We have a video conference with the London office at three PM."
+      },
+      {
+        "speaker": "B",
+        "line": "Have you tested the video equipment in Conference Room C?"
+      },
+      {
+        "speaker": "A",
+        "line": "Not yet. The system wasn't working properly this morning."
+      },
+      {
+        "speaker": "B",
+        "line": "Let me call IT support to check it before the meeting."
+      },
+      {
+        "speaker": "A",
+        "line": "Good idea. We can't afford technical issues during an international call."
+      },
+      {
+        "speaker": "B",
+        "line": "I'll also prepare the backup phone line just in case the video fails."
+      }
+    ],
+    "chartData": null,
+    "questions": [
+      {
+        "id": "L3-T600-019-Q1",
+        "question": "What is scheduled for 3 PM?",
+        "options": [
+          "A staff meeting",
+          "A video conference with London",
+          "A job interview",
+          "A training session"
+        ],
+        "answer": "A video conference with London",
+        "explanation": "A說下午三點與倫敦辦公室有視訊會議。",
+        "requiresChart": false,
+        "category": "細節"
+      },
+      {
+        "id": "L3-T600-019-Q2",
+        "question": "What problem are the speakers concerned about?",
+        "options": [
+          "The internet speed",
+          "The video equipment not working",
+          "The meeting time",
+          "The number of participants"
+        ],
+        "answer": "The video equipment not working",
+        "explanation": "A說系統早上有問題，B說要請IT檢查設備。",
+        "requiresChart": false,
+        "category": "細節"
+      },
+      {
+        "id": "L3-T600-019-Q3",
+        "question": "What backup plan does the man suggest?",
+        "options": [
+          "Reschedule the meeting",
+          "Use a phone line",
+          "Move to another room",
+          "Send an email instead"
+        ],
+        "answer": "Use a phone line",
+        "explanation": "B說會準備備用電話線路，以防視訊故障。",
+        "requiresChart": false,
+        "category": "推論意圖"
+      }
+    ]
+  },
+  {
+    "id": "L3-T600-020",
+    "part": 3,
+    "track": "T600",
+    "conversation": [
+      {
+        "speaker": "A",
+        "line": "I need to book a conference room for our team meeting next Wednesday."
+      },
+      {
+        "speaker": "B",
+        "line": "Let me check the availability. How many people will attend?"
+      },
+      {
+        "speaker": "A",
+        "line": "About twelve people. We'll need a projector and a whiteboard."
+      },
+      {
+        "speaker": "B",
+        "line": "Room 301 is available from nine to noon, but Room 402 is only free in the afternoon."
+      },
+      {
+        "speaker": "A",
+        "line": "Morning works better for us. Let's take Room 301."
+      },
+      {
+        "speaker": "B",
+        "line": "I'll reserve it now. The room has a built-in projector, so you're all set."
+      }
+    ],
+    "chartData": {
+      "type": "table",
+      "title": "Conference Room Availability - Wednesday",
+      "rows": [
+        [
+          "Room",
+          "Capacity",
+          "Morning (9-12)",
+          "Afternoon (1-5)",
+          "Equipment"
+        ],
+        [
+          "Room 201",
+          "8",
+          "Booked",
+          "Booked",
+          "Whiteboard only"
+        ],
+        [
+          "Room 301",
+          "15",
+          "Available",
+          "Booked",
+          "Projector & Whiteboard"
+        ],
+        [
+          "Room 305",
+          "6",
+          "Available",
+          "Available",
+          "TV Screen"
+        ],
+        [
+          "Room 402",
+          "20",
+          "Booked",
+          "Available",
+          "Projector, Whiteboard, Video Conf."
+        ],
+        [
+          "Room 501",
+          "10",
+          "Booked",
+          "Booked",
+          "Whiteboard only"
+        ]
+      ]
+    },
+    "questions": [
+      {
+        "id": "L3-T600-020-Q1",
+        "question": "Which room did the speakers decide to book?",
+        "options": [
+          "Room 201",
+          "Room 301",
+          "Room 402",
+          "Room 501"
+        ],
+        "answer": "Room 301",
+        "explanation": "A選擇早上的時段，B直接說「Let's take Room 301」，無需圖表即可作答。",
+        "requiresChart": false,
+        "category": "圖表整合"
+      },
+      {
+        "id": "L3-T600-020-Q2",
+        "question": "How many people are expected to attend the meeting?",
+        "options": [
+          "About eight",
+          "About twelve",
+          "About fifteen",
+          "About twenty"
+        ],
+        "answer": "About twelve",
+        "explanation": "A說大約十二人參加。",
+        "requiresChart": false,
+        "category": "細節"
+      },
+      {
+        "id": "L3-T600-020-Q3",
+        "question": "What equipment does the chosen room have?",
+        "options": [
+          "TV Screen only",
+          "Whiteboard only",
+          "Projector and whiteboard",
+          "Video conferencing system"
+        ],
+        "answer": "Projector and whiteboard",
+        "explanation": "B說301有內建投影機，對照chartData確認Room 301配備Projector & Whiteboard。",
+        "requiresChart": true,
+        "category": "圖表整合"
+      }
+    ]
+  },
+  {
+    "id": "L3-T600-021",
+    "part": 3,
+    "track": "T600",
+    "conversation": [
+      {
+        "speaker": "A",
+        "line": "The plants in the reception area are looking dry. Who's responsible for watering them?"
+      },
+      {
+        "speaker": "B",
+        "line": "The cleaning service usually handles that, but they only come on Tuesdays and Fridays."
+      },
+      {
+        "speaker": "A",
+        "line": "Today is Thursday. They've gone four days without water."
+      },
+      {
+        "speaker": "B",
+        "line": "I'll water them myself today. Could you remind the cleaning company about the schedule?"
+      },
+      {
+        "speaker": "A",
+        "line": "Sure. Maybe we should ask them to add an extra visit during summer months."
+      }
+    ],
+    "chartData": null,
+    "questions": [
+      {
+        "id": "L3-T600-021-Q1",
+        "question": "What is the problem in the reception area?",
+        "options": [
+          "The lights are broken",
+          "The plants look dry",
+          "The carpet is dirty",
+          "The chairs are missing"
+        ],
+        "answer": "The plants look dry",
+        "explanation": "A說接待區的植物看起來很乾。",
+        "requiresChart": false,
+        "category": "細節"
+      },
+      {
+        "id": "L3-T600-021-Q2",
+        "question": "How often does the cleaning service visit?",
+        "options": [
+          "Every day",
+          "Once a week",
+          "Twice a week",
+          "Once a month"
+        ],
+        "answer": "Twice a week",
+        "explanation": "B說清潔公司週二和週五來，等於一週兩次。",
+        "requiresChart": false,
+        "category": "細節"
+      },
+      {
+        "id": "L3-T600-021-Q3",
+        "question": "What does the woman suggest for the summer?",
+        "options": [
+          "Replace all the plants",
+          "Add an extra cleaning visit",
+          "Buy artificial plants",
+          "Close the reception area"
+        ],
+        "answer": "Add an extra cleaning visit",
+        "explanation": "A提議夏季月份請清潔公司多來一次。",
+        "requiresChart": false,
+        "category": "推論意圖"
+      }
+    ]
+  },
+  {
+    "id": "L3-T600-022",
+    "part": 3,
+    "track": "T600",
+    "conversation": [
+      {
+        "speaker": "A",
+        "line": "I need to order new business cards. Mine are almost out."
+      },
+      {
+        "speaker": "B",
+        "line": "You can submit a request through the print shop portal. How many boxes do you need?"
+      },
+      {
+        "speaker": "A",
+        "line": "Two boxes should be enough. My job title changed last month, so I need the updated version."
+      },
+      {
+        "speaker": "B",
+        "line": "Make sure to select the new template with the updated company logo."
+      },
+      {
+        "speaker": "A",
+        "line": "How long does printing usually take?"
+      },
+      {
+        "speaker": "B",
+        "line": "Standard orders take five business days. Rush orders are ready in two days but cost extra."
+      }
+    ],
+    "chartData": null,
+    "questions": [
+      {
+        "id": "L3-T600-022-Q1",
+        "question": "What does the man want to order?",
+        "options": [
+          "Letterhead paper",
+          "Business cards",
+          "Envelopes",
+          "Brochures"
+        ],
+        "answer": "Business cards",
+        "explanation": "A說需要訂新的名片。",
+        "requiresChart": false,
+        "category": "細節"
+      },
+      {
+        "id": "L3-T600-022-Q2",
+        "question": "Why does the man need new cards?",
+        "options": [
+          "His phone number changed",
+          "His job title changed",
+          "He lost his old ones",
+          "The company moved"
+        ],
+        "answer": "His job title changed",
+        "explanation": "A說上個月職稱變更了，需要更新版名片。",
+        "requiresChart": false,
+        "category": "細節"
+      },
+      {
+        "id": "L3-T600-022-Q3",
+        "question": "How long does a standard printing order take?",
+        "options": [
+          "Two days",
+          "Three days",
+          "Five business days",
+          "One week"
+        ],
+        "answer": "Five business days",
+        "explanation": "B說標準訂單需要五個工作天。",
+        "requiresChart": false,
+        "category": "細節"
+      }
+    ]
+  },
+  {
+    "id": "L3-T600-023",
+    "part": 3,
+    "track": "T600",
+    "conversation": [
+      {
+        "speaker": "A",
+        "line": "Did you see the notice about the parking lot maintenance?"
+      },
+      {
+        "speaker": "B",
+        "line": "No, what does it say?"
+      },
+      {
+        "speaker": "A",
+        "line": "They're repaving the employee parking area this weekend. It'll be closed from Saturday to Sunday."
+      },
+      {
+        "speaker": "B",
+        "line": "Where should we park if we come in on Saturday?"
+      },
+      {
+        "speaker": "A",
+        "line": "We can use the visitor parking lot on the north side of the building."
+      },
+      {
+        "speaker": "B",
+        "line": "I'll send a reminder to the team so everyone knows."
+      }
+    ],
+    "chartData": null,
+    "questions": [
+      {
+        "id": "L3-T600-023-Q1",
+        "question": "What is happening this weekend?",
+        "options": [
+          "Office renovation",
+          "Parking lot repaving",
+          "Fire drill",
+          "New security system installation"
+        ],
+        "answer": "Parking lot repaving",
+        "explanation": "A說週末要重新鋪設員工停車場路面。",
+        "requiresChart": false,
+        "category": "細節"
+      },
+      {
+        "id": "L3-T600-023-Q2",
+        "question": "Where can employees park during the maintenance?",
+        "options": [
+          "On the street",
+          "At the visitor lot",
+          "In the underground garage",
+          "Behind the building"
+        ],
+        "answer": "At the visitor lot",
+        "explanation": "A說可以使用大樓北側的訪客停車場。",
+        "requiresChart": false,
+        "category": "細節"
+      },
+      {
+        "id": "L3-T600-023-Q3",
+        "question": "What will the man do next?",
+        "options": [
+          "Call the maintenance crew",
+          "Send a reminder to the team",
+          "Park in the visitor lot",
+          "Cancel weekend work"
+        ],
+        "answer": "Send a reminder to the team",
+        "explanation": "B說會發提醒通知給團隊。",
+        "requiresChart": false,
+        "category": "推論意圖"
+      }
+    ]
+  },
+  {
+    "id": "L3-T600-024",
+    "part": 3,
+    "track": "T600",
+    "conversation": [
+      {
+        "speaker": "A",
+        "line": "I'd like to sign up for some professional development courses this month."
+      },
+      {
+        "speaker": "B",
+        "line": "We have several workshops available. What area are you interested in?"
+      },
+      {
+        "speaker": "A",
+        "line": "I want to improve my presentation skills and learn basic Excel."
+      },
+      {
+        "speaker": "B",
+        "line": "The Presentation Skills workshop is on July 15th. The Excel Basics course runs on July 20th and 21st."
+      },
+      {
+        "speaker": "A",
+        "line": "Can I take both? The dates don't conflict, right?"
+      },
+      {
+        "speaker": "B",
+        "line": "They don't overlap. I'll register you for both. Each course costs seventy-five dollars."
+      }
+    ],
+    "chartData": {
+      "type": "table",
+      "title": "July Professional Development Workshops",
+      "rows": [
+        [
+          "Course Name",
+          "Date",
+          "Time",
+          "Instructor",
+          "Fee"
+        ],
+        [
+          "Presentation Skills",
+          "July 15",
+          "9:00-12:00",
+          "Ms. Roberts",
+          "$75"
+        ],
+        [
+          "Excel Basics",
+          "July 20-21",
+          "1:00-4:00",
+          "Mr. Kim",
+          "$75"
+        ],
+        [
+          "Business Writing",
+          "July 18",
+          "9:00-4:00",
+          "Dr. Lee",
+          "$120"
+        ],
+        [
+          "Project Management",
+          "July 25-26",
+          "9:00-12:00",
+          "Ms. Chen",
+          "$150"
+        ],
+        [
+          "Time Management",
+          "July 22",
+          "1:00-3:00",
+          "Mr. Davis",
+          "$50"
+        ]
+      ]
+    },
+    "questions": [
+      {
+        "id": "L3-T600-024-Q1",
+        "question": "Which courses does the woman want to take?",
+        "options": [
+          "Business Writing and Project Management",
+          "Presentation Skills and Excel Basics",
+          "Time Management and Excel Basics",
+          "Presentation Skills and Business Writing"
+        ],
+        "answer": "Presentation Skills and Excel Basics",
+        "explanation": "A說想提升簡報技巧和學基礎Excel。",
+        "requiresChart": false,
+        "category": "細節"
+      },
+      {
+        "id": "L3-T600-024-Q2",
+        "question": "What is the price difference between the most and least expensive workshops on the chart?",
+        "options": [
+          "$25",
+          "$50",
+          "$75",
+          "$100"
+        ],
+        "answer": "$100",
+        "explanation": "對照chartData，最貴的Project Management為$150，最便宜的Time Management為$50，差價$100。",
+        "requiresChart": true,
+        "category": "圖表整合"
+      },
+      {
+        "id": "L3-T600-024-Q3",
+        "question": "How many days does the Excel Basics course last?",
+        "options": [
+          "One day",
+          "Two days",
+          "Three days",
+          "Half a day"
+        ],
+        "answer": "Two days",
+        "explanation": "B說Excel Basics在7月20日跟21日，共兩天。",
+        "requiresChart": false,
+        "category": "細節"
+      }
+    ]
+  },
+  {
+    "id": "L3-T600-025",
+    "part": 3,
+    "track": "T600",
+    "conversation": [
+      {
+        "speaker": "A",
+        "line": "The coffee machine on the third floor is not working again."
+      },
+      {
+        "speaker": "B",
+        "line": "Already? We just had it repaired last Tuesday."
+      },
+      {
+        "speaker": "A",
+        "line": "It's not dispensing hot water. Several people have complained this morning."
+      },
+      {
+        "speaker": "B",
+        "line": "I'll call the maintenance company right away. Do you have the machine's serial number?"
+      },
+      {
+        "speaker": "A",
+        "line": "It's on a sticker on the side. SN dash four seven two one."
+      },
+      {
+        "speaker": "B",
+        "line": "I'll report it. They usually send a technician within twenty-four hours."
+      }
+    ],
+    "chartData": null,
+    "questions": [
+      {
+        "id": "L3-T600-025-Q1",
+        "question": "What piece of equipment is broken?",
+        "options": [
+          "The printer",
+          "The coffee machine",
+          "The elevator",
+          "The air conditioner"
+        ],
+        "answer": "The coffee machine",
+        "explanation": "A說三樓的咖啡機又壞了。",
+        "requiresChart": false,
+        "category": "細節"
+      },
+      {
+        "id": "L3-T600-025-Q2",
+        "question": "What is wrong with the machine?",
+        "options": [
+          "It is too noisy",
+          "It is leaking water",
+          "It is not dispensing hot water",
+          "It is out of coffee beans"
+        ],
+        "answer": "It is not dispensing hot water",
+        "explanation": "A說機器不出熱水，多位同事抱怨。",
+        "requiresChart": false,
+        "category": "細節"
+      },
+      {
+        "id": "L3-T600-025-Q3",
+        "question": "How quickly does the maintenance company usually respond?",
+        "options": [
+          "Within an hour",
+          "Within twenty-four hours",
+          "Within two days",
+          "Within a week"
+        ],
+        "answer": "Within twenty-four hours",
+        "explanation": "B說維修公司通常24小時內派技術人員。",
+        "requiresChart": false,
+        "category": "細節"
+      }
+    ]
+  },
+  {
+    "id": "L3-T600-026",
+    "part": 3,
+    "track": "T600",
+    "conversation": [
+      {
+        "speaker": "A",
+        "line": "We just hired three new designers. They'll need graphic design software licenses."
+      },
+      {
+        "speaker": "B",
+        "line": "Are you looking at the annual subscription or the monthly plan?"
+      },
+      {
+        "speaker": "A",
+        "line": "The annual plan is cheaper per month. What's the total cost for three licenses?"
+      },
+      {
+        "speaker": "B",
+        "line": "The annual subscription is two hundred forty dollars per user. For three, it's seven hundred twenty."
+      },
+      {
+        "speaker": "A",
+        "line": "Can we get a volume discount for purchasing multiple licenses?"
+      },
+      {
+        "speaker": "B",
+        "line": "Let me check with the vendor. Orders of five or more licenses usually get ten percent off."
+      }
+    ],
+    "chartData": null,
+    "questions": [
+      {
+        "id": "L3-T600-026-Q1",
+        "question": "What does the company need to purchase?",
+        "options": [
+          "Office furniture",
+          "Software licenses",
+          "New computers",
+          "Printer supplies"
+        ],
+        "answer": "Software licenses",
+        "explanation": "A說新進的三位設計師需要繪圖軟體授權。",
+        "requiresChart": false,
+        "category": "細節"
+      },
+      {
+        "id": "L3-T600-026-Q2",
+        "question": "How much would three annual licenses cost?",
+        "options": [
+          "$240",
+          "$480",
+          "$720",
+          "$960"
+        ],
+        "answer": "$720",
+        "explanation": "B說年費每人$240，三人共$720。",
+        "requiresChart": false,
+        "category": "細節"
+      },
+      {
+        "id": "L3-T600-026-Q3",
+        "question": "What discount does the vendor offer for bulk orders?",
+        "options": [
+          "Five percent for three or more",
+          "Ten percent for five or more",
+          "Fifteen percent for ten or more",
+          "Twenty percent for all new customers"
+        ],
+        "answer": "Ten percent for five or more",
+        "explanation": "B說五份以上的訂單通常有九折優惠。",
+        "requiresChart": false,
+        "category": "細節"
+      }
+    ]
+  },
+  {
+    "id": "L3-T600-027",
+    "part": 3,
+    "track": "T600",
+    "conversation": [
+      {
+        "speaker": "A",
+        "line": "I wrote an article about our new product line for the company newsletter."
+      },
+      {
+        "speaker": "B",
+        "line": "Great. When do you need it published?"
+      },
+      {
+        "speaker": "A",
+        "line": "The newsletter goes out on the first of next month. Can you review it by Friday?"
+      },
+      {
+        "speaker": "B",
+        "line": "Sure. Send it to me by email. Any photos to include?"
+      },
+      {
+        "speaker": "A",
+        "line": "Yes, I have three product photos. I'll attach them with the article."
+      },
+      {
+        "speaker": "B",
+        "line": "Make sure the images are high resolution. The newsletter is printed in color."
+      }
+    ],
+    "chartData": null,
+    "questions": [
+      {
+        "id": "L3-T600-027-Q1",
+        "question": "What did the woman write?",
+        "options": [
+          "A monthly report",
+          "A newsletter article",
+          "A job posting",
+          "A training manual"
+        ],
+        "answer": "A newsletter article",
+        "explanation": "A說她寫了一篇關於新產品線的文章要刊登在公司電子報。",
+        "requiresChart": false,
+        "category": "細節"
+      },
+      {
+        "id": "L3-T600-027-Q2",
+        "question": "When will the newsletter be published?",
+        "options": [
+          "This Friday",
+          "Next Monday",
+          "The first of next month",
+          "The end of this month"
+        ],
+        "answer": "The first of next month",
+        "explanation": "A說電子報下個月一號出刊。",
+        "requiresChart": false,
+        "category": "細節"
+      },
+      {
+        "id": "L3-T600-027-Q3",
+        "question": "What does the man remind the woman about the photos?",
+        "options": [
+          "They should be black and white",
+          "They should be high resolution",
+          "They should be landscape orientation",
+          "They should include captions"
+        ],
+        "answer": "They should be high resolution",
+        "explanation": "B提醒A照片需要高解析度，因為電子報是彩色印刷。",
+        "requiresChart": false,
+        "category": "細節"
+      }
+    ]
+  },
+  {
+    "id": "L3-T600-028",
+    "part": 3,
+    "track": "T600",
+    "conversation": [
+      {
+        "speaker": "A",
+        "line": "I'm arranging accommodation for the sales team's trip to Chicago next month."
+      },
+      {
+        "speaker": "B",
+        "line": "How many people are going, and what's the budget per night?"
+      },
+      {
+        "speaker": "A",
+        "line": "Four people, and the company allows up to one hundred eighty dollars per room per night."
+      },
+      {
+        "speaker": "B",
+        "line": "Let's see what's available. The Grand Hotel is one seventy per night and includes breakfast."
+      },
+      {
+        "speaker": "A",
+        "line": "That sounds reasonable. Is it close to the convention center?"
+      },
+      {
+        "speaker": "B",
+        "line": "It's a ten-minute walk. The Riverside Inn is cheaper at one thirty but it's much farther away."
+      }
+    ],
+    "chartData": {
+      "type": "table",
+      "title": "Chicago Hotel Options",
+      "rows": [
+        [
+          "Hotel",
+          "Rate/Night",
+          "Breakfast",
+          "Distance to Convention Center",
+          "Rating"
+        ],
+        [
+          "Grand Hotel",
+          "$170",
+          "Included",
+          "10 min walk",
+          "4.5 stars"
+        ],
+        [
+          "Riverside Inn",
+          "$130",
+          "Not included",
+          "25 min by taxi",
+          "3.5 stars"
+        ],
+        [
+          "Tower Suites",
+          "$195",
+          "Included",
+          "5 min walk",
+          "4.8 stars"
+        ],
+        [
+          "Park Lodge",
+          "$150",
+          "Included",
+          "15 min by bus",
+          "4.0 stars"
+        ]
+      ]
+    },
+    "questions": [
+      {
+        "id": "L3-T600-028-Q1",
+        "question": "What is the maximum budget per room per night?",
+        "options": [
+          "$130",
+          "$150",
+          "$180",
+          "$195"
+        ],
+        "answer": "$180",
+        "explanation": "A說公司允許每間房每晚最高$180。",
+        "requiresChart": false,
+        "category": "細節"
+      },
+      {
+        "id": "L3-T600-028-Q2",
+        "question": "Which hotel is within the budget and closest to the convention center?",
+        "options": [
+          "Grand Hotel",
+          "Riverside Inn",
+          "Tower Suites",
+          "Park Lodge"
+        ],
+        "answer": "Grand Hotel",
+        "explanation": "對照chartData，Grand Hotel($170)在預算內且步行10分鐘可達會議中心，Tower Suites($195)雖更近但超出預算。",
+        "requiresChart": true,
+        "category": "圖表整合"
+      },
+      {
+        "id": "L3-T600-028-Q3",
+        "question": "What is a disadvantage of the Riverside Inn?",
+        "options": [
+          "It does not include breakfast",
+          "It is too expensive",
+          "It has no available rooms",
+          "It is under renovation"
+        ],
+        "answer": "It does not include breakfast",
+        "explanation": "B說Riverside Inn較遠，對照chartData確認該飯店不含早餐。",
+        "requiresChart": true,
+        "category": "圖表整合"
+      }
+    ]
+  },
+  {
+    "id": "L3-T600-029",
+    "part": 3,
+    "track": "T600",
+    "conversation": [
+      {
+        "speaker": "A",
+        "line": "Does the company shuttle bus stop at the train station?"
+      },
+      {
+        "speaker": "B",
+        "line": "Yes, it stops there on Route A. Route B goes directly from the subway to the office."
+      },
+      {
+        "speaker": "A",
+        "line": "Which route is faster during morning rush hour?"
+      },
+      {
+        "speaker": "B",
+        "line": "Route A takes about twenty minutes. Route B takes thirty because of traffic."
+      },
+      {
+        "speaker": "A",
+        "line": "How often do the shuttles run?"
+      },
+      {
+        "speaker": "B",
+        "line": "Every fifteen minutes during peak hours, and every half hour after seven PM."
+      }
+    ],
+    "chartData": null,
+    "questions": [
+      {
+        "id": "L3-T600-029-Q1",
+        "question": "What are the speakers discussing?",
+        "options": [
+          "Train schedules",
+          "Company shuttle bus routes",
+          "Parking permits",
+          "Taxi fares"
+        ],
+        "answer": "Company shuttle bus routes",
+        "explanation": "對話討論公司接駁車的路線、時間和班距。",
+        "requiresChart": false,
+        "category": "主旨"
+      },
+      {
+        "id": "L3-T600-029-Q2",
+        "question": "How long does Route A take during rush hour?",
+        "options": [
+          "Fifteen minutes",
+          "Twenty minutes",
+          "Twenty-five minutes",
+          "Thirty minutes"
+        ],
+        "answer": "Twenty minutes",
+        "explanation": "B說A路線在尖峰時間約20分鐘。",
+        "requiresChart": false,
+        "category": "細節"
+      },
+      {
+        "id": "L3-T600-029-Q3",
+        "question": "How often do shuttles run after 7 PM?",
+        "options": [
+          "Every 10 minutes",
+          "Every 15 minutes",
+          "Every 20 minutes",
+          "Every 30 minutes"
+        ],
+        "answer": "Every 30 minutes",
+        "explanation": "B說晚上七點後每半小時一班。",
+        "requiresChart": false,
+        "category": "細節"
+      }
+    ]
+  },
+  {
+    "id": "L3-T600-030",
+    "part": 3,
+    "track": "T600",
+    "conversation": [
+      {
+        "speaker": "A",
+        "line": "My expense report was returned. They said it's missing some receipts."
+      },
+      {
+        "speaker": "B",
+        "line": "Which receipts are missing?"
+      },
+      {
+        "speaker": "A",
+        "line": "The hotel bill from the San Francisco trip and one taxi receipt."
+      },
+      {
+        "speaker": "B",
+        "line": "Did you check your email? Some hotels send digital receipts."
+      },
+      {
+        "speaker": "A",
+        "line": "Good idea. I'll search my inbox. If I can't find them, can I resubmit without them?"
+      },
+      {
+        "speaker": "B",
+        "line": "No, the finance department requires original receipts for any expense over fifty dollars."
+      }
+    ],
+    "chartData": null,
+    "questions": [
+      {
+        "id": "L3-T600-030-Q1",
+        "question": "Why was the expense report returned?",
+        "options": [
+          "It was submitted late",
+          "Missing receipts",
+          "Wrong format",
+          "Incorrect amounts"
+        ],
+        "answer": "Missing receipts",
+        "explanation": "A說報銷單被退回，因為缺少收據。",
+        "requiresChart": false,
+        "category": "細節"
+      },
+      {
+        "id": "L3-T600-030-Q2",
+        "question": "Which receipts are missing?",
+        "options": [
+          "A flight ticket and a meal receipt",
+          "A hotel bill and a taxi receipt",
+          "A conference fee and a parking receipt",
+          "A train ticket and a hotel receipt"
+        ],
+        "answer": "A hotel bill and a taxi receipt",
+        "explanation": "A說缺少舊金山旅館帳單和一張計程車收據。",
+        "requiresChart": false,
+        "category": "細節"
+      },
+      {
+        "id": "L3-T600-030-Q3",
+        "question": "What does finance require for expenses over fifty dollars?",
+        "options": [
+          "Manager approval",
+          "Original receipts",
+          "Bank statements",
+          "A written explanation"
+        ],
+        "answer": "Original receipts",
+        "explanation": "B說超過$50的開支必須附上原始收據。",
+        "requiresChart": false,
+        "category": "細節"
+      }
+    ]
+  },
+  {
+    "id": "L3-T600-031",
+    "part": 3,
+    "track": "T600",
+    "conversation": [
+      {
+        "speaker": "A",
+        "line": "We need to start planning the year-end party. It's in December, but venues book up early."
+      },
+      {
+        "speaker": "B",
+        "line": "How many people attended last year?"
+      },
+      {
+        "speaker": "A",
+        "line": "About eighty employees plus some guests. We should look for a venue that holds one hundred."
+      },
+      {
+        "speaker": "B",
+        "line": "What's our budget for this year?"
+      },
+      {
+        "speaker": "A",
+        "line": "The management approved five thousand dollars total, including food and decorations."
+      },
+      {
+        "speaker": "B",
+        "line": "I'll start contacting restaurants and hotels this week for quotes."
+      }
+    ],
+    "chartData": null,
+    "questions": [
+      {
+        "id": "L3-T600-031-Q1",
+        "question": "What event are the speakers planning?",
+        "options": [
+          "A product launch",
+          "Year-end party",
+          "A training seminar",
+          "Team-building day"
+        ],
+        "answer": "Year-end party",
+        "explanation": "A說需要開始規劃年終派對。",
+        "requiresChart": false,
+        "category": "主旨"
+      },
+      {
+        "id": "L3-T600-031-Q2",
+        "question": "Approximately how many people are expected?",
+        "options": [
+          "About fifty",
+          "About eighty",
+          "About one hundred",
+          "About one hundred fifty"
+        ],
+        "answer": "About one hundred",
+        "explanation": "去年約八十名員工，A建議找容納一百人的場地。",
+        "requiresChart": false,
+        "category": "細節"
+      },
+      {
+        "id": "L3-T600-031-Q3",
+        "question": "What is the total budget for the event?",
+        "options": [
+          "$3,000",
+          "$5,000",
+          "$8,000",
+          "$10,000"
+        ],
+        "answer": "$5,000",
+        "explanation": "A說管理層核准的總預算是五千美元。",
+        "requiresChart": false,
+        "category": "細節"
+      }
+    ]
+  },
+  {
+    "id": "L3-T600-032",
+    "part": 3,
+    "track": "T600",
+    "conversation": [
+      {
+        "speaker": "A",
+        "line": "Let's go over the monthly sales figures. How did the East region perform?"
+      },
+      {
+        "speaker": "B",
+        "line": "The East region exceeded their target by eight percent. They brought in three hundred twenty thousand."
+      },
+      {
+        "speaker": "A",
+        "line": "That's excellent. What about the West region? I heard they had some challenges."
+      },
+      {
+        "speaker": "B",
+        "line": "Unfortunately, the West region is down twelve percent. They only reached one hundred ninety thousand."
+      },
+      {
+        "speaker": "A",
+        "line": "The South region seems to be our top performer this month."
+      },
+      {
+        "speaker": "B",
+        "line": "Yes, South hit four hundred ten thousand. Their new distribution strategy is clearly working."
+      }
+    ],
+    "chartData": {
+      "type": "table",
+      "title": "Monthly Sales Report - June",
+      "rows": [
+        [
+          "Region",
+          "Sales Target",
+          "Actual Sales",
+          "Difference"
+        ],
+        [
+          "East",
+          "$296,000",
+          "$320,000",
+          "+8%"
+        ],
+        [
+          "West",
+          "$216,000",
+          "$190,000",
+          "-12%"
+        ],
+        [
+          "South",
+          "$380,000",
+          "$410,000",
+          "+8%"
+        ],
+        [
+          "North",
+          "$250,000",
+          "$265,000",
+          "+6%"
+        ],
+        [
+          "Central",
+          "$180,000",
+          "$175,000",
+          "-3%"
+        ]
+      ]
+    },
+    "questions": [
+      {
+        "id": "L3-T600-032-Q1",
+        "question": "Which region had the highest actual sales this month?",
+        "options": [
+          "East",
+          "West",
+          "South",
+          "North"
+        ],
+        "answer": "South",
+        "explanation": "A說南部區域是本月表現最好的，B確認南部達到$410,000，無需圖表即可作答。",
+        "requiresChart": false,
+        "category": "圖表整合"
+      },
+      {
+        "id": "L3-T600-032-Q2",
+        "question": "What happened in the West region?",
+        "options": [
+          "They exceeded their target",
+          "Their sales dropped by twelve percent",
+          "They hired new staff",
+          "They opened a new office"
+        ],
+        "answer": "Their sales dropped by twelve percent",
+        "explanation": "B說西部區域下滑12%，只達到$190,000。",
+        "requiresChart": false,
+        "category": "細節"
+      },
+      {
+        "id": "L3-T600-032-Q3",
+        "question": "What region fell short of its target by 3%?",
+        "options": [
+          "East",
+          "West",
+          "Central",
+          "North"
+        ],
+        "answer": "Central",
+        "explanation": "對照chartData，Central區域實際銷售$175,000，低於目標$180,000，差距為-3%。",
+        "requiresChart": true,
+        "category": "圖表整合"
+      }
+    ]
+  },
+  {
+    "id": "L3-T600-033",
+    "part": 3,
+    "track": "T600",
+    "conversation": [
+      {
+        "speaker": "A",
+        "line": "Mr. Johnson is retiring next Friday after thirty years with the company."
+      },
+      {
+        "speaker": "B",
+        "line": "We should get him a nice farewell gift. Any ideas?"
+      },
+      {
+        "speaker": "A",
+        "line": "I heard he enjoys golf. Maybe a gift certificate to the pro shop?"
+      },
+      {
+        "speaker": "B",
+        "line": "That's a great idea. How much should we collect from each person?"
+      },
+      {
+        "speaker": "A",
+        "line": "If everyone chips in ten dollars, we'll have about two hundred. That should be enough."
+      },
+      {
+        "speaker": "B",
+        "line": "I'll send an email to the department and collect the money by Wednesday."
+      }
+    ],
+    "chartData": null,
+    "questions": [
+      {
+        "id": "L3-T600-033-Q1",
+        "question": "What is happening to Mr. Johnson?",
+        "options": [
+          "He is getting promoted",
+          "He is retiring",
+          "He is transferring departments",
+          "He is going on vacation"
+        ],
+        "answer": "He is retiring",
+        "explanation": "A說Johnson先生下週五退休，在公司工作了三十年。",
+        "requiresChart": false,
+        "category": "細節"
+      },
+      {
+        "id": "L3-T600-033-Q2",
+        "question": "What gift does the woman suggest?",
+        "options": [
+          "A watch",
+          "A gift certificate for golf",
+          "A book",
+          "A restaurant voucher"
+        ],
+        "answer": "A gift certificate for golf",
+        "explanation": "A說Johnson先生喜歡高爾夫，建議買高爾夫專賣店的禮券。",
+        "requiresChart": false,
+        "category": "細節"
+      },
+      {
+        "id": "L3-T600-033-Q3",
+        "question": "When will the man collect the money by?",
+        "options": [
+          "Friday",
+          "Monday",
+          "Wednesday",
+          "Thursday"
+        ],
+        "answer": "Wednesday",
+        "explanation": "B說會在週三前收款。",
+        "requiresChart": false,
+        "category": "細節"
+      }
+    ]
+  },
+  {
+    "id": "L3-T600-034",
+    "part": 3,
+    "track": "T600",
+    "conversation": [
+      {
+        "speaker": "A",
+        "line": "We have several boxes of old client files that need to be disposed of properly."
+      },
+      {
+        "speaker": "B",
+        "line": "We can't just throw them in the regular trash. They contain sensitive information."
+      },
+      {
+        "speaker": "A",
+        "line": "I know. Does the company have a contract with a document shredding service?"
+      },
+      {
+        "speaker": "B",
+        "line": "Yes, SecureShred comes every other Tuesday. They were here last week, so the next visit is in ten days."
+      },
+      {
+        "speaker": "A",
+        "line": "Can we request an earlier pickup? We have about six boxes ready now."
+      },
+      {
+        "speaker": "B",
+        "line": "I'll call them and ask if they can send someone this week."
+      }
+    ],
+    "chartData": null,
+    "questions": [
+      {
+        "id": "L3-T600-034-Q1",
+        "question": "What needs to be disposed of?",
+        "options": [
+          "Old furniture",
+          "Old client files",
+          "Old computers",
+          "Old office supplies"
+        ],
+        "answer": "Old client files",
+        "explanation": "A說有幾箱舊客戶檔案需要處理。",
+        "requiresChart": false,
+        "category": "細節"
+      },
+      {
+        "id": "L3-T600-034-Q2",
+        "question": "Why can't they use the regular trash?",
+        "options": [
+          "It's too heavy",
+          "The files contain sensitive information",
+          "The trash bins are full",
+          "Company policy bans paper waste"
+        ],
+        "answer": "The files contain sensitive information",
+        "explanation": "B說檔案含有敏感資訊，不能直接丟一般垃圾桶。",
+        "requiresChart": false,
+        "category": "細節"
+      },
+      {
+        "id": "L3-T600-034-Q3",
+        "question": "How often does the shredding service normally visit?",
+        "options": [
+          "Every week",
+          "Every two weeks",
+          "Once a month",
+          "Every three months"
+        ],
+        "answer": "Every two weeks",
+        "explanation": "B說SecureShred隔週二來一次。",
+        "requiresChart": false,
+        "category": "細節"
+      }
+    ]
+  },
+  {
+    "id": "L3-T600-035",
+    "part": 3,
+    "track": "T600",
+    "conversation": [
+      {
+        "speaker": "A",
+        "line": "The elevator on the east side is out of service. There's a sign on the door."
+      },
+      {
+        "speaker": "B",
+        "line": "Again? That's the third time this month."
+      },
+      {
+        "speaker": "A",
+        "line": "The building management says they're waiting for a replacement part."
+      },
+      {
+        "speaker": "B",
+        "line": "How long will it take to fix?"
+      },
+      {
+        "speaker": "A",
+        "line": "The notice says it should be back in operation by Thursday afternoon."
+      },
+      {
+        "speaker": "B",
+        "line": "Everyone on the upper floors will have to use the west elevator until then."
+      }
+    ],
+    "chartData": null,
+    "questions": [
+      {
+        "id": "L3-T600-035-Q1",
+        "question": "What is out of service?",
+        "options": [
+          "The west elevator",
+          "The east elevator",
+          "The escalator",
+          "The fire alarm"
+        ],
+        "answer": "The east elevator",
+        "explanation": "A說東側電梯故障停用。",
+        "requiresChart": false,
+        "category": "細節"
+      },
+      {
+        "id": "L3-T600-035-Q2",
+        "question": "Why hasn't the elevator been fixed yet?",
+        "options": [
+          "The repair company is on vacation",
+          "They are waiting for a replacement part",
+          "The building management forgot",
+          "The budget was not approved"
+        ],
+        "answer": "They are waiting for a replacement part",
+        "explanation": "A說大樓管理處正在等更換零件。",
+        "requiresChart": false,
+        "category": "細節"
+      },
+      {
+        "id": "L3-T600-035-Q3",
+        "question": "When is the elevator expected to be working again?",
+        "options": [
+          "Monday afternoon",
+          "Wednesday morning",
+          "Thursday afternoon",
+          "Friday evening"
+        ],
+        "answer": "Thursday afternoon",
+        "explanation": "通知寫週四下午應可恢復運作。",
+        "requiresChart": false,
+        "category": "細節"
+      }
+    ]
+  },
+  {
+    "id": "L3-T600-036",
+    "part": 3,
+    "track": "T600",
+    "conversation": [
+      {
+        "speaker": "A",
+        "line": "I need to book a flight to Hong Kong for the trade show next month."
+      },
+      {
+        "speaker": "B",
+        "line": "There are direct flights and ones with a layover in Taipei. The direct flight is faster but costs more."
+      },
+      {
+        "speaker": "A",
+        "line": "What's the price difference?"
+      },
+      {
+        "speaker": "B",
+        "line": "The direct flight is eight hundred fifty dollars. The one with a layover is five hundred eighty."
+      },
+      {
+        "speaker": "A",
+        "line": "What's the total travel time for each option?"
+      },
+      {
+        "speaker": "B",
+        "line": "Direct takes about four hours. With the layover, it's nearly seven hours including the waiting time."
+      }
+    ],
+    "chartData": {
+      "type": "table",
+      "title": "Flight Options to Hong Kong",
+      "rows": [
+        [
+          "Airline",
+          "Route",
+          "Price",
+          "Duration",
+          "Departure"
+        ],
+        [
+          "Pacific Air",
+          "Direct",
+          "$850",
+          "4h 10m",
+          "8:00 AM"
+        ],
+        [
+          "AsiaLink",
+          "1 Stop (Taipei)",
+          "$580",
+          "6h 50m",
+          "7:30 AM"
+        ],
+        [
+          "GlobalJet",
+          "Direct",
+          "$920",
+          "3h 55m",
+          "2:00 PM"
+        ],
+        [
+          "EastWing",
+          "1 Stop (Seoul)",
+          "$490",
+          "8h 20m",
+          "11:00 PM"
+        ]
+      ]
+    },
+    "questions": [
+      {
+        "id": "L3-T600-036-Q1",
+        "question": "What is the main topic of the conversation?",
+        "options": [
+          "Hotel reservations",
+          "Flight booking to Hong Kong",
+          "Trade show registration",
+          "Passport renewal"
+        ],
+        "answer": "Flight booking to Hong Kong",
+        "explanation": "A說要預訂去香港的機票參加下個月的貿易展。",
+        "requiresChart": false,
+        "category": "主旨"
+      },
+      {
+        "id": "L3-T600-036-Q2",
+        "question": "How much cheaper is the layover flight compared to the direct flight mentioned in the conversation?",
+        "options": [
+          "$200",
+          "$270",
+          "$300",
+          "$430"
+        ],
+        "answer": "$270",
+        "explanation": "B直接說直飛$850、轉機$580，差價$270，無需圖表即可計算。",
+        "requiresChart": false,
+        "category": "圖表整合"
+      },
+      {
+        "id": "L3-T600-036-Q3",
+        "question": "What is the travel time for the flight with a layover?",
+        "options": [
+          "About four hours",
+          "About five hours",
+          "Nearly seven hours",
+          "Over eight hours"
+        ],
+        "answer": "Nearly seven hours",
+        "explanation": "B說轉機航班含等待時間約七小時。",
+        "requiresChart": false,
+        "category": "細節"
+      },
+      {
+        "id": "L3-T600-036-Q4",
+        "question": "Which airline offers the cheapest option according to the chart?",
+        "options": [
+          "Pacific Air",
+          "AsiaLink",
+          "GlobalJet",
+          "EastWing"
+        ],
+        "answer": "EastWing",
+        "explanation": "對照chartData，EastWing票價$490為所有選項中最低。",
+        "requiresChart": true,
+        "category": "圖表整合"
+      }
+    ]
+  },
+  {
+    "id": "L3-T600-037",
+    "part": 3,
+    "track": "T600",
+    "conversation": [
+      {
+        "speaker": "A",
+        "line": "My nephew is a college student. Does the company offer summer internship programs?"
+      },
+      {
+        "speaker": "B",
+        "line": "Yes, we do. The application period for this summer has passed, but we'll open for fall soon."
+      },
+      {
+        "speaker": "A",
+        "line": "What are the requirements for applicants?"
+      },
+      {
+        "speaker": "B",
+        "line": "They need to be in their third or fourth year of university, with a GPA of three point zero or higher."
+      },
+      {
+        "speaker": "A",
+        "line": "What departments accept interns?"
+      },
+      {
+        "speaker": "B",
+        "line": "Marketing, Finance, and IT usually have openings. The internship lasts three months and is paid."
+      }
+    ],
+    "chartData": null,
+    "questions": [
+      {
+        "id": "L3-T600-037-Q1",
+        "question": "Who is the woman asking about?",
+        "options": [
+          "Her son",
+          "Her nephew",
+          "Her colleague",
+          "Her neighbor"
+        ],
+        "answer": "Her nephew",
+        "explanation": "A說她姪子是大學生，想詢問實習機會。",
+        "requiresChart": false,
+        "category": "細節"
+      },
+      {
+        "id": "L3-T600-037-Q2",
+        "question": "What is the minimum GPA requirement for interns?",
+        "options": [
+          "2.5",
+          "3.0",
+          "3.5",
+          "4.0"
+        ],
+        "answer": "3.0",
+        "explanation": "B說申請者需大三或大四，GPA至少3.0。",
+        "requiresChart": false,
+        "category": "細節"
+      },
+      {
+        "id": "L3-T600-037-Q3",
+        "question": "How long does the internship last?",
+        "options": [
+          "One month",
+          "Two months",
+          "Three months",
+          "Six months"
+        ],
+        "answer": "Three months",
+        "explanation": "B說實習期為三個月且有薪水。",
+        "requiresChart": false,
+        "category": "細節"
+      }
+    ]
+  },
+  {
+    "id": "L3-T600-038",
+    "part": 3,
+    "track": "T600",
+    "conversation": [
+      {
+        "speaker": "A",
+        "line": "The photo on my employee ID badge is really old. Can I get a new one taken?"
+      },
+      {
+        "speaker": "B",
+        "line": "HR organizes photo sessions once a month. The next one is on the fifteenth."
+      },
+      {
+        "speaker": "A",
+        "line": "Where do they take the photos?"
+      },
+      {
+        "speaker": "B",
+        "line": "In the HR office on the second floor, from nine to eleven in the morning."
+      },
+      {
+        "speaker": "A",
+        "line": "Do I need to sign up in advance?"
+      },
+      {
+        "speaker": "B",
+        "line": "Yes, add your name to the sign-up sheet outside HR. It's first come, first served."
+      }
+    ],
+    "chartData": null,
+    "questions": [
+      {
+        "id": "L3-T600-038-Q1",
+        "question": "Why does the woman want a new photo?",
+        "options": [
+          "She lost her badge",
+          "Her current photo is old",
+          "She changed her hairstyle",
+          "The badge is damaged"
+        ],
+        "answer": "Her current photo is old",
+        "explanation": "A說識別證上的照片很舊了，想重拍。",
+        "requiresChart": false,
+        "category": "細節"
+      },
+      {
+        "id": "L3-T600-038-Q2",
+        "question": "How often does HR hold photo sessions?",
+        "options": [
+          "Once a week",
+          "Once a month",
+          "Twice a month",
+          "Every two months"
+        ],
+        "answer": "Once a month",
+        "explanation": "B說HR每月舉辦一次拍照時段。",
+        "requiresChart": false,
+        "category": "細節"
+      },
+      {
+        "id": "L3-T600-038-Q3",
+        "question": "What does the woman need to do to get a photo taken?",
+        "options": [
+          "Email HR directly",
+          "Sign up on the sheet outside HR",
+          "Bring her own photographer",
+          "Pay a processing fee"
+        ],
+        "answer": "Sign up on the sheet outside HR",
+        "explanation": "B說需要在HR辦公室外面的報名表上登記。",
+        "requiresChart": false,
+        "category": "細節"
+      }
+    ]
+  },
+  {
+    "id": "L3-T600-039",
+    "part": 3,
+    "track": "T600",
+    "conversation": [
+      {
+        "speaker": "A",
+        "line": "We have an important client presentation in Conference Room A at two PM."
+      },
+      {
+        "speaker": "B",
+        "line": "I'll set up the projector and connect the laptop. Which laptop are we using?"
+      },
+      {
+        "speaker": "A",
+        "line": "Use mine. It has all the presentation files on the desktop."
+      },
+      {
+        "speaker": "B",
+        "line": "Do you need a microphone? The room is quite large."
+      },
+      {
+        "speaker": "A",
+        "line": "Yes, please set up the wireless microphone. Also, put the handouts on each seat."
+      },
+      {
+        "speaker": "B",
+        "line": "I'll do that now. How many handouts do we need?"
+      }
+    ],
+    "chartData": null,
+    "questions": [
+      {
+        "id": "L3-T600-039-Q1",
+        "question": "Where will the presentation take place?",
+        "options": [
+          "In the lobby",
+          "In Conference Room A",
+          "In the manager's office",
+          "In the training center"
+        ],
+        "answer": "In Conference Room A",
+        "explanation": "A說下午兩點在A會議室有重要客戶簡報。",
+        "requiresChart": false,
+        "category": "細節"
+      },
+      {
+        "id": "L3-T600-039-Q2",
+        "question": "Whose laptop will be used for the presentation?",
+        "options": [
+          "The man's laptop",
+          "The woman's laptop",
+          "The client's laptop",
+          "A shared office laptop"
+        ],
+        "answer": "The woman's laptop",
+        "explanation": "A說用她的筆電，桌面有所有簡報檔案。",
+        "requiresChart": false,
+        "category": "細節"
+      },
+      {
+        "id": "L3-T600-039-Q3",
+        "question": "What does the woman ask the man to put on each seat?",
+        "options": [
+          "Name tags",
+          "Handouts",
+          "Water bottles",
+          "Feedback forms"
+        ],
+        "answer": "Handouts",
+        "explanation": "A請B在每個座位上放講義。",
+        "requiresChart": false,
+        "category": "細節"
+      }
+    ]
+  },
+  {
+    "id": "L3-T600-040",
+    "part": 3,
+    "track": "T600",
+    "conversation": [
+      {
+        "speaker": "A",
+        "line": "I'm trying to register for the Leadership Workshop next month, but I hear slots are filling up."
+      },
+      {
+        "speaker": "B",
+        "line": "Yes, it's very popular. We have three sessions available. Which date works for you?"
+      },
+      {
+        "speaker": "A",
+        "line": "I prefer the morning session on August tenth. Is that still open?"
+      },
+      {
+        "speaker": "B",
+        "line": "Let me check. The morning session on the tenth has two spots left. The afternoon session is already full."
+      },
+      {
+        "speaker": "A",
+        "line": "Please reserve one spot for me. Should I pay now?"
+      },
+      {
+        "speaker": "B",
+        "line": "The workshop is free for employees. I'll send you a confirmation email."
+      }
+    ],
+    "chartData": {
+      "type": "table",
+      "title": "Leadership Workshop Registration",
+      "rows": [
+        [
+          "Session",
+          "Date",
+          "Time",
+          "Available Spots",
+          "Instructor"
+        ],
+        [
+          "Session 1",
+          "Aug 8",
+          "9:00-12:00",
+          "0 (Full)",
+          "Dr. Wilson"
+        ],
+        [
+          "Session 2",
+          "Aug 10",
+          "9:00-12:00",
+          "2",
+          "Dr. Wilson"
+        ],
+        [
+          "Session 3",
+          "Aug 10",
+          "2:00-5:00",
+          "0 (Full)",
+          "Ms. Park"
+        ],
+        [
+          "Session 4",
+          "Aug 15",
+          "9:00-12:00",
+          "5",
+          "Dr. Wilson"
+        ],
+        [
+          "Session 5",
+          "Aug 15",
+          "2:00-5:00",
+          "8",
+          "Ms. Park"
+        ]
+      ]
+    },
+    "questions": [
+      {
+        "id": "L3-T600-040-Q1",
+        "question": "Which session does the woman want to attend?",
+        "options": [
+          "Session 1 on Aug 8",
+          "Session 2 on Aug 10",
+          "Session 3 on Aug 10",
+          "Session 5 on Aug 15"
+        ],
+        "answer": "Session 2 on Aug 10",
+        "explanation": "A偏好8月10日上午的場次，B說只剩兩個名額，對照chartData即Session 2。",
+        "requiresChart": true,
+        "category": "圖表整合"
+      },
+      {
+        "id": "L3-T600-040-Q2",
+        "question": "What is the cost of the workshop for employees?",
+        "options": [
+          "$50",
+          "$100",
+          "$150",
+          "Free"
+        ],
+        "answer": "Free",
+        "explanation": "B說員工參加工作坊是免費的。",
+        "requiresChart": false,
+        "category": "細節"
+      },
+      {
+        "id": "L3-T600-040-Q3",
+        "question": "Which session has the most available spots?",
+        "options": [
+          "Session 2",
+          "Session 3",
+          "Session 4",
+          "Session 5"
+        ],
+        "answer": "Session 5",
+        "explanation": "對照chartData，Session 5有8個名額為所有場次中最多。",
+        "requiresChart": true,
+        "category": "圖表整合"
+      }
+    ]
+  },
+  {
+    "id": "L3-T600-041",
+    "part": 3,
+    "track": "T600",
+    "conversation": [
+      {
+        "speaker": "A",
+        "line": "I need to travel to Germany next month for a client meeting. Do I need a visa?"
+      },
+      {
+        "speaker": "B",
+        "line": "That depends on your nationality. What passport do you hold?"
+      },
+      {
+        "speaker": "A",
+        "line": "I have a Taiwanese passport."
+      },
+      {
+        "speaker": "B",
+        "line": "You'll need to apply for a Schengen visa. The process takes about two weeks."
+      },
+      {
+        "speaker": "A",
+        "line": "What documents do I need to submit?"
+      },
+      {
+        "speaker": "B",
+        "line": "You'll need your passport, an invitation letter from the German company, travel insurance, and a completed application form."
+      }
+    ],
+    "chartData": null,
+    "questions": [
+      {
+        "id": "L3-T600-041-Q1",
+        "question": "Why does the woman need to travel to Germany?",
+        "options": [
+          "For a vacation",
+          "For a client meeting",
+          "For a training course",
+          "For a job interview"
+        ],
+        "answer": "For a client meeting",
+        "explanation": "A說下個月需要去德國見客戶。",
+        "requiresChart": false,
+        "category": "細節"
+      },
+      {
+        "id": "L3-T600-041-Q2",
+        "question": "How long does the visa process take?",
+        "options": [
+          "About one week",
+          "About two weeks",
+          "About three weeks",
+          "About one month"
+        ],
+        "answer": "About two weeks",
+        "explanation": "B說申根簽證辦理約需兩週。",
+        "requiresChart": false,
+        "category": "細節"
+      },
+      {
+        "id": "L3-T600-041-Q3",
+        "question": "What document is NOT mentioned as required for the visa?",
+        "options": [
+          "An invitation letter",
+          "Travel insurance",
+          "A bank statement",
+          "An application form"
+        ],
+        "answer": "A bank statement",
+        "explanation": "B列舉護照、邀請函、旅遊保險、申請表，未提及銀行證明。",
+        "requiresChart": false,
+        "category": "細節"
+      }
+    ]
+  },
+  {
+    "id": "L3-T600-042",
+    "part": 3,
+    "track": "T600",
+    "conversation": [
+      {
+        "speaker": "A",
+        "line": "It's freezing in here. Is the air conditioning set too high?"
+      },
+      {
+        "speaker": "B",
+        "line": "Several people on this floor have complained about the temperature."
+      },
+      {
+        "speaker": "A",
+        "line": "Can we adjust the thermostat ourselves?"
+      },
+      {
+        "speaker": "B",
+        "line": "No, the building controls are managed centrally. I already called facilities management."
+      },
+      {
+        "speaker": "A",
+        "line": "When can they fix it?"
+      },
+      {
+        "speaker": "B",
+        "line": "They said they'll send a technician within the hour. Until then, you might want to wear a jacket."
+      }
+    ],
+    "chartData": null,
+    "questions": [
+      {
+        "id": "L3-T600-042-Q1",
+        "question": "What is the problem in the office?",
+        "options": [
+          "The lights are flickering",
+          "It is too cold",
+          "The internet is down",
+          "There is a strange smell"
+        ],
+        "answer": "It is too cold",
+        "explanation": "A說冷得要命，懷疑冷氣調太強。",
+        "requiresChart": false,
+        "category": "細節"
+      },
+      {
+        "id": "L3-T600-042-Q2",
+        "question": "Why can't they adjust the temperature themselves?",
+        "options": [
+          "The thermostat is broken",
+          "The controls are centrally managed",
+          "They don't have permission",
+          "The remote is missing"
+        ],
+        "answer": "The controls are centrally managed",
+        "explanation": "B說大樓溫控由中央管理。",
+        "requiresChart": false,
+        "category": "細節"
+      },
+      {
+        "id": "L3-T600-042-Q3",
+        "question": "What does the man suggest while waiting?",
+        "options": [
+          "Go home early",
+          "Open the windows",
+          "Wear a jacket",
+          "Move to another floor"
+        ],
+        "answer": "Wear a jacket",
+        "explanation": "B建議在技術人員到達前先穿外套。",
+        "requiresChart": false,
+        "category": "推論意圖"
+      }
+    ]
+  },
+  {
+    "id": "L3-T600-043",
+    "part": 3,
+    "track": "T600",
+    "conversation": [
+      {
+        "speaker": "A",
+        "line": "The new graphic designer starts on Monday. Should we arrange a welcome lunch?"
+      },
+      {
+        "speaker": "B",
+        "line": "That's a nice idea. We usually do it on the first Friday after they start."
+      },
+      {
+        "speaker": "A",
+        "line": "So next Friday then. How many people usually attend?"
+      },
+      {
+        "speaker": "B",
+        "line": "The whole design team, about eight people. We can book the Italian restaurant across the street."
+      },
+      {
+        "speaker": "A",
+        "line": "I'll make a reservation for twelve thirty. Do we need to inform HR about the cost?"
+      },
+      {
+        "speaker": "B",
+        "line": "Yes, team lunch expenses need manager approval. I'll fill out the form."
+      }
+    ],
+    "chartData": null,
+    "questions": [
+      {
+        "id": "L3-T600-043-Q1",
+        "question": "What are the speakers planning?",
+        "options": [
+          "A farewell party",
+          "A welcome lunch",
+          "A birthday celebration",
+          "A team meeting"
+        ],
+        "answer": "A welcome lunch",
+        "explanation": "A建議為新來的平面設計師舉辦歡迎午餐。",
+        "requiresChart": false,
+        "category": "主旨"
+      },
+      {
+        "id": "L3-T600-043-Q2",
+        "question": "When will the lunch take place?",
+        "options": [
+          "This Monday",
+          "This Wednesday",
+          "Next Friday",
+          "Next Monday"
+        ],
+        "answer": "Next Friday",
+        "explanation": "新人週一開始，B說慣例是第一週的週五午餐。",
+        "requiresChart": false,
+        "category": "細節"
+      },
+      {
+        "id": "L3-T600-043-Q3",
+        "question": "What is needed before the lunch can be arranged?",
+        "options": [
+          "A restaurant review",
+          "Manager approval",
+          "A menu selection",
+          "Dietary restriction information"
+        ],
+        "answer": "Manager approval",
+        "explanation": "B說團隊午餐支出需要主管核准。",
+        "requiresChart": false,
+        "category": "細節"
+      }
+    ]
+  },
+  {
+    "id": "L3-T600-044",
+    "part": 3,
+    "track": "T600",
+    "conversation": [
+      {
+        "speaker": "A",
+        "line": "We need to order lunch for the twelve workshop participants tomorrow."
+      },
+      {
+        "speaker": "B",
+        "line": "Should we order from the cafeteria or a nearby restaurant?"
+      },
+      {
+        "speaker": "A",
+        "line": "Let's check the cafeteria catering menu. They have sandwich platters and bento boxes."
+      },
+      {
+        "speaker": "B",
+        "line": "The sandwich platter serves eight people and costs forty-eight dollars. Bento boxes are ten dollars each."
+      },
+      {
+        "speaker": "A",
+        "line": "For twelve people, let's get two sandwich platters. That covers sixteen portions."
+      },
+      {
+        "speaker": "B",
+        "line": "Good. I'll also add two vegetarian bento boxes in case anyone doesn't eat meat."
+      }
+    ],
+    "chartData": {
+      "type": "table",
+      "title": "Cafeteria Catering Menu",
+      "rows": [
+        [
+          "Item",
+          "Serves",
+          "Price",
+          "Dietary Options"
+        ],
+        [
+          "Sandwich Platter",
+          "8 people",
+          "$48",
+          "Regular & Vegetarian"
+        ],
+        [
+          "Bento Box",
+          "1 person",
+          "$10",
+          "Chicken, Beef, Vegetarian"
+        ],
+        [
+          "Salad Bowl",
+          "1 person",
+          "$8",
+          "Garden, Caesar, Chef"
+        ],
+        [
+          "Fruit Platter",
+          "10 people",
+          "$35",
+          "Mixed Fresh Fruit"
+        ],
+        [
+          "Beverage Pack",
+          "12 bottles",
+          "$18",
+          "Water, Juice, Soda"
+        ]
+      ]
+    },
+    "questions": [
+      {
+        "id": "L3-T600-044-Q1",
+        "question": "What food items did the speakers decide to order?",
+        "options": [
+          "Two sandwich platters and two vegetarian bento boxes",
+          "Twelve bento boxes",
+          "One sandwich platter and salad bowls",
+          "Fruit platters and beverages"
+        ],
+        "answer": "Two sandwich platters and two vegetarian bento boxes",
+        "explanation": "A說要兩份三明治拼盤，B說加兩個素食便當。",
+        "requiresChart": false,
+        "category": "細節"
+      },
+      {
+        "id": "L3-T600-044-Q2",
+        "question": "What is the total cost of the sandwich platters?",
+        "options": [
+          "$48",
+          "$72",
+          "$96",
+          "$120"
+        ],
+        "answer": "$96",
+        "explanation": "A說要兩份，B說每份$48，2×$48=$96，無需圖表即可計算。",
+        "requiresChart": false,
+        "category": "圖表整合"
+      },
+      {
+        "id": "L3-T600-044-Q3",
+        "question": "How much does a beverage pack for 12 bottles cost?",
+        "options": [
+          "$12",
+          "$18",
+          "$24",
+          "$30"
+        ],
+        "answer": "$18",
+        "explanation": "對照chartData，12瓶飲料組價格為$18。",
+        "requiresChart": true,
+        "category": "圖表整合"
+      }
+    ]
+  },
+  {
+    "id": "L3-T600-045",
+    "part": 3,
+    "track": "T600",
+    "conversation": [
+      {
+        "speaker": "A",
+        "line": "Our company website has been loading very slowly since this morning."
+      },
+      {
+        "speaker": "B",
+        "line": "I noticed that too. Have you contacted the web hosting provider?"
+      },
+      {
+        "speaker": "A",
+        "line": "Not yet. I wanted to check if anyone else was experiencing the problem first."
+      },
+      {
+        "speaker": "B",
+        "line": "The customer service team just told me they've received several complaints from clients."
+      },
+      {
+        "speaker": "A",
+        "line": "That's serious. I'll call the hosting company immediately and open a support ticket."
+      },
+      {
+        "speaker": "B",
+        "line": "Also, let the marketing team know. They were planning to send a newsletter this afternoon."
+      }
+    ],
+    "chartData": null,
+    "questions": [
+      {
+        "id": "L3-T600-045-Q1",
+        "question": "What problem are the speakers discussing?",
+        "options": [
+          "Email server is down",
+          "Company website is loading slowly",
+          "Phone lines are not working",
+          "Printer network is offline"
+        ],
+        "answer": "Company website is loading slowly",
+        "explanation": "A說公司網站從早上開始載入很慢。",
+        "requiresChart": false,
+        "category": "細節"
+      },
+      {
+        "id": "L3-T600-045-Q2",
+        "question": "Who else has reported the problem?",
+        "options": [
+          "The IT department",
+          "The hosting provider",
+          "The customer service team",
+          "The building management"
+        ],
+        "answer": "The customer service team",
+        "explanation": "B說客服團隊收到了幾位客戶的投訴。",
+        "requiresChart": false,
+        "category": "細節"
+      },
+      {
+        "id": "L3-T600-045-Q3",
+        "question": "Why does the marketing team need to be informed?",
+        "options": [
+          "They manage the website",
+          "They are planning to send a newsletter",
+          "They handle customer complaints",
+          "They have the hosting contract"
+        ],
+        "answer": "They are planning to send a newsletter",
+        "explanation": "B建議通知行銷團隊，因為他們下午要發電子報。",
+        "requiresChart": false,
+        "category": "推論意圖"
+      }
+    ]
+  },
+  {
+    "id": "L3-T600-046",
+    "part": 3,
+    "track": "T600",
+    "conversation": [
+      {
+        "speaker": "A",
+        "line": "I donated to the company's charity drive last month. Can I get a tax receipt?"
+      },
+      {
+        "speaker": "B",
+        "line": "Of course. Do you remember how much you donated?"
+      },
+      {
+        "speaker": "A",
+        "line": "I contributed two hundred dollars through the payroll deduction program."
+      },
+      {
+        "speaker": "B",
+        "line": "I can pull up your record. Tax receipts are usually issued within the first week of the following month."
+      },
+      {
+        "speaker": "A",
+        "line": "So I should receive it soon then. Will it be emailed or printed?"
+      },
+      {
+        "speaker": "B",
+        "line": "We email digital receipts to your company email address by default."
+      }
+    ],
+    "chartData": null,
+    "questions": [
+      {
+        "id": "L3-T600-046-Q1",
+        "question": "What document does the woman want?",
+        "options": [
+          "A donation receipt",
+          "A pay stub",
+          "A bank statement",
+          "An invoice"
+        ],
+        "answer": "A donation receipt",
+        "explanation": "A說上個月參加了公司慈善募捐，想索取報稅收據。",
+        "requiresChart": false,
+        "category": "細節"
+      },
+      {
+        "id": "L3-T600-046-Q2",
+        "question": "How much did the woman donate?",
+        "options": [
+          "$100",
+          "$200",
+          "$300",
+          "$500"
+        ],
+        "answer": "$200",
+        "explanation": "A說透過薪資扣款捐了$200。",
+        "requiresChart": false,
+        "category": "細節"
+      },
+      {
+        "id": "L3-T600-046-Q3",
+        "question": "How will the woman receive the receipt?",
+        "options": [
+          "By regular mail",
+          "By email",
+          "By internal office mail",
+          "In person at HR"
+        ],
+        "answer": "By email",
+        "explanation": "B說預設會將電子收據寄到公司信箱。",
+        "requiresChart": false,
+        "category": "細節"
+      }
+    ]
+  },
+  {
+    "id": "L3-T600-047",
+    "part": 3,
+    "track": "T600",
+    "conversation": [
+      {
+        "speaker": "A",
+        "line": "The recycling bin in the break room is cracked. It's leaking when people put bottles in it."
+      },
+      {
+        "speaker": "B",
+        "line": "We should replace it before someone slips on the wet floor."
+      },
+      {
+        "speaker": "A",
+        "line": "Who do we contact to get a new one?"
+      },
+      {
+        "speaker": "B",
+        "line": "Submit a maintenance request through the office portal. Select 'Equipment Replacement' as the category."
+      },
+      {
+        "speaker": "A",
+        "line": "Should I include a photo of the damage?"
+      },
+      {
+        "speaker": "B",
+        "line": "Yes, that will help them process it faster. They'll deliver a new bin within two days."
+      }
+    ],
+    "chartData": null,
+    "questions": [
+      {
+        "id": "L3-T600-047-Q1",
+        "question": "What item is damaged?",
+        "options": [
+          "The coffee table",
+          "The recycling bin",
+          "The office chair",
+          "The water dispenser"
+        ],
+        "answer": "The recycling bin",
+        "explanation": "A說休息室的資源回收桶有裂縫會漏水。",
+        "requiresChart": false,
+        "category": "細節"
+      },
+      {
+        "id": "L3-T600-047-Q2",
+        "question": "Why is it urgent to replace the bin?",
+        "options": [
+          "It looks ugly",
+          "Someone might slip on the wet floor",
+          "It smells bad",
+          "It is blocking the doorway"
+        ],
+        "answer": "Someone might slip on the wet floor",
+        "explanation": "B說應該趕快更換，以免有人踩到濕地板滑倒。",
+        "requiresChart": false,
+        "category": "細節"
+      },
+      {
+        "id": "L3-T600-047-Q3",
+        "question": "How should the woman request a replacement?",
+        "options": [
+          "Send an email to HR",
+          "Call the building manager",
+          "Submit a maintenance request online",
+          "Buy one from the store"
+        ],
+        "answer": "Submit a maintenance request online",
+        "explanation": "B說透過辦公室入口網站提交維修申請。",
+        "requiresChart": false,
+        "category": "細節"
+      }
+    ]
+  },
+  {
+    "id": "L3-T600-048",
+    "part": 3,
+    "track": "T600",
+    "conversation": [
+      {
+        "speaker": "A",
+        "line": "Excuse me, I have a two o'clock appointment with the Human Resources department."
+      },
+      {
+        "speaker": "B",
+        "line": "HR is on the fourth floor. Take the elevator to your right."
+      },
+      {
+        "speaker": "A",
+        "line": "Thank you. And where is the Accounting department? I need to drop off some documents there as well."
+      },
+      {
+        "speaker": "B",
+        "line": "Accounting is on the second floor, next to the IT department."
+      },
+      {
+        "speaker": "A",
+        "line": "Is there a restroom on the second floor?"
+      },
+      {
+        "speaker": "B",
+        "line": "Yes, restrooms are located on every floor, next to the elevators."
+      }
+    ],
+    "chartData": {
+      "type": "table",
+      "title": "Office Building Floor Directory",
+      "rows": [
+        [
+          "Floor",
+          "Departments",
+          "Amenities"
+        ],
+        [
+          "1F",
+          "Reception, Security Desk, Cafeteria",
+          "Restrooms, ATM"
+        ],
+        [
+          "2F",
+          "Accounting, IT Department, Server Room",
+          "Restrooms, Copy Room"
+        ],
+        [
+          "3F",
+          "Marketing, Sales, Conference Rooms A-C",
+          "Restrooms, Kitchen"
+        ],
+        [
+          "4F",
+          "Human Resources, Legal, Executive Offices",
+          "Restrooms, Lounge"
+        ],
+        [
+          "5F",
+          "R&D, Product Development, Testing Lab",
+          "Restrooms, Balcony"
+        ]
+      ]
+    },
+    "questions": [
+      {
+        "id": "L3-T600-048-Q1",
+        "question": "How many floors does the building directory list?",
+        "options": [
+          "Three",
+          "Four",
+          "Five",
+          "Six"
+        ],
+        "answer": "Five",
+        "explanation": "對照chartData，目錄列出1F到5F共五個樓層。",
+        "requiresChart": true,
+        "category": "圖表整合"
+      },
+      {
+        "id": "L3-T600-048-Q2",
+        "question": "What other department does the visitor need to visit?",
+        "options": [
+          "Marketing",
+          "Accounting",
+          "Legal",
+          "R&D"
+        ],
+        "answer": "Accounting",
+        "explanation": "A說還需要去會計部門送文件。",
+        "requiresChart": false,
+        "category": "細節"
+      },
+      {
+        "id": "L3-T600-048-Q3",
+        "question": "Where are restrooms located in the building?",
+        "options": [
+          "Only on the first floor",
+          "On every floor next to the elevators",
+          "Only on the second and fourth floors",
+          "Next to the cafeteria only"
+        ],
+        "answer": "On every floor next to the elevators",
+        "explanation": "B說每層樓電梯旁都有洗手間。",
+        "requiresChart": false,
+        "category": "細節"
+      }
+    ]
+  },
+  {
+    "id": "L3-T600-049",
+    "part": 3,
+    "track": "T600",
+    "conversation": [
+      {
+        "speaker": "A",
+        "line": "I need to work late tonight to finish a project. Can I stay in the office after eight PM?"
+      },
+      {
+        "speaker": "B",
+        "line": "The building closes to regular employees at eight. You'll need after-hours access approval."
+      },
+      {
+        "speaker": "A",
+        "line": "How do I get that?"
+      },
+      {
+        "speaker": "B",
+        "line": "Your manager needs to submit an after-hours access request form at least twenty-four hours in advance."
+      },
+      {
+        "speaker": "A",
+        "line": "That won't work for tonight then. Is there any other option?"
+      },
+      {
+        "speaker": "B",
+        "line": "You could take your work laptop home and connect remotely through the VPN."
+      }
+    ],
+    "chartData": null,
+    "questions": [
+      {
+        "id": "L3-T600-049-Q1",
+        "question": "Why does the woman want to stay late?",
+        "options": [
+          "To attend a meeting",
+          "To finish a project",
+          "To wait for a delivery",
+          "To clean her desk"
+        ],
+        "answer": "To finish a project",
+        "explanation": "A說今晚需要加班完成一個專案。",
+        "requiresChart": false,
+        "category": "細節"
+      },
+      {
+        "id": "L3-T600-049-Q2",
+        "question": "How much advance notice is required for after-hours access?",
+        "options": [
+          "Twelve hours",
+          "Twenty-four hours",
+          "Forty-eight hours",
+          "One week"
+        ],
+        "answer": "Twenty-four hours",
+        "explanation": "B說需要至少24小時前提出申請。",
+        "requiresChart": false,
+        "category": "細節"
+      },
+      {
+        "id": "L3-T600-049-Q3",
+        "question": "What alternative does the man suggest?",
+        "options": [
+          "Come in on the weekend",
+          "Work from home using VPN",
+          "Ask a coworker to help",
+          "Move the deadline"
+        ],
+        "answer": "Work from home using VPN",
+        "explanation": "B建議帶筆電回家透過VPN遠端工作。",
+        "requiresChart": false,
+        "category": "推論意圖"
+      }
+    ]
+  },
+  {
+    "id": "L3-T600-050",
+    "part": 3,
+    "track": "T600",
+    "conversation": [
+      {
+        "speaker": "A",
+        "line": "Did you hear that Sarah from Accounting is leaving the company?"
+      },
+      {
+        "speaker": "B",
+        "line": "Really? When is her last day?"
+      },
+      {
+        "speaker": "A",
+        "line": "She gave two weeks' notice last Friday, so her last day will be the twenty-eighth."
+      },
+      {
+        "speaker": "B",
+        "line": "That's a loss for the team. Do you know why she's leaving?"
+      },
+      {
+        "speaker": "A",
+        "line": "She accepted a position at a larger firm. Better salary and shorter commute."
+      },
+      {
+        "speaker": "B",
+        "line": "We should inform the team and start the hiring process for a replacement."
+      }
+    ],
+    "chartData": null,
+    "questions": [
+      {
+        "id": "L3-T600-050-Q1",
+        "question": "What is the conversation mainly about?",
+        "options": [
+          "A new company policy",
+          "A colleague leaving the company",
+          "An upcoming promotion",
+          "A department restructure"
+        ],
+        "answer": "A colleague leaving the company",
+        "explanation": "對話討論Sarah離職的消息、原因和後續安排。",
+        "requiresChart": false,
+        "category": "主旨"
+      },
+      {
+        "id": "L3-T600-050-Q2",
+        "question": "When is Sarah's last day?",
+        "options": [
+          "This Friday",
+          "The fifteenth",
+          "The twenty-eighth",
+          "Next Monday"
+        ],
+        "answer": "The twenty-eighth",
+        "explanation": "A說Sarah上週五提出兩週預告，最後一天是28號。",
+        "requiresChart": false,
+        "category": "細節"
+      },
+      {
+        "id": "L3-T600-050-Q3",
+        "question": "Why is Sarah leaving?",
+        "options": [
+          "She is retiring",
+          "She is moving to another city",
+          "She got a job with better pay and shorter commute",
+          "She is starting her own business"
+        ],
+        "answer": "She got a job with better pay and shorter commute",
+        "explanation": "A說Sarah接受了一家大公司的工作，薪水更高且通勤更短。",
+        "requiresChart": false,
+        "category": "細節"
+      }
+    ]
+  },
+  {
+    "id": "L3-T600-051",
+    "part": 3,
+    "track": "T600",
+    "conversation": [
+      {
+        "speaker": "A",
+        "line": "Should I print the presentation in color or black and white?"
+      },
+      {
+        "speaker": "B",
+        "line": "Color looks more professional for client meetings, but it costs three times more."
+      },
+      {
+        "speaker": "A",
+        "line": "How many pages is the presentation?"
+      },
+      {
+        "speaker": "B",
+        "line": "About twenty-five pages, and we need five copies."
+      },
+      {
+        "speaker": "A",
+        "line": "That's a lot of color printing. Let's print the cover page in color and the rest in black and white."
+      },
+      {
+        "speaker": "B",
+        "line": "Good compromise. I'll set up the printer now."
+      }
+    ],
+    "chartData": null,
+    "questions": [
+      {
+        "id": "L3-T600-051-Q1",
+        "question": "What are the speakers deciding about?",
+        "options": [
+          "Which printer to buy",
+          "Whether to print in color or black and white",
+          "Which paper to use",
+          "How to bind the documents"
+        ],
+        "answer": "Whether to print in color or black and white",
+        "explanation": "對話討論簡報要彩色還是黑白列印。",
+        "requiresChart": false,
+        "category": "主旨"
+      },
+      {
+        "id": "L3-T600-051-Q2",
+        "question": "How many copies do they need?",
+        "options": [
+          "Two",
+          "Three",
+          "Five",
+          "Ten"
+        ],
+        "answer": "Five",
+        "explanation": "B說需要五份。",
+        "requiresChart": false,
+        "category": "細節"
+      },
+      {
+        "id": "L3-T600-051-Q3",
+        "question": "What final decision do the speakers make?",
+        "options": [
+          "Print everything in color",
+          "Print everything in black and white",
+          "Print the cover in color and the rest in black and white",
+          "Send digital copies instead"
+        ],
+        "answer": "Print the cover in color and the rest in black and white",
+        "explanation": "A提議封面印彩色、內頁印黑白，B同意。",
+        "requiresChart": false,
+        "category": "推論意圖"
+      }
+    ]
+  },
+  {
+    "id": "L3-T600-052",
+    "part": 3,
+    "track": "T600",
+    "conversation": [
+      {
+        "speaker": "A",
+        "line": "We received three quotes for the office furniture order. Let's compare them."
+      },
+      {
+        "speaker": "B",
+        "line": "What items are we ordering?"
+      },
+      {
+        "speaker": "A",
+        "line": "Ten office chairs and five standing desks. Each supplier gave us a different price."
+      },
+      {
+        "speaker": "B",
+        "line": "OfficeMax seems to have the lowest chair price, but their desks are expensive."
+      },
+      {
+        "speaker": "A",
+        "line": "Right. And FurniPro offers free delivery on orders over two thousand dollars."
+      },
+      {
+        "speaker": "B",
+        "line": "Let's calculate the total for each supplier and go with the best overall value."
+      }
+    ],
+    "chartData": {
+      "type": "table",
+      "title": "Office Furniture Supplier Quotes",
+      "rows": [
+        [
+          "Supplier",
+          "Chair (each)",
+          "Desk (each)",
+          "Delivery Fee",
+          "Warranty"
+        ],
+        [
+          "OfficeMax",
+          "$180",
+          "$650",
+          "$150",
+          "2 years"
+        ],
+        [
+          "FurniPro",
+          "$210",
+          "$580",
+          "Free over $2000",
+          "3 years"
+        ],
+        [
+          "WorkStyle",
+          "$195",
+          "$620",
+          "$100",
+          "5 years"
+        ],
+        [
+          "ModuDesign",
+          "$170",
+          "$700",
+          "$200",
+          "1 year"
+        ]
+      ]
+    },
+    "questions": [
+      {
+        "id": "L3-T600-052-Q1",
+        "question": "What items are the speakers ordering?",
+        "options": [
+          "Desks and bookshelves",
+          "Chairs and standing desks",
+          "Sofas and tables",
+          "Cabinets and lamps"
+        ],
+        "answer": "Chairs and standing desks",
+        "explanation": "A說要訂十張辦公椅和五張站立式桌子。",
+        "requiresChart": false,
+        "category": "細節"
+      },
+      {
+        "id": "L3-T600-052-Q2",
+        "question": "Which supplier has the cheapest chairs per unit?",
+        "options": [
+          "OfficeMax",
+          "FurniPro",
+          "WorkStyle",
+          "ModuDesign"
+        ],
+        "answer": "ModuDesign",
+        "explanation": "對照chartData，ModuDesign椅子單價$170為最低。",
+        "requiresChart": true,
+        "category": "圖表整合"
+      },
+      {
+        "id": "L3-T600-052-Q3",
+        "question": "What advantage does FurniPro offer?",
+        "options": [
+          "The lowest chair price",
+          "Free delivery on orders over $2,000",
+          "The longest warranty",
+          "A discount on bulk orders"
+        ],
+        "answer": "Free delivery on orders over $2,000",
+        "explanation": "A說FurniPro提供訂單超過$2,000免運費。",
+        "requiresChart": false,
+        "category": "細節"
+      }
+    ]
+  },
+  {
+    "id": "L3-T600-053",
+    "part": 3,
+    "track": "T600",
+    "conversation": [
+      {
+        "speaker": "A",
+        "line": "It's Lisa's birthday next Tuesday. We should do something special."
+      },
+      {
+        "speaker": "B",
+        "line": "I agree. Last year we got her a cake. Maybe we can collect money for a nicer gift this time."
+      },
+      {
+        "speaker": "A",
+        "line": "I heard she's been wanting a good-quality coffee maker for her desk."
+      },
+      {
+        "speaker": "B",
+        "line": "That's a thoughtful idea. If everyone contributes five dollars, we'll have about sixty dollars."
+      },
+      {
+        "speaker": "A",
+        "line": "That should be enough for a decent coffee maker. I'll start collecting money today."
+      },
+      {
+        "speaker": "B",
+        "line": "I'll pick out a birthday card during lunch. We can have everyone sign it."
+      }
+    ],
+    "chartData": null,
+    "questions": [
+      {
+        "id": "L3-T600-053-Q1",
+        "question": "What occasion are the speakers preparing for?",
+        "options": [
+          "A retirement party",
+          "Lisa's birthday",
+          "A baby shower",
+          "A promotion celebration"
+        ],
+        "answer": "Lisa's birthday",
+        "explanation": "A說下週二是Lisa的生日。",
+        "requiresChart": false,
+        "category": "細節"
+      },
+      {
+        "id": "L3-T600-053-Q2",
+        "question": "What gift idea do they discuss?",
+        "options": [
+          "A cake",
+          "A coffee maker",
+          "A gift basket",
+          "A desk lamp"
+        ],
+        "answer": "A coffee maker",
+        "explanation": "A說Lisa想要一台好用的咖啡機放在桌上。",
+        "requiresChart": false,
+        "category": "細節"
+      },
+      {
+        "id": "L3-T600-053-Q3",
+        "question": "What will the man do during lunch?",
+        "options": [
+          "Collect money",
+          "Buy the coffee maker",
+          "Pick out a birthday card",
+          "Order a cake"
+        ],
+        "answer": "Pick out a birthday card",
+        "explanation": "B說午餐時去挑一張生日卡片讓大家簽名。",
+        "requiresChart": false,
+        "category": "細節"
+      }
+    ]
+  },
+  {
+    "id": "L3-T600-054",
+    "part": 3,
+    "track": "T600",
+    "conversation": [
+      {
+        "speaker": "A",
+        "line": "The team-building workshop is at an offsite location in the countryside. How will everyone get there?"
+      },
+      {
+        "speaker": "B",
+        "line": "We can either rent a bus or have everyone carpool in their own vehicles."
+      },
+      {
+        "speaker": "A",
+        "line": "A rented bus is more convenient since parking is limited at the venue."
+      },
+      {
+        "speaker": "B",
+        "line": "I agree. A 25-seat bus costs around four hundred dollars for the day."
+      },
+      {
+        "speaker": "A",
+        "line": "There are twenty-two people signed up, so that's perfect. Will the bus pick us up at the office?"
+      },
+      {
+        "speaker": "B",
+        "line": "Yes, I'll arrange for the bus to arrive at eight AM and return by five PM."
+      }
+    ],
+    "chartData": null,
+    "questions": [
+      {
+        "id": "L3-T600-054-Q1",
+        "question": "What event are the speakers organizing transportation for?",
+        "options": [
+          "A company party",
+          "A team-building workshop",
+          "A client visit",
+          "A job fair"
+        ],
+        "answer": "A team-building workshop",
+        "explanation": "A說團隊建設工作坊在郊外舉行。",
+        "requiresChart": false,
+        "category": "細節"
+      },
+      {
+        "id": "L3-T600-054-Q2",
+        "question": "Why do they prefer renting a bus?",
+        "options": [
+          "It is cheaper than driving",
+          "Parking is limited at the venue",
+          "The bus has Wi-Fi",
+          "Employees don't have cars"
+        ],
+        "answer": "Parking is limited at the venue",
+        "explanation": "A說場地停車位有限，租巴士較方便。",
+        "requiresChart": false,
+        "category": "細節"
+      },
+      {
+        "id": "L3-T600-054-Q3",
+        "question": "What time will the bus return?",
+        "options": [
+          "By 3 PM",
+          "By 5 PM",
+          "By 6 PM",
+          "By 8 PM"
+        ],
+        "answer": "By 5 PM",
+        "explanation": "B說巴士早上八點出發，下午五點返回。",
+        "requiresChart": false,
+        "category": "細節"
+      }
+    ]
+  },
+  {
+    "id": "L3-T600-055",
+    "part": 3,
+    "track": "T600",
+    "conversation": [
+      {
+        "speaker": "A",
+        "line": "The postage meter is showing a low balance warning. We need to add more funds."
+      },
+      {
+        "speaker": "B",
+        "line": "How much is left?"
+      },
+      {
+        "speaker": "A",
+        "line": "Only twelve dollars and fifty cents. We have about thirty letters to mail today."
+      },
+      {
+        "speaker": "B",
+        "line": "At sixty cents per letter, that won't be enough. How do we refill it?"
+      },
+      {
+        "speaker": "A",
+        "line": "We can add funds online through the postal service website. I'll do it now."
+      },
+      {
+        "speaker": "B",
+        "line": "Add at least a hundred dollars. That should last us for the rest of the month."
+      }
+    ],
+    "chartData": null,
+    "questions": [
+      {
+        "id": "L3-T600-055-Q1",
+        "question": "What is running low?",
+        "options": [
+          "Printer ink",
+          "Postage meter funds",
+          "Paper supply",
+          "Toner cartridge"
+        ],
+        "answer": "Postage meter funds",
+        "explanation": "A說郵資機顯示餘額不足的警告。",
+        "requiresChart": false,
+        "category": "細節"
+      },
+      {
+        "id": "L3-T600-055-Q2",
+        "question": "How many letters need to be mailed today?",
+        "options": [
+          "About ten",
+          "About twenty",
+          "About thirty",
+          "About fifty"
+        ],
+        "answer": "About thirty",
+        "explanation": "A說今天大約要寄三十封信。",
+        "requiresChart": false,
+        "category": "細節"
+      },
+      {
+        "id": "L3-T600-055-Q3",
+        "question": "How much does the man suggest adding?",
+        "options": [
+          "$20",
+          "$50",
+          "$100",
+          "$200"
+        ],
+        "answer": "$100",
+        "explanation": "B建議至少加值$100，足夠用到月底。",
+        "requiresChart": false,
+        "category": "細節"
+      }
+    ]
+  },
+  {
+    "id": "L3-T600-056",
+    "part": 3,
+    "track": "T600",
+    "conversation": [
+      {
+        "speaker": "A",
+        "line": "We need to ship a sample product to our client in London by Friday."
+      },
+      {
+        "speaker": "B",
+        "line": "There are several shipping options. The package weighs about two kilograms."
+      },
+      {
+        "speaker": "A",
+        "line": "What's the fastest option that's not too expensive?"
+      },
+      {
+        "speaker": "B",
+        "line": "Express International takes two days and costs forty-five dollars. Economy takes five days but is only eighteen."
+      },
+      {
+        "speaker": "A",
+        "line": "We need it there by Friday, so Express is the only option that works. Let's go with that."
+      },
+      {
+        "speaker": "B",
+        "line": "I'll prepare the shipping label and customs form right away."
+      }
+    ],
+    "chartData": {
+      "type": "table",
+      "title": "International Shipping Options to London",
+      "rows": [
+        [
+          "Service",
+          "Delivery Time",
+          "Cost (2kg)",
+          "Tracking",
+          "Insurance"
+        ],
+        [
+          "Economy International",
+          "5-7 business days",
+          "$18",
+          "Basic",
+          "Not included"
+        ],
+        [
+          "Standard International",
+          "3-4 business days",
+          "$30",
+          "Full",
+          "Up to $100"
+        ],
+        [
+          "Express International",
+          "1-2 business days",
+          "$45",
+          "Full + SMS",
+          "Up to $200"
+        ],
+        [
+          "Premium Courier",
+          "Next business day",
+          "$75",
+          "Real-time",
+          "Up to $500"
+        ]
+      ]
+    },
+    "questions": [
+      {
+        "id": "L3-T600-056-Q1",
+        "question": "Where is the package being sent?",
+        "options": [
+          "New York",
+          "Tokyo",
+          "London",
+          "Sydney"
+        ],
+        "answer": "London",
+        "explanation": "A說需要寄送樣品到倫敦的客戶。",
+        "requiresChart": false,
+        "category": "細節"
+      },
+      {
+        "id": "L3-T600-056-Q2",
+        "question": "How much does the Express International service cost?",
+        "options": [
+          "$18",
+          "$30",
+          "$45",
+          "$75"
+        ],
+        "answer": "$45",
+        "explanation": "B直接說國際快遞兩天$45，無需圖表即可作答。",
+        "requiresChart": false,
+        "category": "圖表整合"
+      },
+      {
+        "id": "L3-T600-056-Q3",
+        "question": "What is the insurance coverage for the Standard International service?",
+        "options": [
+          "Not included",
+          "Up to $100",
+          "Up to $200",
+          "Up to $500"
+        ],
+        "answer": "Up to $100",
+        "explanation": "對照chartData，Standard International的保險額度為Up to $100。",
+        "requiresChart": true,
+        "category": "圖表整合"
+      }
+    ]
+  },
+  {
+    "id": "L3-T600-057",
+    "part": 3,
+    "track": "T600",
+    "conversation": [
+      {
+        "speaker": "A",
+        "line": "I'd like to improve my spreadsheet skills. Does the company offer any Excel training?"
+      },
+      {
+        "speaker": "B",
+        "line": "Yes, we have a beginner course starting next Wednesday. It's three sessions, two hours each."
+      },
+      {
+        "speaker": "A",
+        "line": "That sounds perfect. Is there also an advanced course?"
+      },
+      {
+        "speaker": "B",
+        "line": "The advanced course runs in September. It covers pivot tables and macros."
+      },
+      {
+        "speaker": "A",
+        "line": "Let me start with the beginner course first. How do I sign up?"
+      },
+      {
+        "speaker": "B",
+        "line": "Register through the learning management system. Your manager will need to approve it."
+      }
+    ],
+    "chartData": null,
+    "questions": [
+      {
+        "id": "L3-T600-057-Q1",
+        "question": "What training is the woman interested in?",
+        "options": [
+          "Presentation skills",
+          "Excel training",
+          "Project management",
+          "English language"
+        ],
+        "answer": "Excel training",
+        "explanation": "A說想提升試算表技能，詢問公司有沒有Excel培訓。",
+        "requiresChart": false,
+        "category": "細節"
+      },
+      {
+        "id": "L3-T600-057-Q2",
+        "question": "How many sessions does the beginner course have?",
+        "options": [
+          "Two",
+          "Three",
+          "Four",
+          "Five"
+        ],
+        "answer": "Three",
+        "explanation": "B說初級課程共三堂課，每堂兩小時。",
+        "requiresChart": false,
+        "category": "細節"
+      },
+      {
+        "id": "L3-T600-057-Q3",
+        "question": "What is required to sign up for the course?",
+        "options": [
+          "Passing a placement test",
+          "Manager approval",
+          "Paying a registration fee",
+          "At least one year of experience"
+        ],
+        "answer": "Manager approval",
+        "explanation": "B說需要主管核准才能報名。",
+        "requiresChart": false,
+        "category": "細節"
+      }
+    ]
+  },
+  {
+    "id": "L3-T600-058",
+    "part": 3,
+    "track": "T600",
+    "conversation": [
+      {
+        "speaker": "A",
+        "line": "Someone took some items from the supply closet without signing them out. Can we check the security camera?"
+      },
+      {
+        "speaker": "B",
+        "line": "The supply closet isn't covered by our current camera setup. The nearest camera is in the hallway."
+      },
+      {
+        "speaker": "A",
+        "line": "That might still help. When did this happen?"
+      },
+      {
+        "speaker": "B",
+        "line": "The log shows the last person signed out supplies on Monday at three PM. After that, items went missing."
+      },
+      {
+        "speaker": "A",
+        "line": "Can you pull up the hallway footage from Monday afternoon?"
+      },
+      {
+        "speaker": "B",
+        "line": "I'll need security authorization for that. Let me submit a request to the head of security."
+      }
+    ],
+    "chartData": null,
+    "questions": [
+      {
+        "id": "L3-T600-058-Q1",
+        "question": "What problem are the speakers investigating?",
+        "options": [
+          "A fire alarm malfunction",
+          "Missing items from the supply closet",
+          "A broken security camera",
+          "An unauthorized visitor"
+        ],
+        "answer": "Missing items from the supply closet",
+        "explanation": "A說有人從用品櫃拿走東西沒登記，想調監視器查看。",
+        "requiresChart": false,
+        "category": "細節"
+      },
+      {
+        "id": "L3-T600-058-Q2",
+        "question": "Why is the security camera not helpful directly?",
+        "options": [
+          "The camera is broken",
+          "The supply closet is not covered by cameras",
+          "The footage was deleted",
+          "The camera was turned off"
+        ],
+        "answer": "The supply closet is not covered by cameras",
+        "explanation": "B說用品櫃不在目前攝影機的拍攝範圍內。",
+        "requiresChart": false,
+        "category": "細節"
+      },
+      {
+        "id": "L3-T600-058-Q3",
+        "question": "What does the man need to access the camera footage?",
+        "options": [
+          "A password",
+          "Security authorization",
+          "The manager on duty",
+          "A police report"
+        ],
+        "answer": "Security authorization",
+        "explanation": "B說需要保全主管授權才能調閱監視器畫面。",
+        "requiresChart": false,
+        "category": "細節"
+      }
+    ]
+  },
+  {
+    "id": "L3-T600-059",
+    "part": 3,
+    "track": "T600",
+    "conversation": [
+      {
+        "speaker": "A",
+        "line": "The water dispenser in the kitchen area is leaking from the bottom."
+      },
+      {
+        "speaker": "B",
+        "line": "I noticed a small puddle there this morning. How bad is it?"
+      },
+      {
+        "speaker": "A",
+        "line": "It's getting worse. The floor around it is wet and someone could slip."
+      },
+      {
+        "speaker": "B",
+        "line": "I'll put up a wet floor sign and call the maintenance contractor."
+      },
+      {
+        "speaker": "A",
+        "line": "Do you think it needs to be replaced entirely? It's quite old."
+      },
+      {
+        "speaker": "B",
+        "line": "The maintenance person will assess it. If it can't be repaired, we'll order a new one."
+      }
+    ],
+    "chartData": null,
+    "questions": [
+      {
+        "id": "L3-T600-059-Q1",
+        "question": "What equipment is leaking?",
+        "options": [
+          "The coffee machine",
+          "The water dispenser",
+          "The dishwasher",
+          "The refrigerator"
+        ],
+        "answer": "The water dispenser",
+        "explanation": "A說廚房的飲水機底部漏水。",
+        "requiresChart": false,
+        "category": "細節"
+      },
+      {
+        "id": "L3-T600-059-Q2",
+        "question": "What safety concern does the woman mention?",
+        "options": [
+          "Electrical shock",
+          "Someone could slip",
+          "Water damage to the floor",
+          "The machine might explode"
+        ],
+        "answer": "Someone could slip",
+        "explanation": "A說飲水機周圍地板濕了，有人可能會滑倒。",
+        "requiresChart": false,
+        "category": "細節"
+      },
+      {
+        "id": "L3-T600-059-Q3",
+        "question": "What will the maintenance person do?",
+        "options": [
+          "Clean the floor only",
+          "Install a new dispenser immediately",
+          "Assess if the unit can be repaired",
+          "Shut off the water supply"
+        ],
+        "answer": "Assess if the unit can be repaired",
+        "explanation": "B說維修人員會評估能否修復，不行就訂新的。",
+        "requiresChart": false,
+        "category": "推論意圖"
+      }
+    ]
+  },
+  {
+    "id": "L3-T600-060",
+    "part": 3,
+    "track": "T600",
+    "conversation": [
+      {
+        "speaker": "A",
+        "line": "Let's review the project timeline. Where are we on the website redesign?"
+      },
+      {
+        "speaker": "B",
+        "line": "The design phase is complete. We're now in the development stage."
+      },
+      {
+        "speaker": "A",
+        "line": "According to the schedule, development should finish by July twentieth."
+      },
+      {
+        "speaker": "B",
+        "line": "We're slightly ahead of schedule. The developers expect to finish by July fifteenth."
+      },
+      {
+        "speaker": "A",
+        "line": "That gives us extra time for testing. When does the launch phase begin?"
+      },
+      {
+        "speaker": "B",
+        "line": "Testing is scheduled from July twenty-first to August fifth, followed by launch on August tenth."
+      }
+    ],
+    "chartData": {
+      "type": "table",
+      "title": "Website Redesign Project Timeline",
+      "rows": [
+        [
+          "Phase",
+          "Start Date",
+          "End Date",
+          "Status"
+        ],
+        [
+          "1. Planning",
+          "June 1",
+          "June 10",
+          "Completed"
+        ],
+        [
+          "2. Design",
+          "June 11",
+          "June 30",
+          "Completed"
+        ],
+        [
+          "3. Development",
+          "July 1",
+          "July 20",
+          "In Progress"
+        ],
+        [
+          "4. Testing",
+          "July 21",
+          "August 5",
+          "Not Started"
+        ],
+        [
+          "5. Launch",
+          "August 10",
+          "August 10",
+          "Not Started"
+        ]
+      ]
+    },
+    "questions": [
+      {
+        "id": "L3-T600-060-Q1",
+        "question": "What project are the speakers discussing?",
+        "options": [
+          "Office relocation",
+          "Website redesign",
+          "New product development",
+          "System upgrade"
+        ],
+        "answer": "Website redesign",
+        "explanation": "A說要檢視網站重新設計的專案時程。",
+        "requiresChart": false,
+        "category": "主旨"
+      },
+      {
+        "id": "L3-T600-060-Q2",
+        "question": "How many phases are there in the project timeline?",
+        "options": [
+          "Three",
+          "Four",
+          "Five",
+          "Six"
+        ],
+        "answer": "Five",
+        "explanation": "對照chartData，專案共分五個階段：Planning、Design、Development、Testing、Launch。",
+        "requiresChart": true,
+        "category": "圖表整合"
+      },
+      {
+        "id": "L3-T600-060-Q3",
+        "question": "When is the official launch date?",
+        "options": [
+          "July 21",
+          "August 1",
+          "August 10",
+          "August 5"
+        ],
+        "answer": "August 10",
+        "explanation": "B說測試後8月10日正式上線。",
+        "requiresChart": false,
+        "category": "細節"
+      }
+    ]
+  }
+]

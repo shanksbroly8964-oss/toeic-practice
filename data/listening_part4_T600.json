@@ -8,23 +8,41 @@
       {
         "id": "L4-T600-001-Q1",
         "question": "Which passengers are being asked to board now?",
-        "options": ["All passengers on flight JL802", "Passengers in rows 30 to 45", "Passengers with carry-on luggage", "Passengers seated in first class"],
+        "options": [
+          "All passengers on flight JL802",
+          "Passengers in rows 30 to 45",
+          "Passengers with carry-on luggage",
+          "Passengers seated in first class"
+        ],
         "answer": "Passengers in rows 30 to 45",
-        "explanation": "廣播明確說明rows 30 through 45的旅客現在開始登機。"
+        "explanation": "廣播明確說明rows 30 through 45的旅客現在開始登機。",
+        "category": "細節"
       },
       {
         "id": "L4-T600-001-Q2",
         "question": "What are passengers asked to have ready?",
-        "options": ["Their luggage tags", "Their boarding pass and passport", "Their credit card", "Their health declaration form"],
+        "options": [
+          "Their luggage tags",
+          "Their boarding pass and passport",
+          "Their credit card",
+          "Their health declaration form"
+        ],
         "answer": "Their boarding pass and passport",
-        "explanation": "獨白提到please have your boarding pass and passport ready for inspection。"
+        "explanation": "獨白提到please have your boarding pass and passport ready for inspection。",
+        "category": "細節"
       },
       {
         "id": "L4-T600-001-Q3",
         "question": "Where does this announcement most likely take place?",
-        "options": ["At a train station", "At an airport gate", "At a hotel lobby", "At a bus terminal"],
+        "options": [
+          "At a train station",
+          "At an airport gate",
+          "At a hotel lobby",
+          "At a bus terminal"
+        ],
         "answer": "At an airport gate",
-        "explanation": "內容為登機廣播，提到boarding、gate、flight等機場用語。"
+        "explanation": "內容為登機廣播，提到boarding、gate、flight等機場用語。",
+        "category": "主旨"
       }
     ]
   },
@@ -37,23 +55,41 @@
       {
         "id": "L4-T600-002-Q1",
         "question": "What is the purpose of this announcement?",
-        "options": ["To introduce a new employee", "To announce a change in training schedule", "To remind staff about a holiday", "To report a maintenance issue"],
+        "options": [
+          "To introduce a new employee",
+          "To announce a change in training schedule",
+          "To remind staff about a holiday",
+          "To report a maintenance issue"
+        ],
         "answer": "To announce a change in training schedule",
-        "explanation": "HR宣布安全訓練從這週五改到下週一，屬於行程變更通知。"
+        "explanation": "HR宣布安全訓練從這週五改到下週一，屬於行程變更通知。",
+        "category": "主旨"
       },
       {
         "id": "L4-T600-002-Q2",
         "question": "Where will the training be held?",
-        "options": ["Conference Room A", "Conference Room B", "The HR office", "The main lobby"],
+        "options": [
+          "Conference Room A",
+          "Conference Room B",
+          "The HR office",
+          "The main lobby"
+        ],
         "answer": "Conference Room B",
-        "explanation": "獨白提到training will take place in Conference Room B on the third floor。"
+        "explanation": "獨白提到training will take place in Conference Room B on the third floor。",
+        "category": "細節"
       },
       {
         "id": "L4-T600-002-Q3",
         "question": "What must employees bring to the training?",
-        "options": ["A notebook", "Their laptop", "Their employee ID badge", "A signed form"],
+        "options": [
+          "A notebook",
+          "Their laptop",
+          "Their employee ID badge",
+          "A signed form"
+        ],
         "answer": "Their employee ID badge",
-        "explanation": "公告要求Please bring your employee ID badge for registration。"
+        "explanation": "公告要求Please bring your employee ID badge for registration。",
+        "category": "細節"
       }
     ]
   },
@@ -66,23 +102,41 @@
       {
         "id": "L4-T600-003-Q1",
         "question": "What is the main reason for this call?",
-        "options": ["To confirm a meeting time", "To ask about an invoice error", "To request a budget increase", "To schedule a project review"],
+        "options": [
+          "To confirm a meeting time",
+          "To ask about an invoice error",
+          "To request a budget increase",
+          "To schedule a project review"
+        ],
         "answer": "To ask about an invoice error",
-        "explanation": "Sarah來電是因為費用數字與收據不符，需要修正發票。"
+        "explanation": "Sarah來電是因為費用數字與收據不符，需要修正發票。",
+        "category": "主旨"
       },
       {
         "id": "L4-T600-003-Q2",
         "question": "What does the speaker ask Michael to do?",
-        "options": ["Submit a new invoice", "Review and correct the document", "Attend a meeting", "Contact the client"],
+        "options": [
+          "Submit a new invoice",
+          "Review and correct the document",
+          "Attend a meeting",
+          "Contact the client"
+        ],
         "answer": "Review and correct the document",
-        "explanation": "Sarah請Michael檢查文件並在明天下午前寄回修正版本。"
+        "explanation": "Sarah請Michael檢查文件並在明天下午前寄回修正版本。",
+        "category": "細節"
       },
       {
         "id": "L4-T600-003-Q3",
         "question": "Where is the accounting department located?",
-        "options": ["On the first floor", "On the second floor", "On the third floor", "In the main building"],
+        "options": [
+          "On the first floor",
+          "On the second floor",
+          "On the third floor",
+          "In the main building"
+        ],
         "answer": "On the second floor",
-        "explanation": "留言提到stop by my desk on the second floor，會計部門在二樓。"
+        "explanation": "留言提到stop by my desk on the second floor，會計部門在二樓。",
+        "category": "細節"
       }
     ]
   },
@@ -95,23 +149,41 @@
       {
         "id": "L4-T600-004-Q1",
         "question": "What is being announced?",
-        "options": ["A new hotel service", "The pool closure for maintenance", "A discount for guests", "A schedule change for the restaurant"],
+        "options": [
+          "A new hotel service",
+          "The pool closure for maintenance",
+          "A discount for guests",
+          "A schedule change for the restaurant"
+        ],
         "answer": "The pool closure for maintenance",
-        "explanation": "飯店公告游泳池因保養關閉一週。"
+        "explanation": "飯店公告游泳池因保養關閉一週。",
+        "category": "細節"
       },
       {
         "id": "L4-T600-004-Q2",
         "question": "What alternative facility is mentioned?",
-        "options": ["The spa center", "The fitness center", "The rooftop lounge", "The business center"],
+        "options": [
+          "The spa center",
+          "The fitness center",
+          "The rooftop lounge",
+          "The business center"
+        ],
         "answer": "The fitness center",
-        "explanation": "飯店建議使用二樓的健身中心作為替代方案。"
+        "explanation": "飯店建議使用二樓的健身中心作為替代方案。",
+        "category": "細節"
       },
       {
         "id": "L4-T600-004-Q3",
         "question": "How often does the shuttle bus to the beach run?",
-        "options": ["Every 30 minutes", "Every hour", "Every two hours", "Every morning"],
+        "options": [
+          "Every 30 minutes",
+          "Every hour",
+          "Every two hours",
+          "Every morning"
+        ],
         "answer": "Every hour",
-        "explanation": "獨白提到complimentary shuttle bus to the city beach every hour。"
+        "explanation": "獨白提到complimentary shuttle bus to the city beach every hour。",
+        "category": "數字時間"
       }
     ]
   },
@@ -124,23 +196,41 @@
       {
         "id": "L4-T600-005-Q1",
         "question": "Who is the speaker?",
-        "options": ["A warehouse supervisor", "The training manager", "A company director", "An external consultant"],
+        "options": [
+          "A warehouse supervisor",
+          "The training manager",
+          "A company director",
+          "An external consultant"
+        ],
         "answer": "The training manager",
-        "explanation": "David Chen自我介紹是Swift Logistics的training manager。"
+        "explanation": "David Chen自我介紹是Swift Logistics的training manager。",
+        "category": "細節"
       },
       {
         "id": "L4-T600-005-Q2",
         "question": "What will happen this afternoon?",
-        "options": ["A written test", "A warehouse tour", "A team meeting", "A safety drill"],
+        "options": [
+          "A written test",
+          "A warehouse tour",
+          "A team meeting",
+          "A safety drill"
+        ],
         "answer": "A warehouse tour",
-        "explanation": "獨白說We will also give you a tour of our warehouse facility this afternoon。"
+        "explanation": "獨白說We will also give you a tour of our warehouse facility this afternoon。",
+        "category": "細節"
       },
       {
         "id": "L4-T600-005-Q3",
         "question": "What are new employees reminded to carry?",
-        "options": ["Their employee handbook", "Their temporary access card", "Their identification photo", "Their training certificate"],
+        "options": [
+          "Their employee handbook",
+          "Their temporary access card",
+          "Their identification photo",
+          "Their training certificate"
+        ],
         "answer": "Their temporary access card",
-        "explanation": "新人被提醒要隨身攜帶their temporary access card。"
+        "explanation": "新人被提醒要隨身攜帶their temporary access card。",
+        "category": "細節"
       }
     ]
   },
@@ -153,23 +243,41 @@
       {
         "id": "L4-T600-006-Q1",
         "question": "What is on sale?",
-        "options": ["Smartphones", "Laptop computers", "Home appliances", "Office furniture"],
+        "options": [
+          "Smartphones",
+          "Laptop computers",
+          "Home appliances",
+          "Office furniture"
+        ],
         "answer": "Laptop computers",
-        "explanation": "公告提到電子部門正在舉辦laptop computers特賣。"
+        "explanation": "公告提到電子部門正在舉辦laptop computers特賣。",
+        "category": "細節"
       },
       {
         "id": "L4-T600-006-Q2",
         "question": "What is the discount being offered?",
-        "options": ["Up to fifteen percent off", "Up to thirty percent off", "Up to fifty percent off", "Up to seventy percent off"],
+        "options": [
+          "Up to fifteen percent off",
+          "Up to thirty percent off",
+          "Up to fifty percent off",
+          "Up to seventy percent off"
+        ],
         "answer": "Up to thirty percent off",
-        "explanation": "特賣提供up to thirty percent off的折扣。"
+        "explanation": "特賣提供up to thirty percent off的折扣。",
+        "category": "細節"
       },
       {
         "id": "L4-T600-006-Q3",
         "question": "What benefit is available for purchases over five hundred dollars?",
-        "options": ["A gift voucher", "Free delivery", "An extended warranty", "A free accessory"],
+        "options": [
+          "A gift voucher",
+          "Free delivery",
+          "An extended warranty",
+          "A free accessory"
+        ],
         "answer": "Free delivery",
-        "explanation": "獨白說purchases over five hundred dollars qualify for free delivery。"
+        "explanation": "獨白說purchases over five hundred dollars qualify for free delivery。",
+        "category": "細節"
       }
     ]
   },
@@ -182,23 +290,41 @@
       {
         "id": "L4-T600-007-Q1",
         "question": "What is the cause of the platform change?",
-        "options": ["Track maintenance", "A signal problem", "Weather conditions", "A staffing issue"],
+        "options": [
+          "Track maintenance",
+          "A signal problem",
+          "Weather conditions",
+          "A staffing issue"
+        ],
         "answer": "A signal problem",
-        "explanation": "廣播說明due to a signal problem near the central station。"
+        "explanation": "廣播說明due to a signal problem near the central station。",
+        "category": "細節"
       },
       {
         "id": "L4-T600-007-Q2",
         "question": "Which platform will the train now depart from?",
-        "options": ["Platform 3", "Platform 6", "Platform 9", "Platform 12"],
+        "options": [
+          "Platform 3",
+          "Platform 6",
+          "Platform 9",
+          "Platform 12"
+        ],
         "answer": "Platform 6",
-        "explanation": "列車改由platform 6發車，而不是原來的platform 3。"
+        "explanation": "列車改由platform 6發車，而不是原來的platform 3。",
+        "category": "細節"
       },
       {
         "id": "L4-T600-007-Q3",
         "question": "How long is the expected delay?",
-        "options": ["Ten minutes", "Twenty minutes", "Thirty minutes", "One hour"],
+        "options": [
+          "Ten minutes",
+          "Twenty minutes",
+          "Thirty minutes",
+          "One hour"
+        ],
         "answer": "Twenty minutes",
-        "explanation": "廣播提到delay of approximately twenty minutes。"
+        "explanation": "廣播提到delay of approximately twenty minutes。",
+        "category": "數字時間"
       }
     ]
   },
@@ -211,23 +337,41 @@
       {
         "id": "L4-T600-008-Q1",
         "question": "What has the company received from the city council?",
-        "options": ["A funding grant", "Final approval", "A construction permit", "An inspection notice"],
+        "options": [
+          "A funding grant",
+          "Final approval",
+          "A construction permit",
+          "An inspection notice"
+        ],
         "answer": "Final approval",
-        "explanation": "專案經理報告已收到市議會的final approval。"
+        "explanation": "專案經理報告已收到市議會的final approval。",
+        "category": "細節"
       },
       {
         "id": "L4-T600-008-Q2",
         "question": "When will the construction work start?",
-        "options": ["March 1st", "March 15th", "April 1st", "April 15th"],
+        "options": [
+          "March 1st",
+          "March 15th",
+          "April 1st",
+          "April 15th"
+        ],
         "answer": "March 15th",
-        "explanation": "Construction work is scheduled to begin on March 15th。"
+        "explanation": "Construction work is scheduled to begin on March 15th。",
+        "category": "數字時間"
       },
       {
         "id": "L4-T600-008-Q3",
         "question": "What are department heads told to do?",
-        "options": ["Submit a budget plan", "Prepare a progress report", "Hire new staff", "Review the contract"],
+        "options": [
+          "Submit a budget plan",
+          "Prepare a progress report",
+          "Hire new staff",
+          "Review the contract"
+        ],
         "answer": "Prepare a progress report",
-        "explanation": "各部門主管被要求prepare a short progress report for your respective teams。"
+        "explanation": "各部門主管被要求prepare a short progress report for your respective teams。",
+        "category": "細節"
       }
     ]
   },
@@ -240,23 +384,41 @@
       {
         "id": "L4-T600-009-Q1",
         "question": "Who is the intended recipient of this message?",
-        "options": ["A new patient", "A clinic employee", "A patient with an appointment", "A medical supplier"],
+        "options": [
+          "A new patient",
+          "A clinic employee",
+          "A patient with an appointment",
+          "A medical supplier"
+        ],
         "answer": "A patient with an appointment",
-        "explanation": "此留言是提醒患者Dr. Lisa Wang的牙科預約。"
+        "explanation": "此留言是提醒患者Dr. Lisa Wang的牙科預約。",
+        "category": "主旨"
       },
       {
         "id": "L4-T600-009-Q2",
         "question": "What time is the patient asked to arrive?",
-        "options": ["10:00 AM", "10:15 AM", "10:30 AM", "10:45 AM"],
+        "options": [
+          "10:00 AM",
+          "10:15 AM",
+          "10:30 AM",
+          "10:45 AM"
+        ],
         "answer": "10:15 AM",
-        "explanation": "病患被要求在預約時間前15分鐘（10:15 AM）到達填寫文件。"
+        "explanation": "病患被要求在預約時間前15分鐘（10:15 AM）到達填寫文件。",
+        "category": "數字時間"
       },
       {
         "id": "L4-T600-009-Q3",
         "question": "What should the patient do if they need to cancel?",
-        "options": ["Send an email", "Call 24 hours in advance", "Visit the clinic in person", "Notify the insurance company"],
+        "options": [
+          "Send an email",
+          "Call 24 hours in advance",
+          "Visit the clinic in person",
+          "Notify the insurance company"
+        ],
         "answer": "Call 24 hours in advance",
-        "explanation": "留言說明若要取消需提前24小時電話通知。"
+        "explanation": "留言說明若要取消需提前24小時電話通知。",
+        "category": "細節"
       }
     ]
   },
@@ -269,23 +431,41 @@
       {
         "id": "L4-T600-010-Q1",
         "question": "What product is being introduced?",
-        "options": ["A smart thermostat", "A security camera", "A robotic vacuum", "A video doorbell"],
+        "options": [
+          "A smart thermostat",
+          "A security camera",
+          "A robotic vacuum",
+          "A video doorbell"
+        ],
         "answer": "A security camera",
-        "explanation": "演講介紹的產品是HomeGuard Security Camera。"
+        "explanation": "演講介紹的產品是HomeGuard Security Camera。",
+        "category": "細節"
       },
       {
         "id": "L4-T600-010-Q2",
         "question": "How can users control the device?",
-        "options": ["With a remote control", "Through a smartphone app", "With voice commands", "Through a web browser"],
+        "options": [
+          "With a remote control",
+          "Through a smartphone app",
+          "With voice commands",
+          "Through a web browser"
+        ],
         "answer": "Through a smartphone app",
-        "explanation": "產品可以透過free mobile application在智慧型手機上控制。"
+        "explanation": "產品可以透過free mobile application在智慧型手機上控制。",
+        "category": "細節"
       },
       {
         "id": "L4-T600-010-Q3",
         "question": "What special offer is mentioned?",
-        "options": ["Free installation", "A twenty percent discount", "A free extra camera", "An extended warranty"],
+        "options": [
+          "Free installation",
+          "A twenty percent discount",
+          "A free extra camera",
+          "An extended warranty"
+        ],
         "answer": "A twenty percent discount",
-        "explanation": "接下來48小時內線上訂購可享special discount of twenty percent。"
+        "explanation": "接下來48小時內線上訂購可享special discount of twenty percent。",
+        "category": "細節"
       }
     ]
   },
@@ -298,23 +478,41 @@
       {
         "id": "L4-T600-011-Q1",
         "question": "What is causing the traffic delay on Highway 15?",
-        "options": ["Road construction", "A vehicle breakdown", "A car accident", "Bad weather"],
+        "options": [
+          "Road construction",
+          "A vehicle breakdown",
+          "A car accident",
+          "Bad weather"
+        ],
         "answer": "A vehicle breakdown",
-        "explanation": "塞車原因為a vehicle breakdown in the left lane。"
+        "explanation": "塞車原因為a vehicle breakdown in the left lane。",
+        "category": "細節"
       },
       {
         "id": "L4-T600-011-Q2",
         "question": "Which roads are suggested as alternatives?",
-        "options": ["Highway 20 and Main Street", "River Road and Bridge Street", "Park Avenue and Oak Lane", "Coastal Highway and Elm Street"],
+        "options": [
+          "Highway 20 and Main Street",
+          "River Road and Bridge Street",
+          "Park Avenue and Oak Lane",
+          "Coastal Highway and Elm Street"
+        ],
         "answer": "River Road and Bridge Street",
-        "explanation": "建議替代道路為River Road or Bridge Street。"
+        "explanation": "建議替代道路為River Road or Bridge Street。",
+        "category": "推論"
       },
       {
         "id": "L4-T600-011-Q3",
         "question": "How delayed are the public buses mentioned?",
-        "options": ["5 minutes behind", "10 minutes behind", "15 minutes behind", "30 minutes behind"],
+        "options": [
+          "5 minutes behind",
+          "10 minutes behind",
+          "15 minutes behind",
+          "30 minutes behind"
+        ],
         "answer": "15 minutes behind",
-        "explanation": "27路和33路公車約晚15分鐘。"
+        "explanation": "27路和33路公車約晚15分鐘。",
+        "category": "細節"
       }
     ]
   },
@@ -327,23 +525,41 @@
       {
         "id": "L4-T600-012-Q1",
         "question": "Why will the elevator be out of service?",
-        "options": ["It is being replaced", "For regular maintenance", "Due to a power outage", "For safety inspection"],
+        "options": [
+          "It is being replaced",
+          "For regular maintenance",
+          "Due to a power outage",
+          "For safety inspection"
+        ],
         "answer": "For regular maintenance",
-        "explanation": "電梯因例行維護（regular maintenance）暫停使用。"
+        "explanation": "電梯因例行維護（regular maintenance）暫停使用。",
+        "category": "細節"
       },
       {
         "id": "L4-T600-012-Q2",
         "question": "How long will the maintenance work take?",
-        "options": ["5 hours", "8 hours", "9 hours", "12 hours"],
+        "options": [
+          "5 hours",
+          "8 hours",
+          "9 hours",
+          "12 hours"
+        ],
         "answer": "9 hours",
-        "explanation": "從早上8點到下午5點，共9小時。"
+        "explanation": "從早上8點到下午5點，共9小時。",
+        "category": "數字時間"
       },
       {
         "id": "L4-T600-012-Q3",
         "question": "What should staff do if they need special help?",
-        "options": ["Call the front desk", "Contact the facilities office", "Speak to their manager", "Send a work request"],
+        "options": [
+          "Call the front desk",
+          "Contact the facilities office",
+          "Speak to their manager",
+          "Send a work request"
+        ],
         "answer": "Contact the facilities office",
-        "explanation": "需要特殊協助的人請聯絡facilities office，分機420。"
+        "explanation": "需要特殊協助的人請聯絡facilities office，分機420。",
+        "category": "細節"
       }
     ]
   }
