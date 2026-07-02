@@ -1,0 +1,350 @@
+[
+  {
+    "id": "L4-T600-001",
+    "part": 4,
+    "track": "T600",
+    "talk": "Attention all passengers, this is a boarding announcement for flight JL802 to Osaka. We are now inviting passengers in rows 30 through 45 to board through gate 15. Please have your boarding pass and passport ready for inspection. Carry-on luggage must fit in the overhead compartments. We ask that you store your bags quickly and take your seats to allow other passengers to pass. Thank you for choosing Japan Airlines for your travel today.",
+    "questions": [
+      {
+        "id": "L4-T600-001-Q1",
+        "question": "Which passengers are being asked to board now?",
+        "options": ["All passengers on flight JL802", "Passengers in rows 30 to 45", "Passengers with carry-on luggage", "Passengers seated in first class"],
+        "answer": "Passengers in rows 30 to 45",
+        "explanation": "廣播明確說明rows 30 through 45的旅客現在開始登機。"
+      },
+      {
+        "id": "L4-T600-001-Q2",
+        "question": "What are passengers asked to have ready?",
+        "options": ["Their luggage tags", "Their boarding pass and passport", "Their credit card", "Their health declaration form"],
+        "answer": "Their boarding pass and passport",
+        "explanation": "獨白提到please have your boarding pass and passport ready for inspection。"
+      },
+      {
+        "id": "L4-T600-001-Q3",
+        "question": "Where does this announcement most likely take place?",
+        "options": ["At a train station", "At an airport gate", "At a hotel lobby", "At a bus terminal"],
+        "answer": "At an airport gate",
+        "explanation": "內容為登機廣播，提到boarding、gate、flight等機場用語。"
+      }
+    ]
+  },
+  {
+    "id": "L4-T600-002",
+    "part": 4,
+    "track": "T600",
+    "talk": "Good morning everyone, this is a quick announcement from the HR department. The annual safety training session originally scheduled for this Friday has been moved to next Monday. The training will now take place in Conference Room B on the third floor at 10 AM. Attendance is mandatory for all employees. Please bring your employee ID badge for registration. If you have any questions, please contact the HR office. Thank you.",
+    "questions": [
+      {
+        "id": "L4-T600-002-Q1",
+        "question": "What is the purpose of this announcement?",
+        "options": ["To introduce a new employee", "To announce a change in training schedule", "To remind staff about a holiday", "To report a maintenance issue"],
+        "answer": "To announce a change in training schedule",
+        "explanation": "HR宣布安全訓練從這週五改到下週一，屬於行程變更通知。"
+      },
+      {
+        "id": "L4-T600-002-Q2",
+        "question": "Where will the training be held?",
+        "options": ["Conference Room A", "Conference Room B", "The HR office", "The main lobby"],
+        "answer": "Conference Room B",
+        "explanation": "獨白提到training will take place in Conference Room B on the third floor。"
+      },
+      {
+        "id": "L4-T600-002-Q3",
+        "question": "What must employees bring to the training?",
+        "options": ["A notebook", "Their laptop", "Their employee ID badge", "A signed form"],
+        "answer": "Their employee ID badge",
+        "explanation": "公告要求Please bring your employee ID badge for registration。"
+      }
+    ]
+  },
+  {
+    "id": "L4-T600-003",
+    "part": 4,
+    "track": "T600",
+    "talk": "Hi Michael, this is Sarah from the accounting department. I am calling about the invoice for Project Alpha that your team submitted last week. I noticed that some of the expense figures in section three do not match the receipts you attached. Could you please review the document and send me the corrected version by tomorrow afternoon? You can either reply to my email or stop by my desk on the second floor. Thank you.",
+    "questions": [
+      {
+        "id": "L4-T600-003-Q1",
+        "question": "What is the main reason for this call?",
+        "options": ["To confirm a meeting time", "To ask about an invoice error", "To request a budget increase", "To schedule a project review"],
+        "answer": "To ask about an invoice error",
+        "explanation": "Sarah來電是因為費用數字與收據不符，需要修正發票。"
+      },
+      {
+        "id": "L4-T600-003-Q2",
+        "question": "What does the speaker ask Michael to do?",
+        "options": ["Submit a new invoice", "Review and correct the document", "Attend a meeting", "Contact the client"],
+        "answer": "Review and correct the document",
+        "explanation": "Sarah請Michael檢查文件並在明天下午前寄回修正版本。"
+      },
+      {
+        "id": "L4-T600-003-Q3",
+        "question": "Where is the accounting department located?",
+        "options": ["On the first floor", "On the second floor", "On the third floor", "In the main building"],
+        "answer": "On the second floor",
+        "explanation": "留言提到stop by my desk on the second floor，會計部門在二樓。"
+      }
+    ]
+  },
+  {
+    "id": "L4-T600-004",
+    "part": 4,
+    "track": "T600",
+    "talk": "Welcome to the Grand Horizon Hotel. We would like to inform our guests that the swimming pool on the fifth floor will be closed for maintenance this entire week. It will reopen on Monday next week at 6 AM. As an alternative, we invite you to use the fitness center on the second floor, which is open from 6 AM to 10 PM daily. We also offer a complimentary shuttle bus to the city beach every hour. We apologize for any inconvenience this may cause.",
+    "questions": [
+      {
+        "id": "L4-T600-004-Q1",
+        "question": "What is being announced?",
+        "options": ["A new hotel service", "The pool closure for maintenance", "A discount for guests", "A schedule change for the restaurant"],
+        "answer": "The pool closure for maintenance",
+        "explanation": "飯店公告游泳池因保養關閉一週。"
+      },
+      {
+        "id": "L4-T600-004-Q2",
+        "question": "What alternative facility is mentioned?",
+        "options": ["The spa center", "The fitness center", "The rooftop lounge", "The business center"],
+        "answer": "The fitness center",
+        "explanation": "飯店建議使用二樓的健身中心作為替代方案。"
+      },
+      {
+        "id": "L4-T600-004-Q3",
+        "question": "How often does the shuttle bus to the beach run?",
+        "options": ["Every 30 minutes", "Every hour", "Every two hours", "Every morning"],
+        "answer": "Every hour",
+        "explanation": "獨白提到complimentary shuttle bus to the city beach every hour。"
+      }
+    ]
+  },
+  {
+    "id": "L4-T600-005",
+    "part": 4,
+    "track": "T600",
+    "talk": "Hello and welcome to our new employee orientation. My name is David Chen, and I am the training manager here at Swift Logistics. Over the next two days, you will learn about our company policies, safety procedures, and daily operations. We will also give you a tour of our warehouse facility this afternoon. Lunch will be provided in the staff cafeteria on the ground floor from 12 to 1 PM. Please make sure you have your temporary access card with you at all times. Let us begin.",
+    "questions": [
+      {
+        "id": "L4-T600-005-Q1",
+        "question": "Who is the speaker?",
+        "options": ["A warehouse supervisor", "The training manager", "A company director", "An external consultant"],
+        "answer": "The training manager",
+        "explanation": "David Chen自我介紹是Swift Logistics的training manager。"
+      },
+      {
+        "id": "L4-T600-005-Q2",
+        "question": "What will happen this afternoon?",
+        "options": ["A written test", "A warehouse tour", "A team meeting", "A safety drill"],
+        "answer": "A warehouse tour",
+        "explanation": "獨白說We will also give you a tour of our warehouse facility this afternoon。"
+      },
+      {
+        "id": "L4-T600-005-Q3",
+        "question": "What are new employees reminded to carry?",
+        "options": ["Their employee handbook", "Their temporary access card", "Their identification photo", "Their training certificate"],
+        "answer": "Their temporary access card",
+        "explanation": "新人被提醒要隨身攜帶their temporary access card。"
+      }
+    ]
+  },
+  {
+    "id": "L4-T600-006",
+    "part": 4,
+    "track": "T600",
+    "talk": "Good afternoon, shoppers. This is a store announcement for all customers. Our electronics department is currently having a special sale on all laptop computers. You can get up to thirty percent off selected brands including TechPro and Nova. This offer is valid only for today while stock lasts. Please visit the electronics section on the second floor to speak with our sales team. Additionally, all purchases over five hundred dollars qualify for free delivery. Thank you for shopping with us.",
+    "questions": [
+      {
+        "id": "L4-T600-006-Q1",
+        "question": "What is on sale?",
+        "options": ["Smartphones", "Laptop computers", "Home appliances", "Office furniture"],
+        "answer": "Laptop computers",
+        "explanation": "公告提到電子部門正在舉辦laptop computers特賣。"
+      },
+      {
+        "id": "L4-T600-006-Q2",
+        "question": "What is the discount being offered?",
+        "options": ["Up to fifteen percent off", "Up to thirty percent off", "Up to fifty percent off", "Up to seventy percent off"],
+        "answer": "Up to thirty percent off",
+        "explanation": "特賣提供up to thirty percent off的折扣。"
+      },
+      {
+        "id": "L4-T600-006-Q3",
+        "question": "What benefit is available for purchases over five hundred dollars?",
+        "options": ["A gift voucher", "Free delivery", "An extended warranty", "A free accessory"],
+        "answer": "Free delivery",
+        "explanation": "獨白說purchases over five hundred dollars qualify for free delivery。"
+      }
+    ]
+  },
+  {
+    "id": "L4-T600-007",
+    "part": 4,
+    "track": "T600",
+    "talk": "Attention, passengers. This is an announcement for those traveling on the 9:15 express train to Manchester. Due to a signal problem near the central station, the train will depart from platform 6 instead of platform 3. Please proceed to platform 6 immediately. We expect a delay of approximately twenty minutes. We apologize for the last-minute change and appreciate your understanding. For further information, please check the departure boards or speak to station staff.",
+    "questions": [
+      {
+        "id": "L4-T600-007-Q1",
+        "question": "What is the cause of the platform change?",
+        "options": ["Track maintenance", "A signal problem", "Weather conditions", "A staffing issue"],
+        "answer": "A signal problem",
+        "explanation": "廣播說明due to a signal problem near the central station。"
+      },
+      {
+        "id": "L4-T600-007-Q2",
+        "question": "Which platform will the train now depart from?",
+        "options": ["Platform 3", "Platform 6", "Platform 9", "Platform 12"],
+        "answer": "Platform 6",
+        "explanation": "列車改由platform 6發車，而不是原來的platform 3。"
+      },
+      {
+        "id": "L4-T600-007-Q3",
+        "question": "How long is the expected delay?",
+        "options": ["Ten minutes", "Twenty minutes", "Thirty minutes", "One hour"],
+        "answer": "Twenty minutes",
+        "explanation": "廣播提到delay of approximately twenty minutes。"
+      }
+    ]
+  },
+  {
+    "id": "L4-T600-008",
+    "part": 4,
+    "track": "T600",
+    "talk": "Good morning, team. This is a brief update from the project management office regarding the Riverside development project. I am happy to report that we have received final approval from the city council. Construction work is scheduled to begin on March 15th. We will hold a kickoff meeting this Thursday at 2 PM in the main conference room. All department heads are required to attend. Please prepare a short progress report for your respective teams. Thank you for your hard work.",
+    "questions": [
+      {
+        "id": "L4-T600-008-Q1",
+        "question": "What has the company received from the city council?",
+        "options": ["A funding grant", "Final approval", "A construction permit", "An inspection notice"],
+        "answer": "Final approval",
+        "explanation": "專案經理報告已收到市議會的final approval。"
+      },
+      {
+        "id": "L4-T600-008-Q2",
+        "question": "When will the construction work start?",
+        "options": ["March 1st", "March 15th", "April 1st", "April 15th"],
+        "answer": "March 15th",
+        "explanation": "Construction work is scheduled to begin on March 15th。"
+      },
+      {
+        "id": "L4-T600-008-Q3",
+        "question": "What are department heads told to do?",
+        "options": ["Submit a budget plan", "Prepare a progress report", "Hire new staff", "Review the contract"],
+        "answer": "Prepare a progress report",
+        "explanation": "各部門主管被要求prepare a short progress report for your respective teams。"
+      }
+    ]
+  },
+  {
+    "id": "L4-T600-009",
+    "part": 4,
+    "track": "T600",
+    "talk": "Hello, this is a message from Dr. Lisa Wang's office at City Medical Clinic. This call is to remind you of your dental appointment scheduled for tomorrow, Wednesday, May 12th, at 10:30 AM. Please arrive fifteen minutes early to complete the necessary paperwork. If you need to reschedule or cancel, please call us at least 24 hours in advance. You can reach us at 555-0198 during regular business hours. We look forward to seeing you tomorrow.",
+    "questions": [
+      {
+        "id": "L4-T600-009-Q1",
+        "question": "Who is the intended recipient of this message?",
+        "options": ["A new patient", "A clinic employee", "A patient with an appointment", "A medical supplier"],
+        "answer": "A patient with an appointment",
+        "explanation": "此留言是提醒患者Dr. Lisa Wang的牙科預約。"
+      },
+      {
+        "id": "L4-T600-009-Q2",
+        "question": "What time is the patient asked to arrive?",
+        "options": ["10:00 AM", "10:15 AM", "10:30 AM", "10:45 AM"],
+        "answer": "10:15 AM",
+        "explanation": "病患被要求在預約時間前15分鐘（10:15 AM）到達填寫文件。"
+      },
+      {
+        "id": "L4-T600-009-Q3",
+        "question": "What should the patient do if they need to cancel?",
+        "options": ["Send an email", "Call 24 hours in advance", "Visit the clinic in person", "Notify the insurance company"],
+        "answer": "Call 24 hours in advance",
+        "explanation": "留言說明若要取消需提前24小時電話通知。"
+      }
+    ]
+  },
+  {
+    "id": "L4-T600-010",
+    "part": 4,
+    "track": "T600",
+    "talk": "Good afternoon and thank you for joining today's product demonstration. I am pleased to introduce our latest smart home device, the HomeGuard Security Camera. This camera offers high-definition video recording and night vision capability. You can control it directly from your smartphone using our free mobile application. The device is easy to install and comes with a one-year warranty. For the next 48 hours, we are offering a special discount of twenty percent for all online orders. Thank you for your attention.",
+    "questions": [
+      {
+        "id": "L4-T600-010-Q1",
+        "question": "What product is being introduced?",
+        "options": ["A smart thermostat", "A security camera", "A robotic vacuum", "A video doorbell"],
+        "answer": "A security camera",
+        "explanation": "演講介紹的產品是HomeGuard Security Camera。"
+      },
+      {
+        "id": "L4-T600-010-Q2",
+        "question": "How can users control the device?",
+        "options": ["With a remote control", "Through a smartphone app", "With voice commands", "Through a web browser"],
+        "answer": "Through a smartphone app",
+        "explanation": "產品可以透過free mobile application在智慧型手機上控制。"
+      },
+      {
+        "id": "L4-T600-010-Q3",
+        "question": "What special offer is mentioned?",
+        "options": ["Free installation", "A twenty percent discount", "A free extra camera", "An extended warranty"],
+        "answer": "A twenty percent discount",
+        "explanation": "接下來48小時內線上訂購可享special discount of twenty percent。"
+      }
+    ]
+  },
+  {
+    "id": "L4-T600-011",
+    "part": 4,
+    "track": "T600",
+    "talk": "Good morning. This is a traffic update from City Radio News. We are currently reporting heavy traffic on Highway 15 near the downtown area due to a vehicle breakdown in the left lane. Drivers heading south should expect delays of up to 30 minutes. As an alternative, you may use River Road or Bridge Street to avoid the congestion. Public buses on routes 27 and 33 are also running about 15 minutes behind schedule. Please drive carefully and allow extra travel time this morning.",
+    "questions": [
+      {
+        "id": "L4-T600-011-Q1",
+        "question": "What is causing the traffic delay on Highway 15?",
+        "options": ["Road construction", "A vehicle breakdown", "A car accident", "Bad weather"],
+        "answer": "A vehicle breakdown",
+        "explanation": "塞車原因為a vehicle breakdown in the left lane。"
+      },
+      {
+        "id": "L4-T600-011-Q2",
+        "question": "Which roads are suggested as alternatives?",
+        "options": ["Highway 20 and Main Street", "River Road and Bridge Street", "Park Avenue and Oak Lane", "Coastal Highway and Elm Street"],
+        "answer": "River Road and Bridge Street",
+        "explanation": "建議替代道路為River Road or Bridge Street。"
+      },
+      {
+        "id": "L4-T600-011-Q3",
+        "question": "How delayed are the public buses mentioned?",
+        "options": ["5 minutes behind", "10 minutes behind", "15 minutes behind", "30 minutes behind"],
+        "answer": "15 minutes behind",
+        "explanation": "27路和33路公車約晚15分鐘。"
+      }
+    ]
+  },
+  {
+    "id": "L4-T600-012",
+    "part": 4,
+    "track": "T600",
+    "talk": "Hello everyone, this is a message from the facilities management team. We would like to inform all staff that the elevator in Building A will be out of service this Saturday for regular maintenance. Work will begin at 8 AM and is expected to finish by 5 PM. During this time, please use the stairs or the elevator in Building B, which will operate as usual. If you require special assistance, please contact the facilities office at extension 420. We apologize for any inconvenience.",
+    "questions": [
+      {
+        "id": "L4-T600-012-Q1",
+        "question": "Why will the elevator be out of service?",
+        "options": ["It is being replaced", "For regular maintenance", "Due to a power outage", "For safety inspection"],
+        "answer": "For regular maintenance",
+        "explanation": "電梯因例行維護（regular maintenance）暫停使用。"
+      },
+      {
+        "id": "L4-T600-012-Q2",
+        "question": "How long will the maintenance work take?",
+        "options": ["5 hours", "8 hours", "9 hours", "12 hours"],
+        "answer": "9 hours",
+        "explanation": "從早上8點到下午5點，共9小時。"
+      },
+      {
+        "id": "L4-T600-012-Q3",
+        "question": "What should staff do if they need special help?",
+        "options": ["Call the front desk", "Contact the facilities office", "Speak to their manager", "Send a work request"],
+        "answer": "Contact the facilities office",
+        "explanation": "需要特殊協助的人請聯絡facilities office，分機420。"
+      }
+    ]
+  }
+]

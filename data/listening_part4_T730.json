@@ -1,0 +1,357 @@
+[
+  {
+    "id": "L4-T730-001",
+    "part": 4,
+    "track": "T730",
+    "talk": "Good morning, everyone, and thank you for attending today's quarterly sales review. Before we begin, I want to make a few important announcements. First, our regional director has informed me that the budget for next quarter's marketing campaign will be reduced by fifteen percent. This means we will need to prioritize digital channels over traditional print advertising. Second, the client feedback from last month's product launch has been overwhelmingly positive, particularly regarding the packaging redesign. However, we did receive some complaints about delayed shipping times. Therefore, the logistics team will be implementing a new tracking system starting next week. I expect all department heads to submit their revised budget proposals by this Friday. Please keep your presentations concise as we have a lot to cover this morning.",
+    "questions": [
+      {
+        "id": "L4-T730-001-Q1",
+        "question": "What is implied about the marketing strategy going forward?",
+        "options": ["It will focus on television commercials", "It will shift toward online advertising", "It will remain unchanged", "It will involve hiring more staff"],
+        "answer": "It will shift toward online advertising",
+        "explanation": "預算削減後說話者暗示需優先選擇數位通路而非傳統印刷廣告，因此行銷策略將轉向線上。"
+      },
+      {
+        "id": "L4-T730-001-Q2",
+        "question": "What problem was identified in the client feedback?",
+        "options": ["Poor product quality", "Late deliveries", "High prices", "Unhelpful customer service"],
+        "answer": "Late deliveries",
+        "explanation": "客戶抱怨集中在delayed shipping times，即出貨延遲問題。"
+      },
+      {
+        "id": "L4-T730-001-Q3",
+        "question": "What can be inferred about the speaker's expectation for the meeting?",
+        "options": ["It will be a short informal chat", "It will run longer than usual", "It will focus only on the budget", "It will involve a guest speaker"],
+        "answer": "It will run longer than usual",
+        "explanation": "說話者要求簡報精簡因為有很多內容要討論，暗示會議可能比平常長。"
+      },
+      {
+        "id": "L4-T730-001-Q4",
+        "question": "When must the budget proposals be submitted?",
+        "options": ["By the end of this month", "By this Friday", "By next Monday", "By the end of the quarter"],
+        "answer": "By this Friday",
+        "explanation": "各部門主管需在本週五前提交修訂後的預算提案。"
+      }
+    ]
+  },
+  {
+    "id": "L4-T730-002",
+    "part": 4,
+    "track": "T730",
+    "talk": "Hi Jennifer, this is Mark from the IT support desk. I am following up on the ticket you submitted yesterday regarding the issues with your accounting software. Our team has identified the problem: there was a conflict between the latest system update and your current software version. To resolve this, you will need to uninstall the current version and install the updated patch, which you can download from the company intranet under the IT resources section. However, before doing that, please make sure to back up all your files, as the installation process may affect your local data. If you encounter any further difficulties after the update, please do not hesitate to submit another ticket. I will also be in the office until 6 PM today if you would prefer to call me directly.",
+    "questions": [
+      {
+        "id": "L4-T730-002-Q1",
+        "question": "What is the main purpose of this message?",
+        "options": ["To apologize for a system error", "To provide a solution to a technical issue", "To announce a software upgrade", "To schedule a training session"],
+        "answer": "To provide a solution to a technical issue",
+        "explanation": "IT人員回覆之前回報的軟體問題，並提供解決方案。"
+      },
+      {
+        "id": "L4-T730-002-Q2",
+        "question": "What does the speaker suggest Jennifer do before installing the patch?",
+        "options": ["Contact the vendor", "Delete old files", "Back up her data", "Restart her computer"],
+        "answer": "Back up her data",
+        "explanation": "安裝前必須先備份檔案，因為安裝過程可能影響本地資料。暗示了預防措施的重要性。"
+      },
+      {
+        "id": "L4-T730-002-Q3",
+        "question": "What can be inferred about the relationship between the two speakers?",
+        "options": ["They work in the same department", "They are manager and subordinate", "Mark provides technical support to Jennifer", "They are external vendors"],
+        "answer": "Mark provides technical support to Jennifer",
+        "explanation": "Mark來自IT支援台，正在回覆Jennifer的報修單，屬於技術支援關係。"
+      }
+    ]
+  },
+  {
+    "id": "L4-T730-003",
+    "part": 4,
+    "track": "T730",
+    "talk": "Good afternoon, colleagues. As many of you may have heard, our company will be undergoing a restructuring over the next three months. This reorganization is intended to streamline our operations and improve efficiency across all departments. As a result, the current five divisions will be consolidated into three: Sales and Marketing, Operations, and Product Development. I understand that change can be unsettling, and I want to assure you that no major layoffs are planned at this time. However, some roles may be reassigned, and a number of team members may be relocated to different offices. The human resources department will hold a series of informational sessions starting next Tuesday to answer any questions you may have. I encourage everyone to attend and stay informed.",
+    "questions": [
+      {
+        "id": "L4-T730-003-Q1",
+        "question": "What is the speaker's attitude toward the upcoming changes?",
+        "options": ["Excited and enthusiastic", "Reassuring but realistic", "Disappointed and critical", "Uncertain and hesitant"],
+        "answer": "Reassuring but realistic",
+        "explanation": "說話者一方面安撫員工沒有大量裁員計畫，但也誠實提到職務可能調整，態度是安撫且務實的。"
+      },
+      {
+        "id": "L4-T730-003-Q2",
+        "question": "What will happen to the current five divisions?",
+        "options": ["They will remain unchanged", "They will be expanded to seven", "They will be merged into three", "They will be outsourced"],
+        "answer": "They will be merged into three",
+        "explanation": "現有的五個部門將整併為三個：業務行銷、營運、產品開發。"
+      },
+      {
+        "id": "L4-T730-003-Q3",
+        "question": "What does the speaker imply might happen to some employees?",
+        "options": ["They will lose their jobs", "They may be transferred to other offices", "They will receive a pay raise", "They will be promoted"],
+        "answer": "They may be transferred to other offices",
+        "explanation": "雖無大量裁員，但部分員工可能被調到不同辦公室（relocated to different offices）。"
+      }
+    ]
+  },
+  {
+    "id": "L4-T730-004",
+    "part": 4,
+    "track": "T730",
+    "talk": "Welcome to the Advanced Project Management workshop. Before we dive into today's material, I would like to go over a few logistical points. The workshop is divided into three tracks: Agile Methodology, Risk Assessment, and Stakeholder Communication. Please check your registration packet to confirm which track you have been assigned to. Each session lasts approximately 90 minutes with a 15-minute break in between. Lunch will be served in the atrium at 12:30 PM. One important note: if you are in the Risk Assessment track, you will need to bring the case study handout that was emailed to you last week, as we will be working on it extensively this afternoon. For those who forgot to bring it, extra copies are available at the registration desk. Let me know if you have any questions before we begin.",
+    "questions": [
+      {
+        "id": "L4-T730-004-Q1",
+        "question": "What should participants do first according to the speaker?",
+        "options": ["Introduce themselves", "Check their assigned track", "Pick up a name badge", "Find their seat"],
+        "answer": "Check their assigned track",
+        "explanation": "參與者應先查閱註冊資料袋確認自己被分配到哪個track。"
+      },
+      {
+        "id": "L4-T730-004-Q2",
+        "question": "What is suggested about the Risk Assessment session?",
+        "options": ["It will be mostly lecture-based", "It involves hands-on work with a handout", "It has been canceled", "It requires prior certification"],
+        "answer": "It involves hands-on work with a handout",
+        "explanation": "風險評估組需要帶案例研究 handout 進行大量實作，暗示這是互動式環節。"
+      },
+      {
+        "id": "L4-T730-004-Q3",
+        "question": "What can be inferred about some participants?",
+        "options": ["They registered late", "They did not bring their handout", "They are attending the wrong track", "They have not paid the fee"],
+        "answer": "They did not bring their handout",
+        "explanation": "說話者提到忘記帶handout的人可以去報到台領取，暗示確實有人沒帶。"
+      }
+    ]
+  },
+  {
+    "id": "L4-T730-005",
+    "part": 4,
+    "track": "T730",
+    "talk": "May I have your attention, please. This is a safety announcement for all visitors and staff at the North City Convention Center. In the event of an emergency, please follow the illuminated exit signs located throughout the building. The primary evacuation assembly point is the parking lot on the east side of the building. However, if the east exit is blocked, proceed to the secondary assembly point at the west entrance. Please note that the elevators will automatically shut down during an emergency and must not be used. Visitors with mobility impairments should proceed to the nearest stairwell and wait for assistance from security personnel. Emergency drills will be conducted tomorrow at 10 AM and 3 PM. Your cooperation is greatly appreciated.",
+    "questions": [
+      {
+        "id": "L4-T730-005-Q1",
+        "question": "Where is the primary evacuation assembly point?",
+        "options": ["The main lobby", "The east parking lot", "The west entrance", "The north gate"],
+        "answer": "The east parking lot",
+        "explanation": "主要疏散集合點為building on the east side的停車場。"
+      },
+      {
+        "id": "L4-T730-005-Q2",
+        "question": "What instruction is given for people with mobility difficulties?",
+        "options": ["Use the elevator carefully", "Wait at the stairwell for help", "Exit through the main entrance", "Stay in their current location"],
+        "answer": "Wait at the stairwell for help",
+        "explanation": "行動不便者應前往最近的樓梯間等待安全人員協助。"
+      },
+      {
+        "id": "L4-T730-005-Q3",
+        "question": "What does the speaker imply about the east exit?",
+        "options": ["It is the only exit available", "It may not always be accessible", "It is reserved for staff only", "It leads to a different building"],
+        "answer": "It may not always be accessible",
+        "explanation": "說話者提到if the east exit is blocked則需使用西側集合點，暗示東側出口可能在某些情況下無法使用。"
+      }
+    ]
+  },
+  {
+    "id": "L4-T730-006",
+    "part": 4,
+    "track": "T730",
+    "talk": "Hello, this is Amber from Global Travel Services. I am calling regarding your upcoming business trip to Singapore next month. I have finalized your itinerary, and I would like to go over a few key changes. Your outbound flight has been switched from an early morning departure to a red-eye flight departing at 11:45 PM, which will save the company approximately three hundred dollars on the fare. Consequently, your hotel check-in has been moved from Tuesday afternoon to Wednesday morning. The hotel has confirmed they will hold your reservation despite the late arrival. Also, please note that the meeting with the regional partners has been rescheduled from Thursday to Friday due to a scheduling conflict on their end. I will email you the updated itinerary shortly. Please review it and confirm that everything is in order.",
+    "questions": [
+      {
+        "id": "L4-T730-006-Q1",
+        "question": "Why was the flight changed to a red-eye departure?",
+        "options": ["The original flight was canceled", "To reduce travel costs", "The client requested a later arrival", "To accommodate a schedule conflict"],
+        "answer": "To reduce travel costs",
+        "explanation": "更改為深夜航班可為公司節省約三百美元，目的是降低成本。"
+      },
+      {
+        "id": "L4-T730-006-Q2",
+        "question": "What can be inferred about the hotel reservation?",
+        "options": ["It was canceled due to policy changes", "It has been adjusted for a late arrival", "It has been moved to a different hotel", "It requires a deposit"],
+        "answer": "It has been adjusted for a late arrival",
+        "explanation": "入住時間從週二下午延至週三早上，飯店已知會保留預訂，暗示已配合深夜航班做了調整。"
+      },
+      {
+        "id": "L4-T730-006-Q3",
+        "question": "Who is responsible for the meeting rescheduling?",
+        "options": ["The speaker", "The regional partners", "The hotel staff", "The airline company"],
+        "answer": "The regional partners",
+        "explanation": "會議改期是因為regional partners方面有行程衝突。"
+      }
+    ]
+  },
+  {
+    "id": "L4-T730-007",
+    "part": 4,
+    "track": "T730",
+    "talk": "Good morning, everyone. Thank you for coming to today's performance review meeting. I have reviewed the quarterly reports from each department, and overall, I am quite pleased with the progress we have made. However, I must point out that the customer service team has seen a noticeable decline in satisfaction scores over the past two months. While the sales figures remain strong, we cannot afford to overlook this trend. I would like the customer service manager to present a corrective action plan at next week's management meeting. Additionally, I was impressed by the marketing department's innovative approach to the recent social media campaign, which resulted in a twenty-five percent increase in online engagement. I encourage other teams to learn from their strategy. Let us now go through the individual department reports.",
+    "questions": [
+      {
+        "id": "L4-T730-007-Q1",
+        "question": "What concern does the speaker raise about the customer service team?",
+        "options": ["They have high staff turnover", "Their satisfaction scores have dropped", "They are understaffed", "They lack proper training"],
+        "answer": "Their satisfaction scores have dropped",
+        "explanation": "客服部門的客戶滿意度分數在過去兩個月明顯下降。"
+      },
+      {
+        "id": "L4-T730-007-Q2",
+        "question": "What does the speaker imply about the company's overall performance?",
+        "options": ["It is declining in all areas", "It is strong but has some concerns", "It exceeds expectations", "It needs a complete restructuring"],
+        "answer": "It is strong but has some concerns",
+        "explanation": "說話者對整體進展感到滿意，銷售表現良好，但也點出客服滿意度下滑的問題。"
+      },
+      {
+        "id": "L4-T730-007-Q3",
+        "question": "What is the marketing department being praised for?",
+        "options": ["Budget management", "A social media campaign", "Product innovation", "Team collaboration"],
+        "answer": "A social media campaign",
+        "explanation": "行銷部門最近的社群媒體活動使線上互動率提升25%，受到讚揚。"
+      }
+    ]
+  },
+  {
+    "id": "L4-T730-008",
+    "part": 4,
+    "track": "T730",
+    "talk": "Thank you all for joining this year's annual shareholder meeting. I am pleased to report that our company has achieved a twelve percent growth in revenue compared to the previous fiscal year, exceeding our initial projection of eight percent. This growth was largely driven by our expansion into the Southeast Asian market, which now accounts for thirty percent of our total sales. Nevertheless, we also faced challenges, particularly in the supply chain sector, where rising material costs reduced our profit margins by approximately three percent. Looking ahead, we plan to invest heavily in research and development, with a particular focus on sustainable packaging solutions. We are also exploring potential partnerships with two major distributors in Europe. I am confident that these strategic initiatives will position us well for continued growth in the coming year.",
+    "questions": [
+      {
+        "id": "L4-T730-008-Q1",
+        "question": "What was the original revenue growth projection?",
+        "options": ["Three percent", "Eight percent", "Twelve percent", "Thirty percent"],
+        "answer": "Eight percent",
+        "explanation": "公司最初預測營收成長8%，實際達到12%，超出預期。"
+      },
+      {
+        "id": "L4-T730-008-Q2",
+        "question": "What factor negatively affected the company's profits?",
+        "options": ["Low sales in Europe", "Higher material costs", "Currency exchange rates", "Increased labor expenses"],
+        "answer": "Higher material costs",
+        "explanation": "供應鏈環節中rising material costs使利潤率下降約3%。"
+      },
+      {
+        "id": "L4-T730-008-Q3",
+        "question": "What does the speaker imply about the company's future strategy?",
+        "options": ["It will focus on domestic expansion", "It will prioritize sustainability and partnerships", "It will reduce investment in R&D", "It will withdraw from Southeast Asia"],
+        "answer": "It will prioritize sustainability and partnerships",
+        "explanation": "未來將投資研發永續包裝解決方案，並探索與歐洲兩大經銷商合作，暗示永續與合作為核心策略。"
+      }
+    ]
+  },
+  {
+    "id": "L4-T730-009",
+    "part": 4,
+    "track": "T730",
+    "talk": "Hi everyone, this is Kevin from the product development team. I wanted to give you a quick update on the timeline for the Nexus software release. As you know, we had originally planned to launch version 2.0 by the end of this quarter. However, during last week's beta testing, our quality assurance team identified several compatibility issues with older operating systems. To ensure a smooth user experience, we have decided to push the release date back by six weeks. The new target is mid-November. This delay will also give us time to incorporate the additional features that the marketing team requested last month. Please note that the documentation team should begin drafting the user manual now so that it is ready by the time the development is complete. I will send out a revised schedule by the end of the day.",
+    "questions": [
+      {
+        "id": "L4-T730-009-Q1",
+        "question": "What caused the delay in the software release?",
+        "options": ["Insufficient funding", "Compatibility issues found in testing", "A change in management", "Staff shortage in development"],
+        "answer": "Compatibility issues found in testing",
+        "explanation": "Beta測試中發現與舊版作業系統的相容性問題，導致需要延期。"
+      },
+      {
+        "id": "L4-T730-009-Q2",
+        "question": "What additional reason is given for the delay?",
+        "options": ["Legal approval is pending", "Marketing requested new features", "The development team is too busy", "The budget needs revision"],
+        "answer": "Marketing requested new features",
+        "explanation": "延期也讓團隊有時間納入行銷部門上個月要求的新功能。"
+      },
+      {
+        "id": "L4-T730-009-Q3",
+        "question": "What does the speaker imply the documentation team should do?",
+        "options": ["Wait until development is finished", "Start working on the user manual now", "Focus on testing instead", "Collaborate with the marketing team"],
+        "answer": "Start working on the user manual now",
+        "explanation": "說話者建議文件團隊現在就開始起草使用手冊，才能在開發完成時準備就緒。"
+      }
+    ]
+  },
+  {
+    "id": "L4-T730-010",
+    "part": 4,
+    "track": "T730",
+    "talk": "Good afternoon, this is a courtesy message from your insurance provider, SecureLife Insurance. We are writing to inform you that your current auto insurance policy will expire on September 30th. To ensure continuous coverage, we encourage you to renew your policy at least two weeks before the expiration date. You have several renewal options available. If you renew online through our website, you will receive a five percent discount on your premium. Alternatively, you can visit one of our local branches or call our customer service hotline. Please be aware that if your policy lapses for more than thirty days, your no-claims bonus will be reset to zero. Moreover, any new policy issued after a lapse may be subject to higher rates. We recommend reviewing your coverage details before making a decision.",
+    "questions": [
+      {
+        "id": "L4-T730-010-Q1",
+        "question": "What is the purpose of this message?",
+        "options": ["To announce a rate increase", "To notify about policy expiration", "To introduce a new insurance plan", "To request payment for a claim"],
+        "answer": "To notify about policy expiration",
+        "explanation": "保險公司通知客戶汽車保單即將在9月30日到期。"
+      },
+      {
+        "id": "L4-T730-010-Q2",
+        "question": "What benefit is offered for renewing online?",
+        "options": ["An extended coverage period", "A five percent discount", "A free additional policy", "A waiver of the deductible"],
+        "answer": "A five percent discount",
+        "explanation": "透過網站線上續約可享5%保費折扣。"
+      },
+      {
+        "id": "L4-T730-010-Q3",
+        "question": "What consequence of a policy lapse is mentioned?",
+        "options": ["The policyholder must pay a fine", "The no-claims bonus will be lost", "Coverage will be permanently canceled", "The policyholder must reapply in person"],
+        "answer": "The no-claims bonus will be lost",
+        "explanation": "保單中斷超過30天，無索賠獎勵將歸零，且新保單費率可能更高。"
+      }
+    ]
+  },
+  {
+    "id": "L4-T730-011",
+    "part": 4,
+    "track": "T730",
+    "talk": "Welcome to the City Science Museum. My name is Dr. Helen Park, and I will be your guide for today's special exhibition on renewable energy. Before we proceed, I would like to remind everyone of a few important guidelines. First, photography is permitted throughout the exhibition, but the use of flash is strictly prohibited as it may damage certain sensitive displays. Second, while we encourage questions, please wait until the end of each section to ask them so that the group can move through the exhibition smoothly. We have a lot to cover in the next two hours. The exhibition is divided into four zones, each focusing on a different type of renewable energy. There will be a fifteen-minute break after we finish the third zone. Restrooms and a small café are located on the lower level. Please keep your admission ticket handy, as you may need it for entry into the interactive simulation room.",
+    "questions": [
+      {
+        "id": "L4-T730-011-Q1",
+        "question": "Where does this talk most likely take place?",
+        "options": ["At a university lecture hall", "At a science museum", "At a corporate training event", "At an environmental conference"],
+        "answer": "At a science museum",
+        "explanation": "說話者自我介紹為City Science Museum的導覽員，正在帶領再生能源特展。"
+      },
+      {
+        "id": "L4-T730-011-Q2",
+        "question": "Why is flash photography not allowed?",
+        "options": ["It disturbs other visitors", "It may damage the displays", "It is against museum policy", "It is not needed in well-lit areas"],
+        "answer": "It may damage the displays",
+        "explanation": "閃光燈可能損壞敏感展品（damage certain sensitive displays）。"
+      },
+      {
+        "id": "L4-T730-011-Q3",
+        "question": "What does the speaker imply about the interactive simulation room?",
+        "options": ["It requires an extra fee", "It has limited capacity", "It requires a ticket for entry", "It is closed for maintenance"],
+        "answer": "It requires a ticket for entry",
+        "explanation": "說話者提醒保留入場券因為互動模擬室可能需要驗票入場。"
+      }
+    ]
+  },
+  {
+    "id": "L4-T730-012",
+    "part": 4,
+    "track": "T730",
+    "talk": "Hello team. I have an update on the Eastside office relocation plan that I want to share with you directly. As you are aware, we have been looking for a new location since the beginning of the year because our current lease expires in March. After reviewing several options, the management team has selected a building in the Riverside business district. The new office space is approximately thirty percent larger than our current one and includes a dedicated parking garage. However, the move will take place earlier than originally anticipated. Instead of February, the relocation will now happen in mid-January, which is only eight weeks away. This change is due to the fact that the landlord of the new building offered us a significantly reduced rate for the first six months if we sign the lease by the end of this month. Therefore, I need all department heads to submit their moving requirements, such as furniture and IT equipment needs, by next Friday. I understand this is short notice, but the financial benefit is substantial.",
+    "questions": [
+      {
+        "id": "L4-T730-012-Q1",
+        "question": "Why is the company relocating?",
+        "options": ["The current building is being sold", "The lease is expiring soon", "The office is too small", "The location is inconvenient"],
+        "answer": "The lease is expiring soon",
+        "explanation": "公司從年初就開始尋找新地點，因為現有租約將在3月到期。"
+      },
+      {
+        "id": "L4-T730-012-Q2",
+        "question": "What caused the move date to be brought forward?",
+        "options": ["The new building became available early", "A financial incentive from the landlord", "The current landlord raised the rent", "A department head requested it"],
+        "answer": "A financial incentive from the landlord",
+        "explanation": "新房東提供前六個月的優惠租金，條件是必須在本月底前簽約，因此搬家提前。"
+      },
+      {
+        "id": "L4-T730-012-Q3",
+        "question": "What can be inferred about the speaker's tone regarding the new timeline?",
+        "options": ["Relieved and enthusiastic", "Apologetic but determined", "Angry and frustrated", "Indifferent and casual"],
+        "answer": "Apologetic but determined",
+        "explanation": "說話者承認時間緊迫（short notice），但強調財務利益可觀，態度是抱歉但堅定。"
+      }
+    ]
+  }
+]

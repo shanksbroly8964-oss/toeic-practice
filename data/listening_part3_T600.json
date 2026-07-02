@@ -1,0 +1,286 @@
+[
+  {
+    "id": "L3-T600-001",
+    "part": 3,
+    "track": "T600",
+    "conversation": [
+      {"speaker": "A", "line": "Did you finish the quarterly report?"},
+      {"speaker": "B", "line": "Almost. I just need the sales figures from Tom."},
+      {"speaker": "A", "line": "He said he'd send them by 3 PM today."},
+      {"speaker": "B", "line": "Great. I'll finalize the report right after that."},
+      {"speaker": "A", "line": "Do you need any help with the formatting?"},
+      {"speaker": "B", "line": "No thanks. I have the template ready from last quarter."}
+    ],
+    "chartData": null,
+    "questions": [
+      {"id": "L3-T600-001-Q1", "question": "What are the speakers mainly discussing?", "options": ["A quarterly report", "A sales meeting", "A new employee", "A budget review"], "answer": "A quarterly report", "explanation": "對話從頭到尾都在討論季度報告的進度、所需資料與完成時間。", "requiresChart": false},
+      {"id": "L3-T600-001-Q2", "question": "What does the woman need from Tom?", "options": ["A report template", "Sales figures", "Formatting help", "Meeting notes"], "answer": "Sales figures", "explanation": "B說她還需要Tom的銷售數據才能完成報告。", "requiresChart": false},
+      {"id": "L3-T600-001-Q3", "question": "When will the report most likely be completed?", "options": ["Before lunch", "After 3 PM today", "Tomorrow morning", "By the end of the week"], "answer": "After 3 PM today", "explanation": "Tom預計3點前發送數據，B說收到後立刻完成報告，因此報告應在下午3點後完成。", "requiresChart": false}
+    ]
+  },
+  {
+    "id": "L3-T600-002",
+    "part": 3,
+    "track": "T600",
+    "conversation": [
+      {"speaker": "A", "line": "We're running low on printer paper. Can you place an order?"},
+      {"speaker": "B", "line": "Sure. How many reams do we need?"},
+      {"speaker": "A", "line": "Get five reams of A4 and two of A3."},
+      {"speaker": "B", "line": "The regular supplier is offering a fifteen percent discount on bulk orders this week."},
+      {"speaker": "A", "line": "Then let's order ten reams of A4 instead. It'll last us longer."},
+      {"speaker": "B", "line": "Good idea. I'll also add toner cartridges to the list."},
+      {"speaker": "A", "line": "Yes, please add two black cartridges. Thanks."}
+    ],
+    "chartData": null,
+    "questions": [
+      {"id": "L3-T600-002-Q1", "question": "What are the speakers doing?", "options": ["Reviewing a budget", "Ordering office supplies", "Moving furniture", "Scheduling a delivery"], "answer": "Ordering office supplies", "explanation": "對話內容為訂購影印紙與碳粉匣等辦公用品。", "requiresChart": false},
+      {"id": "L3-T600-002-Q2", "question": "How many reams of A4 paper do they decide to order?", "options": ["Two", "Five", "Ten", "Fifteen"], "answer": "Ten", "explanation": "A原本要訂五令，聽到有折扣後決定改訂十令。", "requiresChart": false},
+      {"id": "L3-T600-002-Q3", "question": "What else does the man ask to add to the order?", "options": ["A3 paper", "Printer ink", "Toner cartridges", "Envelopes"], "answer": "Toner cartridges", "explanation": "A最後說要加訂兩個黑色碳粉匣。", "requiresChart": false}
+    ]
+  },
+  {
+    "id": "L3-T600-003",
+    "part": 3,
+    "track": "T600",
+    "conversation": [
+      {"speaker": "A", "line": "The client just called. They can't make tomorrow's two o'clock meeting."},
+      {"speaker": "B", "line": "Oh no. Should we reschedule for Friday?"},
+      {"speaker": "A", "line": "Friday is fully booked for me. How about Thursday at two?"},
+      {"speaker": "B", "line": "Let me check the conference room schedule... Yes, Room B is free at that time."},
+      {"speaker": "A", "line": "Perfect. I'll email the client right away with the new time."}
+    ],
+    "chartData": null,
+    "questions": [
+      {"id": "L3-T600-003-Q1", "question": "Why is the meeting being rescheduled?", "options": ["The room is unavailable", "The client cannot attend", "The speaker is sick", "The agenda is not ready"], "answer": "The client cannot attend", "explanation": "A明確說客戶來電表示無法參加明天的會議。", "requiresChart": false},
+      {"id": "L3-T600-003-Q2", "question": "When was the meeting originally scheduled?", "options": ["Thursday at 2 PM", "Friday at 2 PM", "Tomorrow at 2 PM", "Today at 2 PM"], "answer": "Tomorrow at 2 PM", "explanation": "A說客戶無法參加明天下午兩點的會議。", "requiresChart": false},
+      {"id": "L3-T600-003-Q3", "question": "What will the woman do next?", "options": ["Book another room", "Cancel the meeting", "Email the client", "Call the manager"], "answer": "Email the client", "explanation": "A說要立刻發郵件通知客戶新的會議時間。", "requiresChart": false}
+    ]
+  },
+  {
+    "id": "L3-T600-004",
+    "part": 3,
+    "track": "T600",
+    "conversation": [
+      {"speaker": "A", "line": "The new marketing assistant starts next Monday."},
+      {"speaker": "B", "line": "That's great. Who's handling their orientation?"},
+      {"speaker": "A", "line": "HR will do the morning session on company policies."},
+      {"speaker": "B", "line": "And what about training on our marketing software?"},
+      {"speaker": "A", "line": "Lisa will handle that in the afternoon. She's the most experienced on the team."},
+      {"speaker": "B", "line": "Has IT set up their workstation yet?"},
+      {"speaker": "A", "line": "Yes, they're installing the computer and phone today."}
+    ],
+    "chartData": null,
+    "questions": [
+      {"id": "L3-T600-004-Q1", "question": "When does the new employee start?", "options": ["Today", "This Friday", "Next Monday", "Next Wednesday"], "answer": "Next Monday", "explanation": "A明確說新行銷助理下週一開始上班。", "requiresChart": false},
+      {"id": "L3-T600-004-Q2", "question": "Who will provide software training?", "options": ["Human Resources", "The manager", "Lisa", "The IT department"], "answer": "Lisa", "explanation": "A說Lisa會在下午負責行銷軟體的培訓。", "requiresChart": false},
+      {"id": "L3-T600-004-Q3", "question": "What is the IT department doing today?", "options": ["Conducting orientation", "Setting up a workstation", "Training new staff", "Ordering equipment"], "answer": "Setting up a workstation", "explanation": "A說IT今天正在安裝新人的電腦和電話。", "requiresChart": false}
+    ]
+  },
+  {
+    "id": "L3-T600-005",
+    "part": 3,
+    "track": "T600",
+    "conversation": [
+      {"speaker": "A", "line": "I need to present the quarterly sales numbers. When should I go in?"},
+      {"speaker": "B", "line": "You're the second item on the agenda."},
+      {"speaker": "A", "line": "So right after the opening remarks?"},
+      {"speaker": "B", "line": "Exactly. Your slot starts at nine thirty."},
+      {"speaker": "A", "line": "And how long do I have?"},
+      {"speaker": "B", "line": "You have forty-five minutes, until ten fifteen."}
+    ],
+    "chartData": {"type": "table", "title": "Monday Meeting Agenda", "rows": [["Time", "Topic", "Presenter"], ["9:00 - 9:30", "Opening Remarks", "Mr. Chen"], ["9:30 - 10:15", "Sales Performance Review", "Ms. Lin"], ["10:15 - 11:00", "Budget Planning", "Mr. Wang"], ["11:00 - 11:45", "Project Updates", "Ms. Chang"], ["11:45 - 12:00", "Q&A and Closing", "All"]]},
+    "questions": [
+      {"id": "L3-T600-005-Q1", "question": "What topic will the woman present?", "options": ["Opening Remarks", "Sales Performance Review", "Budget Planning", "Project Updates"], "answer": "Sales Performance Review", "explanation": "對話中B說A是議程第二項，對照chartData第二列為Sales Performance Review，由Ms. Lin主講，主題為銷售業績檢討。", "requiresChart": true},
+      {"id": "L3-T600-005-Q2", "question": "How long is the woman's presentation slot?", "options": ["Thirty minutes", "Forty-five minutes", "One hour", "Fifteen minutes"], "answer": "Forty-five minutes", "explanation": "B說A有45分鐘，從9:30到10:15。", "requiresChart": false},
+      {"id": "L3-T600-005-Q3", "question": "Who will present the Budget Planning session?", "options": ["Ms. Lin", "Mr. Chen", "Mr. Wang", "Ms. Chang"], "answer": "Mr. Wang", "explanation": "對話中提到預算議題在銷售檢討之後，對照chartData可知Budget Planning由Mr. Wang主講。", "requiresChart": true}
+    ]
+  },
+  {
+    "id": "L3-T600-006",
+    "part": 3,
+    "track": "T600",
+    "conversation": [
+      {"speaker": "A", "line": "A client from Singapore is visiting our office this Friday."},
+      {"speaker": "B", "line": "Should I book a conference room and arrange lunch?"},
+      {"speaker": "A", "line": "Yes, please reserve the main boardroom from ten to noon."},
+      {"speaker": "B", "line": "What about lunch? Do they have any dietary restrictions?"},
+      {"speaker": "A", "line": "They mentioned they prefer vegetarian options. Let's book that Italian place nearby."},
+      {"speaker": "B", "line": "I'll call the restaurant and make a reservation for two people at twelve thirty."}
+    ],
+    "chartData": null,
+    "questions": [
+      {"id": "L3-T600-006-Q1", "question": "Where is the client visiting from?", "options": ["Tokyo", "Singapore", "Seoul", "Sydney"], "answer": "Singapore", "explanation": "A說來自新加坡的客戶週五要來訪。", "requiresChart": false},
+      {"id": "L3-T600-006-Q2", "question": "What is the woman asked to do first?", "options": ["Book a flight", "Reserve a conference room", "Order vegetarian food", "Send an email"], "answer": "Reserve a conference room", "explanation": "A請B預訂主會議室，時間為上午10點到中午。", "requiresChart": false},
+      {"id": "L3-T600-006-Q3", "question": "Why did they choose the Italian restaurant?", "options": ["It is near the office", "It serves vegetarian food", "The client requested it", "It is the cheapest option"], "answer": "It serves vegetarian food", "explanation": "客戶偏好素食選項，因此A建議訂附近的義大利餐廳。", "requiresChart": false}
+    ]
+  },
+  {
+    "id": "L3-T600-007",
+    "part": 3,
+    "track": "T600",
+    "conversation": [
+      {"speaker": "A", "line": "I'm going to grab lunch. Do you want me to bring you something?"},
+      {"speaker": "B", "line": "That would be great. What's on the menu today?"},
+      {"speaker": "A", "line": "The cafeteria has chicken teriyaki, pasta salad, and beef noodles."},
+      {"speaker": "B", "line": "I'll have the chicken teriyaki, please."},
+      {"speaker": "A", "line": "With rice or bread?"},
+      {"speaker": "B", "line": "Rice, please. And could you get me a bottle of water too?"}
+    ],
+    "chartData": null,
+    "questions": [
+      {"id": "L3-T600-007-Q1", "question": "Where are the speakers most likely?", "options": ["In a restaurant", "In an office", "In a cafeteria", "In a grocery store"], "answer": "In an office", "explanation": "A說要去買午餐並問B要不要帶一份回來，符合辦公室同事之間的對話情境。", "requiresChart": false},
+      {"id": "L3-T600-007-Q2", "question": "What does the man order?", "options": ["Pasta salad", "Beef noodles", "Chicken teriyaki", "A sandwich"], "answer": "Chicken teriyaki", "explanation": "B選擇了照燒雞肉。", "requiresChart": false},
+      {"id": "L3-T600-007-Q3", "question": "What drink does the man request?", "options": ["Coffee", "Tea", "Juice", "Water"], "answer": "Water", "explanation": "B最後請A順便帶一瓶水。", "requiresChart": false}
+    ]
+  },
+  {
+    "id": "L3-T600-008",
+    "part": 3,
+    "track": "T600",
+    "conversation": [
+      {"speaker": "A", "line": "I need to submit my travel expenses from last week's business trip."},
+      {"speaker": "B", "line": "Sure. Do you have all the receipts?"},
+      {"speaker": "A", "line": "Yes, I have receipts for the hotel, taxi fares, and two client dinners."},
+      {"speaker": "B", "line": "Fill out this expense form and attach the receipts. The deadline is Friday."},
+      {"speaker": "A", "line": "How long does it usually take to get reimbursed?"},
+      {"speaker": "B", "line": "About two weeks after you submit the form."}
+    ],
+    "chartData": null,
+    "questions": [
+      {"id": "L3-T600-008-Q1", "question": "What is the man trying to do?", "options": ["Book a trip", "Submit expense claims", "Pay a bill", "Request time off"], "answer": "Submit expense claims", "explanation": "A想報銷上週出差費用，B請他填寫報銷單。", "requiresChart": false},
+      {"id": "L3-T600-008-Q2", "question": "What is NOT mentioned as a reimbursable expense?", "options": ["Hotel", "Taxi fares", "Client dinners", "Flight tickets"], "answer": "Flight tickets", "explanation": "A列舉的單據包括飯店、計程車和客戶晚餐，未提及機票。", "requiresChart": false},
+      {"id": "L3-T600-008-Q3", "question": "How long does reimbursement take?", "options": ["One week", "Two weeks", "One month", "Three days"], "answer": "Two weeks", "explanation": "B說提交報銷單後大約兩週可以收到款項。", "requiresChart": false}
+    ]
+  },
+  {
+    "id": "L3-T600-009",
+    "part": 3,
+    "track": "T600",
+    "conversation": [
+      {"speaker": "A", "line": "I'm looking for a new office chair. Which one do you recommend?"},
+      {"speaker": "B", "line": "We have three models in stock. What's your budget?"},
+      {"speaker": "A", "line": "Around three hundred dollars. I need good back support."},
+      {"speaker": "B", "line": "The ergonomic model is our most popular. It has adjustable lumbar support and armrests."}
+    ],
+    "chartData": {"type": "table", "title": "Office Chair Price List", "rows": [["Model", "Price", "Features"], ["Standard", "$120", "Basic seat, fixed armrests"], ["Ergonomic", "$280", "Adjustable lumbar & armrests"], ["Executive", "$450", "Leather, headrest, full recline"]]},
+    "questions": [
+      {"id": "L3-T600-009-Q1", "question": "Which model fits within the man's budget?", "options": ["Standard only", "Standard and Ergonomic", "Executive only", "Ergonomic and Executive"], "answer": "Standard and Ergonomic", "explanation": "A預算約300美元，對照chartData：Standard($120)和Ergonomic($280)都在預算內，Executive($450)超出預算。", "requiresChart": true},
+      {"id": "L3-T600-009-Q2", "question": "What feature is the man most concerned about?", "options": ["Color", "Warranty", "Back support", "Weight capacity"], "answer": "Back support", "explanation": "A明確說需要良好的背部支撐。", "requiresChart": false},
+      {"id": "L3-T600-009-Q3", "question": "What is the price of the Executive model?", "options": ["$120", "$280", "$450", "$300"], "answer": "$450", "explanation": "A的預算是300美元，B推薦人體工學款。對照chartData：Executive款為$450，超出預算；Standard($120)和Ergonomic($280)在預算內。", "requiresChart": true}
+    ]
+  },
+  {
+    "id": "L3-T600-010",
+    "part": 3,
+    "track": "T600",
+    "conversation": [
+      {"speaker": "A", "line": "The server has been really slow all morning. Can you take a look?"},
+      {"speaker": "B", "line": "I'll check the system right now. When did it start?"},
+      {"speaker": "A", "line": "Around nine o'clock. I've already tried restarting my computer."},
+      {"speaker": "B", "line": "It might be a network issue. Let me run a diagnostic test."},
+      {"speaker": "A", "line": "Should I tell the team to save their work just in case?"},
+      {"speaker": "B", "line": "Yes, that's a good idea. I'll update you in about ten minutes."}
+    ],
+    "chartData": null,
+    "questions": [
+      {"id": "L3-T600-010-Q1", "question": "What problem is the woman reporting?", "options": ["Printer jam", "Slow server", "Missing files", "Email error"], "answer": "Slow server", "explanation": "A說伺服器整個早上都很慢。", "requiresChart": false},
+      {"id": "L3-T600-010-Q2", "question": "What has the woman already tried?", "options": ["Calling IT support", "Restarting her computer", "Running a diagnostic", "Saving her work"], "answer": "Restarting her computer", "explanation": "A說已經試過重開機。", "requiresChart": false},
+      {"id": "L3-T600-010-Q3", "question": "What does B suggest the woman do?", "options": ["Turn off the server", "Tell the team to save work", "Restart the network", "Wait until tomorrow"], "answer": "Tell the team to save work", "explanation": "B同意A的提議，建議大家先存檔以防萬一。", "requiresChart": false}
+    ]
+  },
+  {
+    "id": "L3-T600-011",
+    "part": 3,
+    "track": "T600",
+    "conversation": [
+      {"speaker": "A", "line": "Have you finished the design drafts for the new brochure?"},
+      {"speaker": "B", "line": "Not yet. I'm waiting for the product photos from the marketing team."},
+      {"speaker": "A", "line": "They were supposed to send those yesterday."},
+      {"speaker": "B", "line": "I emailed them this morning. They said they'll have them ready by noon."},
+      {"speaker": "A", "line": "Can you still meet the Friday deadline?"},
+      {"speaker": "B", "line": "It'll be tight, but I think I can manage if I get the photos soon."}
+    ],
+    "chartData": null,
+    "questions": [
+      {"id": "L3-T600-011-Q1", "question": "What is the man waiting for?", "options": ["Design software", "Product photos", "A meeting schedule", "Client feedback"], "answer": "Product photos", "explanation": "B說他在等行銷團隊提供產品照片。", "requiresChart": false},
+      {"id": "L3-T600-011-Q2", "question": "When were the photos originally expected?", "options": ["This morning", "Yesterday", "By noon", "Last Friday"], "answer": "Yesterday", "explanation": "A說照片本來應該昨天就發過來。", "requiresChart": false},
+      {"id": "L3-T600-011-Q3", "question": "What is the final deadline for the brochure?", "options": ["Today", "Wednesday", "Friday", "Next Monday"], "answer": "Friday", "explanation": "A問能否趕上週五的截止日，B說如果盡快收到照片應該可以。", "requiresChart": false}
+    ]
+  },
+  {
+    "id": "L3-T600-012",
+    "part": 3,
+    "track": "T600",
+    "conversation": [
+      {"speaker": "A", "line": "We need to ship this package to the Tokyo office by express delivery."},
+      {"speaker": "B", "line": "What's inside the package?"},
+      {"speaker": "A", "line": "Just documents. The contract needs to arrive before Thursday."},
+      {"speaker": "B", "line": "Express delivery takes two business days, so it should arrive on Wednesday."},
+      {"speaker": "A", "line": "Perfect. Please use the company account for shipping."}
+    ],
+    "chartData": null,
+    "questions": [
+      {"id": "L3-T600-012-Q1", "question": "Where is the package being sent?", "options": ["New York", "London", "Tokyo", "Sydney"], "answer": "Tokyo", "explanation": "A說需要快遞包裹到東京辦公室。", "requiresChart": false},
+      {"id": "L3-T600-012-Q2", "question": "What is inside the package?", "options": ["Products", "Documents", "Gifts", "Equipment"], "answer": "Documents", "explanation": "A說裡面只有文件，是合約。", "requiresChart": false},
+      {"id": "L3-T600-012-Q3", "question": "When does the contract need to arrive?", "options": ["Monday", "Tuesday", "Wednesday", "Thursday"], "answer": "Thursday", "explanation": "A要求合約必須在週四前到達東京。", "requiresChart": false}
+    ]
+  },
+  {
+    "id": "L3-T600-013",
+    "part": 3,
+    "track": "T600",
+    "conversation": [
+      {"speaker": "A", "line": "I'd like to schedule my annual performance review with Mr. Tanaka."},
+      {"speaker": "B", "line": "His calendar is quite full this week. Would next Tuesday work?"},
+      {"speaker": "A", "line": "Tuesday morning is fine. Does he prefer video call or in-person?"},
+      {"speaker": "B", "line": "He prefers in-person meetings for performance reviews."},
+      {"speaker": "A", "line": "Then let's book his office at ten o'clock."},
+      {"speaker": "B", "line": "I've put you in for Tuesday at ten. You'll need to bring your self-evaluation form."}
+    ],
+    "chartData": null,
+    "questions": [
+      {"id": "L3-T600-013-Q1", "question": "What does the woman want to schedule?", "options": ["A team meeting", "A performance review", "A job interview", "A training session"], "answer": "A performance review", "explanation": "A說想安排年度績效考核會議。", "requiresChart": false},
+      {"id": "L3-T600-013-Q2", "question": "When is the meeting scheduled?", "options": ["This Friday", "Next Monday", "Next Tuesday at 10 AM", "Next Wednesday at 2 PM"], "answer": "Next Tuesday at 10 AM", "explanation": "B建議下週二，A同意早上，最終訂在10點。", "requiresChart": false},
+      {"id": "L3-T600-013-Q3", "question": "What does the woman need to bring?", "options": ["Her laptop", "A self-evaluation form", "Project reports", "Reference letters"], "answer": "A self-evaluation form", "explanation": "B提醒A需要帶自我評估表。", "requiresChart": false},
+      {"id": "L3-T600-013-Q4", "question": "How does Mr. Tanaka prefer to hold performance reviews?", "options": ["By phone", "By video call", "In person", "By email"], "answer": "In person", "explanation": "B說Tanaka先生偏好面對面進行績效考核。", "requiresChart": false}
+    ]
+  },
+  {
+    "id": "L3-T600-014",
+    "part": 3,
+    "track": "T600",
+    "conversation": [
+      {"speaker": "A", "line": "I'm tracking a delivery. Can you check the status for me?"},
+      {"speaker": "B", "line": "Of course. What's the tracking number?"},
+      {"speaker": "A", "line": "It's TN seven eight four two. It was supposed to arrive yesterday."},
+      {"speaker": "B", "line": "Let me look it up. It shows your package is currently at the local distribution center."},
+      {"speaker": "A", "line": "When will it be delivered then?"},
+      {"speaker": "B", "line": "It's scheduled for delivery tomorrow between nine AM and noon."}
+    ],
+    "chartData": {"type": "table", "title": "Delivery Tracking Status", "rows": [["Tracking No.", "Current Status", "Expected Delivery"], ["TN7841", "In Transit - Regional Hub", "July 3, 2-5 PM"], ["TN7842", "At Local Distribution Center", "July 3, 9 AM - 12 PM"], ["TN7843", "Out for Delivery", "July 2, by 6 PM"], ["TN7844", "Delayed - Customs Clearance", "July 5, pending"]]},
+    "questions": [
+      {"id": "L3-T600-014-Q1", "question": "What is the status of the woman's package?", "options": ["Delivered", "Out for Delivery", "At Local Distribution Center", "In Transit - Regional Hub"], "answer": "At Local Distribution Center", "explanation": "對話中B說包裹目前在當地配送中心，對照chartData中TN7842的Current Status為At Local Distribution Center。", "requiresChart": true},
+      {"id": "L3-T600-014-Q2", "question": "When was the package originally supposed to arrive?", "options": ["Today", "Yesterday", "Tomorrow", "Two days ago"], "answer": "Yesterday", "explanation": "A說包裹本該昨天就到。", "requiresChart": false},
+      {"id": "L3-T600-014-Q3", "question": "What tracking number is currently out for delivery?", "options": ["TN7841", "TN7842", "TN7843", "TN7844"], "answer": "TN7843", "explanation": "A追蹤的編號是TN7842，對照chartData第三列TN7843的狀態為Out for Delivery。", "requiresChart": true}
+    ]
+  },
+  {
+    "id": "L3-T600-015",
+    "part": 3,
+    "track": "T600",
+    "conversation": [
+      {"speaker": "A", "line": "The fire alarm test is scheduled for this afternoon at two."},
+      {"speaker": "B", "line": "How long will it last?"},
+      {"speaker": "A", "line": "About ten minutes. The alarm will sound three times."},
+      {"speaker": "B", "line": "Do we need to evacuate the building?"},
+      {"speaker": "A", "line": "No, it's just a test. But please inform your team so they don't panic."},
+      {"speaker": "B", "line": "I'll send a quick message to everyone on our floor right now."}
+    ],
+    "chartData": null,
+    "questions": [
+      {"id": "L3-T600-015-Q1", "question": "What is scheduled for this afternoon?", "options": ["A team meeting", "A fire alarm test", "An office move", "A training session"], "answer": "A fire alarm test", "explanation": "A說下午兩點安排了火災警報測試。", "requiresChart": false},
+      {"id": "L3-T600-015-Q2", "question": "Do employees need to leave the building?", "options": ["Yes, for ten minutes", "Yes, for the whole afternoon", "No, it is just a test", "Only the third floor"], "answer": "No, it is just a test", "explanation": "A明確說不需要疏散，只是測試。", "requiresChart": false},
+      {"id": "L3-T600-015-Q3", "question": "What will the man do next?", "options": ["Leave the building", "Call the fire department", "Message his team", "Turn off the alarm"], "answer": "Message his team", "explanation": "B說會立刻傳訊息通知樓層同事。", "requiresChart": false}
+    ]
+  }
+]

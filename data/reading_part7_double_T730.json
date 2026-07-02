@@ -1,0 +1,234 @@
+[
+  {
+    "id": "P7D-T730-001",
+    "part": 7,
+    "type": "double",
+    "track": "T730",
+    "documents": [
+      {
+        "title": "Proposal: IT Infrastructure Upgrade",
+        "body": "From: sales@techvantage.com\nTo: procurement@meridianhealth.org\nSubject: Proposal - IT Infrastructure Upgrade for Meridian Health\n\nDear Procurement Team,\n\nFollowing our site assessment on January 15, TechVantage Solutions is pleased to submit the following proposal for upgrading Meridian Health's IT infrastructure across your three hospital locations.\n\nScope of Work:\n- Server replacement and virtualization: $95,000\n- Network security upgrade (firewall, VPN): $42,000\n- Backup and disaster recovery system: $28,000\n- Staff training (on-site, 3 days): $12,000\n- Annual maintenance contract (first year included): $15,000\n\nTotal Project Cost: $192,000\n\nTimeline: 8 weeks from contract signing, with phased implementation to minimize disruption to hospital operations.\n\nThis proposal is valid for 60 days from the date of this email. We can begin work as early as March 1, 2025. Please let us know if you would like to schedule a follow-up meeting to discuss any aspect of this proposal.\n\nSincerely,\nDavid Park\nSenior Account Executive\nTechVantage Solutions"
+      },
+      {
+        "title": "Internal Memo: Vendor Evaluation",
+        "body": "CONFIDENTIAL - INTERNAL USE ONLY\n\nTo: Executive Committee\nFrom: Sarah Mitchell, IT Director\nDate: February 3, 2025\nSubject: Evaluation of IT Infrastructure Proposals\n\nWe have received three proposals for the infrastructure upgrade project. Below is my assessment of TechVantage Solutions.\n\nStrengths:\n- Strong track record in healthcare IT (12 hospital clients in the past 3 years)\n- Competitive pricing on server and security components\n- Proposed timeline of 8 weeks is reasonable\n\nConcerns:\n- The staff training fee of $12,000 seems high relative to the scope (3 days). Two other vendors quoted $7,000-$8,000 for comparable training.\n- Their disaster recovery solution is basic. Our compliance requirements under HIPAA may require a more robust system, which could add $10,000-$15,000 to the project.\n- The annual maintenance fee of $15,000 after year one would increase our recurring IT budget by 8%, which may require board approval.\n\nRecommendation: I suggest we negotiate the training cost and request a revised disaster recovery specification before making a final decision. Overall, TechVantage remains our top candidate, but the total cost may need to be adjusted upward by $10,000 to address compliance needs.\n\nPlease review and provide your feedback by February 10."
+      }
+    ],
+    "questions": [
+      {
+        "id": "P7D-T730-001-Q1",
+        "question": "What is the total project cost proposed by TechVantage?",
+        "options": ["$177,000", "$192,000", "$207,000", "$215,000"],
+        "answer": "$192,000",
+        "explanation": "提案中明確列出「Total Project Cost: $192,000」。",
+        "crossReference": false
+      },
+      {
+        "id": "P7D-T730-001-Q2",
+        "question": "Why does Sarah Mitchell believe the actual project cost may be higher than the proposal?",
+        "options": ["The server equipment is outdated", "HIPAA compliance may require a more robust disaster recovery system", "The network security upgrade is insufficient", "The timeline is too short"],
+        "answer": "HIPAA compliance may require a more robust disaster recovery system",
+        "explanation": "評估備忘錄提到「Our compliance requirements under HIPAA may require a more robust system, which could add $10,000-$15,000」。",
+        "crossReference": false
+      },
+      {
+        "id": "P7D-T730-001-Q3",
+        "question": "What concern does Sarah raise about the maintenance contract?",
+        "options": ["It does not include server support", "It would increase the recurring IT budget by 8% after the first year", "It is not offered by TechVantage", "It requires a separate contract with a third party"],
+        "answer": "It would increase the recurring IT budget by 8% after the first year",
+        "explanation": "備忘錄指出「annual maintenance fee of $15,000 after year one would increase our recurring IT budget by 8%」。",
+        "crossReference": false
+      },
+      {
+        "id": "P7D-T730-001-Q4",
+        "question": "Which cost item does Sarah believe is negotiable?",
+        "options": ["Server replacement", "Network security upgrade", "Staff training", "Backup and disaster recovery"],
+        "answer": "Staff training",
+        "explanation": "此題須同時參照兩篇文件：提案中列出訓練費用為$12,000，而備忘錄中Sarah指出其他廠商報價僅$7,000-$8,000，認為訓練費過高且建議協商。",
+        "crossReference": true
+      },
+      {
+        "id": "P7D-T730-001-Q5",
+        "question": "What is implied about the project start date?",
+        "options": ["TechVantage can start as early as March 1", "The project must begin in February", "The start date depends on board approval", "The hospitals are not ready for the upgrade"],
+        "answer": "TechVantage can start as early as March 1",
+        "explanation": "提案中寫明「We can begin work as early as March 1, 2025」，備忘錄則提到需在2月10日前回饋意見，時程上配合得宜。",
+        "crossReference": false
+      }
+    ]
+  },
+  {
+    "id": "P7D-T730-002",
+    "part": 7,
+    "type": "double",
+    "track": "T730",
+    "documents": [
+      {
+        "title": "Email: Performance Concern",
+        "body": "From: jennifer.ng@apexsolutions.com\nTo: hr@apexsolutions.com\nSubject: Performance Issue - Marcus Webb, Senior Analyst\n\nDear HR Team,\n\nI am writing to formally document a performance concern regarding Marcus Webb, who has been with our analytics department for two years. Over the past three months, Marcus has missed four project deadlines and his client satisfaction scores have dropped from an average of 4.5/5 to 3.1/5 in our latest quarterly review. I have had two informal conversations with Marcus about these issues, but I have not seen measurable improvement.\n\nMarcus mentioned during our last conversation that he has been dealing with some personal challenges, but he did not provide specifics. I want to handle this situation fairly and in accordance with company policy. Could you please advise on the appropriate next steps? I would prefer a supportive approach that gives Marcus an opportunity to improve rather than moving directly to disciplinary action.\n\nThank you,\nJennifer Ng\nDirector of Analytics"
+      },
+      {
+        "title": "HR Policy: Performance Improvement Process",
+        "body": "PERFORMANCE IMPROVEMENT PROCESS - POLICY #HR-405\n\nEffective Date: January 1, 2024\n\nWhen a manager identifies a pattern of declining performance, the following steps must be followed:\n\nStep 1: Informal Discussion\n- The manager should have at least two documented informal conversations with the employee to discuss performance concerns and offer support.\n\nStep 2: Formal Performance Improvement Plan (PIP)\n- If informal discussions do not result in improvement within 30 days, the manager must initiate a formal PIP in writing.\n- The PIP must include: specific performance goals, measurable targets, a timeline of 60 days, and scheduled bi-weekly check-in meetings.\n- HR must be notified within 48 hours of the PIP being issued.\n\nStep 3: Final Review\n- At the end of the 60-day PIP period, the manager conducts a final review.\n- If targets are met, the PIP is closed and a follow-up review is scheduled for 90 days later.\n- If targets are not met, the case is escalated to HR for potential reassignment or termination proceedings.\n\nNote: If personal circumstances are mentioned by the employee, the manager should inform the employee about the Employee Assistance Program (EAP), which provides free confidential counseling services. Participation in EAP does not pause the PIP timeline."
+      }
+    ],
+    "questions": [
+      {
+        "id": "P7D-T730-002-Q1",
+        "question": "What is the main purpose of Jennifer's email to HR?",
+        "options": ["To request Marcus's termination", "To seek guidance on the appropriate next steps per company policy", "To report a policy violation by Marcus", "To request a salary adjustment for Marcus"],
+        "answer": "To seek guidance on the appropriate next steps per company policy",
+        "explanation": "Jennifer在郵件末尾明確寫道「Could you please advise on the appropriate next steps?」並表示想依循公司政策處理。",
+        "crossReference": false
+      },
+      {
+        "id": "P7D-T730-002-Q2",
+        "question": "According to the HR policy, what is the duration of a formal PIP?",
+        "options": ["30 days", "45 days", "60 days", "90 days"],
+        "answer": "60 days",
+        "explanation": "HR政策中Step 2明確規定PIP需包含「a timeline of 60 days」。",
+        "crossReference": false
+      },
+      {
+        "id": "P7D-T730-002-Q3",
+        "question": "What should Jennifer do regarding Marcus's mention of personal challenges?",
+        "options": ["Ignore it since it is not work-related", "Inform Marcus about the Employee Assistance Program", "Grant Marcus additional time off", "Ask Marcus to provide medical documentation"],
+        "answer": "Inform Marcus about the Employee Assistance Program",
+        "explanation": "HR政策Note註明若員工提及個人情況，主管應告知員工EAP（Employee Assistance Program）資源。",
+        "crossReference": false
+      },
+      {
+        "id": "P7D-T730-002-Q4",
+        "question": "What does the policy state about the EAP and its effect on the PIP timeline?",
+        "options": ["Participating in EAP extends the PIP by 30 days", "Participating in EAP does not pause the PIP timeline", "EAP participation replaces the need for a PIP", "The employee must complete EAP before the PIP can start"],
+        "answer": "Participating in EAP does not pause the PIP timeline",
+        "explanation": "HR政策明確說明「Participation in EAP does not pause the PIP timeline」。",
+        "crossReference": false
+      },
+      {
+        "id": "P7D-T730-002-Q5",
+        "question": "Based on both documents, what is the most appropriate next step for Jennifer?",
+        "options": ["Issue a final warning to Marcus", "Initiate a formal PIP since informal discussions have not led to improvement", "Transfer Marcus to another department", "Wait another 30 days before taking action"],
+        "answer": "Initiate a formal PIP since informal discussions have not led to improvement",
+        "explanation": "此題須同時參照兩篇文件：Jennifer的郵件說明她已進行兩次非正式談話但未見改善（Step 1已滿足），HR政策規定若30天內非正式討論未見改善，應啟動正式PIP（Step 2）。對比兩者可知下一步應為啟動PIP。",
+        "crossReference": true
+      }
+    ]
+  },
+  {
+    "id": "P7D-T730-003",
+    "part": 7,
+    "type": "double",
+    "track": "T730",
+    "documents": [
+      {
+        "title": "Conference Registration Confirmation",
+        "body": "GLOBAL SUPPLY CHAIN FORUM 2025\nRegistration Confirmation #REG-55621\n\nAttendee: Michael Torres\nCompany: Pacific Rim Logistics\nPackage: Full Conference Pass ($850)\n\nYour full conference pass includes:\n- Access to all keynote sessions (Oct 8-9)\n- Choice of 4 breakout workshops (Oct 8-9)\n- Networking luncheon (Oct 8, 12:00 PM)\n- Gala dinner (Oct 9, 7:00 PM)\n\nWorkshop Selections (you registered for the following):\n- WS-03: Sustainable Logistics (Oct 8, 9:00 AM - 10:30 AM)\n- WS-07: AI in Supply Chain (Oct 8, 2:00 PM - 3:30 PM)\n- WS-12: Risk Management Strategies (Oct 9, 10:00 AM - 11:30 AM)\n- WS-15: Cross-Border Trade Compliance (Oct 9, 3:00 PM - 4:30 PM)\n\nPlease note: Workshop rooms are assigned on-site. Check the conference app for room numbers 24 hours before each session."
+      },
+      {
+        "title": "Email: Workshop Schedule Change",
+        "body": "From: info@globalsupplychainforum.com\nTo: michael.torres@pacificrimlogistics.com\nSubject: Important - Workshop WS-12 Time Change\n\nDear Mr. Torres,\n\nWe are writing to inform you of a schedule change for Workshop WS-12: Risk Management Strategies, which you are registered to attend. Due to a speaker conflict, this workshop has been moved from October 9 at 10:00 AM to October 9 at 1:00 PM - 2:30 PM. The room remains the same and will be posted on the conference app.\n\nWe apologize for any inconvenience this may cause. If the new time conflicts with your schedule, you may switch to one of the following alternative workshops on October 9:\n- WS-11: Global Sourcing Best Practices (10:00 AM - 11:30 AM)\n- WS-14: Logistics Technology Trends (1:00 PM - 2:30 PM)\n\nTo make a change, please reply to this email by October 5. After that date, all workshop assignments will be final.\n\nBest regards,\nGlobal Supply Chain Forum Team"
+      }
+    ],
+    "questions": [
+      {
+        "id": "P7D-T730-003-Q1",
+        "question": "What type of conference pass did Michael Torres purchase?",
+        "options": ["Single Day Pass", "Workshop Only Pass", "Full Conference Pass", "VIP Pass"],
+        "answer": "Full Conference Pass",
+        "explanation": "報名確認中Package欄位顯示「Full Conference Pass ($850)」。",
+        "crossReference": false
+      },
+      {
+        "id": "P7D-T730-003-Q2",
+        "question": "Why was the schedule for WS-12 changed?",
+        "options": ["The room was double-booked", "There was a speaker conflict", "Not enough participants registered", "The workshop content was updated"],
+        "answer": "There was a speaker conflict",
+        "explanation": "通知郵件寫明「Due to a speaker conflict, this workshop has been moved」。",
+        "crossReference": false
+      },
+      {
+        "id": "P7D-T730-003-Q3",
+        "question": "What is the deadline for switching to an alternative workshop?",
+        "options": ["October 1", "October 5", "October 8", "October 9"],
+        "answer": "October 5",
+        "explanation": "郵件中寫道「reply to this email by October 5. After that date, all workshop assignments will be final」。",
+        "crossReference": false
+      },
+      {
+        "id": "P7D-T730-003-Q4",
+        "question": "After the schedule change, which of Michael's workshops would most likely conflict with each other?",
+        "options": ["WS-03 and WS-12", "WS-12 and WS-15", "WS-07 and WS-12", "WS-12 and WS-14"],
+        "answer": "WS-12 and WS-15",
+        "explanation": "此題須同時參照兩篇文件：報名確認顯示WS-12原為10:00-11:30，WS-15為3:00-4:30，兩者不衝突。但通知郵件將WS-12改為1:00-2:30，與WS-15（3:00-4:30）相鄰，雖然時間不重疊但仍在同日下午，需要對照兩份文件的時間才能完整判斷。WS-12新時間1:00-2:30與WS-15的3:00-4:30之間僅有30分鐘間隔。",
+        "crossReference": true
+      },
+      {
+        "id": "P7D-T730-003-Q5",
+        "question": "What is implied about the alternative workshop WS-14?",
+        "options": ["It is on a different topic from WS-12", "It takes place at the same new time as WS-12", "It requires an additional fee", "It is only available to VIP pass holders"],
+        "answer": "It takes place at the same new time as WS-12",
+        "explanation": "郵件列出替代選項時，WS-14的時段為1:00 PM - 2:30 PM，恰好與WS-12的新時間相同，暗示這是同一時段的並行場次，供無法配合新時間的與會者選擇。",
+        "crossReference": false
+      }
+    ]
+  },
+  {
+    "id": "P7D-T730-004",
+    "part": 7,
+    "type": "double",
+    "track": "T730",
+    "documents": [
+      {
+        "title": "Email: Invoice Dispute",
+        "body": "From: billing@northstaradvertising.com\nTo: accounts@creativestudio.co\nSubject: Dispute - Invoice #CS-2025-0187\n\nDear Accounts Department,\n\nWe are writing to dispute several charges on your invoice #CS-2025-0187 dated February 28, 2025, for the website redesign project.\n\nSpecifically:\n1. The invoice lists 120 hours of design work at $95/hour ($11,400). Our project agreement specified a fixed rate of $9,500 for the design phase, not an hourly basis.\n2. We are being charged $1,200 for stock photography. Our contract states that Creative Studio would provide up to 15 stock images as part of the package. The invoice includes 28 images at approximately $43 each.\n3. The rush delivery fee of $800 was never discussed or approved. We were not informed that any portion of the project would incur rush charges.\n\nWe have paid the uncontested portion of the invoice ($3,400 for hosting setup and content migration) and request that you review and adjust the disputed items. Please send a revised invoice within 10 business days.\n\nRegards,\nPatricia Coleman\nFinance Manager\nNorthstar Advertising"
+      },
+      {
+        "title": "Reply: Invoice Clarification",
+        "body": "From: accounts@creativestudio.co\nTo: billing@northstaradvertising.com\nSubject: RE: Dispute - Invoice #CS-2025-0187\n\nDear Ms. Coleman,\n\nThank you for bringing these concerns to our attention. After reviewing our records, here are our findings:\n\n1. Design Work: You are correct. I apologize for the error. Our project manager mistakenly billed the design phase at our standard hourly rate instead of the agreed fixed price of $9,500. We will adjust this to the contract amount.\n\n2. Stock Photography: Per our agreement, 15 images are included in the package. However, during the project, your team requested 13 additional images beyond the included amount. We have email records of these requests dated January 18 and February 5 from your creative director, James Foley. The additional images were sourced at $43 each, totaling $559 for the extras. We will reduce the stock photography charge from $1,200 to $559.\n\n3. Rush Delivery Fee: We acknowledge that this fee was not explicitly approved in advance. However, on January 22, your team requested that the homepage design be delivered three days ahead of schedule to meet a client presentation deadline. Our team worked overtime to accommodate this request. We are willing to reduce the rush fee from $800 to $400 as a goodwill gesture.\n\nA revised invoice reflecting these adjustments (total revised: $13,859) will be issued within 48 hours.\n\nSincerely,\nDerek Simmons\nAccounts Manager\nCreative Studio Co."
+      }
+    ],
+    "questions": [
+      {
+        "id": "P7D-T730-004-Q1",
+        "question": "What is the main issue with the design work charge?",
+        "options": ["The hourly rate is too high", "The invoice used an hourly rate instead of the agreed fixed price", "The design work was not completed", "The invoice includes design revisions not requested"],
+        "answer": "The invoice used an hourly rate instead of the agreed fixed price",
+        "explanation": "爭議郵件指出合約約定設計階段為固定價格$9,500，但發票卻以每小時$95計費。",
+        "crossReference": false
+      },
+      {
+        "id": "P7D-T730-004-Q2",
+        "question": "How much has Northstar already paid?",
+        "options": ["$3,400", "$9,500", "$11,400", "$13,859"],
+        "answer": "$3,400",
+        "explanation": "爭議郵件中寫道「We have paid the uncontested portion of the invoice ($3,400 for hosting setup and content migration)」。",
+        "crossReference": false
+      },
+      {
+        "id": "P7D-T730-004-Q3",
+        "question": "How does Creative Studio justify the stock photography charges?",
+        "options": ["The contract included unlimited stock images", "Northstar's team requested 13 additional images beyond the included 15", "The images were sourced from a premium provider", "The original invoice was correct"],
+        "answer": "Northstar's team requested 13 additional images beyond the included 15",
+        "explanation": "回覆郵件指出合約包含15張圖片，但Northstar的創意總監James Foley在1月和2月另外要求了13張額外圖片。",
+        "crossReference": false
+      },
+      {
+        "id": "P7D-T730-004-Q4",
+        "question": "How much is the revised total invoice amount?",
+        "options": ["$11,400", "$12,800", "$13,859", "$14,500"],
+        "answer": "$13,859",
+        "explanation": "回覆郵件末尾寫明「total revised: $13,859」。",
+        "crossReference": false
+      },
+      {
+        "id": "P7D-T730-004-Q5",
+        "question": "Which dispute did Creative Studio only partially accept?",
+        "options": ["The design work charge", "The stock photography charge", "The rush delivery fee", "The hosting setup charge"],
+        "answer": "The rush delivery fee",
+        "explanation": "此題須同時參照兩篇文件：Northstar爭議郵件對三項費用提出異議，Creative Studio對設計費全額接受修正（從$11,400降至$9,500），對圖庫費部分接受（從$1,200降至$559並提供證據），對急件費部分接受（從$800降至$400作為善意），其中僅急件費是「部分接受」因為對方未完全免除。",
+        "crossReference": true
+      }
+    ]
+  }
+]

@@ -1,0 +1,53 @@
+{
+  "issues": [],
+  "stats": {
+    "reading_part5_T600.json": {
+      "type": "Part5",
+      "items": 50
+    },
+    "reading_part5_T730.json": {
+      "type": "Part5",
+      "items": 55
+    },
+    "reading_part6_T600.json": {
+      "type": "Part6",
+      "passsages": 12,
+      "blanks": 48
+    },
+    "reading_part6_T730.json": {
+      "type": "Part6",
+      "passsages": 12,
+      "blanks": 48
+    },
+    "reading_part7_double_T600.json": {
+      "type": "Part7",
+      "passsages": 5,
+      "questions": 25
+    },
+    "reading_part7_double_T730.json": {
+      "type": "Part7",
+      "passsages": 4,
+      "questions": 20
+    },
+    "reading_part7_single_T600.json": {
+      "type": "Part7",
+      "passsages": 7,
+      "questions": 23
+    },
+    "reading_part7_single_T730.json": {
+      "type": "Part7",
+      "passsages": 6,
+      "questions": 20
+    },
+    "reading_part7_triple_T600.json": {
+      "type": "Part7",
+      "passsages": 3,
+      "questions": 15
+    },
+    "reading_part7_triple_T730.json": {
+      "type": "Part7",
+      "passsages": 3,
+      "questions": 15
+    }
+  }
+}

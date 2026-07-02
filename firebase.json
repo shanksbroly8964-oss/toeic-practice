@@ -1,0 +1,27 @@
+{
+  "hosting": {
+    "site": "toeic-goku",
+    "public": ".",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**",
+      "e2e/**",
+      "*_REPORT.md",
+      "QA*.md",
+      "nul",
+      "tools/**"
+    ],
+    "headers": [
+      {
+        "source": "**/*.html",
+        "headers": [
+          {
+            "key": "Cache-Control",
+            "value": "no-cache"
+          }
+        ]
+      }
+    ]
+  }
+}

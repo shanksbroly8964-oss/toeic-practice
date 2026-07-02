@@ -1,0 +1,246 @@
+[
+  {
+    "id": "P7S-T730-001",
+    "part": 7,
+    "type": "single",
+    "track": "T730",
+    "documents": [
+      {
+        "title": "Internal Memo: Quarterly Sales Review",
+        "body": "CONFIDENTIAL\n\nTo: Regional Sales Managers\nFrom: Patricia Owens, VP of Sales\nDate: April 5, 2025\nSubject: Q1 Sales Performance and Strategic Adjustments\n\nOur first-quarter results are in, and the numbers are concerning. Total revenue for Q1 fell 12% compared to the same period last year, with the most significant decline occurring in the Southeast and Midwest regions. While the West Coast region exceeded its targets by 3%, this was not enough to offset the broader downturn.\n\nSeveral factors contributed to this decline: increased competition from two new market entrants, delayed product launches in the healthcare segment, and lower-than-expected renewal rates among midsize clients. I want to emphasize that this is not a reflection of individual performance, but rather a market-wide challenge that requires a coordinated response.\n\nEffective immediately, we are reallocating 30% of the marketing budget to the Southeast region and launching a client retention program. I expect all managers to submit a revised territory plan by April 20. We will meet again on May 2 to review progress.\n\nPlease do not share this data outside the management team."
+      }
+    ],
+    "questions": [
+      {
+        "id": "P7S-T730-001-Q1",
+        "question": "Why does the VP mention the West Coast region in the memo?",
+        "options": ["To highlight a region that underperformed", "To show that some regions performed well despite the overall decline", "To announce the closure of the West Coast office", "To promote the West Coast manager"],
+        "answer": "To show that some regions performed well despite the overall decline",
+        "explanation": "備忘錄指出西岸超出目標3%，但不足以抵消整體下滑，用意在於呈現並非所有區域都表現不佳，讓整體情況更完整。",
+        "crossReference": false
+      },
+      {
+        "id": "P7S-T730-001-Q2",
+        "question": "What is implied about the VP's attitude toward the regional managers?",
+        "options": ["She believes they should be replaced", "She wants to reassure them that the decline is not their fault", "She thinks they have been working too slowly", "She is considering reducing the number of regions"],
+        "answer": "She wants to reassure them that the decline is not their fault",
+        "explanation": "備忘錄特別強調「this is not a reflection of individual performance」，顯示VP意圖安撫區域經理們的情緒。",
+        "crossReference": false
+      },
+      {
+        "id": "P7S-T730-001-Q3",
+        "question": "What is most likely to happen after April 20?",
+        "options": ["The VP will announce layoffs", "The company will enter new markets", "Regional managers will submit their revised plans", "The marketing budget will be cut further"],
+        "answer": "Regional managers will submit their revised plans",
+        "explanation": "備忘錄要求「all managers to submit a revised territory plan by April 20」，因此4月20日之後最可能發生的是提交計畫。",
+        "crossReference": false
+      },
+      {
+        "id": "P7S-T730-001-Q4",
+        "question": "What can be inferred about the two new market entrants mentioned?",
+        "options": ["They are based in the West Coast region", "They have contributed to the company's sales decline", "They are partnering with the company", "They have already left the market"],
+        "answer": "They have contributed to the company's sales decline",
+        "explanation": "備忘錄將「increased competition from two new market entrants」列為營收下滑的因素之一，可推斷新競爭者對公司造成衝擊。",
+        "crossReference": false
+      }
+    ]
+  },
+  {
+    "id": "P7S-T730-002",
+    "part": 7,
+    "type": "single",
+    "track": "T730",
+    "documents": [
+      {
+        "title": "Email: Conference Registration Confirmation",
+        "body": "From: registration@techsummit2025.com\nTo: laura.kim@innovatetech.com\nSubject: Registration Confirmation - TechSummit 2025 (#REG-88721)\n\nDear Ms. Kim,\n\nThank you for registering for TechSummit 2025, taking place from October 21 to October 24 at the Metro Convention Center in Atlanta. Your registration includes access to all keynote sessions, panel discussions, and the exhibition hall. Please note that workshop sessions require separate sign-up and have limited capacity. Workshop registration opens on September 15 at 9:00 AM EST on a first-come, first-served basis.\n\nYour badge and conference materials can be picked up at the registration desk starting at 7:30 AM on October 21. Early check-in is also available on October 20 between 3:00 PM and 7:00 PM. A networking dinner will be held on October 22 at 7:00 PM at the Grand Ballroom; attendance is included with your registration but requires an RSVP through the conference app.\n\nIf you need to cancel, a full refund is available until October 7. After that date, a 50% cancellation fee will apply. No refunds will be issued for cancellations after October 18.\n\nFor hotel reservations at the discounted conference rate of $159 per night, please use the booking link in the conference app. The discounted rate is only guaranteed for reservations made before September 30.\n\nWe look forward to seeing you in Atlanta.\n\nTechSummit Registration Team"
+      }
+    ],
+    "questions": [
+      {
+        "id": "P7S-T730-002-Q1",
+        "question": "What must Ms. Kim do separately to attend workshops?",
+        "options": ["Pay an additional fee", "Sign up when registration opens on September 15", "Arrive one hour early on the day", "Submit a request to her manager"],
+        "answer": "Sign up when registration opens on September 15",
+        "explanation": "郵件說明「workshop sessions require separate sign-up」且「Workshop registration opens on September 15」。",
+        "crossReference": false
+      },
+      {
+        "id": "P7S-T730-002-Q2",
+        "question": "Why would Ms. Kim most likely want to check in on October 20?",
+        "options": ["To attend workshops before the main event", "To avoid long lines on the first official day", "To receive a discount on her registration", "To participate in the networking dinner early"],
+        "answer": "To avoid long lines on the first official day",
+        "explanation": "提前報到（Early check-in）通常在正式活動前一天提供，目的是讓與會者避開首日人潮。此事需推論，文件未明說但為業界慣例。",
+        "crossReference": false
+      },
+      {
+        "id": "P7S-T730-002-Q3",
+        "question": "What happens if Ms. Kim cancels on October 10?",
+        "options": ["She receives a full refund", "She receives a 50% refund", "She receives no refund", "She can transfer her registration to next year"],
+        "answer": "She receives a 50% refund",
+        "explanation": "郵件規定10月7日後取消收取50%手續費，10月10日在此之後，只能退回50%。",
+        "crossReference": false
+      },
+      {
+        "id": "P7S-T730-002-Q4",
+        "question": "What is implied about the hotel reservation?",
+        "options": ["The discount rate is available only to speakers", "Ms. Kim must book through the organizer to get the discount", "The hotel is fully booked already", "The discount applies automatically to all registrants"],
+        "answer": "Ms. Kim must book through the organizer to get the discount",
+        "explanation": "郵件指出須「use the booking link in the conference app」才能享有159美元的優惠價，暗示必須透過主辦方的管道預訂。",
+        "crossReference": false
+      }
+    ]
+  },
+  {
+    "id": "P7S-T730-003",
+    "part": 7,
+    "type": "single",
+    "track": "T730",
+    "documents": [
+      {
+        "title": "Product Recall Notice",
+        "body": "IMPORTANT SAFETY RECALL NOTICE\n\nProduct: PowerPro Blender Model BP-800\nManufactured: January - March 2025\nBatch Numbers: PP800-001 through PP800-450\n\nPowerPro Corporation has issued a voluntary recall of the BP-800 blender due to a potential safety hazard. We have received 17 reports of the blade assembly detaching during operation, which poses a risk of injury. While no serious injuries have been reported, we are taking this precautionary measure to ensure customer safety.\n\nIf you own a BP-800 blender within the affected batch range, please stop using it immediately. Customers have two options:\n\nOption 1: Return the product to the place of purchase for a full refund. A receipt is preferred but not required. Refunds will be processed within 30 days.\n\nOption 2: Request a free replacement unit (Model BP-810) with an improved blade-locking mechanism. Replacements will ship in 4-6 weeks due to high demand.\n\nTo initiate either option, visit www.powerpro.com/recall or call 1-800-555-0234. You will need to provide the batch number located on the bottom of the blender base. The recall program remains in effect until December 31, 2025.\n\nWe apologize for the inconvenience and appreciate your understanding."
+      }
+    ],
+    "questions": [
+      {
+        "id": "P7S-T730-003-Q1",
+        "question": "What is the main reason for the recall?",
+        "options": ["The blender is too noisy", "The blade assembly may detach during use", "The motor overheats quickly", "The product is past its expiration date"],
+        "answer": "The blade assembly may detach during use",
+        "explanation": "召回通知明確指出「blade assembly detaching during operation, which poses a risk of injury」。",
+        "crossReference": false
+      },
+      {
+        "id": "P7S-T730-003-Q2",
+        "question": "What can be inferred about the replacement model BP-810?",
+        "options": ["It is cheaper than the original model", "It has a redesigned blade-locking mechanism", "It will ship within one week", "It is no longer in production"],
+        "answer": "It has a redesigned blade-locking mechanism",
+        "explanation": "通知中提到BP-810配備「improved blade-locking mechanism」，可推斷這是針對原產品問題所做的改良。",
+        "crossReference": false
+      },
+      {
+        "id": "P7S-T730-003-Q3",
+        "question": "Why might a customer choose Option 1 over Option 2?",
+        "options": ["Option 1 provides a newer model", "Option 1 does not require waiting 4-6 weeks for delivery", "Option 1 offers a higher refund amount", "Option 1 includes free accessories"],
+        "answer": "Option 1 does not require waiting 4-6 weeks for delivery",
+        "explanation": "Option 2（換貨）需等候4-6週，而Option 1（退款）在30天內處理，因此不想等待的顧客可能偏好退款。此處需從兩選項的描述中推論。",
+        "crossReference": false
+      }
+    ]
+  },
+  {
+    "id": "P7S-T730-004",
+    "part": 7,
+    "type": "single",
+    "track": "T730",
+    "documents": [
+      {
+        "title": "Email: Request for Proposal Feedback",
+        "body": "From: james.liu@nexusconsulting.com\nTo: procurement@greenfieldhotels.com\nSubject: RFP #GH-2025-034 - Clarifications Requested\n\nDear Procurement Team,\n\nWe have carefully reviewed your Request for Proposal (RFP #GH-2025-034) for a property management system upgrade across your 12 hotel properties. While we are very interested in bidding, we would like to raise several points before submitting our proposal.\n\nFirst, the current timeline requests implementation to begin on February 1, 2025. Given the scope of the project, we believe a phased rollout starting March 1 would be more realistic and reduce operational disruptions during the peak winter travel season. Our experience with similar multi-site deployments suggests that rushing the timeline often leads to increased costs and technical issues.\n\nSecond, the RFP specifies an on-premises solution. However, our analysis indicates that a cloud-based solution would reduce long-term maintenance costs by approximately 25% and allow for more seamless updates across all 12 properties.\n\nThird, we note that the budget allocation of $450,000 may be insufficient for a custom solution with the features listed in Section 4.3 of the RFP. A realistic estimate, based on comparable projects we have completed for similar-sized hotel chains, would be in the range of $520,000 to $580,000.\n\nWe would appreciate the opportunity to discuss these points before the current submission deadline of January 10. Please let us know if we can schedule a call this week.\n\nSincerely,\nJames Liu\nSenior Solutions Architect\nNexus Consulting"
+      }
+    ],
+    "questions": [
+      {
+        "id": "P7S-T730-004-Q1",
+        "question": "Why does Mr. Liu suggest a March 1 start date instead of February 1?",
+        "options": ["He will be on vacation in February", "The project scope is too small", "February is during the peak travel season, and a rushed timeline may cause problems", "The budget is not yet approved"],
+        "answer": "February is during the peak travel season, and a rushed timeline may cause problems",
+        "explanation": "郵件指出2月為「peak winter travel season」，提前實施可能增加營運中斷風險，並提到「rushing the timeline often leads to increased costs and technical issues」。",
+        "crossReference": false
+      },
+      {
+        "id": "P7S-T730-004-Q2",
+        "question": "What is Nexus Consulting's position on the type of solution specified in the RFP?",
+        "options": ["They agree with the on-premises requirement", "They believe a cloud-based solution would be more cost-effective", "They recommend a hybrid approach", "They have no opinion on the matter"],
+        "answer": "They believe a cloud-based solution would be more cost-effective",
+        "explanation": "郵件指出雲端方案可「reduce long-term maintenance costs by approximately 25%」，說明他們傾向認為雲端方案更划算。",
+        "crossReference": false
+      },
+      {
+        "id": "P7S-T730-004-Q3",
+        "question": "What can be inferred about the RFP's current budget?",
+        "options": ["It has already been increased from the original amount", "It is likely insufficient to cover all the requirements in the RFP", "It includes a contingency fund", "It was determined by an external auditor"],
+        "answer": "It is likely insufficient to cover all the requirements in the RFP",
+        "explanation": "郵件估算實際需求約$520,000-$580,000，而RFP預算僅$450,000，可推斷預算不足以涵蓋所有需求。",
+        "crossReference": false
+      }
+    ]
+  },
+  {
+    "id": "P7S-T730-005",
+    "part": 7,
+    "type": "single",
+    "track": "T730",
+    "documents": [
+      {
+        "title": "Company Blog: New Remote Work Policy",
+        "body": "After a six-month pilot program involving 200 employees across three departments, Horizon Industries has announced a permanent hybrid work policy effective January 2025. Under the new policy, all full-time employees who do not hold client-facing or on-site operational roles will be eligible to work remotely for up to three days per week. Team managers will be responsible for determining which days require in-office attendance based on project needs and collaboration requirements.\n\nData from the pilot program showed a 15% increase in employee satisfaction scores and a 9% reduction in unscheduled absences. Additionally, the company reported saving approximately $180,000 in office-related expenses during the six-month period, primarily due to reduced utility costs and office supply consumption.\n\nHowever, the transition is not without challenges. The internal survey revealed that 28% of participants felt less connected to their colleagues, and 22% reported difficulty separating work from personal time. To address these concerns, the company will introduce mandatory bi-weekly team check-ins and provide access to a wellness app starting February 2025.\n\nEmployees who wish to participate must submit a remote work agreement signed by their manager to HR by December 15. The policy will be reviewed again in June 2025."
+      }
+    ],
+    "questions": [
+      {
+        "id": "P7S-T730-005-Q1",
+        "question": "Which group of employees is most likely excluded from the remote work policy?",
+        "options": ["Software developers", "Marketing specialists", "Hotel front desk staff", "Data analysts"],
+        "answer": "Hotel front desk staff",
+        "explanation": "政策適用於「do not hold client-facing or on-site operational roles」的員工，飯店櫃檯人員屬於面對客戶的現場職位，最可能被排除。此為推論題，需從排除條件反向推斷。",
+        "crossReference": false
+      },
+      {
+        "id": "P7S-T730-005-Q2",
+        "question": "What is implied about the company's financial situation after adopting the hybrid policy?",
+        "options": ["The company is struggling financially", "The hybrid policy resulted in cost savings", "The company plans to downsize its office space", "The policy had no financial impact"],
+        "answer": "The hybrid policy resulted in cost savings",
+        "explanation": "試點期間節省了約$180,000的辦公室相關開支，暗示全面推行後財務效益可能更顯著。",
+        "crossReference": false
+      },
+      {
+        "id": "P7S-T730-005-Q3",
+        "question": "What is the purpose of introducing bi-weekly team check-ins?",
+        "options": ["To monitor employee productivity", "To address the feeling of disconnection among remote workers", "To reduce the number of meetings", "To replace the manager's role"],
+        "answer": "To address the feeling of disconnection among remote workers",
+        "explanation": "調查發現28%參與者感到與同事疏離，雙週團隊會議正是為了回應此問題而推出的措施。",
+        "crossReference": false
+      }
+    ]
+  },
+  {
+    "id": "P7S-T730-006",
+    "part": 7,
+    "type": "single",
+    "track": "T730",
+    "documents": [
+      {
+        "title": "Letter: Vendor Contract Termination",
+        "body": "March 10, 2025\n\nMr. Robert Davies\nProcurement Director\nSummit Office Supplies\n450 Commerce Drive\nDenver, CO 80202\n\nRe: Notice of Contract Termination - Agreement #SO-2023-782\n\nDear Mr. Davies,\n\nAfter a thorough review of our supplier relationships, we regret to inform you that Apex Manufacturing will not be renewing our supply agreement (#SO-2023-782) upon its expiration on June 30, 2025. This decision was not made lightly, and we wish to provide you with the reasoning behind it.\n\nOver the past 18 months, we have experienced five separate instances of delivery delays exceeding two weeks, with the most recent occurring in February 2025. While we acknowledge that supply chain disruptions have affected the industry broadly, our records show that other suppliers in the same category have maintained an average on-time delivery rate of 94%, compared to Summit's 78% over the same period. Additionally, the 12% price increase implemented in September 2024 was not accompanied by any improvement in service quality or delivery performance.\n\nWe will, of course, fulfill all outstanding orders under the current agreement through June 30. Our accounts payable department will settle all remaining invoices within the standard 45-day payment window following receipt of goods.\n\nWe appreciate the partnership we have shared over the past five years and wish Summit Office Supplies success in its future endeavors.\n\nSincerely,\nMargaret Chen\nChief Procurement Officer\nApex Manufacturing"
+      }
+    ],
+    "questions": [
+      {
+        "id": "P7S-T730-006-Q1",
+        "question": "What is the primary reason Apex Manufacturing is ending the contract?",
+        "options": ["Summit Office Supplies went out of business", "Summit's delivery performance and price increase were unsatisfactory", "Apex Manufacturing is relocating its facility", "Summit requested to end the contract early"],
+        "answer": "Summit's delivery performance and price increase were unsatisfactory",
+        "explanation": "信件列舉了兩大問題：多次延遲交貨（5次超過兩週）以及漲價12%但服務品質未提升。",
+        "crossReference": false
+      },
+      {
+        "id": "P7S-T730-006-Q2",
+        "question": "Why does Ms. Chen mention the 94% on-time delivery rate of other suppliers?",
+        "options": ["To praise Summit's competitors", "To show that Summit's 78% rate is below the industry standard", "To propose a new pricing model", "To request a meeting with other suppliers"],
+        "answer": "To show that Summit's 78% rate is below the industry standard",
+        "explanation": "引用其他供應商94%準時率是為了對比Summit的78%，證明問題並非全行業性，而是Summit自身表現不佳。此為推論題。",
+        "crossReference": false
+      },
+      {
+        "id": "P7S-T730-006-Q3",
+        "question": "What is implied about outstanding invoices after June 30?",
+        "options": ["They will not be paid", "They will be paid within 45 days of receiving the goods", "Summit must issue credit notes for all of them", "Apex will pay them immediately upon termination"],
+        "answer": "They will be paid within 45 days of receiving the goods",
+        "explanation": "信件明確說明未結發票將在收貨後「standard 45-day payment window」內結清，表示Apex仍會依約付款至合約到期日。",
+        "crossReference": false
+      }
+    ]
+  }
+]

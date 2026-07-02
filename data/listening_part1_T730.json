@@ -1,0 +1,212 @@
+[
+  {
+    "id": "L1-T730-001",
+    "part": 1,
+    "track": "T730",
+    "imageDescription": "A project manager is briefing her team around a whiteboard covered with charts and sticky notes in a modern meeting room.",
+    "options": [
+      "The team is having a casual conversation.",
+      "A project manager is briefing her team.",
+      "The whiteboard is being erased.",
+      "Everyone is working on individual laptops."
+    ],
+    "answer": "A project manager is briefing her team.",
+    "explanation": "專案經理正在向團隊簡報，與描述相符；白板上有圖表非正在擦拭，團隊在聽簡報非各別用筆電。"
+  },
+  {
+    "id": "L1-T730-002",
+    "part": 1,
+    "track": "T730",
+    "imageDescription": "A technician in a lab coat is calibrating a microscope while a researcher takes notes nearby.",
+    "options": [
+      "A researcher is examining a sample under a microscope.",
+      "The laboratory equipment is being packed away.",
+      "A technician is calibrating a microscope.",
+      "Two technicians are discussing the experiment results."
+    ],
+    "answer": "A technician is calibrating a microscope.",
+    "explanation": "技術員正在校正顯微鏡，研究員在旁筆記，與描述相符；使用顯微鏡的是技術員而非研究員，設備未收納。"
+  },
+  {
+    "id": "L1-T730-003",
+    "part": 1,
+    "track": "T730",
+    "imageDescription": "A construction supervisor is pointing at a blueprint while workers pour concrete at a building site.",
+    "options": [
+      "Workers are reviewing the blueprint together.",
+      "The construction site is vacant.",
+      "A construction supervisor is pointing at a blueprint.",
+      "The building has been completed."
+    ],
+    "answer": "A construction supervisor is pointing at a blueprint.",
+    "explanation": "工地主任正指著藍圖，工人正在灌漿，與描述相符；工人正在施工而非審閱藍圖，工地運作中非閒置。"
+  },
+  {
+    "id": "L1-T730-004",
+    "part": 1,
+    "track": "T730",
+    "imageDescription": "A financial analyst is studying a spreadsheet on a large monitor while another colleague discusses data with her.",
+    "options": [
+      "The financial analyst is taking a break.",
+      "A colleague is printing the spreadsheet.",
+      "A financial analyst is studying a spreadsheet.",
+      "Two colleagues are having lunch at the desk."
+    ],
+    "answer": "A financial analyst is studying a spreadsheet.",
+    "explanation": "財務分析師正在研究試算表，同事在旁討論，與描述一致；休息、列印、午餐均未發生。"
+  },
+  {
+    "id": "L1-T730-005",
+    "part": 1,
+    "track": "T730",
+    "imageDescription": "A hotel housekeeper is arranging fresh towels on a cart in a hotel corridor lined with guest room doors.",
+    "options": [
+      "A housekeeper is entering a guest room.",
+      "Guests are checking out at the front desk.",
+      "A hotel housekeeper is arranging towels on a cart.",
+      "The corridor is being painted."
+    ],
+    "answer": "A hotel housekeeper is arranging towels on a cart.",
+    "explanation": "房務員正在整理推車上的毛巾，與描述相符；未進入客房，櫃檯無客人退房，走廊未施工。"
+  },
+  {
+    "id": "L1-T730-006",
+    "part": 1,
+    "track": "T730",
+    "imageDescription": "A warehouse forklift operator is transporting pallets of goods while a supervisor logs inventory on a tablet.",
+    "options": [
+      "The forklift operator is repairing the vehicle.",
+      "A supervisor is logging inventory on a tablet.",
+      "Pallets are being unpacked by workers.",
+      "The warehouse is completely empty."
+    ],
+    "answer": "A supervisor is logging inventory on a tablet.",
+    "explanation": "主管正在平板電腦上記錄庫存，與描述相符；堆高機在搬運而非修理，棧板未在拆封，倉庫有貨非空。"
+  },
+  {
+    "id": "L1-T730-007",
+    "part": 1,
+    "track": "T730",
+    "imageDescription": "A pharmacist is consulting with a customer at the counter while shelves of medicine are visible behind them.",
+    "options": [
+      "The pharmacist is stocking medicine on shelves.",
+      "A customer is browsing the medicine aisle alone.",
+      "A pharmacist is consulting with a customer.",
+      "The pharmacy is closed for renovations."
+    ],
+    "answer": "A pharmacist is consulting with a customer.",
+    "explanation": "藥劑師正在櫃檯諮詢顧客，與描述相符；補貨、獨自瀏覽、歇業裝修均非畫面內容。"
+  },
+  {
+    "id": "L1-T730-008",
+    "part": 1,
+    "track": "T730",
+    "imageDescription": "A graphic designer is adjusting a digital illustration on a drawing tablet while referencing a printed brief.",
+    "options": [
+      "A graphic designer is adjusting a digital illustration.",
+      "The design brief is being thrown away.",
+      "A printer is producing sample designs.",
+      "The designer is cleaning the drawing tablet."
+    ],
+    "answer": "A graphic designer is adjusting a digital illustration.",
+    "explanation": "設計師正在繪圖板上調整數位插圖，與描述相符；brief在桌上做參考而非丟棄，印表機未使用。"
+  },
+  {
+    "id": "L1-T730-009",
+    "part": 1,
+    "track": "T730",
+    "imageDescription": "A ground crew member is signaling to an airplane as it approaches the gate at an international airport terminal.",
+    "options": [
+      "Passengers are boarding the airplane.",
+      "A ground crew member is signaling to an airplane.",
+      "The airplane is taking off from the runway.",
+      "Luggage is being loaded onto the plane."
+    ],
+    "answer": "A ground crew member is signaling to an airplane.",
+    "explanation": "地勤人員正在對飛機打信號引導停靠，與描述相符；乘客尚未登機，飛機正接近空橋非起飛。"
+  },
+  {
+    "id": "L1-T730-010",
+    "part": 1,
+    "track": "T730",
+    "imageDescription": "An IT support specialist is replacing a hard drive in a desktop computer while a staff member watches in an office cubicle.",
+    "options": [
+      "The staff member is typing on the computer.",
+      "An IT specialist is replacing a hard drive.",
+      "The office cubicle is being moved to another floor.",
+      "A printer is being repaired by the specialist."
+    ],
+    "answer": "An IT specialist is replacing a hard drive.",
+    "explanation": "IT技術員正在更換硬碟，與描述一致；員工在觀看而非使用電腦，隔間未移動，維修的是桌上型電腦而非印表機。"
+  },
+  {
+    "id": "L1-T730-011",
+    "part": 1,
+    "track": "T730",
+    "imageDescription": "A bank teller is counting cash at the counter while a customer fills out a deposit form.",
+    "options": [
+      "The customer is withdrawing money from an ATM.",
+      "A bank teller is counting cash.",
+      "The bank is closing for the day.",
+      "A security guard is opening the vault."
+    ],
+    "answer": "A bank teller is counting cash.",
+    "explanation": "行員正在櫃檯點鈔，顧客在填寫存款單，與描述相符；顧客在填表而非使用提款機，銀行營業中。"
+  },
+  {
+    "id": "L1-T730-012",
+    "part": 1,
+    "track": "T730",
+    "imageDescription": "A conference interpreter is translating speech into a microphone while attendees wear headphones at a international business forum.",
+    "options": [
+      "Attendees are giving speeches on stage.",
+      "A conference interpreter is translating into a microphone.",
+      "The forum stage is being decorated.",
+      "Attendees are taking a coffee break."
+    ],
+    "answer": "A conference interpreter is translating into a microphone.",
+    "explanation": "口譯員正在對著麥克風翻譯，與描述一致；與會者戴耳機聽而非演講，論壇進行中非中場休息。"
+  },
+  {
+    "id": "L1-T730-013",
+    "part": 1,
+    "track": "T730",
+    "imageDescription": "A quality control inspector is examining fabric samples under a bright lamp in a textile factory workshop.",
+    "options": [
+      "Workers are operating sewing machines.",
+      "A quality control inspector is examining fabric samples.",
+      "The fabric is being loaded onto a delivery truck.",
+      "A designer is sketching new clothing patterns."
+    ],
+    "answer": "A quality control inspector is examining fabric samples.",
+    "explanation": "品管檢驗員正在檢查布料樣品，與描述一致；縫紉機未運作，布料未裝車，設計師未出現。"
+  },
+  {
+    "id": "L1-T730-014",
+    "part": 1,
+    "track": "T730",
+    "imageDescription": "A tour guide is leading a group of visitors through an art gallery, pointing at a painting on the wall.",
+    "options": [
+      "Visitors are purchasing tickets at the entrance.",
+      "A tour guide is leading a group through the gallery.",
+      "The paintings are being taken down for restoration.",
+      "A security guard is closing the gallery for the night."
+    ],
+    "answer": "A tour guide is leading a group through the gallery.",
+    "explanation": "導遊正在帶領一群訪客參觀畫廊，與描述相符；訪客已在參觀非購票，畫作掛在牆上未被取下。"
+  },
+  {
+    "id": "L1-T730-015",
+    "part": 1,
+    "track": "T730",
+    "imageDescription": "A logistics coordinator is scanning barcodes on packages with a handheld scanner in a busy distribution center.",
+    "options": [
+      "Packages are being sorted by destination.",
+      "A logistics coordinator is scanning barcodes on packages.",
+      "The distribution center is understaffed today.",
+      "A delivery truck is being loaded outside."
+    ],
+    "answer": "A logistics coordinator is scanning barcodes on packages.",
+    "explanation": "物流協調員正手持掃描器掃描包裹條碼，與描述一致；包裹分類、人力不足、裝車均未被提及。"
+  }
+]

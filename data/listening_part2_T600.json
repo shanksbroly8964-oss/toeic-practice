@@ -1,0 +1,522 @@
+[
+  {
+    "id": "L2-T600-001",
+    "part": 2,
+    "track": "T600",
+    "audioScript": "When does the shipment arrive?",
+    "options": [
+      "It arrived yesterday afternoon.",
+      "Yes, I received it.",
+      "Next to the warehouse."
+    ],
+    "answer": "It arrived yesterday afternoon.",
+    "explanation": "問句問「何時到貨」，此選項回答時間點最直接對應；Yes/No不適用於When疑問句、地點不符問題。"
+  },
+  {
+    "id": "L2-T600-002",
+    "part": 2,
+    "track": "T600",
+    "audioScript": "Where is the meeting being held?",
+    "options": [
+      "It starts at three o'clock.",
+      "In the conference room on the second floor.",
+      "Yes, the meeting is important."
+    ],
+    "answer": "In the conference room on the second floor.",
+    "explanation": "Where問地點，回答地點（二樓會議室）正確；時間和重要性答非所問。"
+  },
+  {
+    "id": "L2-T600-003",
+    "part": 2,
+    "track": "T600",
+    "audioScript": "Who is the new manager?",
+    "options": [
+      "Ms. Tanaka from the Osaka office.",
+      "In the marketing department.",
+      "Last Monday."
+    ],
+    "answer": "Ms. Tanaka from the Osaka office.",
+    "explanation": "Who問人物身分，回答人名正確；部門為Where概念，時間為When概念。"
+  },
+  {
+    "id": "L2-T600-004",
+    "part": 2,
+    "track": "T600",
+    "audioScript": "What time does the training session start?",
+    "options": [
+      "In the main training hall.",
+      "At nine thirty in the morning.",
+      "With the HR director."
+    ],
+    "answer": "At nine thirty in the morning.",
+    "explanation": "What time問具體時間，回答九點半正確；地點和人物答非所問。"
+  },
+  {
+    "id": "L2-T600-005",
+    "part": 2,
+    "track": "T600",
+    "audioScript": "Why was the meeting canceled?",
+    "options": [
+      "Because the presenter was unavailable.",
+      "At the last minute.",
+      "Yes, it was canceled."
+    ],
+    "answer": "Because the presenter was unavailable.",
+    "explanation": "Why問原因，回答because原因正確；時間和Yes/No答非所問。"
+  },
+  {
+    "id": "L2-T600-006",
+    "part": 2,
+    "track": "T600",
+    "audioScript": "How many people are attending the conference?",
+    "options": [
+      "By train.",
+      "About two hundred registrants.",
+      "Very well, thank you."
+    ],
+    "answer": "About two hundred registrants.",
+    "explanation": "How many問數量，回答約兩百人正確；交通方式與感受答非所問。"
+  },
+  {
+    "id": "L2-T600-007",
+    "part": 2,
+    "track": "T600",
+    "audioScript": "Did you receive the email I sent this morning?",
+    "options": [
+      "Yes, I got it around ten o'clock.",
+      "I sent it yesterday.",
+      "No, I didn't send any email."
+    ],
+    "answer": "Yes, I got it around ten o'clock.",
+    "explanation": "Did問是否收到，肯定回答加時間點正確；寄信主詞混淆、否定回答誤解問題。"
+  },
+  {
+    "id": "L2-T600-008",
+    "part": 2,
+    "track": "T600",
+    "audioScript": "How do you get to the office?",
+    "options": [
+      "I usually take the subway.",
+      "About thirty minutes.",
+      "Quite busy this week."
+    ],
+    "answer": "I usually take the subway.",
+    "explanation": "How問方式（交通方式），回答搭地鐵正確；時間長度和忙碌狀況答非所問。"
+  },
+  {
+    "id": "L2-T600-009",
+    "part": 2,
+    "track": "T600",
+    "audioScript": "What are you working on right now?",
+    "options": [
+      "I'm preparing the quarterly report.",
+      "In my office on the third floor.",
+      "Yes, I am working."
+    ],
+    "answer": "I'm preparing the quarterly report.",
+    "explanation": "What問正在做的事，回答準備季報正確；地點和Yes/No答非所問。"
+  },
+  {
+    "id": "L2-T600-010",
+    "part": 2,
+    "track": "T600",
+    "audioScript": "When is the deadline for the proposal?",
+    "options": [
+      "It's due this Friday by five PM.",
+      "In the proposal document.",
+      "Yes, the deadline is important."
+    ],
+    "answer": "It's due this Friday by five PM.",
+    "explanation": "When問截止時間，回答本週五下午五點正確；地點和重要性答非所問。"
+  },
+  {
+    "id": "L2-T600-011",
+    "part": 2,
+    "track": "T600",
+    "audioScript": "Who should I contact about the billing issue?",
+    "options": [
+      "Please contact Ms. Chen in accounting.",
+      "The billing issue was resolved.",
+      "I contacted them yesterday."
+    ],
+    "answer": "Please contact Ms. Chen in accounting.",
+    "explanation": "Who問該聯繫誰，回答陳小姐正確；帳單已解決和已聯繫過非回答建議對象。"
+  },
+  {
+    "id": "L2-T600-012",
+    "part": 2,
+    "track": "T600",
+    "audioScript": "How long have you worked at this company?",
+    "options": [
+      "For about five years now.",
+      "At the headquarters building.",
+      "I work in the sales department."
+    ],
+    "answer": "For about five years now.",
+    "explanation": "How long問時間長度，回答五年正確；地點和部門答非所問。"
+  },
+  {
+    "id": "L2-T600-013",
+    "part": 2,
+    "track": "T600",
+    "audioScript": "Would you like some coffee?",
+    "options": [
+      "Yes, please. With milk and sugar.",
+      "I had coffee yesterday.",
+      "No, I don't like coffee shops."
+    ],
+    "answer": "Yes, please. With milk and sugar.",
+    "explanation": "Would you like問要不要咖啡，接受並加奶糖正確；昨天喝過和討厭咖啡店答非所問。"
+  },
+  {
+    "id": "L2-T600-014",
+    "part": 2,
+    "track": "T600",
+    "audioScript": "Where did you put the contract documents?",
+    "options": [
+      "I put them in the top drawer of my desk.",
+      "Yes, I put them away.",
+      "The documents are very important."
+    ],
+    "answer": "I put them in the top drawer of my desk.",
+    "explanation": "Where問放置地點，回答抽屜位置正確；Yes/No與文件重要性答非所問。"
+  },
+  {
+    "id": "L2-T600-015",
+    "part": 2,
+    "track": "T600",
+    "audioScript": "Are you going to attend the workshop tomorrow?",
+    "options": [
+      "Yes, I have already registered for it.",
+      "The workshop was yesterday.",
+      "No, it's in the conference room."
+    ],
+    "answer": "Yes, I have already registered for it.",
+    "explanation": "Are you going to問是否參加，肯定回答已註冊正確；時間與地點答非所問。"
+  },
+  {
+    "id": "L2-T600-016",
+    "part": 2,
+    "track": "T600",
+    "audioScript": "What is your opinion on the new policy?",
+    "options": [
+      "I think it will improve efficiency.",
+      "The policy is on my desk.",
+      "Yes, I have an opinion."
+    ],
+    "answer": "I think it will improve efficiency.",
+    "explanation": "What問意見觀點，回答認為能提升效率正確；實體位置和Yes/No答非所問。"
+  },
+  {
+    "id": "L2-T600-017",
+    "part": 2,
+    "track": "T600",
+    "audioScript": "How much does this printer cost?",
+    "options": [
+      "It's about three hundred dollars.",
+      "It prints very fast.",
+      "It was ordered last week."
+    ],
+    "answer": "It's about three hundred dollars.",
+    "explanation": "How much問價格，回答約三百元正確；功能和訂購時間答非所問。"
+  },
+  {
+    "id": "L2-T600-018",
+    "part": 2,
+    "track": "T600",
+    "audioScript": "Can you help me with this report?",
+    "options": [
+      "Sure, let me finish this email first.",
+      "Yes, I wrote the report.",
+      "The report is on the server."
+    ],
+    "answer": "Sure, let me finish this email first.",
+    "explanation": "Can you help問是否可幫忙，同意先完成郵件再協助正確；已寫完報告和報告位置答非所問。"
+  },
+  {
+    "id": "L2-T600-019",
+    "part": 2,
+    "track": "T600",
+    "audioScript": "What kind of computer do you use?",
+    "options": [
+      "I use a laptop from a Japanese brand.",
+      "I use it for designing presentations.",
+      "I bought it two years ago."
+    ],
+    "answer": "I use a laptop from a Japanese brand.",
+    "explanation": "What kind問電腦種類，回答日本品牌筆電正確；用途和購買時間答非所問。"
+  },
+  {
+    "id": "L2-T600-020",
+    "part": 2,
+    "track": "T600",
+    "audioScript": "Is Mr. Johnson in his office?",
+    "options": [
+      "No, he's in a meeting on the fifth floor.",
+      "Yes, Mr. Johnson is a manager.",
+      "He went to the office yesterday."
+    ],
+    "answer": "No, he's in a meeting on the fifth floor.",
+    "explanation": "Is問是否在辦公室，否定回答並告知在開會正確；身分介紹和過去時間答非所問。"
+  },
+  {
+    "id": "L2-T600-021",
+    "part": 2,
+    "track": "T600",
+    "audioScript": "Which department handles customer complaints?",
+    "options": [
+      "The customer service department handles them.",
+      "The complaints are about shipping delays.",
+      "Yes, they handle complaints."
+    ],
+    "answer": "The customer service department handles them.",
+    "explanation": "Which問哪個部門，回答客服部門正確；抱怨內容和Yes/No答非所問。"
+  },
+  {
+    "id": "L2-T600-022",
+    "part": 2,
+    "track": "T600",
+    "audioScript": "How often do you have team meetings?",
+    "options": [
+      "We have them every Monday morning.",
+      "The meetings are in Room 302.",
+      "About ten people attend."
+    ],
+    "answer": "We have them every Monday morning.",
+    "explanation": "How often問頻率，回答每週一早上正確；地點和人數答非所問。"
+  },
+  {
+    "id": "L2-T600-023",
+    "part": 2,
+    "track": "T600",
+    "audioScript": "Did you finish the budget report?",
+    "options": [
+      "Not yet, I'm still working on the numbers.",
+      "Yes, the budget is very tight.",
+      "I finished it last month."
+    ],
+    "answer": "Not yet, I'm still working on the numbers.",
+    "explanation": "Did問是否完成，否定回答還在進行正確；預算狀況和上個月完成（時態不符）答非所問。"
+  },
+  {
+    "id": "L2-T600-024",
+    "part": 2,
+    "track": "T600",
+    "audioScript": "Whose laptop is this on the table?",
+    "options": [
+      "It belongs to the intern from marketing.",
+      "I left it on the table.",
+      "Yes, it's a laptop."
+    ],
+    "answer": "It belongs to the intern from marketing.",
+    "explanation": "Whose問所有權，回答屬於行銷實習生正確；主詞混用和Yes/No答非所問。"
+  },
+  {
+    "id": "L2-T600-025",
+    "part": 2,
+    "track": "T600",
+    "audioScript": "What time should I arrive for the interview?",
+    "options": [
+      "Please come at ten thirty.",
+      "The interview is in Room 5.",
+      "I arrived on time yesterday."
+    ],
+    "answer": "Please come at ten thirty.",
+    "explanation": "What time問抵達時間，回答十點三十分正確；地點和過去經驗答非所問。"
+  },
+  {
+    "id": "L2-T600-026",
+    "part": 2,
+    "track": "T600",
+    "audioScript": "Where can I find the restrooms?",
+    "options": [
+      "They are at the end of the hallway on the left.",
+      "You can use it after the meeting.",
+      "Yes, there are restrooms here."
+    ],
+    "answer": "They are at the end of the hallway on the left.",
+    "explanation": "Where問位置，回答走廊盡頭左轉正確；時間和Yes/No答非所問。"
+  },
+  {
+    "id": "L2-T600-027",
+    "part": 2,
+    "track": "T600",
+    "audioScript": "How was your business trip to Singapore?",
+    "options": [
+      "It was very productive, thank you.",
+      "I went there by plane.",
+      "Singapore is a city-state."
+    ],
+    "answer": "It was very productive, thank you.",
+    "explanation": "How問旅程如何，回答很有收穫正確；交通方式和地理常識答非所問。"
+  },
+  {
+    "id": "L2-T600-028",
+    "part": 2,
+    "track": "T600",
+    "audioScript": "Should I bring my own lunch to the training?",
+    "options": [
+      "No, lunch will be provided for everyone.",
+      "Yes, I brought my lunch.",
+      "The training starts at nine."
+    ],
+    "answer": "No, lunch will be provided for everyone.",
+    "explanation": "Should問是否自帶午餐，否定回覆強調有供餐正確；主詞混淆和開始時間答非所問。"
+  },
+  {
+    "id": "L2-T600-029",
+    "part": 2,
+    "track": "T600",
+    "audioScript": "What is the weather like today?",
+    "options": [
+      "It's sunny and warm outside.",
+      "Yes, it's weather.",
+      "It rained a lot last month."
+    ],
+    "answer": "It's sunny and warm outside.",
+    "explanation": "What...like問天氣狀況，回答晴天溫暖正確；空洞肯定和過去天氣答非所問。"
+  },
+  {
+    "id": "L2-T600-030",
+    "part": 2,
+    "track": "T600",
+    "audioScript": "When was the company founded?",
+    "options": [
+      "It was founded in 1995.",
+      "By the current CEO's father.",
+      "In a small office downtown."
+    ],
+    "answer": "It was founded in 1995.",
+    "explanation": "When問創立時間，回答1995年正確；創辦人和地點答非所問。"
+  },
+  {
+    "id": "L2-T600-031",
+    "part": 2,
+    "track": "T600",
+    "audioScript": "Do you prefer working in the morning or at night?",
+    "options": [
+      "I prefer mornings because I'm more focused then.",
+      "Yes, I prefer working.",
+      "I worked last night until midnight."
+    ],
+    "answer": "I prefer mornings because I'm more focused then.",
+    "explanation": "選擇疑問句問早上或晚上，回答早上更好正確；空洞Yes和過去經驗答非所問。"
+  },
+  {
+    "id": "L2-T600-032",
+    "part": 2,
+    "track": "T600",
+    "audioScript": "How much vacation time do employees get?",
+    "options": [
+      "Two weeks of paid vacation per year.",
+      "I went on vacation last summer.",
+      "The vacation policy is on the website."
+    ],
+    "answer": "Two weeks of paid vacation per year.",
+    "explanation": "How much問天數，回答每年兩週正確；個人經驗和文件位置答非所問。"
+  },
+  {
+    "id": "L2-T600-033",
+    "part": 2,
+    "track": "T600",
+    "audioScript": "What did you think of the training seminar?",
+    "options": [
+      "It was very informative and well-organized.",
+      "I thought about it yesterday.",
+      "Yes, it was a seminar."
+    ],
+    "answer": "It was very informative and well-organized.",
+    "explanation": "What did you think問看法，回答資訊豐富條理分明正確；想著昨天和空洞肯定答非所問。"
+  },
+  {
+    "id": "L2-T600-034",
+    "part": 2,
+    "track": "T600",
+    "audioScript": "Is there a pharmacy near here?",
+    "options": [
+      "Yes, there's one around the corner on Main Street.",
+      "No, I don't need any medicine.",
+      "The pharmacy opens at nine."
+    ],
+    "answer": "Yes, there's one around the corner on Main Street.",
+    "explanation": "Is there問附近是否有藥局，肯定回答告知位置正確；個人需求和營業時間答非所問。"
+  },
+  {
+    "id": "L2-T600-035",
+    "part": 2,
+    "track": "T600",
+    "audioScript": "Who is responsible for ordering office supplies?",
+    "options": [
+      "The administrative assistant handles that.",
+      "Office supplies are in the storage room.",
+      "I ordered some pens last week."
+    ],
+    "answer": "The administrative assistant handles that.",
+    "explanation": "Who問負責人，回答行政助理正確；物品位置和過去訂購答非所問。"
+  },
+  {
+    "id": "L2-T600-036",
+    "part": 2,
+    "track": "T600",
+    "audioScript": "How do I log in to the company system?",
+    "options": [
+      "Use your employee ID and password.",
+      "The system is down right now.",
+      "I logged in this morning."
+    ],
+    "answer": "Use your employee ID and password.",
+    "explanation": "How問登入方式，回答使用員工編號和密碼正確；系統狀態和個人經驗答非所問。"
+  },
+  {
+    "id": "L2-T600-037",
+    "part": 2,
+    "track": "T600",
+    "audioScript": "What time does the last train leave?",
+    "options": [
+      "The last train departs at eleven fifteen.",
+      "Yes, I took the last train.",
+      "The train station is nearby."
+    ],
+    "answer": "The last train departs at eleven fifteen.",
+    "explanation": "What time問發車時間，回答11點15分正確；個人經驗和車站位置答非所問。"
+  },
+  {
+    "id": "L2-T600-038",
+    "part": 2,
+    "track": "T600",
+    "audioScript": "Have you met the new team member yet?",
+    "options": [
+      "Yes, I introduced myself to her this morning.",
+      "She is a new team member.",
+      "The team meets every Friday."
+    ],
+    "answer": "Yes, I introduced myself to her this morning.",
+    "explanation": "Have you met問是否見過新人，肯定回答今早自我介紹正確；身分重複和團隊會議時間答非所問。"
+  },
+  {
+    "id": "L2-T600-039",
+    "part": 2,
+    "track": "T600",
+    "audioScript": "Why did you choose to apply for this position?",
+    "options": [
+      "Because I want to grow my skills in this field.",
+      "I applied for it online last week.",
+      "Yes, I chose this position."
+    ],
+    "answer": "Because I want to grow my skills in this field.",
+    "explanation": "Why問應徵原因，回答希望提升技能正確；應徵方式和空洞Yes答非所問。"
+  },
+  {
+    "id": "L2-T600-040",
+    "part": 2,
+    "track": "T600",
+    "audioScript": "Can I park my car in the office garage?",
+    "options": [
+      "Yes, but you need a parking permit.",
+      "I parked my car on the street.",
+      "The garage can hold fifty cars."
+    ],
+    "answer": "Yes, but you need a parking permit.",
+    "explanation": "Can I park問是否可以停車，肯定回答但需許可證正確；個人停車經驗和車庫容量答非所問。"
+  }
+]
