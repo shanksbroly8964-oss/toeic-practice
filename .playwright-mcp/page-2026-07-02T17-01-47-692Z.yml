@@ -1,0 +1,67 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e2]:
+    - generic [ref=e3]: TOEIC 練習室
+    - button "G 登入" [ref=e5] [cursor=pointer]:
+      - generic [ref=e6]: G
+      - text: 登入
+  - generic [ref=e7]:
+    - generic [ref=e8]:
+      - generic [ref=e9]: 目標 600 分
+      - generic [ref=e10]:
+        - button "目標 600" [ref=e11] [cursor=pointer]
+        - button "目標 730" [ref=e12] [cursor=pointer]
+    - generic [ref=e13]:
+      - paragraph [ref=e14]: TOEIC L&R 練習工具 — 專為成人上班族設計的多益備考平台。完整涵蓋聽力 Part 1–4 與閱讀 Part 5–7，支援兩種分軌：目標 600 分與目標 730 分以上。
+      - list [ref=e15]:
+        - listitem [ref=e16]:
+          - text: •
+          - strong [ref=e17]: 目標 600 分
+          - text: ：基礎商務英文，詞彙與句型較簡單，適合剛開始備考者。
+        - listitem [ref=e18]:
+          - text: •
+          - strong [ref=e19]: 目標 730 分以上
+          - text: ：進階商務英文，詞彙廣、句型複雜，適合攻頂者。
+        - listitem [ref=e20]: • 綜合練習可自訂每回合題數，支持個別調整每個 Part 的題數。
+        - listitem [ref=e21]: • 全程 TTS 發音支援，每題即可朗讀；錯題本自動記錄與重答。
+    - generic [ref=e22]:
+      - heading "聽力精練" [level=2] [ref=e23]
+      - generic [ref=e24]:
+        - generic [ref=e25] [cursor=pointer]:
+          - heading "Part 1 照片描述" [level=3] [ref=e26]
+          - paragraph [ref=e27]: 四選一的照片描述題
+        - generic [ref=e28] [cursor=pointer]:
+          - heading "Part 2 應答問題" [level=3] [ref=e29]
+          - paragraph [ref=e30]: 三選一的應答問題
+        - generic [ref=e31] [cursor=pointer]:
+          - heading "Part 3 簡短對話" [level=3] [ref=e32]
+          - paragraph [ref=e33]: 多題組的短篇對話理解
+        - generic [ref=e34] [cursor=pointer]:
+          - heading "Part 4 簡短獨白" [level=3] [ref=e35]
+          - paragraph [ref=e36]: 多題組的短篇獨白理解
+    - generic [ref=e37]:
+      - heading "閱讀精練" [level=2] [ref=e38]
+      - generic [ref=e39]:
+        - generic [ref=e40] [cursor=pointer]:
+          - heading "Part 5 單句填空" [level=3] [ref=e41]
+          - paragraph [ref=e42]: 文法與詞彙的單句選擇題
+        - generic [ref=e43] [cursor=pointer]:
+          - heading "Part 6 短文填空" [level=3] [ref=e44]
+          - paragraph [ref=e45]: 段落中的文法與詞彙填空
+        - generic [ref=e46] [cursor=pointer]:
+          - heading "Part 7 阅讀理解" [level=3] [ref=e47]
+          - paragraph [ref=e48]: 文章阅讀與多題組答題
+    - generic [ref=e49]:
+      - heading "綜合工具" [level=2] [ref=e50]
+      - generic [ref=e51]:
+        - generic [ref=e52] [cursor=pointer]:
+          - heading "綜合練習" [level=3] [ref=e53]
+          - paragraph [ref=e54]: Part 1–7 混合組卷 · 自訂每部分題數
+        - generic [ref=e55] [cursor=pointer]:
+          - heading "錯題本" [level=3] [ref=e56]
+          - paragraph [ref=e57]: 查看並重做錯題
+        - generic [ref=e58] [cursor=pointer]:
+          - heading "弱點分析" [level=3] [ref=e59]
+          - paragraph [ref=e60]: 錯題統計與改進建議
+        - generic [ref=e61] [cursor=pointer]:
+          - heading "練習設定" [level=3] [ref=e62]
+          - paragraph [ref=e63]: 調整每回綜合練習的各 Part 題數

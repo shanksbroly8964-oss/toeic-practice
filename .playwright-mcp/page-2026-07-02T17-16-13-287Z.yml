@@ -1,0 +1,56 @@
+- generic [ref=f4e2]:
+  - generic [ref=f4e3]:
+    - heading "TOEIC L&R 練習" [level=1] [ref=f4e4]
+    - generic [ref=f4e5]: 目標：T600
+    - generic [ref=f4e6]:
+      - button "T600" [ref=f4e7] [cursor=pointer]
+      - button "T730" [ref=f4e8] [cursor=pointer]
+  - generic [ref=f4e9]:
+    - paragraph [ref=f4e10]: TOEIC L&R 練習工具 — 專為成人上班族設計的多益備考平台。完整涵蓋聽力 Part 1–4 與閱讀 Part 5–7，支援 T600（600分衝刺）與 T730（730分進階）兩種分軌。
+    - list [ref=f4e11]:
+      - listitem [ref=f4e12]:
+        - text: •
+        - strong [ref=f4e13]: T600 分軌
+        - text: ：基礎商務英文，詞彙與句型較簡單，適合剛開始備考者。
+      - listitem [ref=f4e14]:
+        - text: •
+        - strong [ref=f4e15]: T730 分軌
+        - text: ：進階商務英文，詞彙廣、句型複雜，適合攻頂者。
+      - listitem [ref=f4e16]: "• 綜合練習每回合題數：P1=2題、P2=8題、P3≈\x12題、P4≈\x10題、P5=10題、P6=1組(4空)、P7=2組"
+      - listitem [ref=f4e17]: • 全程 TTS 發音支援，每題〔🔊〕即可朗讀；錯題本自動記錄與重答。
+  - generic [ref=f4e18]:
+    - heading "聽力精練" [level=2] [ref=f4e19]
+    - generic [ref=f4e20]:
+      - generic [ref=f4e21] [cursor=pointer]:
+        - heading "Part 1" [level=3] [ref=f4e22]
+        - paragraph [ref=f4e23]: 照片描述 · 4選題
+      - generic [ref=f4e24] [cursor=pointer]:
+        - heading "Part 2" [level=3] [ref=f4e25]
+        - paragraph [ref=f4e26]: 應答問題 · 3選題
+      - generic [ref=f4e27] [cursor=pointer]:
+        - heading "Part 3" [level=3] [ref=f4e28]
+        - paragraph [ref=f4e29]: 簡短對話 · 多題組
+      - generic [ref=f4e30] [cursor=pointer]:
+        - heading "Part 4" [level=3] [ref=f4e31]
+        - paragraph [ref=f4e32]: 簡短獨白 · 多題組
+  - generic [ref=f4e33]:
+    - heading "閱讀精練" [level=2] [ref=f4e34]
+    - generic [ref=f4e35]:
+      - generic [ref=f4e36] [cursor=pointer]:
+        - heading "Part 5" [level=3] [ref=f4e37]
+        - paragraph [ref=f4e38]: Incomplete Sentences 單句填空
+      - generic [ref=f4e39] [cursor=pointer]:
+        - heading "Part 6" [level=3] [ref=f4e40]
+        - paragraph [ref=f4e41]: Text Completion 段落填空
+      - generic [ref=f4e42] [cursor=pointer]:
+        - heading "Part 7" [level=3] [ref=f4e43]
+        - paragraph [ref=f4e44]: Reading Comprehension 阅讀理解
+  - generic [ref=f4e45]:
+    - heading "綜合工具" [level=2] [ref=f4e46]
+    - generic [ref=f4e47]:
+      - generic [ref=f4e48] [cursor=pointer]:
+        - heading "全真模模試" [level=3] [ref=f4e49]
+        - paragraph [ref=f4e50]: Part 1-7 混合組卷 · 聽讀全簡
+      - generic [ref=f4e51] [cursor=pointer]:
+        - heading "錯題本" [level=3] [ref=f4e52]
+        - paragraph [ref=f4e53]: 查看並重做錯題
