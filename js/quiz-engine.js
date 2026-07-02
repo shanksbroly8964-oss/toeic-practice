@@ -245,7 +245,8 @@ TOEIC.QuizEngine = {
     } else {
       TOEIC.Storage.addWrongItem({
         part: 6, track: track, questionId: qId,
-        question: blank.question || '', options: blank.options,
+        question: (item.passageTitle || 'Part 6') + ' (blank ' + (blankIndex + 1) + ')',
+        options: blank.options,
         userAnswer: answerText, correctAnswer: blank.answer,
         explanation: blank.explanation
       });
@@ -353,7 +354,7 @@ TOEIC.QuizEngine = {
               details.push({
                 questionId: item.id + '-B' + (b + 1),
                 part: 6,
-                question: item.blanks[b].question || '',
+                question: (item.passageTitle || 'Part 6') + ' (blank ' + (b + 1) + ')',
                 userAnswer: br.userAnswer,
                 correctAnswer: item.blanks[b].answer,
                 isCorrect: br.isCorrect,
@@ -422,7 +423,7 @@ TOEIC.QuizEngine = {
               perPart[part].total++;
               details.push({
                 questionId: item.id + '-B' + (b + 1), part: part,
-                question: item.blanks[b].question || '',
+                question: (item.passageTitle || 'Part 6') + ' (blank ' + (b + 1) + ')',
                 userAnswer: br.userAnswer, correctAnswer: item.blanks[b].answer,
                 isCorrect: br.isCorrect, explanation: item.blanks[b].explanation
               });
