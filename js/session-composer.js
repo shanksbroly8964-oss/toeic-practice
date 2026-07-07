@@ -191,7 +191,8 @@ TOEIC.SessionComposer = {
       currentIndex: 0,
       totalItems: totalItems,
       answeredCount: 0,
-      partCounts: partCounts
+      partCounts: partCounts,
+      _groupViewIndex: 0
     };
   }
 };

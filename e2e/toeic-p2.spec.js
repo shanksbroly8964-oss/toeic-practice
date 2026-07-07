@@ -1,6 +1,5 @@
 const { test, expect } = require('@playwright/test');
 
-const BASE = 'https://toeic-goku.web.app';
 const EVIDENCE = 'evidence/';
 
 async function loadHome(page) {
@@ -27,7 +26,7 @@ async function loadHome(page) {
       configurable: true,
     });
   });
-  await page.goto(BASE, { waitUntil: 'networkidle' });
+  await page.goto('/', { waitUntil: 'networkidle' });
   await page.waitForSelector('.app-header', { state: 'visible', timeout: 20000 });
   await page.waitForSelector('.card', { state: 'visible', timeout: 10000 });
 }

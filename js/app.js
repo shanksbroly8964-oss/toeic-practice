@@ -85,23 +85,25 @@ TOEIC.App = {
 
   /* ── Part3 ── */
   submitPart3Answer(answer) {
-    var qIndex = TOEIC.QuizEngine.getPart3QuestionIndex(this._session);
+    var qIndex = this._session._groupViewIndex || 0;
     TOEIC.QuizEngine.submitPart3Question(this._session, qIndex, answer);
     this._renderCurrentQuestion();
   },
 
   nextPart3Question() {
+    this._session._groupViewIndex = (this._session._groupViewIndex || 0) + 1;
     this._renderCurrentQuestion();
   },
 
   /* ── Part4 ── */
   submitPart4Answer(answer) {
-    var qIndex = TOEIC.QuizEngine.getPart4QuestionIndex(this._session);
+    var qIndex = this._session._groupViewIndex || 0;
     TOEIC.QuizEngine.submitPart4Question(this._session, qIndex, answer);
     this._renderCurrentQuestion();
   },
 
   nextPart4Question() {
+    this._session._groupViewIndex = (this._session._groupViewIndex || 0) + 1;
     this._renderCurrentQuestion();
   },
 
@@ -119,16 +121,18 @@ TOEIC.App = {
 
   /* ── Part7 ── */
   submitPart7Answer(answer) {
-    var qIndex = TOEIC.QuizEngine.getPart7QuestionIndex(this._session);
+    var qIndex = this._session._groupViewIndex || 0;
     TOEIC.QuizEngine.submitPart7Question(this._session, qIndex, answer);
     this._renderCurrentQuestion();
   },
 
   nextPart7Question() {
+    this._session._groupViewIndex = (this._session._groupViewIndex || 0) + 1;
     this._renderCurrentQuestion();
   },
 
   nextQuestion() {
+    this._session._groupViewIndex = 0;
     TOEIC.QuizEngine.next(this._session);
     this._renderCurrentQuestion();
   },

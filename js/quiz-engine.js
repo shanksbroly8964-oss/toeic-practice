@@ -15,8 +15,12 @@ TOEIC.QuizEngine = {
     let totalItems, answers;
 
     if (picked.length > 0 && (picked[0].part === 6)) {
-      totalItems = picked.length * 4;
-      answers = picked.map(() => [null, null, null, null]);
+      totalItems = picked.reduce(function (s, item) {
+        return s + (item.blanks ? item.blanks.length : 0);
+      }, 0);
+      answers = picked.map(function (item) {
+        return new Array(item.blanks ? item.blanks.length : 0).fill(null);
+      });
     } else if (picked.length > 0 && (picked[0].part === 7 || picked[0].part === 3 || picked[0].part === 4)) {
       totalItems = picked.reduce(function (s, item) {
         return s + (item.questions ? item.questions.length : 0);
@@ -36,7 +40,8 @@ TOEIC.QuizEngine = {
       currentIndex: 0,
       answers: answers,
       totalItems: totalItems,
-      answeredCount: 0
+      answeredCount: 0,
+      _groupViewIndex: 0
     };
   },
 

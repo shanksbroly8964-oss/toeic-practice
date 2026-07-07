@@ -679,7 +679,8 @@ TOEIC.UIRenderer = {
     app.appendChild(convDiv);
 
     /* Current question */
-    var qIndex = TOEIC.QuizEngine.getPart3QuestionIndex(session);
+    var qIndex = session._groupViewIndex || 0;
+    if (qIndex >= item.questions.length) qIndex = item.questions.length - 1;
     if (qIndex < item.questions.length) {
       var q = item.questions[qIndex];
       var block = document.createElement('div');
@@ -750,11 +751,12 @@ TOEIC.UIRenderer = {
       app.appendChild(block);
 
       if (answered) {
+        var isLastQuestion = qIndex >= item.questions.length - 1;
         var allQAnswered = TOEIC.QuizEngine.areAllPart3QuestionsAnswered(session);
         var navRow = document.createElement('div');
         navRow.style.cssText = 'text-align:center;margin-top:1rem;';
 
-        if (!allQAnswered) {
+        if (!isLastQuestion) {
           var nqBtn = document.createElement('button');
           nqBtn.className = 'home-btn';
           nqBtn.textContent = '\u4E0B\u4E00\u984C \u2192';
@@ -762,7 +764,7 @@ TOEIC.UIRenderer = {
             TOEIC.App.nextPart3Question();
           });
           navRow.appendChild(nqBtn);
-        } else {
+        } else if (allQAnswered) {
           if (TOEIC.QuizEngine.hasNext(session)) {
             var ngBtn = document.createElement('button');
             ngBtn.className = 'home-btn';
@@ -814,7 +816,8 @@ TOEIC.UIRenderer = {
     app.appendChild(talkDiv);
 
     /* Current question */
-    var qIndex = TOEIC.QuizEngine.getPart4QuestionIndex(session);
+    var qIndex = session._groupViewIndex || 0;
+    if (qIndex >= item.questions.length) qIndex = item.questions.length - 1;
     if (qIndex < item.questions.length) {
       var q = item.questions[qIndex];
       var block = document.createElement('div');
@@ -885,11 +888,12 @@ TOEIC.UIRenderer = {
       app.appendChild(block);
 
       if (answered) {
+        var isLastQuestion = qIndex >= item.questions.length - 1;
         var allQAnswered = TOEIC.QuizEngine.areAllPart4QuestionsAnswered(session);
         var navRow = document.createElement('div');
         navRow.style.cssText = 'text-align:center;margin-top:1rem;';
 
-        if (!allQAnswered) {
+        if (!isLastQuestion) {
           var nqBtn = document.createElement('button');
           nqBtn.className = 'home-btn';
           nqBtn.textContent = '\u4E0B\u4E00\u984C \u2192';
@@ -897,7 +901,7 @@ TOEIC.UIRenderer = {
             TOEIC.App.nextPart4Question();
           });
           navRow.appendChild(nqBtn);
-        } else {
+        } else if (allQAnswered) {
           if (TOEIC.QuizEngine.hasNext(session)) {
             var ngBtn = document.createElement('button');
             ngBtn.className = 'home-btn';
@@ -1242,7 +1246,8 @@ TOEIC.UIRenderer = {
 
     app.appendChild(docsContainer);
 
-    var qIndex = TOEIC.QuizEngine.getPart7QuestionIndex(session);
+    var qIndex = session._groupViewIndex || 0;
+    if (qIndex >= item.questions.length) qIndex = item.questions.length - 1;
     if (qIndex < item.questions.length) {
       var q = item.questions[qIndex];
       var block = document.createElement('div');
@@ -1315,11 +1320,12 @@ TOEIC.UIRenderer = {
       var self2 = this;
 
       if (answered) {
+        var isLastQuestion = qIndex >= item.questions.length - 1;
         var allQAnswered = TOEIC.QuizEngine.areAllPart7QuestionsAnswered(session);
         var navRow = document.createElement('div');
         navRow.style.cssText = 'text-align:center;margin-top:1rem;';
 
-        if (!allQAnswered) {
+        if (!isLastQuestion) {
           var nqBtn = document.createElement('button');
           nqBtn.className = 'home-btn';
           nqBtn.textContent = '\u4E0B\u4E00\u984C \u2192';
@@ -1327,7 +1333,7 @@ TOEIC.UIRenderer = {
             TOEIC.App.nextPart7Question();
           });
           navRow.appendChild(nqBtn);
-        } else {
+        } else if (allQAnswered) {
           if (TOEIC.QuizEngine.hasNext(session)) {
             var ngBtn = document.createElement('button');
             ngBtn.className = 'home-btn';
