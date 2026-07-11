@@ -7,7 +7,7 @@ window.ToeicSync = (function() {
   'use strict';
 
   var _syncTimer = null;
-  var _syncDebounceMs = 3000;  // debounce 3 seconds
+  var _syncDebounceMs = 3000;
   var _uid = null;
   var _ready = false;
 
@@ -19,7 +19,7 @@ window.ToeicSync = (function() {
     TRACK: 'toeic_track'
   };
 
-  // ── helpers ─────────────────────────────────────────────
+  // ── helpers ──
 
   function _readLocal(key) {
     try {
@@ -43,7 +43,7 @@ window.ToeicSync = (function() {
     return item.questionId + '|' + (item.part || '');
   }
 
-  // ── merge strategies ────────────────────────────────────
+  // ── merge strategies ──
 
   function _mergeWrong(localArr, remoteArr) {
     if (!localArr) localArr = [];
@@ -111,12 +111,7 @@ window.ToeicSync = (function() {
     return merged;
   }
 
-  function _mergeSimple(localVal, remoteVal, localTs, remoteTs) {
-    if (localTs >= remoteTs) return localVal;
-    return remoteVal;
-  }
-
-  // ── merge & push ────────────────────────────────────────
+  // ── merge & push ──
 
   function _loadAllLocal() {
     return {
@@ -180,7 +175,6 @@ window.ToeicSync = (function() {
       _setLocalMeta(KEYS.TRACK, Math.max(_getLocalMeta(KEYS.TRACK) || 0, remoteToeic._trackTs || 0));
     }
 
-    // After merge, push the merged data back to cloud
     syncUp();
   }
 
@@ -193,7 +187,7 @@ window.ToeicSync = (function() {
     });
   }
 
-  // ── public API ──────────────────────────────────────────
+  // ── public API ──
 
   function syncUp() {
     if (!_uid) return;
@@ -247,7 +241,6 @@ window.ToeicSync = (function() {
       if (remote) {
         _mergeAndWrite(remote);
       } else {
-        // No remote data yet, push local up
         syncUp();
       }
     });
@@ -260,12 +253,11 @@ window.ToeicSync = (function() {
     _syncTimer = null;
   }
 
-  // ── hook into storage writes ────────────────────────────
+  // ── hook into storage writes ──
 
   function _installHooks() {
     if (!window.TOEIC) window.TOEIC = {};
 
-    // Hook Storage
     var Storage = window.TOEIC.Storage;
     if (Storage) {
       var _addWrongItem = Storage.addWrongItem;
@@ -288,7 +280,6 @@ window.ToeicSync = (function() {
       };
     }
 
-    // Hook Analytics
     var Analytics = window.TOEIC.Analytics;
     if (Analytics) {
       var _recordAttempt = Analytics.recordAttempt;
@@ -311,7 +302,7 @@ window.ToeicSync = (function() {
     scheduleSyncUp();
   }
 
-  // ── init ────────────────────────────────────────────────
+  // ── init: register on auth change ──
 
   function init() {
     _installHooks();
@@ -322,14 +313,9 @@ window.ToeicSync = (function() {
         onLogout();
       }
     });
-    // If already logged in (auth.js auto-login restored), trigger merge
-    if (window.ToeicAuth.isLoggedIn && window.ToeicAuth.isLoggedIn()) {
-      var u = window.ToeicAuth.getUser();
-      if (u) onLogin(u);
-    }
   }
 
-  // Auto-init after auth loads
+  // Auto-init after DOM ready
   if (document.readyState === 'loading') {
     document.addEventListener('DOMContentLoaded', function() {
       setTimeout(init, 500);

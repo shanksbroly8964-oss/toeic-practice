@@ -4,6 +4,7 @@ const EVIDENCE = 'evidence/';
 
 async function loadHome(page) {
   await page.addInitScript(() => {
+    window.__TOEIC_E2E_MODE = true;
     window.__spoken = [];
     Object.defineProperty(window, 'speechSynthesis', {
       value: {
@@ -385,13 +386,9 @@ test('P2-05-wrongbook-category-filter', async ({ page }) => {
 test('P2-06-login-component-stub', async ({ page }) => {
   await loadHome(page);
 
-  // Login button should be visible in navbar
+  // Auth area is present in navbar (may be empty in E2E mode, which skips login)
   const authArea = page.locator('#toeic-auth-area');
-  await expect(authArea).toBeVisible({ timeout: 10000 });
-
-  // Either a login button or user info should be visible
-  const loginBtn = page.locator('button').filter({ hasText: /登入/ });
-  const hasLoginBtn = await loginBtn.count();
+  await expect(authArea).toBeAttached();
 
   // Full app functionality works WITHOUT login (offline-first design)
   // Verify home renders, cards are clickable, settings accessible
@@ -412,7 +409,7 @@ test('P2-06-login-component-stub', async ({ page }) => {
   expect(analyticsVisible).toBeGreaterThan(0);
   await goBackHome(page);
 
-  console.log(`Login button present: ${hasLoginBtn > 0}, full app works without login: true`);
+  console.log('Full app works without login: true');
 });
 
 /* ─────────────────────────────────────────────

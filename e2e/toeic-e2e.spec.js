@@ -4,6 +4,7 @@ const EVIDENCE = 'evidence/';
 
 async function loadHome(page) {
   await page.addInitScript(() => {
+    window.__TOEIC_E2E_MODE = true;
     window.__spoken = [];
     Object.defineProperty(window, 'speechSynthesis', {
       value: {

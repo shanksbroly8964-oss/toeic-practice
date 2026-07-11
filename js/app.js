@@ -1,5 +1,44 @@
 window.TOEIC = window.TOEIC || {};
 
+// ── App Gate: waits for ToeicAuth to resolve, then starts ──
+window.ToeicAppGate = {
+  _started: false,
+
+  startApp() {
+    if (this._started) return;
+    this._started = true;
+    if (window.ToeicPWA) {
+      window.ToeicPWA.showBottomBar();
+    }
+    TOEIC.App.init();
+  },
+
+  init() {
+    var self = this;
+
+    function boot() {
+      if (window.ToeicAuth && typeof window.ToeicAuth.initAppGate === 'function') {
+        window.ToeicAuth.initAppGate(function(loggedIn) {
+          if (!loggedIn) {
+            // Login page shown by auth.js, wait for auth state change to trigger startApp
+            window.ToeicAuth.checkRedirectResult();
+          }
+          // If loggedIn was true, startApp was already called in initAppGate
+        });
+      } else {
+        // Auth module not available, go straight to app
+        self.startApp();
+      }
+    }
+
+    if (document.readyState === 'loading') {
+      document.addEventListener('DOMContentLoaded', boot);
+    } else {
+      boot();
+    }
+  }
+};
+
 TOEIC.App = {
   _track: 'T600',
   _session: null,
@@ -71,66 +110,49 @@ TOEIC.App = {
     }
   },
 
-  /* ── Part1 ── */
   submitPart1Answer(answer) {
     TOEIC.QuizEngine.submitPart1(this._session, answer);
     this._renderCurrentQuestion();
   },
-
-  /* ── Part2 ── */
   submitPart2Answer(answer) {
     TOEIC.QuizEngine.submitPart2(this._session, answer);
     this._renderCurrentQuestion();
   },
-
-  /* ── Part3 ── */
   submitPart3Answer(answer) {
     var qIndex = this._session._groupViewIndex || 0;
     TOEIC.QuizEngine.submitPart3Question(this._session, qIndex, answer);
     this._renderCurrentQuestion();
   },
-
   nextPart3Question() {
     this._session._groupViewIndex = (this._session._groupViewIndex || 0) + 1;
     this._renderCurrentQuestion();
   },
-
-  /* ── Part4 ── */
   submitPart4Answer(answer) {
     var qIndex = this._session._groupViewIndex || 0;
     TOEIC.QuizEngine.submitPart4Question(this._session, qIndex, answer);
     this._renderCurrentQuestion();
   },
-
   nextPart4Question() {
     this._session._groupViewIndex = (this._session._groupViewIndex || 0) + 1;
     this._renderCurrentQuestion();
   },
-
-  /* ── Part5 ── */
   submitPart5Answer(answer) {
     TOEIC.QuizEngine.submitPart5(this._session, answer);
     this._renderCurrentQuestion();
   },
-
-  /* ── Part6 ── */
   submitPart6Blank(blankIndex, answer) {
     TOEIC.QuizEngine.submitPart6Blank(this._session, blankIndex, answer);
     this._renderCurrentQuestion();
   },
-
-  /* ── Part7 ── */
   submitPart7Answer(answer) {
     var qIndex = this._session._groupViewIndex || 0;
     TOEIC.QuizEngine.submitPart7Question(this._session, qIndex, answer);
     this._renderCurrentQuestion();
   },
-
   nextPart7Question() {
     this._session._groupViewIndex = (this._session._groupViewIndex || 0) + 1;
     this._renderCurrentQuestion();
   },
-
   nextQuestion() {
     this._session._groupViewIndex = 0;
     TOEIC.QuizEngine.next(this._session);
@@ -186,6 +208,5 @@ TOEIC.App = {
   }
 };
 
-document.addEventListener('DOMContentLoaded', function () {
-  TOEIC.App.init();
-});
+// ── Boot: start the auth gate ──
+window.ToeicAppGate.init();

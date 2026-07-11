@@ -1,0 +1,34 @@
+{
+  "name": "多益 TOEIC 練習室",
+  "short_name": "TOEIC練習",
+  "description": "TOEIC L&R 多益聽力與閱讀練習，含分軌題庫、弱點分析與錯題本",
+  "lang": "zh-Hant",
+  "dir": "ltr",
+  "start_url": "./?source=pwa",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0f1f30",
+  "theme_color": "#1a3a5c",
+  "categories": ["education"],
+  "icons": [
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
