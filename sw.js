@@ -2,8 +2,8 @@
 // TOEIC 練習室 Service Worker
 // Cache strategy: app shell cache-first, api network-only, data stale-while-revalidate
 // ============================================================
-var CACHE = 'toeic-shell-20260704-4';
-var VERSION = '20260704-4';
+var CACHE = 'toeic-shell-20260704-5';
+var VERSION = '20260704-5';
 
 var PRECACHE = [
   './',
